@@ -1,0 +1,505 @@
+country,region,year,type,value
+Egypt, Africa,2017,oil,27.7
+Other Africa, Africa,2017,oil,56
+South Africa, Africa,2017,oil,0.12
+Australia, Asia Pacific,2017,oil,5.31
+China, Asia Pacific,2017,oil,10.74
+India, Asia Pacific,2017,oil,10.07
+Indonesia, Asia Pacific,2017,oil,18.93
+Japan, Asia Pacific,2017,oil,65.72
+Malaysia, Asia Pacific,2017,oil,4.99
+Other Asia Pacific, Asia Pacific,2017,oil,72.36
+South Korea, Asia Pacific,2017,oil,13.13
+Taiwan, Asia Pacific,2017,oil,12.76
+Thailand, Asia Pacific,2017,oil,0.33
+Vietnam, Asia Pacific,2017,oil,0.74
+Kazakhstan, CIS,2017,oil,1.93
+Other CIS, CIS,2017,oil,1.8
+Russian Federation, CIS,2017,oil,10.68
+Germany, Europe,2017,oil,5.57
+Italy, Europe,2017,oil,11.53
+Netherlands, Europe,2017,oil,1.18
+Other Europe, Europe,2017,oil,21.61
+Poland, Europe,2017,oil,2.02
+Spain, Europe,2017,oil,15.77
+Turkey, Europe,2017,oil,1.2
+Ukraine, Europe,2017,oil,1.43
+United Kingdom, Europe,2017,oil,1.62
+Iran, Middle East,2017,oil,28.87
+Other Middle East, Middle East,2017,oil,134.79
+Saudi Arabia, Middle East,2017,oil,156.88
+United Arab Emirates, Middle East,2017,oil,1.59
+Canada, North America,2017,oil,3.21
+Mexico, North America,2017,oil,38.9
+US, North America,2017,oil,23
+Argentina, S. & Cent. America,2017,oil,11.61
+Brazil, S. & Cent. America,2017,oil,15.48
+Other S. & Cent. America, S. & Cent. America,2017,oil,80.45
+Egypt, Africa,2017,naturalgas,149.39
+Other Africa, Africa,2017,naturalgas,173.62
+South Africa, Africa,2017,naturalgas,1.88
+Australia, Asia Pacific,2017,naturalgas,55.18
+China, Asia Pacific,2017,naturalgas,202.8
+India, Asia Pacific,2017,naturalgas,73.46
+Indonesia, Asia Pacific,2017,naturalgas,55.71
+Japan, Asia Pacific,2017,naturalgas,401.45
+Malaysia, Asia Pacific,2017,naturalgas,65.09
+Other Asia Pacific, Asia Pacific,2017,naturalgas,201.6
+South Korea, Asia Pacific,2017,naturalgas,127.98
+Taiwan, Asia Pacific,2017,naturalgas,93.41
+Thailand, Asia Pacific,2017,naturalgas,121.04
+Vietnam, Asia Pacific,2017,naturalgas,44.36
+Kazakhstan, CIS,2017,naturalgas,19.75
+Other CIS, CIS,2017,naturalgas,127.46
+Russian Federation, CIS,2017,naturalgas,515.94
+Germany, Europe,2017,naturalgas,86.75
+Italy, Europe,2017,naturalgas,140.35
+Netherlands, Europe,2017,naturalgas,57.88
+Other Europe, Europe,2017,naturalgas,171.98
+Poland, Europe,2017,naturalgas,10.04
+Spain, Europe,2017,naturalgas,64.04
+Turkey, Europe,2017,naturalgas,110.49
+Ukraine, Europe,2017,naturalgas,9.14
+United Kingdom, Europe,2017,naturalgas,136.83
+Iran, Middle East,2017,naturalgas,251.17
+Other Middle East, Middle East,2017,naturalgas,232.29
+Saudi Arabia, Middle East,2017,naturalgas,225.07
+United Arab Emirates, Middle East,2017,naturalgas,132.42
+Canada, North America,2017,naturalgas,59.61
+Mexico, North America,2017,naturalgas,196.32
+US, North America,2017,naturalgas,1393.99
+Argentina, S. & Cent. America,2017,naturalgas,80.8
+Brazil, S. & Cent. America,2017,naturalgas,65.59
+Other S. & Cent. America, S. & Cent. America,2017,naturalgas,97.95
+Egypt, Africa,2017,coal,0
+Other Africa, Africa,2017,coal,27.42
+South Africa, Africa,2017,coal,221.36
+Australia, Asia Pacific,2017,coal,159.13
+China, Asia Pacific,2017,coal,4445.5
+India, Asia Pacific,2017,coal,1117.61
+Indonesia, Asia Pacific,2017,coal,147.96
+Japan, Asia Pacific,2017,coal,361.81
+Malaysia, Asia Pacific,2017,coal,67.74
+Other Asia Pacific, Asia Pacific,2017,coal,116.94
+South Korea, Asia Pacific,2017,coal,261.7
+Taiwan, Asia Pacific,2017,coal,125.93
+Thailand, Asia Pacific,2017,coal,35.73
+Vietnam, Asia Pacific,2017,coal,76.14
+Kazakhstan, CIS,2017,coal,69.86
+Other CIS, CIS,2017,coal,12.67
+Russian Federation, CIS,2017,coal,168.9
+Germany, Europe,2017,coal,241.93
+Italy, Europe,2017,coal,35.13
+Netherlands, Europe,2017,coal,31.28
+Other Europe, Europe,2017,coal,233.27
+Poland, Europe,2017,coal,133.81
+Spain, Europe,2017,coal,46.35
+Turkey, Europe,2017,coal,97.48
+Ukraine, Europe,2017,coal,46.73
+United Kingdom, Europe,2017,coal,22.53
+Iran, Middle East,2017,coal,0.49
+Other Middle East, Middle East,2017,coal,22.26
+Saudi Arabia, Middle East,2017,coal,0
+United Arab Emirates, Middle East,2017,coal,0
+Canada, North America,2017,coal,60.13
+Mexico, North America,2017,coal,30.86
+US, North America,2017,coal,1310
+Argentina, S. & Cent. America,2017,coal,2.03
+Brazil, S. & Cent. America,2017,coal,25.77
+Other S. & Cent. America, S. & Cent. America,2017,coal,49.68
+Egypt, Africa,2017,nuclear,0
+Other Africa, Africa,2017,nuclear,0
+South Africa, Africa,2017,nuclear,15.76
+Australia, Asia Pacific,2017,nuclear,0
+China, Asia Pacific,2017,nuclear,248.1
+India, Asia Pacific,2017,nuclear,37.41
+Indonesia, Asia Pacific,2017,nuclear,0
+Japan, Asia Pacific,2017,nuclear,29.07
+Malaysia, Asia Pacific,2017,nuclear,0
+Other Asia Pacific, Asia Pacific,2017,nuclear,8.37
+South Korea, Asia Pacific,2017,nuclear,148.43
+Taiwan, Asia Pacific,2017,nuclear,22.45
+Thailand, Asia Pacific,2017,nuclear,0
+Vietnam, Asia Pacific,2017,nuclear,0
+Kazakhstan, CIS,2017,nuclear,0
+Other CIS, CIS,2017,nuclear,2.62
+Russian Federation, CIS,2017,nuclear,203.15
+Germany, Europe,2017,nuclear,76.32
+Italy, Europe,2017,nuclear,0
+Netherlands, Europe,2017,nuclear,3.4
+Other Europe, Europe,2017,nuclear,642.37
+Poland, Europe,2017,nuclear,0
+Spain, Europe,2017,nuclear,58.11
+Turkey, Europe,2017,nuclear,0
+Ukraine, Europe,2017,nuclear,85.58
+United Kingdom, Europe,2017,nuclear,70.34
+Iran, Middle East,2017,nuclear,7.07
+Other Middle East, Middle East,2017,nuclear,0
+Saudi Arabia, Middle East,2017,nuclear,0
+United Arab Emirates, Middle East,2017,nuclear,0
+Canada, North America,2017,nuclear,100.41
+Mexico, North America,2017,nuclear,10.88
+US, North America,2017,nuclear,847.32
+Argentina, S. & Cent. America,2017,nuclear,6.09
+Brazil, S. & Cent. America,2017,nuclear,15.74
+Other S. & Cent. America, S. & Cent. America,2017,nuclear,0
+Egypt, Africa,2017,hydroelectric,13.41
+Other Africa, Africa,2017,hydroelectric,110.3
+South Africa, Africa,2017,hydroelectric,0.87
+Australia, Asia Pacific,2017,hydroelectric,13.53
+China, Asia Pacific,2017,hydroelectric,1165.07
+India, Asia Pacific,2017,hydroelectric,135.67
+Indonesia, Asia Pacific,2017,hydroelectric,18.63
+Japan, Asia Pacific,2017,hydroelectric,79.24
+Malaysia, Asia Pacific,2017,hydroelectric,23.09
+Other Asia Pacific, Asia Pacific,2017,hydroelectric,130.38
+South Korea, Asia Pacific,2017,hydroelectric,2.81
+Taiwan, Asia Pacific,2017,hydroelectric,5.45
+Thailand, Asia Pacific,2017,hydroelectric,4.69
+Vietnam, Asia Pacific,2017,hydroelectric,70.88
+Kazakhstan, CIS,2017,hydroelectric,11.18
+Other CIS, CIS,2017,hydroelectric,43.65
+Russian Federation, CIS,2017,hydroelectric,185.32
+Germany, Europe,2017,hydroelectric,20.15
+Italy, Europe,2017,hydroelectric,34.37
+Netherlands, Europe,2017,hydroelectric,0.06
+Other Europe, Europe,2017,hydroelectric,436.1
+Poland, Europe,2017,hydroelectric,2.56
+Spain, Europe,2017,hydroelectric,18.78
+Turkey, Europe,2017,hydroelectric,58.22
+Ukraine, Europe,2017,hydroelectric,8.71
+United Kingdom, Europe,2017,hydroelectric,5.93
+Iran, Middle East,2017,hydroelectric,17.23
+Other Middle East, Middle East,2017,hydroelectric,3.56
+Saudi Arabia, Middle East,2017,hydroelectric,0
+United Arab Emirates, Middle East,2017,hydroelectric,0
+Canada, North America,2017,hydroelectric,396.5
+Mexico, North America,2017,hydroelectric,31.85
+US, North America,2017,hydroelectric,296.81
+Argentina, S. & Cent. America,2017,hydroelectric,41.54
+Brazil, S. & Cent. America,2017,hydroelectric,370.91
+Other S. & Cent. America, S. & Cent. America,2017,hydroelectric,307.99
+Egypt, Africa,2017,renewables,2.71
+Other Africa, Africa,2017,renewables,13.56
+South Africa, Africa,2017,renewables,10.63
+Australia, Asia Pacific,2017,renewables,25.69
+China, Asia Pacific,2017,renewables,492.4
+India, Asia Pacific,2017,renewables,95.77
+Indonesia, Asia Pacific,2017,renewables,13.38
+Japan, Asia Pacific,2017,renewables,98.81
+Malaysia, Asia Pacific,2017,renewables,1.32
+Other Asia Pacific, Asia Pacific,2017,renewables,31.08
+South Korea, Asia Pacific,2017,renewables,17.57
+Taiwan, Asia Pacific,2017,renewables,5.28
+Thailand, Asia Pacific,2017,renewables,14.94
+Vietnam, Asia Pacific,2017,renewables,0.33
+Kazakhstan, CIS,2017,renewables,0.42
+Other CIS, CIS,2017,renewables,0.48
+Russian Federation, CIS,2017,renewables,1.14
+Germany, Europe,2017,renewables,196.19
+Italy, Europe,2017,renewables,67.7
+Netherlands, Europe,2017,renewables,17.37
+Other Europe, Europe,2017,renewables,220.38
+Poland, Europe,2017,renewables,21.56
+Spain, Europe,2017,renewables,69.53
+Turkey, Europe,2017,renewables,29.04
+Ukraine, Europe,2017,renewables,1.9
+United Kingdom, Europe,2017,renewables,93.4
+Iran, Middle East,2017,renewables,0.33
+Other Middle East, Middle East,2017,renewables,4.53
+Saudi Arabia, Middle East,2017,renewables,0.14
+United Arab Emirates, Middle East,2017,renewables,0.54
+Canada, North America,2017,renewables,42.08
+Mexico, North America,2017,renewables,19.13
+US, North America,2017,renewables,417.76
+Argentina, S. & Cent. America,2017,renewables,3.01
+Brazil, S. & Cent. America,2017,renewables,94.48
+Other S. & Cent. America, S. & Cent. America,2017,renewables,41.88
+Egypt, Africa,2017,others,0
+Other Africa, Africa,2017,others,0.43
+South Africa, Africa,2017,others,4.48
+Australia, Asia Pacific,2017,others,0.18
+China, Asia Pacific,2017,others,39.84
+India, Asia Pacific,2017,others,0.34
+Indonesia, Asia Pacific,2017,others,0
+Japan, Asia Pacific,2017,others,14.04
+Malaysia, Asia Pacific,2017,others,0.02
+Other Asia Pacific, Asia Pacific,2017,others,0.77
+South Korea, Asia Pacific,2017,others,4.79
+Taiwan, Asia Pacific,2017,others,5.01
+Thailand, Asia Pacific,2017,others,0
+Vietnam, Asia Pacific,2017,others,0
+Kazakhstan, CIS,2017,others,0
+Other CIS, CIS,2017,others,0.3
+Russian Federation, CIS,2017,others,4.44
+Germany, Europe,2017,others,26.74
+Italy, Europe,2017,others,6.75
+Netherlands, Europe,2017,others,6.08
+Other Europe, Europe,2017,others,31.89
+Poland, Europe,2017,others,0.47
+Spain, Europe,2017,others,3.06
+Turkey, Europe,2017,others,0.85
+Ukraine, Europe,2017,others,1.93
+United Kingdom, Europe,2017,others,8
+Iran, Middle East,2017,others,0
+Other Middle East, Middle East,2017,others,0.04
+Saudi Arabia, Middle East,2017,others,0
+United Arab Emirates, Middle East,2017,others,0
+Canada, North America,2017,others,0.79
+Mexico, North America,2017,others,1.14
+US, North America,2017,others,13.66
+Argentina, S. & Cent. America,2017,others,0.54
+Brazil, S. & Cent. America,2017,others,0
+Other S. & Cent. America, S. & Cent. America,2017,others,0.08
+Egypt, Africa,2018,oil,22.13
+Other Africa, Africa,2018,oil,55.34
+South Africa, Africa,2018,oil,0.12
+Australia, Asia Pacific,2018,oil,5.26
+China, Asia Pacific,2018,oil,10.74
+India, Asia Pacific,2018,oil,10.1
+Indonesia, Asia Pacific,2018,oil,20.2
+Japan, Asia Pacific,2018,oil,59.98
+Malaysia, Asia Pacific,2018,oil,2.33
+Other Asia Pacific, Asia Pacific,2018,oil,61.02
+South Korea, Asia Pacific,2018,oil,9.07
+Taiwan, Asia Pacific,2018,oil,8.43
+Thailand, Asia Pacific,2018,oil,0.18
+Vietnam, Asia Pacific,2018,oil,0.74
+Kazakhstan, CIS,2018,oil,1.72
+Other CIS, CIS,2018,oil,0.52
+Russian Federation, CIS,2018,oil,11.42
+Germany, Europe,2018,oil,5.2
+Italy, Europe,2018,oil,10.87
+Netherlands, Europe,2018,oil,0.61
+Other Europe, Europe,2018,oil,19.82
+Poland, Europe,2018,oil,1.22
+Spain, Europe,2018,oil,15.55
+Turkey, Europe,2018,oil,0.58
+Ukraine, Europe,2018,oil,0.52
+United Kingdom, Europe,2018,oil,1.68
+Iran, Middle East,2018,oil,23.02
+Other Middle East, Middle East,2018,oil,135.71
+Saudi Arabia, Middle East,2018,oil,150.59
+United Arab Emirates, Middle East,2018,oil,1.59
+Canada, North America,2018,oil,3.17
+Mexico, North America,2018,oil,36.75
+US, North America,2018,oil,26.42
+Argentina, S. & Cent. America,2018,oil,6.41
+Brazil, S. & Cent. America,2018,oil,11.53
+Other S. & Cent. America, S. & Cent. America,2018,oil,72.24
+Egypt, Africa,2018,naturalgas,160.9
+Other Africa, Africa,2018,naturalgas,176.59
+South Africa, Africa,2018,naturalgas,1.85
+Australia, Asia Pacific,2018,naturalgas,50.24
+China, Asia Pacific,2018,naturalgas,223.6
+India, Asia Pacific,2018,naturalgas,74.31
+Indonesia, Asia Pacific,2018,naturalgas,59.58
+Japan, Asia Pacific,2018,naturalgas,386.9
+Malaysia, Asia Pacific,2018,naturalgas,66.36
+Other Asia Pacific, Asia Pacific,2018,naturalgas,208.96
+South Korea, Asia Pacific,2018,naturalgas,160.44
+Taiwan, Asia Pacific,2018,naturalgas,94.77
+Thailand, Asia Pacific,2018,naturalgas,116.27
+Vietnam, Asia Pacific,2018,naturalgas,44.33
+Kazakhstan, CIS,2018,naturalgas,24.18
+Other CIS, CIS,2018,naturalgas,140.41
+Russian Federation, CIS,2018,naturalgas,521.49
+Germany, Europe,2018,naturalgas,83
+Italy, Europe,2018,naturalgas,127.23
+Netherlands, Europe,2018,naturalgas,57.32
+Other Europe, Europe,2018,naturalgas,158.5
+Poland, Europe,2018,naturalgas,12.37
+Spain, Europe,2018,naturalgas,57.2
+Turkey, Europe,2018,naturalgas,92.17
+Ukraine, Europe,2018,naturalgas,12.05
+United Kingdom, Europe,2018,naturalgas,131.48
+Iran, Middle East,2018,naturalgas,269.1
+Other Middle East, Middle East,2018,naturalgas,241.95
+Saudi Arabia, Middle East,2018,naturalgas,233.03
+United Arab Emirates, Middle East,2018,naturalgas,134.38
+Canada, North America,2018,naturalgas,58.74
+Mexico, North America,2018,naturalgas,196.65
+US, North America,2018,naturalgas,1578.51
+Argentina, S. & Cent. America,2018,naturalgas,85.27
+Brazil, S. & Cent. America,2018,naturalgas,46.79
+Other S. & Cent. America, S. & Cent. America,2018,naturalgas,95.81
+Egypt, Africa,2018,coal,0
+Other Africa, Africa,2018,coal,30.96
+South Africa, Africa,2018,coal,224.96
+Australia, Asia Pacific,2018,coal,156.56
+China, Asia Pacific,2018,coal,4732.45
+India, Asia Pacific,2018,coal,1176.26
+Indonesia, Asia Pacific,2018,coal,156.36
+Japan, Asia Pacific,2018,coal,347.19
+Malaysia, Asia Pacific,2018,coal,74.09
+Other Asia Pacific, Asia Pacific,2018,coal,137.54
+South Korea, Asia Pacific,2018,coal,261.3
+Taiwan, Asia Pacific,2018,coal,126.61
+Thailand, Asia Pacific,2018,coal,35.8
+Vietnam, Asia Pacific,2018,coal,86.66
+Kazakhstan, CIS,2018,coal,70.18
+Other CIS, CIS,2018,coal,11.33
+Russian Federation, CIS,2018,coal,177.48
+Germany, Europe,2018,coal,229
+Italy, Europe,2018,coal,36.57
+Netherlands, Europe,2018,coal,30.03
+Other Europe, Europe,2018,coal,217.83
+Poland, Europe,2018,coal,134.69
+Spain, Europe,2018,coal,38.4
+Turkey, Europe,2018,coal,111.72
+Ukraine, Europe,2018,coal,47.66
+United Kingdom, Europe,2018,coal,16.84
+Iran, Middle East,2018,coal,0.49
+Other Middle East, Middle East,2018,coal,20.8
+Saudi Arabia, Middle East,2018,coal,0
+United Arab Emirates, Middle East,2018,coal,0
+Canada, North America,2018,coal,59.26
+Mexico, North America,2018,coal,29.21
+US, North America,2018,coal,1245.79
+Argentina, S. & Cent. America,2018,coal,2.04
+Brazil, S. & Cent. America,2018,coal,21.9
+Other S. & Cent. America, S. & Cent. America,2018,coal,52.59
+Egypt, Africa,2018,nuclear,0
+Other Africa, Africa,2018,nuclear,0
+South Africa, Africa,2018,nuclear,11.09
+Australia, Asia Pacific,2018,nuclear,0
+China, Asia Pacific,2018,nuclear,294.36
+India, Asia Pacific,2018,nuclear,39.05
+Indonesia, Asia Pacific,2018,nuclear,0
+Japan, Asia Pacific,2018,nuclear,49.11
+Malaysia, Asia Pacific,2018,nuclear,0
+Other Asia Pacific, Asia Pacific,2018,nuclear,9.88
+South Korea, Asia Pacific,2018,nuclear,133.51
+Taiwan, Asia Pacific,2018,nuclear,27.68
+Thailand, Asia Pacific,2018,nuclear,0
+Vietnam, Asia Pacific,2018,nuclear,0
+Kazakhstan, CIS,2018,nuclear,0
+Other CIS, CIS,2018,nuclear,2.08
+Russian Federation, CIS,2018,nuclear,204.5
+Germany, Europe,2018,nuclear,76.1
+Italy, Europe,2018,nuclear,0
+Netherlands, Europe,2018,nuclear,3.49
+Other Europe, Europe,2018,nuclear,652.79
+Poland, Europe,2018,nuclear,0
+Spain, Europe,2018,nuclear,55.64
+Turkey, Europe,2018,nuclear,0
+Ukraine, Europe,2018,nuclear,84.4
+United Kingdom, Europe,2018,nuclear,65.06
+Iran, Middle East,2018,nuclear,7
+Other Middle East, Middle East,2018,nuclear,0
+Saudi Arabia, Middle East,2018,nuclear,0
+United Arab Emirates, Middle East,2018,nuclear,0
+Canada, North America,2018,nuclear,100.04
+Mexico, North America,2018,nuclear,13.59
+US, North America,2018,nuclear,849.56
+Argentina, S. & Cent. America,2018,nuclear,6.87
+Brazil, S. & Cent. America,2018,nuclear,15.63
+Other S. & Cent. America, S. & Cent. America,2018,nuclear,0
+Egypt, Africa,2018,hydroelectric,13.48
+Other Africa, Africa,2018,hydroelectric,118.44
+South Africa, Africa,2018,hydroelectric,0.91
+Australia, Asia Pacific,2018,hydroelectric,17.27
+China, Asia Pacific,2018,hydroelectric,1202.43
+India, Asia Pacific,2018,hydroelectric,139.67
+Indonesia, Asia Pacific,2018,hydroelectric,16.41
+Japan, Asia Pacific,2018,hydroelectric,81
+Malaysia, Asia Pacific,2018,hydroelectric,24.18
+Other Asia Pacific, Asia Pacific,2018,hydroelectric,141.87
+South Korea, Asia Pacific,2018,hydroelectric,2.92
+Taiwan, Asia Pacific,2018,hydroelectric,4.47
+Thailand, Asia Pacific,2018,hydroelectric,7.6
+Vietnam, Asia Pacific,2018,hydroelectric,80.71
+Kazakhstan, CIS,2018,hydroelectric,10.33
+Other CIS, CIS,2018,hydroelectric,44.3
+Russian Federation, CIS,2018,hydroelectric,190.21
+Germany, Europe,2018,hydroelectric,16.9
+Italy, Europe,2018,hydroelectric,45.85
+Netherlands, Europe,2018,hydroelectric,0.07
+Other Europe, Europe,2018,hydroelectric,467.19
+Poland, Europe,2018,hydroelectric,1.97
+Spain, Europe,2018,hydroelectric,35.2
+Turkey, Europe,2018,hydroelectric,59.52
+Ukraine, Europe,2018,hydroelectric,9.9
+United Kingdom, Europe,2018,hydroelectric,5.46
+Iran, Middle East,2018,hydroelectric,10.77
+Other Middle East, Middle East,2018,hydroelectric,4.42
+Saudi Arabia, Middle East,2018,hydroelectric,0
+United Arab Emirates, Middle East,2018,hydroelectric,0
+Canada, North America,2018,hydroelectric,387.25
+Mexico, North America,2018,hydroelectric,32.4
+US, North America,2018,hydroelectric,288.71
+Argentina, S. & Cent. America,2018,hydroelectric,41.65
+Brazil, S. & Cent. America,2018,hydroelectric,387.69
+Other S. & Cent. America, S. & Cent. America,2018,hydroelectric,301.97
+Egypt, Africa,2018,renewables,3.47
+Other Africa, Africa,2018,renewables,16.04
+South Africa, Africa,2018,renewables,12.36
+Australia, Asia Pacific,2018,renewables,31.89
+China, Asia Pacific,2018,renewables,634.22
+India, Asia Pacific,2018,renewables,121.5
+Indonesia, Asia Pacific,2018,renewables,14.75
+Japan, Asia Pacific,2018,renewables,112.13
+Malaysia, Asia Pacific,2018,renewables,1.46
+Other Asia Pacific, Asia Pacific,2018,renewables,33.39
+South Korea, Asia Pacific,2018,renewables,21.93
+Taiwan, Asia Pacific,2018,renewables,6.43
+Thailand, Asia Pacific,2018,renewables,17.8
+Vietnam, Asia Pacific,2018,renewables,0.47
+Kazakhstan, CIS,2018,renewables,0.66
+Other CIS, CIS,2018,renewables,0.62
+Russian Federation, CIS,2018,renewables,1.26
+Germany, Europe,2018,renewables,209.19
+Italy, Europe,2018,renewables,66.02
+Netherlands, Europe,2018,renewables,18.63
+Other Europe, Europe,2018,renewables,231.05
+Poland, Europe,2018,renewables,19.48
+Spain, Europe,2018,renewables,70.74
+Turkey, Europe,2018,renewables,37.7
+Ukraine, Europe,2018,renewables,2.63
+United Kingdom, Europe,2018,renewables,105.62
+Iran, Middle East,2018,renewables,0.42
+Other Middle East, Middle East,2018,renewables,5.91
+Saudi Arabia, Middle East,2018,renewables,0.15
+United Arab Emirates, Middle East,2018,renewables,0.95
+Canada, North America,2018,renewables,45.3
+Mexico, North America,2018,renewables,21.35
+US, North America,2018,renewables,458.52
+Argentina, S. & Cent. America,2018,renewables,3.82
+Brazil, S. & Cent. America,2018,renewables,104.51
+Other S. & Cent. America, S. & Cent. America,2018,renewables,47.99
+Egypt, Africa,2018,others,0
+Other Africa, Africa,2018,others,0.36
+South Africa, Africa,2018,others,4.7
+Australia, Asia Pacific,2018,others,0.18
+China, Asia Pacific,2018,others,13.96
+India, Asia Pacific,2018,others,0.21
+Indonesia, Asia Pacific,2018,others,0
+Japan, Asia Pacific,2018,others,15.31
+Malaysia, Asia Pacific,2018,others,0.02
+Other Asia Pacific, Asia Pacific,2018,others,0.89
+South Korea, Asia Pacific,2018,others,5.1
+Taiwan, Asia Pacific,2018,others,5.21
+Thailand, Asia Pacific,2018,others,0
+Vietnam, Asia Pacific,2018,others,0
+Kazakhstan, CIS,2018,others,0
+Other CIS, CIS,2018,others,0.29
+Russian Federation, CIS,2018,others,4.39
+Germany, Europe,2018,others,29.31
+Italy, Europe,2018,others,4.08
+Netherlands, Europe,2018,others,7.37
+Other Europe, Europe,2018,others,32.3
+Poland, Europe,2018,others,0.42
+Spain, Europe,2018,others,2.3
+Turkey, Europe,2018,others,0.82
+Ukraine, Europe,2018,others,2.19
+United Kingdom, Europe,2018,others,7.76
+Iran, Middle East,2018,others,0
+Other Middle East, Middle East,2018,others,0.06
+Saudi Arabia, Middle East,2018,others,0
+United Arab Emirates, Middle East,2018,others,0
+Canada, North America,2018,others,0.59
+Mexico, North America,2018,others,2.19
+US, North America,2018,others,13.27
+Argentina, S. & Cent. America,2018,others,0.54
+Brazil, S. & Cent. America,2018,others,0
+Other S. & Cent. America, S. & Cent. America,2018,others,0

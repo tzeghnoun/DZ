@@ -1,0 +1,1616 @@
+country,type,year,inter_reg
+US,Pipeline imports,2000,96.91
+US,LNG imports,2000,6.53
+US,Total imports,2000,103.44
+US,Pipeline exports,2000,4.84
+US,LNG exports,2000,1.7
+US,Total exports,2000,6.54
+Other North America,Pipeline imports,2000,4.84
+Other North America,LNG imports,2000,0
+Other North America,Total imports,2000,4.84
+Other North America,Pipeline exports,2000,96.91
+Other North America,LNG exports,2000,0
+Other North America,Total exports,2000,96.91
+Brazil,Pipeline imports,2000,2.09
+Brazil,LNG imports,2000,0
+Brazil,Total imports,2000,2.09
+Brazil,LNG exports,2000,0
+Brazil,Total exports,2000,0
+Other S&C America,LNG imports,2000,0.34
+Other S&C America,Total imports,2000,0.34
+Other S&C America,Pipeline exports,2000,2.09
+Other S&C America,LNG exports,2000,4.02
+Other S&C America,Total exports,2000,6.11
+Europe,Pipeline imports,2000,223.31
+Europe,of which: Russia,2000,190.16
+Europe,Africa,2000,33.14
+Europe,Other CIS,2000,0
+Europe,Middle East,2000,0
+Europe,LNG imports,2000,32.86
+Europe,Total imports,2000,256.17
+Europe,LNG exports,2000,0
+Europe,Total exports,2000,0.12
+Russia,Pipeline imports,2000,38.15
+Russia,Total imports,2000,38.15
+Russia,Pipeline exports,2000,209.28
+Russia,of which: Europe,2000,190.16
+Russia,Other CIS,2000,19.12
+Russia,LNG exports,2000,0
+Russia,Total exports,2000,209.28
+Other CIS,Pipeline imports,2000,19.24
+Other CIS,Total imports,2000,19.24
+Other CIS,Pipeline exports,2000,40.92
+Other CIS,of which: China,2000,0
+Other CIS,Europe,2000,0
+Other CIS,Middle East,2000,2.77
+Other CIS,Russia,2000,38.15
+Other CIS,Total exports,2000,40.92
+Middle East,Pipeline imports,2000,2.77
+Middle East,of which: Africa,2000,0
+Middle East,Other CIS,2000,2.77
+Middle East,LNG imports,2000,0
+Middle East,Total imports,2000,2.77
+Middle East,Pipeline exports,2000,0
+Middle East,LNG exports,2000,24.57
+Middle East,Total exports,2000,24.57
+Africa,LNG imports,2000,0
+Africa,Total imports,2000,0
+Africa,Pipeline exports,2000,33.14
+Africa,of which: Europe,2000,33.14
+Africa,Middle East,2000,0
+Africa,LNG exports,2000,32.91
+Africa,Total exports,2000,66.06
+China,Pipeline imports,2000,0
+China,of which: Other Asia,2000,0
+China,Other CIS,2000,0
+China,LNG imports,2000,0
+China,Total imports,2000,0
+India,LNG imports,2000,0
+India,Total imports,2000,0
+India,LNG exports,2000,0
+India,Total exports,2000,0
+OECD Asia,Pipeline imports,2000,0
+OECD Asia,LNG imports,2000,94.57
+OECD Asia,Total imports,2000,94.57
+OECD Asia,LNG exports,2000,10.26
+OECD Asia,Total exports,2000,10.26
+Other Asia,LNG imports,2000,6.18
+Other Asia,Total imports,2000,6.18
+Other Asia,Pipeline exports,2000,0
+Other Asia,of which: China,2000,0
+Other Asia,OECD Asia,2000,0
+Other Asia,LNG exports,2000,67.02
+Other Asia,Total exports,2000,67.02
+World,Inter-regional pipeline trade,2000,387.32
+World,LNG trade,2000,140.48
+World,Total trade,2000,527.79
+US,Pipeline imports,2001,101.9
+US,LNG imports,2001,6.9
+US,Total imports,2001,108.8
+US,Pipeline exports,2001,8.37
+US,LNG exports,2001,1.75
+US,Total exports,2001,10.12
+Other North America,Pipeline imports,2001,8.37
+Other North America,LNG imports,2001,0
+Other North America,Total imports,2001,8.37
+Other North America,Pipeline exports,2001,101.9
+Other North America,LNG exports,2001,0
+Other North America,Total exports,2001,101.9
+Brazil,Pipeline imports,2001,4.36
+Brazil,LNG imports,2001,0
+Brazil,Total imports,2001,4.36
+Brazil,LNG exports,2001,0
+Brazil,Total exports,2001,0
+Other S&C America,LNG imports,2001,0.66
+Other S&C America,Total imports,2001,0.66
+Other S&C America,Pipeline exports,2001,4.36
+Other S&C America,LNG exports,2001,3.82
+Other S&C America,Total exports,2001,8.18
+Europe,Pipeline imports,2001,213.6
+Europe,of which: Russia,2001,184.58
+Europe,Africa,2001,29.02
+Europe,Other CIS,2001,0
+Europe,Middle East,2001,0
+Europe,LNG imports,2001,34.26
+Europe,Total imports,2001,247.86
+Europe,LNG exports,2001,0
+Europe,Total exports,2001,0
+Russia,Pipeline imports,2001,36.66
+Russia,Total imports,2001,36.66
+Russia,Pipeline exports,2001,204.19
+Russia,of which: Europe,2001,184.58
+Russia,Other CIS,2001,19.62
+Russia,LNG exports,2001,0
+Russia,Total exports,2001,204.19
+Other CIS,Pipeline imports,2001,19.62
+Other CIS,Total imports,2001,19.62
+Other CIS,Pipeline exports,2001,41.05
+Other CIS,of which: China,2001,0
+Other CIS,Europe,2001,0
+Other CIS,Middle East,2001,4.4
+Other CIS,Russia,2001,36.66
+Other CIS,Total exports,2001,41.05
+Middle East,Pipeline imports,2001,4.4
+Middle East,of which: Africa,2001,0
+Middle East,Other CIS,2001,4.4
+Middle East,LNG imports,2001,0
+Middle East,Total imports,2001,4.4
+Middle East,Pipeline exports,2001,0
+Middle East,LNG exports,2001,32.92
+Middle East,Total exports,2001,32.92
+Africa,LNG imports,2001,0
+Africa,Total imports,2001,0
+Africa,Pipeline exports,2001,29.02
+Africa,of which: Europe,2001,29.02
+Africa,Middle East,2001,0
+Africa,LNG exports,2001,34.9
+Africa,Total exports,2001,63.93
+China,Pipeline imports,2001,0
+China,of which: Other Asia,2001,0
+China,Other CIS,2001,0
+China,LNG imports,2001,0
+China,Total imports,2001,0
+India,LNG imports,2001,0
+India,Total imports,2001,0
+India,LNG exports,2001,0
+India,Total exports,2001,0
+OECD Asia,Pipeline imports,2001,0
+OECD Asia,LNG imports,2001,98.85
+OECD Asia,Total imports,2001,98.85
+OECD Asia,LNG exports,2001,10.41
+OECD Asia,Total exports,2001,10.41
+Other Asia,LNG imports,2001,6.59
+Other Asia,Total imports,2001,6.59
+Other Asia,Pipeline exports,2001,0
+Other Asia,of which: China,2001,0
+Other Asia,OECD Asia,2001,0
+Other Asia,LNG exports,2001,63.47
+Other Asia,Total exports,2001,63.47
+World,Inter-regional pipeline trade,2001,388.9
+World,LNG trade,2001,147.26
+World,Total trade,2001,536.17
+US,Pipeline imports,2002,103.21
+US,LNG imports,2002,6.78
+US,Total imports,2002,109.99
+US,Pipeline exports,2002,12.33
+US,LNG exports,2002,1.78
+US,Total exports,2002,14.11
+Other North America,Pipeline imports,2002,12.33
+Other North America,LNG imports,2002,0
+Other North America,Total imports,2002,12.33
+Other North America,Pipeline exports,2002,103.21
+Other North America,LNG exports,2002,0
+Other North America,Total exports,2002,103.21
+Brazil,Pipeline imports,2002,4.99
+Brazil,LNG imports,2002,0
+Brazil,Total imports,2002,4.99
+Brazil,LNG exports,2002,0
+Brazil,Total exports,2002,0
+Other S&C America,LNG imports,2002,0.66
+Other S&C America,Total imports,2002,0.66
+Other S&C America,Pipeline exports,2002,4.99
+Other S&C America,LNG exports,2002,5.53
+Other S&C America,Total exports,2002,10.52
+Europe,Pipeline imports,2002,219.06
+Europe,of which: Russia,2002,189.07
+Europe,Africa,2002,29.34
+Europe,Other CIS,2002,0
+Europe,Middle East,2002,0.65
+Europe,LNG imports,2002,40.74
+Europe,Total imports,2002,259.8
+Europe,LNG exports,2002,0
+Europe,Total exports,2002,0.03
+Russia,Pipeline imports,2002,39.92
+Russia,Total imports,2002,39.92
+Russia,Pipeline exports,2002,208.68
+Russia,of which: Europe,2002,189.07
+Russia,Other CIS,2002,19.61
+Russia,LNG exports,2002,0
+Russia,Total exports,2002,208.68
+Other CIS,Pipeline imports,2002,19.64
+Other CIS,Total imports,2002,19.64
+Other CIS,Pipeline exports,2002,45.05
+Other CIS,of which: China,2002,0
+Other CIS,Europe,2002,0
+Other CIS,Middle East,2002,5.13
+Other CIS,Russia,2002,39.92
+Other CIS,Total exports,2002,45.05
+Middle East,Pipeline imports,2002,5.13
+Middle East,of which: Africa,2002,0
+Middle East,Other CIS,2002,5.13
+Middle East,LNG imports,2002,0
+Middle East,Total imports,2002,5.13
+Middle East,Pipeline exports,2002,0.65
+Middle East,LNG exports,2002,35.24
+Middle East,Total exports,2002,35.89
+Africa,LNG imports,2002,0
+Africa,Total imports,2002,0
+Africa,Pipeline exports,2002,29.34
+Africa,of which: Europe,2002,29.34
+Africa,Middle East,2002,0
+Africa,LNG exports,2002,36.47
+Africa,Total exports,2002,65.81
+China,Pipeline imports,2002,0
+China,of which: Other Asia,2002,0
+China,Other CIS,2002,0
+China,LNG imports,2002,0
+China,Total imports,2002,0
+India,LNG imports,2002,0
+India,Total imports,2002,0
+India,LNG exports,2002,0
+India,Total exports,2002,0
+OECD Asia,Pipeline imports,2002,0
+OECD Asia,LNG imports,2002,100.38
+OECD Asia,Total imports,2002,100.38
+OECD Asia,LNG exports,2002,10.5
+OECD Asia,Total exports,2002,10.5
+Other Asia,LNG imports,2002,7.33
+Other Asia,Total imports,2002,7.33
+Other Asia,Pipeline exports,2002,0
+Other Asia,of which: China,2002,0
+Other Asia,OECD Asia,2002,0
+Other Asia,LNG exports,2002,66.37
+Other Asia,Total exports,2002,66.37
+World,Inter-regional pipeline trade,2002,404.28
+World,LNG trade,2002,155.89
+World,Total trade,2002,560.17
+US,Pipeline imports,2003,93.68
+US,LNG imports,2003,14.15
+US,Total imports,2003,107.83
+US,Pipeline exports,2003,16.73
+US,LNG exports,2003,1.7
+US,Total exports,2003,18.43
+Other North America,Pipeline imports,2003,16.73
+Other North America,LNG imports,2003,0
+Other North America,Total imports,2003,16.73
+Other North America,Pipeline exports,2003,93.68
+Other North America,LNG exports,2003,0
+Other North America,Total exports,2003,93.68
+Brazil,Pipeline imports,2003,5.63
+Brazil,LNG imports,2003,0
+Brazil,Total imports,2003,5.63
+Brazil,LNG exports,2003,0
+Brazil,Total exports,2003,0
+Other S&C America,LNG imports,2003,1.09
+Other S&C America,Total imports,2003,1.09
+Other S&C America,Pipeline exports,2003,5.63
+Other S&C America,LNG exports,2003,11.67
+Other S&C America,Total exports,2003,17.29
+Europe,Pipeline imports,2003,226.23
+Europe,of which: Russia,2003,193.02
+Europe,Africa,2003,29.79
+Europe,Other CIS,2003,0
+Europe,Middle East,2003,3.41
+Europe,LNG imports,2003,41.13
+Europe,Total imports,2003,267.36
+Europe,LNG exports,2003,0
+Europe,Total exports,2003,0
+Russia,Pipeline imports,2003,41.11
+Russia,Total imports,2003,41.11
+Russia,Pipeline exports,2003,212.64
+Russia,of which: Europe,2003,193.02
+Russia,Other CIS,2003,19.62
+Russia,LNG exports,2003,0
+Russia,Total exports,2003,212.64
+Other CIS,Pipeline imports,2003,19.62
+Other CIS,Total imports,2003,19.62
+Other CIS,Pipeline exports,2003,46.26
+Other CIS,of which: China,2003,0
+Other CIS,Europe,2003,0
+Other CIS,Middle East,2003,5.15
+Other CIS,Russia,2003,41.11
+Other CIS,Total exports,2003,46.26
+Middle East,Pipeline imports,2003,5.15
+Middle East,of which: Africa,2003,0
+Middle East,Other CIS,2003,5.15
+Middle East,LNG imports,2003,0
+Middle East,Total imports,2003,5.15
+Middle East,Pipeline exports,2003,3.41
+Middle East,LNG exports,2003,36.36
+Middle East,Total exports,2003,39.77
+Africa,LNG imports,2003,0
+Africa,Total imports,2003,0
+Africa,Pipeline exports,2003,29.79
+Africa,of which: Europe,2003,29.79
+Africa,Middle East,2003,0
+Africa,LNG exports,2003,41.65
+Africa,Total exports,2003,71.44
+China,Pipeline imports,2003,0
+China,of which: Other Asia,2003,0
+China,Other CIS,2003,0
+China,LNG imports,2003,0
+China,Total imports,2003,0
+India,LNG imports,2003,0
+India,Total imports,2003,0
+India,LNG exports,2003,0
+India,Total exports,2003,0
+OECD Asia,Pipeline imports,2003,0
+OECD Asia,LNG imports,2003,107.76
+OECD Asia,Total imports,2003,107.76
+OECD Asia,LNG exports,2003,10.65
+OECD Asia,Total exports,2003,10.65
+Other Asia,LNG imports,2003,7.83
+Other Asia,Total imports,2003,7.83
+Other Asia,Pipeline exports,2003,0
+Other Asia,of which: China,2003,0
+Other Asia,OECD Asia,2003,0
+Other Asia,LNG exports,2003,69.94
+Other Asia,Total exports,2003,69.94
+World,Inter-regional pipeline trade,2003,408.15
+World,LNG trade,2003,171.95
+World,Total trade,2003,580.1
+US,Pipeline imports,2004,98.3
+US,LNG imports,2004,18.21
+US,Total imports,2004,116.51
+US,Pipeline exports,2004,21.58
+US,LNG exports,2004,1.7
+US,Total exports,2004,23.28
+Other North America,Pipeline imports,2004,21.58
+Other North America,LNG imports,2004,0
+Other North America,Total imports,2004,21.58
+Other North America,Pipeline exports,2004,98.3
+Other North America,LNG exports,2004,0
+Other North America,Total exports,2004,98.3
+Brazil,Pipeline imports,2004,7.65
+Brazil,LNG imports,2004,0
+Brazil,Total imports,2004,7.65
+Brazil,LNG exports,2004,0
+Brazil,Total exports,2004,0
+Other S&C America,LNG imports,2004,0.9
+Other S&C America,Total imports,2004,0.9
+Other S&C America,Pipeline exports,2004,7.65
+Other S&C America,LNG exports,2004,13.71
+Other S&C America,Total exports,2004,21.36
+Europe,Pipeline imports,2004,245.84
+Europe,of which: Russia,2004,208.7
+Europe,Africa,2004,33.7
+Europe,Other CIS,2004,0
+Europe,Middle East,2004,3.44
+Europe,LNG imports,2004,40.06
+Europe,Total imports,2004,285.9
+Europe,LNG exports,2004,0.02
+Europe,Total exports,2004,0.02
+Russia,Pipeline imports,2004,47.77
+Russia,Total imports,2004,47.77
+Russia,Pipeline exports,2004,230.91
+Russia,of which: Europe,2004,208.7
+Russia,Other CIS,2004,22.21
+Russia,LNG exports,2004,0
+Russia,Total exports,2004,230.91
+Other CIS,Pipeline imports,2004,22.21
+Other CIS,Total imports,2004,22.21
+Other CIS,Pipeline exports,2004,53.21
+Other CIS,of which: China,2004,0
+Other CIS,Europe,2004,0
+Other CIS,Middle East,2004,5.44
+Other CIS,Russia,2004,47.77
+Other CIS,Total exports,2004,53.21
+Middle East,Pipeline imports,2004,6.73
+Middle East,of which: Africa,2004,1.29
+Middle East,Other CIS,2004,5.44
+Middle East,LNG imports,2004,0
+Middle East,Total imports,2004,6.73
+Middle East,Pipeline exports,2004,3.44
+Middle East,LNG exports,2004,42.46
+Middle East,Total exports,2004,45.9
+Africa,LNG imports,2004,0
+Africa,Total imports,2004,0
+Africa,Pipeline exports,2004,34.99
+Africa,of which: Europe,2004,33.7
+Africa,Middle East,2004,1.29
+Africa,LNG exports,2004,38.86
+Africa,Total exports,2004,73.85
+China,Pipeline imports,2004,0
+China,of which: Other Asia,2004,0
+China,Other CIS,2004,0
+China,LNG imports,2004,0
+China,Total imports,2004,0
+India,LNG imports,2004,2.75
+India,Total imports,2004,2.75
+India,LNG exports,2004,0
+India,Total exports,2004,0
+OECD Asia,Pipeline imports,2004,0
+OECD Asia,LNG imports,2004,109.19
+OECD Asia,Total imports,2004,109.19
+OECD Asia,LNG exports,2004,12.19
+OECD Asia,Total exports,2004,12.19
+Other Asia,LNG imports,2004,9.56
+Other Asia,Total imports,2004,9.56
+Other Asia,Pipeline exports,2004,0
+Other Asia,of which: China,2004,0
+Other Asia,OECD Asia,2004,0
+Other Asia,LNG exports,2004,71.73
+Other Asia,Total exports,2004,71.73
+World,Inter-regional pipeline trade,2004,450.08
+World,LNG trade,2004,180.67
+World,Total trade,2004,630.75
+US,Pipeline imports,2005,101.11
+US,LNG imports,2005,17.57
+US,Total imports,2005,118.68
+US,Pipeline exports,2005,18.08
+US,LNG exports,2005,1.93
+US,Total exports,2005,20
+Other North America,Pipeline imports,2005,18.08
+Other North America,LNG imports,2005,0
+Other North America,Total imports,2005,18.08
+Other North America,Pipeline exports,2005,101.11
+Other North America,LNG exports,2005,0
+Other North America,Total exports,2005,101.11
+Brazil,Pipeline imports,2005,8.52
+Brazil,LNG imports,2005,0
+Brazil,Total imports,2005,8.52
+Brazil,LNG exports,2005,0
+Brazil,Total exports,2005,0
+Other S&C America,LNG imports,2005,0.96
+Other S&C America,Total imports,2005,0.96
+Other S&C America,Pipeline exports,2005,8.52
+Other S&C America,LNG exports,2005,13.64
+Other S&C America,Total exports,2005,22.15
+Europe,Pipeline imports,2005,262.93
+Europe,of which: Russia,2005,216.46
+Europe,Africa,2005,42.29
+Europe,Other CIS,2005,0
+Europe,Middle East,2005,4.18
+Europe,LNG imports,2005,49.81
+Europe,Total imports,2005,312.74
+Europe,LNG exports,2005,0.07
+Europe,Total exports,2005,0.07
+Russia,Pipeline imports,2005,50.25
+Russia,Total imports,2005,50.25
+Russia,Pipeline exports,2005,239.14
+Russia,of which: Europe,2005,216.46
+Russia,Other CIS,2005,22.68
+Russia,LNG exports,2005,0
+Russia,Total exports,2005,239.14
+Other CIS,Pipeline imports,2005,22.68
+Other CIS,Total imports,2005,22.68
+Other CIS,Pipeline exports,2005,56.32
+Other CIS,of which: China,2005,0
+Other CIS,Europe,2005,0
+Other CIS,Middle East,2005,6.07
+Other CIS,Russia,2005,50.25
+Other CIS,Total exports,2005,56.32
+Middle East,Pipeline imports,2005,6.69
+Middle East,of which: Africa,2005,0.62
+Middle East,Other CIS,2005,6.07
+Middle East,LNG imports,2005,0
+Middle East,Total imports,2005,6.69
+Middle East,Pipeline exports,2005,4.18
+Middle East,LNG exports,2005,45.15
+Middle East,Total exports,2005,49.33
+Africa,LNG imports,2005,0
+Africa,Total imports,2005,0
+Africa,Pipeline exports,2005,42.91
+Africa,of which: Europe,2005,42.29
+Africa,Middle East,2005,0.62
+Africa,LNG exports,2005,47.34
+Africa,Total exports,2005,90.25
+China,Pipeline imports,2005,0
+China,of which: Other Asia,2005,0
+China,Other CIS,2005,0
+China,LNG imports,2005,0
+China,Total imports,2005,0
+India,LNG imports,2005,6.32
+India,Total imports,2005,6.32
+India,LNG exports,2005,0
+India,Total exports,2005,0
+OECD Asia,Pipeline imports,2005,0
+OECD Asia,LNG imports,2005,110.66
+OECD Asia,Total imports,2005,110.66
+OECD Asia,LNG exports,2005,15.46
+OECD Asia,Total exports,2005,15.46
+Other Asia,LNG imports,2005,9.81
+Other Asia,Total imports,2005,9.81
+Other Asia,Pipeline exports,2005,0
+Other Asia,of which: China,2005,0
+Other Asia,OECD Asia,2005,0
+Other Asia,LNG exports,2005,71.57
+Other Asia,Total exports,2005,71.57
+World,Inter-regional pipeline trade,2005,470.26
+World,LNG trade,2005,195.14
+World,Total trade,2005,665.4
+US,Pipeline imports,2006,98.19
+US,LNG imports,2006,16.21
+US,Total imports,2006,114.4
+US,Pipeline exports,2006,18.07
+US,LNG exports,2006,1.62
+US,Total exports,2006,19.69
+Other North America,Pipeline imports,2006,18.07
+Other North America,LNG imports,2006,0.98
+Other North America,Total imports,2006,19.05
+Other North America,Pipeline exports,2006,98.19
+Other North America,LNG exports,2006,0
+Other North America,Total exports,2006,98.19
+Brazil,Pipeline imports,2006,9.26
+Brazil,LNG imports,2006,0
+Brazil,Total imports,2006,9.26
+Brazil,LNG exports,2006,0
+Brazil,Total exports,2006,0
+Other S&C America,LNG imports,2006,1.02
+Other S&C America,Total imports,2006,1.02
+Other S&C America,Pipeline exports,2006,9.26
+Other S&C America,LNG exports,2006,16.28
+Other S&C America,Total exports,2006,25.55
+Europe,Pipeline imports,2006,260.78
+Europe,of which: Russia,2006,212.49
+Europe,Africa,2006,42.77
+Europe,Other CIS,2006,0.02
+Europe,Middle East,2006,5.5
+Europe,LNG imports,2006,58.98
+Europe,Total imports,2006,319.76
+Europe,LNG exports,2006,0
+Europe,Total exports,2006,0
+Russia,Pipeline imports,2006,55.55
+Russia,Total imports,2006,55.55
+Russia,Pipeline exports,2006,240.41
+Russia,of which: Europe,2006,212.49
+Russia,Other CIS,2006,27.92
+Russia,LNG exports,2006,0
+Russia,Total exports,2006,240.41
+Other CIS,Pipeline imports,2006,27.92
+Other CIS,Total imports,2006,27.92
+Other CIS,Pipeline exports,2006,61.68
+Other CIS,of which: China,2006,0
+Other CIS,Europe,2006,0.02
+Other CIS,Middle East,2006,6.11
+Other CIS,Russia,2006,55.55
+Other CIS,Total exports,2006,61.68
+Middle East,Pipeline imports,2006,8.58
+Middle East,of which: Africa,2006,2.47
+Middle East,Other CIS,2006,6.11
+Middle East,LNG imports,2006,0
+Middle East,Total imports,2006,8.58
+Middle East,Pipeline exports,2006,5.5
+Middle East,LNG exports,2006,52.96
+Middle East,Total exports,2006,58.46
+Africa,LNG imports,2006,0
+Africa,Total imports,2006,0
+Africa,Pipeline exports,2006,45.24
+Africa,of which: Europe,2006,42.77
+Africa,Middle East,2006,2.47
+Africa,LNG exports,2006,58.18
+Africa,Total exports,2006,103.42
+China,Pipeline imports,2006,0
+China,of which: Other Asia,2006,0
+China,Other CIS,2006,0
+China,LNG imports,2006,1.05
+China,Total imports,2006,1.05
+India,LNG imports,2006,8.36
+India,Total imports,2006,8.36
+India,LNG exports,2006,0
+India,Total exports,2006,0
+OECD Asia,Pipeline imports,2006,3.78
+OECD Asia,LNG imports,2006,120.09
+OECD Asia,Total imports,2006,123.88
+OECD Asia,LNG exports,2006,19.14
+OECD Asia,Total exports,2006,19.14
+Other Asia,LNG imports,2006,10.8
+Other Asia,Total imports,2006,10.8
+Other Asia,Pipeline exports,2006,3.78
+Other Asia,of which: China,2006,0
+Other Asia,OECD Asia,2006,3.78
+Other Asia,LNG exports,2006,69.32
+Other Asia,Total exports,2006,73.11
+World,Inter-regional pipeline trade,2006,482.14
+World,LNG trade,2006,217.49
+World,Total trade,2006,699.63
+US,Pipeline imports,2007,104.57
+US,LNG imports,2007,21.55
+US,Total imports,2007,126.12
+US,Pipeline exports,2007,21.09
+US,LNG exports,2007,1.24
+US,Total exports,2007,22.33
+Other North America,Pipeline imports,2007,21.09
+Other North America,LNG imports,2007,2.27
+Other North America,Total imports,2007,23.37
+Other North America,Pipeline exports,2007,104.57
+Other North America,LNG exports,2007,0
+Other North America,Total exports,2007,104.57
+Brazil,Pipeline imports,2007,9.78
+Brazil,LNG imports,2007,0
+Brazil,Total imports,2007,9.78
+Brazil,LNG exports,2007,0
+Brazil,Total exports,2007,0
+Other S&C America,LNG imports,2007,1.15
+Other S&C America,Total imports,2007,1.15
+Other S&C America,Pipeline exports,2007,9.78
+Other S&C America,LNG exports,2007,18.06
+Other S&C America,Total exports,2007,27.84
+Europe,Pipeline imports,2007,261.61
+Europe,of which: Russia,2007,213.93
+Europe,Africa,2007,40.93
+Europe,Other CIS,2007,0.8
+Europe,Middle East,2007,5.96
+Europe,LNG imports,2007,54.36
+Europe,Total imports,2007,315.97
+Europe,LNG exports,2007,0.16
+Europe,Total exports,2007,0.16
+Russia,Pipeline imports,2007,64.23
+Russia,Total imports,2007,64.23
+Russia,Pipeline exports,2007,238.82
+Russia,of which: Europe,2007,213.93
+Russia,Other CIS,2007,24.89
+Russia,LNG exports,2007,0
+Russia,Total exports,2007,238.82
+Other CIS,Pipeline imports,2007,24.89
+Other CIS,Total imports,2007,24.89
+Other CIS,Pipeline exports,2007,71.41
+Other CIS,of which: China,2007,0
+Other CIS,Europe,2007,0.8
+Other CIS,Middle East,2007,6.38
+Other CIS,Russia,2007,64.23
+Other CIS,Total exports,2007,71.41
+Middle East,Pipeline imports,2007,9.41
+Middle East,of which: Africa,2007,3.02
+Middle East,Other CIS,2007,6.38
+Middle East,LNG imports,2007,0
+Middle East,Total imports,2007,9.41
+Middle East,Pipeline exports,2007,5.96
+Middle East,LNG exports,2007,60.56
+Middle East,Total exports,2007,66.51
+Africa,LNG imports,2007,0
+Africa,Total imports,2007,0
+Africa,Pipeline exports,2007,43.95
+Africa,of which: Europe,2007,40.93
+Africa,Middle East,2007,3.02
+Africa,LNG exports,2007,63.15
+Africa,Total exports,2007,107.1
+China,Pipeline imports,2007,0
+China,of which: Other Asia,2007,0
+China,Other CIS,2007,0
+China,LNG imports,2007,4.05
+China,Total imports,2007,4.05
+India,LNG imports,2007,10.45
+India,Total imports,2007,10.45
+India,LNG exports,2007,0
+India,Total exports,2007,0
+OECD Asia,Pipeline imports,2007,5.16
+OECD Asia,LNG imports,2007,127.98
+OECD Asia,Total imports,2007,133.14
+OECD Asia,LNG exports,2007,20.9
+OECD Asia,Total exports,2007,20.9
+Other Asia,LNG imports,2007,11.43
+Other Asia,Total imports,2007,11.43
+Other Asia,Pipeline exports,2007,5.16
+Other Asia,of which: China,2007,0
+Other Asia,OECD Asia,2007,5.16
+Other Asia,LNG exports,2007,69.17
+Other Asia,Total exports,2007,74.33
+World,Inter-regional pipeline trade,2007,500.75
+World,LNG trade,2007,233.23
+World,Total trade,2007,733.98
+US,Pipeline imports,2008,99
+US,LNG imports,2008,9.74
+US,Total imports,2008,108.74
+US,Pipeline exports,2008,25.18
+US,LNG exports,2008,1.01
+US,Total exports,2008,26.2
+Other North America,Pipeline imports,2008,25.18
+Other North America,LNG imports,2008,3.78
+Other North America,Total imports,2008,28.96
+Other North America,Pipeline exports,2008,99
+Other North America,LNG exports,2008,0
+Other North America,Total exports,2008,99
+Brazil,Pipeline imports,2008,10.71
+Brazil,LNG imports,2008,0
+Brazil,Total imports,2008,10.71
+Brazil,LNG exports,2008,0
+Brazil,Total exports,2008,0
+Other S&C America,LNG imports,2008,1.77
+Other S&C America,Total imports,2008,1.77
+Other S&C America,Pipeline exports,2008,10.71
+Other S&C America,LNG exports,2008,18.24
+Other S&C America,Total exports,2008,28.95
+Europe,Pipeline imports,2008,276.1
+Europe,of which: Russia,2008,226.22
+Europe,Africa,2008,44.89
+Europe,Other CIS,2008,1.05
+Europe,Middle East,2008,3.94
+Europe,LNG imports,2008,57.41
+Europe,Total imports,2008,333.51
+Europe,LNG exports,2008,2.55
+Europe,Total exports,2008,2.55
+Russia,Pipeline imports,2008,74.45
+Russia,Total imports,2008,74.45
+Russia,Pipeline exports,2008,251.68
+Russia,of which: Europe,2008,226.22
+Russia,Other CIS,2008,25.46
+Russia,LNG exports,2008,0
+Russia,Total exports,2008,251.68
+Other CIS,Pipeline imports,2008,25.46
+Other CIS,Total imports,2008,25.46
+Other CIS,Pipeline exports,2008,82.32
+Other CIS,of which: China,2008,0
+Other CIS,Europe,2008,1.05
+Other CIS,Middle East,2008,6.82
+Other CIS,Russia,2008,74.45
+Other CIS,Total exports,2008,82.32
+Middle East,Pipeline imports,2008,10.69
+Middle East,of which: Africa,2008,3.86
+Middle East,Other CIS,2008,6.82
+Middle East,LNG imports,2008,0
+Middle East,Total imports,2008,10.69
+Middle East,Pipeline exports,2008,3.94
+Middle East,LNG exports,2008,60.67
+Middle East,Total exports,2008,64.62
+Africa,LNG imports,2008,0
+Africa,Total imports,2008,0
+Africa,Pipeline exports,2008,48.75
+Africa,of which: Europe,2008,44.89
+Africa,Middle East,2008,3.86
+Africa,LNG exports,2008,63.83
+Africa,Total exports,2008,112.58
+China,Pipeline imports,2008,0
+China,of which: Other Asia,2008,0
+China,Other CIS,2008,0
+China,LNG imports,2008,4.65
+China,Total imports,2008,4.65
+India,LNG imports,2008,11.29
+India,Total imports,2008,11.29
+India,LNG exports,2008,0
+India,Total exports,2008,0
+OECD Asia,Pipeline imports,2008,5.94
+OECD Asia,LNG imports,2008,133.61
+OECD Asia,Total imports,2008,139.55
+OECD Asia,LNG exports,2008,20.89
+OECD Asia,Total exports,2008,20.89
+Other Asia,LNG imports,2008,12.6
+Other Asia,Total imports,2008,12.6
+Other Asia,Pipeline exports,2008,5.94
+Other Asia,of which: China,2008,0
+Other Asia,OECD Asia,2008,5.94
+Other Asia,LNG exports,2008,67.67
+Other Asia,Total exports,2008,73.6
+World,Inter-regional pipeline trade,2008,527.52
+World,LNG trade,2008,234.85
+World,Total trade,2008,762.37
+US,Pipeline imports,2009,89.93
+US,LNG imports,2009,12.55
+US,Total imports,2009,102.48
+US,Pipeline exports,2009,28.32
+US,LNG exports,2009,0.82
+US,Total exports,2009,29.14
+Other North America,Pipeline imports,2009,28.32
+Other North America,LNG imports,2009,4.74
+Other North America,Total imports,2009,33.06
+Other North America,Pipeline exports,2009,89.93
+Other North America,LNG exports,2009,0
+Other North America,Total exports,2009,89.93
+Brazil,Pipeline imports,2009,7.67
+Brazil,LNG imports,2009,0.42
+Brazil,Total imports,2009,8.09
+Brazil,LNG exports,2009,0
+Brazil,Total exports,2009,0
+Other S&C America,LNG imports,2009,3.07
+Other S&C America,Total imports,2009,3.07
+Other S&C America,Pipeline exports,2009,7.67
+Other S&C America,LNG exports,2009,19.47
+Other S&C America,Total exports,2009,27.14
+Europe,Pipeline imports,2009,218.35
+Europe,of which: Russia,2009,167.42
+Europe,Africa,2009,39.32
+Europe,Other CIS,2009,6.58
+Europe,Middle East,2009,5.03
+Europe,LNG imports,2009,70.48
+Europe,Total imports,2009,288.82
+Europe,LNG exports,2009,3.37
+Europe,Total exports,2009,3.37
+Russia,Pipeline imports,2009,38.5
+Russia,Total imports,2009,38.5
+Russia,Pipeline exports,2009,189.64
+Russia,of which: Europe,2009,167.42
+Russia,Other CIS,2009,22.23
+Russia,LNG exports,2009,6.84
+Russia,Total exports,2009,196.48
+Other CIS,Pipeline imports,2009,22.66
+Other CIS,Total imports,2009,22.66
+Other CIS,Pipeline exports,2009,51.51
+Other CIS,of which: China,2009,0
+Other CIS,Europe,2009,6.58
+Other CIS,Middle East,2009,6.42
+Other CIS,Russia,2009,38.5
+Other CIS,Total exports,2009,51.51
+Middle East,Pipeline imports,2009,9.13
+Middle East,of which: Africa,2009,2.72
+Middle East,Other CIS,2009,6.42
+Middle East,LNG imports,2009,0.93
+Middle East,Total imports,2009,10.07
+Middle East,Pipeline exports,2009,5.46
+Middle East,LNG exports,2009,71.84
+Middle East,Total exports,2009,77.3
+Africa,LNG imports,2009,0
+Africa,Total imports,2009,0
+Africa,Pipeline exports,2009,42.03
+Africa,of which: Europe,2009,39.32
+Africa,Middle East,2009,2.72
+Africa,LNG exports,2009,55.95
+Africa,Total exports,2009,97.99
+China,Pipeline imports,2009,0
+China,of which: Other Asia,2009,0
+China,Other CIS,2009,0
+China,LNG imports,2009,8
+China,Total imports,2009,8
+India,LNG imports,2009,12.96
+India,Total imports,2009,12.96
+India,LNG exports,2009,0
+India,Total exports,2009,0
+OECD Asia,Pipeline imports,2009,5.97
+OECD Asia,LNG imports,2009,124.24
+OECD Asia,Total imports,2009,130.21
+OECD Asia,LNG exports,2009,25.13
+OECD Asia,Total exports,2009,25.13
+Other Asia,LNG imports,2009,12.35
+Other Asia,Total imports,2009,12.35
+Other Asia,Pipeline exports,2009,5.97
+Other Asia,of which: China,2009,0
+Other Asia,OECD Asia,2009,5.97
+Other Asia,LNG exports,2009,66.32
+Other Asia,Total exports,2009,72.29
+World,Inter-regional pipeline trade,2009,420.53
+World,LNG trade,2009,249.74
+World,Total trade,2009,670.27
+US,Pipeline imports,2010,90.21
+US,LNG imports,2010,12.11
+US,Total imports,2010,102.31
+US,Pipeline exports,2010,29.22
+US,LNG exports,2010,1.45
+US,Total exports,2010,30.67
+Other North America,Pipeline imports,2010,29.22
+Other North America,LNG imports,2010,8.09
+Other North America,Total imports,2010,37.31
+Other North America,Pipeline exports,2010,90.21
+Other North America,LNG exports,2010,0
+Other North America,Total exports,2010,90.21
+Brazil,Pipeline imports,2010,9.29
+Brazil,LNG imports,2010,2.8
+Brazil,Total imports,2010,12.09
+Brazil,LNG exports,2010,0
+Brazil,Total exports,2010,0
+Other S&C America,LNG imports,2010,6.37
+Other S&C America,Total imports,2010,6.37
+Other S&C America,Pipeline exports,2010,9.29
+Other S&C America,LNG exports,2010,21.44
+Other S&C America,Total exports,2010,30.74
+Europe,Pipeline imports,2010,224.77
+Europe,of which: Russia,2010,168.09
+Europe,Africa,2010,43.44
+Europe,Other CIS,2010,5.63
+Europe,Middle East,2010,7.6
+Europe,LNG imports,2010,89.15
+Europe,Total imports,2010,313.91
+Europe,LNG exports,2010,5.14
+Europe,Total exports,2010,5.14
+Russia,Pipeline imports,2010,33.39
+Russia,Total imports,2010,33.39
+Russia,Pipeline exports,2010,194
+Russia,of which: Europe,2010,168.09
+Russia,Other CIS,2010,25.91
+Russia,LNG exports,2010,13.48
+Russia,Total exports,2010,207.48
+Other CIS,Pipeline imports,2010,26.47
+Other CIS,Total imports,2010,26.47
+Other CIS,Pipeline exports,2010,51.09
+Other CIS,of which: China,2010,3.41
+Other CIS,Europe,2010,5.63
+Other CIS,Middle East,2010,8.65
+Other CIS,Russia,2010,33.39
+Other CIS,Total exports,2010,51.09
+Middle East,Pipeline imports,2010,13.37
+Middle East,of which: Africa,2010,4.72
+Middle East,Other CIS,2010,8.65
+Middle East,LNG imports,2010,3
+Middle East,Total imports,2010,16.37
+Middle East,Pipeline exports,2010,8.17
+Middle East,LNG exports,2010,103.78
+Middle East,Total exports,2010,111.95
+Africa,LNG imports,2010,0
+Africa,Total imports,2010,0
+Africa,Pipeline exports,2010,48.16
+Africa,of which: Europe,2010,43.44
+Africa,Middle East,2010,4.72
+Africa,LNG exports,2010,58.77
+Africa,Total exports,2010,106.93
+China,Pipeline imports,2010,3.41
+China,of which: Other Asia,2010,0
+China,Other CIS,2010,3.41
+China,LNG imports,2010,13.02
+China,Total imports,2010,16.43
+India,LNG imports,2010,11.53
+India,Total imports,2010,11.53
+India,LNG exports,2010,0
+India,Total exports,2010,0
+OECD Asia,Pipeline imports,2010,5.45
+OECD Asia,LNG imports,2010,141.36
+OECD Asia,Total imports,2010,146.81
+OECD Asia,LNG exports,2010,25.84
+OECD Asia,Total exports,2010,25.84
+Other Asia,LNG imports,2010,14.97
+Other Asia,Total imports,2010,14.97
+Other Asia,Pipeline exports,2010,5.45
+Other Asia,of which: China,2010,0
+Other Asia,OECD Asia,2010,5.45
+Other Asia,LNG exports,2010,72.48
+Other Asia,Total exports,2010,77.94
+World,Inter-regional pipeline trade,2010,435.58
+World,LNG trade,2010,302.39
+World,Total trade,2010,737.97
+US,Pipeline imports,2011,85.03
+US,LNG imports,2011,9.86
+US,Total imports,2011,94.88
+US,Pipeline exports,2011,39.13
+US,LNG exports,2011,1.75
+US,Total exports,2011,40.88
+Other North America,Pipeline imports,2011,39.13
+Other North America,LNG imports,2011,6.99
+Other North America,Total imports,2011,46.11
+Other North America,Pipeline exports,2011,85.03
+Other North America,LNG exports,2011,0.08
+Other North America,Total exports,2011,85.11
+Brazil,Pipeline imports,2011,9.27
+Brazil,LNG imports,2011,0.67
+Brazil,Total imports,2011,9.94
+Brazil,LNG exports,2011,0
+Brazil,Total exports,2011,0
+Other S&C America,LNG imports,2011,9.25
+Other S&C America,Total imports,2011,9.25
+Other S&C America,Pipeline exports,2011,9.27
+Other S&C America,LNG exports,2011,23.4
+Other S&C America,Total exports,2011,32.67
+Europe,Pipeline imports,2011,234.36
+Europe,of which: Russia,2011,185.98
+Europe,Africa,2011,34.43
+Europe,Other CIS,2011,5.68
+Europe,Middle East,2011,8.27
+Europe,LNG imports,2011,89.22
+Europe,Total imports,2011,323.57
+Europe,LNG exports,2011,6.09
+Europe,Total exports,2011,6.09
+Russia,Pipeline imports,2011,41.15
+Russia,Total imports,2011,41.15
+Russia,Pipeline exports,2011,210.56
+Russia,of which: Europe,2011,185.98
+Russia,Other CIS,2011,24.58
+Russia,LNG exports,2011,14.31
+Russia,Total exports,2011,224.87
+Other CIS,Pipeline imports,2011,25.43
+Other CIS,Total imports,2011,25.43
+Other CIS,Pipeline exports,2011,71.83
+Other CIS,of which: China,2011,13.63
+Other CIS,Europe,2011,5.68
+Other CIS,Middle East,2011,11.36
+Other CIS,Russia,2011,41.15
+Other CIS,Total exports,2011,71.83
+Middle East,Pipeline imports,2011,13.01
+Middle East,of which: Africa,2011,1.64
+Middle East,Other CIS,2011,11.36
+Middle East,LNG imports,2011,4.43
+Middle East,Total imports,2011,17.44
+Middle East,Pipeline exports,2011,9.12
+Middle East,LNG exports,2011,128.74
+Middle East,Total exports,2011,137.85
+Africa,LNG imports,2011,0
+Africa,Total imports,2011,0
+Africa,Pipeline exports,2011,36.07
+Africa,of which: Europe,2011,34.43
+Africa,Middle East,2011,1.64
+Africa,LNG exports,2011,56.37
+Africa,Total exports,2011,92.44
+China,Pipeline imports,2011,13.63
+China,of which: Other Asia,2011,0
+China,Other CIS,2011,13.63
+China,LNG imports,2011,16.88
+China,Total imports,2011,30.51
+India,LNG imports,2011,17.35
+India,Total imports,2011,17.35
+India,LNG exports,2011,0
+India,Total exports,2011,0
+OECD Asia,Pipeline imports,2011,5.91
+OECD Asia,LNG imports,2011,156.29
+OECD Asia,Total imports,2011,162.2
+OECD Asia,LNG exports,2011,26.02
+OECD Asia,Total exports,2011,26.02
+Other Asia,LNG imports,2011,17.33
+Other Asia,Total imports,2011,17.33
+Other Asia,Pipeline exports,2011,5.91
+Other Asia,of which: China,2011,0
+Other Asia,OECD Asia,2011,5.91
+Other Asia,LNG exports,2011,71.51
+Other Asia,Total exports,2011,77.42
+World,Inter-regional pipeline trade,2011,466.91
+World,LNG trade,2011,328.26
+World,Total trade,2011,795.17
+US,Pipeline imports,2012,80.76
+US,LNG imports,2012,4.89
+US,Total imports,2012,85.65
+US,Pipeline exports,2012,45.27
+US,LNG exports,2012,0.78
+US,Total exports,2012,46.05
+Other North America,Pipeline imports,2012,45.27
+Other North America,LNG imports,2012,6.47
+Other North America,Total imports,2012,51.75
+Other North America,Pipeline exports,2012,80.76
+Other North America,LNG exports,2012,0
+Other North America,Total exports,2012,80.76
+Brazil,Pipeline imports,2012,9.54
+Brazil,LNG imports,2012,3.49
+Brazil,Total imports,2012,13.03
+Brazil,LNG exports,2012,0.54
+Brazil,Total exports,2012,0.54
+Other S&C America,LNG imports,2012,11.09
+Other S&C America,Total imports,2012,11.09
+Other S&C America,Pipeline exports,2012,9.54
+Other S&C America,LNG exports,2012,23.4
+Other S&C America,Total exports,2012,32.94
+Europe,Pipeline imports,2012,228.48
+Europe,of which: Russia,2012,177.05
+Europe,Africa,2012,38.48
+Europe,Other CIS,2012,4.74
+Europe,Middle East,2012,8.22
+Europe,LNG imports,2012,68.21
+Europe,Total imports,2012,296.69
+Europe,LNG exports,2012,8.12
+Europe,Total exports,2012,8.12
+Russia,Pipeline imports,2012,39.67
+Russia,Total imports,2012,39.67
+Russia,Pipeline exports,2012,201.5
+Russia,of which: Europe,2012,177.05
+Russia,Other CIS,2012,24.46
+Russia,LNG exports,2012,14.25
+Russia,Total exports,2012,215.76
+Other CIS,Pipeline imports,2012,25.2
+Other CIS,Total imports,2012,25.2
+Other CIS,Pipeline exports,2012,69.66
+Other CIS,of which: China,2012,20.77
+Other CIS,Europe,2012,4.74
+Other CIS,Middle East,2012,4.49
+Other CIS,Russia,2012,39.67
+Other CIS,Total exports,2012,69.66
+Middle East,Pipeline imports,2012,5.27
+Middle East,of which: Africa,2012,0.78
+Middle East,Other CIS,2012,4.49
+Middle East,LNG imports,2012,4.18
+Middle East,Total imports,2012,9.45
+Middle East,Pipeline exports,2012,8.96
+Middle East,LNG exports,2012,130.3
+Middle East,Total exports,2012,139.26
+Africa,LNG imports,2012,0
+Africa,Total imports,2012,0
+Africa,Pipeline exports,2012,39.26
+Africa,of which: Europe,2012,38.48
+Africa,Middle East,2012,0.78
+Africa,LNG exports,2012,54.25
+Africa,Total exports,2012,93.51
+China,Pipeline imports,2012,20.77
+China,of which: Other Asia,2012,0
+China,Other CIS,2012,20.77
+China,LNG imports,2012,20.07
+China,Total imports,2012,40.84
+India,LNG imports,2012,18.43
+India,Total imports,2012,18.43
+India,LNG exports,2012,0
+India,Total exports,2012,0
+OECD Asia,Pipeline imports,2012,5.38
+OECD Asia,LNG imports,2012,169.55
+OECD Asia,Total imports,2012,174.94
+OECD Asia,LNG exports,2012,28.29
+OECD Asia,Total exports,2012,28.29
+Other Asia,LNG imports,2012,18.5
+Other Asia,Total imports,2012,18.5
+Other Asia,Pipeline exports,2012,5.38
+Other Asia,of which: China,2012,0
+Other Asia,OECD Asia,2012,5.38
+Other Asia,LNG exports,2012,64.96
+Other Asia,Total exports,2012,70.34
+World,Inter-regional pipeline trade,2012,460.34
+World,LNG trade,2012,324.88
+World,Total trade,2012,785.23
+US,Pipeline imports,2013,75.95
+US,LNG imports,2013,2.68
+US,Total imports,2013,78.63
+US,Pipeline exports,2013,42.52
+US,LNG exports,2013,0.15
+US,Total exports,2013,42.67
+Other North America,Pipeline imports,2013,42.52
+Other North America,LNG imports,2013,8.76
+Other North America,Total imports,2013,51.28
+Other North America,Pipeline exports,2013,75.95
+Other North America,LNG exports,2013,0
+Other North America,Total exports,2013,75.95
+Brazil,Pipeline imports,2013,11.02
+Brazil,LNG imports,2013,5.24
+Brazil,Total imports,2013,16.26
+Brazil,LNG exports,2013,0.07
+Brazil,Total exports,2013,0.07
+Other S&C America,LNG imports,2013,12.9
+Other S&C America,Total imports,2013,12.9
+Other S&C America,Pipeline exports,2013,11.02
+Other S&C America,LNG exports,2013,24.09
+Other S&C America,Total exports,2013,35.11
+Europe,Pipeline imports,2013,234.08
+Europe,of which: Russia,2013,187.33
+Europe,Africa,2013,33.28
+Europe,Other CIS,2013,5.23
+Europe,Middle East,2013,8.25
+Europe,LNG imports,2013,51.75
+Europe,Total imports,2013,285.83
+Europe,LNG exports,2013,9
+Europe,Total exports,2013,9
+Russia,Pipeline imports,2013,32.92
+Russia,Total imports,2013,32.92
+Russia,Pipeline exports,2013,210.66
+Russia,of which: Europe,2013,187.33
+Russia,Other CIS,2013,23.33
+Russia,LNG exports,2013,14.55
+Russia,Total exports,2013,225.21
+Other CIS,Pipeline imports,2013,24.01
+Other CIS,Total imports,2013,24.01
+Other CIS,Pipeline exports,2013,69.51
+Other CIS,of which: China,2013,26.19
+Other CIS,Europe,2013,5.23
+Other CIS,Middle East,2013,5.17
+Other CIS,Russia,2013,32.92
+Other CIS,Total exports,2013,69.51
+Middle East,Pipeline imports,2013,6.28
+Middle East,of which: Africa,2013,1.11
+Middle East,Other CIS,2013,5.17
+Middle East,LNG imports,2013,4.32
+Middle East,Total imports,2013,10.59
+Middle East,Pipeline exports,2013,8.93
+Middle East,LNG exports,2013,135.22
+Middle East,Total exports,2013,144.15
+Africa,LNG imports,2013,0
+Africa,Total imports,2013,0
+Africa,Pipeline exports,2013,34.38
+Africa,of which: Europe,2013,33.28
+Africa,Middle East,2013,1.11
+Africa,LNG exports,2013,46.97
+Africa,Total exports,2013,81.35
+China,Pipeline imports,2013,26.39
+China,of which: Other Asia,2013,0.2
+China,Other CIS,2013,26.19
+China,LNG imports,2013,25.07
+China,Total imports,2013,51.46
+India,LNG imports,2013,17.96
+India,Total imports,2013,17.96
+India,LNG exports,2013,0
+India,Total exports,2013,0
+OECD Asia,Pipeline imports,2013,6.35
+OECD Asia,LNG imports,2013,175.73
+OECD Asia,Total imports,2013,182.08
+OECD Asia,LNG exports,2013,30.61
+OECD Asia,Total exports,2013,30.61
+Other Asia,LNG imports,2013,22.43
+Other Asia,Total imports,2013,22.43
+Other Asia,Pipeline exports,2013,6.55
+Other Asia,of which: China,2013,0.2
+Other Asia,OECD Asia,2013,6.35
+Other Asia,LNG exports,2013,66.18
+Other Asia,Total exports,2013,72.73
+World,Inter-regional pipeline trade,2013,459.52
+World,LNG trade,2013,326.84
+World,Total trade,2013,786.36
+US,Pipeline imports,2014,71.85
+US,LNG imports,2014,1.66
+US,Total imports,2014,73.5
+US,Pipeline exports,2014,40.42
+US,LNG exports,2014,0.43
+US,Total exports,2014,40.84
+Other North America,Pipeline imports,2014,40.42
+Other North America,LNG imports,2014,9.81
+Other North America,Total imports,2014,50.23
+Other North America,Pipeline exports,2014,71.85
+Other North America,LNG exports,2014,0
+Other North America,Total exports,2014,71.85
+Brazil,Pipeline imports,2014,11.4
+Brazil,LNG imports,2014,7.08
+Brazil,Total imports,2014,18.48
+Brazil,LNG exports,2014,0.18
+Brazil,Total exports,2014,0.18
+Other S&C America,LNG imports,2014,12.53
+Other S&C America,Total imports,2014,12.53
+Other S&C America,Pipeline exports,2014,11.4
+Other S&C America,LNG exports,2014,23.25
+Other S&C America,Total exports,2014,34.66
+Europe,Pipeline imports,2014,209.36
+Europe,of which: Russia,2014,163.96
+Europe,Africa,2014,29.09
+Europe,Other CIS,2014,7.64
+Europe,Middle East,2014,8.67
+Europe,LNG imports,2014,52.06
+Europe,Total imports,2014,261.42
+Europe,LNG exports,2014,13
+Europe,Total exports,2014,13
+Russia,Pipeline imports,2014,33.06
+Russia,Total imports,2014,33.06
+Russia,Pipeline exports,2014,189.6
+Russia,of which: Europe,2014,163.96
+Russia,Other CIS,2014,25.64
+Russia,LNG exports,2014,13.61
+Russia,Total exports,2014,203.21
+Other CIS,Pipeline imports,2014,26.3
+Other CIS,Total imports,2014,26.3
+Other CIS,Pipeline exports,2014,75.35
+Other CIS,of which: China,2014,27.38
+Other CIS,Europe,2014,7.64
+Other CIS,Middle East,2014,7.27
+Other CIS,Russia,2014,33.06
+Other CIS,Total exports,2014,75.35
+Middle East,Pipeline imports,2014,7.55
+Middle East,of which: Africa,2014,0.28
+Middle East,Other CIS,2014,7.27
+Middle East,LNG imports,2014,5.32
+Middle East,Total imports,2014,12.87
+Middle East,Pipeline exports,2014,9.33
+Middle East,LNG exports,2014,132.17
+Middle East,Total exports,2014,141.5
+Africa,LNG imports,2014,0
+Africa,Total imports,2014,0
+Africa,Pipeline exports,2014,29.37
+Africa,of which: Europe,2014,29.09
+Africa,Middle East,2014,0.28
+Africa,LNG exports,2014,49.45
+Africa,Total exports,2014,78.82
+China,Pipeline imports,2014,30.25
+China,of which: Other Asia,2014,2.87
+China,Other CIS,2014,27.38
+China,LNG imports,2014,27.27
+China,Total imports,2014,57.52
+India,LNG imports,2014,19.15
+India,Total imports,2014,19.15
+India,LNG exports,2014,0
+India,Total exports,2014,0
+OECD Asia,Pipeline imports,2014,5.91
+OECD Asia,LNG imports,2014,173.57
+OECD Asia,Total imports,2014,179.48
+OECD Asia,LNG exports,2014,32.19
+OECD Asia,Total exports,2014,32.19
+Other Asia,LNG imports,2014,25.19
+Other Asia,Total imports,2014,25.19
+Other Asia,Pipeline exports,2014,8.79
+Other Asia,of which: China,2014,2.87
+Other Asia,OECD Asia,2014,5.91
+Other Asia,LNG exports,2014,69.34
+Other Asia,Total exports,2014,78.13
+World,Inter-regional pipeline trade,2014,436.1
+World,LNG trade,2014,333.63
+World,Total trade,2014,769.73
+US,Pipeline imports,2015,71.59
+US,LNG imports,2015,2.54
+US,Total imports,2015,74.13
+US,Pipeline exports,2015,47.23
+US,LNG exports,2015,0.69
+US,Total exports,2015,47.92
+Other North America,Pipeline imports,2015,47.23
+Other North America,LNG imports,2015,7.43
+Other North America,Total imports,2015,54.66
+Other North America,Pipeline exports,2015,71.59
+Other North America,LNG exports,2015,0.01
+Other North America,Total exports,2015,71.6
+Brazil,Pipeline imports,2015,11.22
+Brazil,LNG imports,2015,6.77
+Brazil,Total imports,2015,17.99
+Brazil,LNG exports,2015,0
+Brazil,Total exports,2015,0
+Other S&C America,LNG imports,2015,12.14
+Other S&C America,Total imports,2015,12.14
+Other S&C America,Pipeline exports,2015,11.22
+Other S&C America,LNG exports,2015,21.36
+Other S&C America,Total exports,2015,32.59
+Europe,Pipeline imports,2015,214.93
+Europe,of which: Russia,2015,169.37
+Europe,Africa,2015,29.89
+Europe,Other CIS,2015,8.14
+Europe,Middle East,2015,7.53
+Europe,LNG imports,2015,56.03
+Europe,Total imports,2015,270.96
+Europe,LNG exports,2015,11.01
+Europe,Total exports,2015,11.01
+Russia,Pipeline imports,2015,26.52
+Russia,Total imports,2015,26.52
+Russia,Pipeline exports,2015,194.22
+Russia,of which: Europe,2015,169.37
+Russia,Other CIS,2015,24.85
+Russia,LNG exports,2015,14.62
+Russia,Total exports,2015,208.84
+Other CIS,Pipeline imports,2015,25.41
+Other CIS,Total imports,2015,25.41
+Other CIS,Pipeline exports,2015,72.6
+Other CIS,of which: China,2015,28.66
+Other CIS,Europe,2015,8.14
+Other CIS,Middle East,2015,9.28
+Other CIS,Russia,2015,26.52
+Other CIS,Total exports,2015,72.6
+Middle East,Pipeline imports,2015,9.58
+Middle East,of which: Africa,2015,0.3
+Middle East,Other CIS,2015,9.28
+Middle East,LNG imports,2015,9.82
+Middle East,Total imports,2015,19.39
+Middle East,Pipeline exports,2015,8.08
+Middle East,LNG exports,2015,125.45
+Middle East,Total exports,2015,133.53
+Africa,LNG imports,2015,3.91
+Africa,Total imports,2015,3.91
+Africa,Pipeline exports,2015,30.19
+Africa,of which: Europe,2015,29.89
+Africa,Middle East,2015,0.3
+Africa,LNG exports,2015,48.48
+Africa,Total exports,2015,78.67
+China,Pipeline imports,2015,32.43
+China,of which: Other Asia,2015,3.77
+China,Other CIS,2015,28.66
+China,LNG imports,2015,27
+China,Total imports,2015,59.43
+India,LNG imports,2015,20.03
+India,Total imports,2015,20.03
+India,LNG exports,2015,0.37
+India,Total exports,2015,0.37
+OECD Asia,Pipeline imports,2015,6.73
+OECD Asia,LNG imports,2015,161.65
+OECD Asia,Total imports,2015,168.38
+OECD Asia,LNG exports,2015,40.1
+OECD Asia,Total exports,2015,40.1
+Other Asia,LNG imports,2015,29.78
+Other Asia,Total imports,2015,29.78
+Other Asia,Pipeline exports,2015,10.5
+Other Asia,of which: China,2015,3.77
+Other Asia,OECD Asia,2015,6.73
+Other Asia,LNG exports,2015,75
+Other Asia,Total exports,2015,85.51
+World,Inter-regional pipeline trade,2015,445.63
+World,LNG trade,2015,337.1
+World,Total trade,2015,782.73
+US,Pipeline imports,2016,79.53
+US,LNG imports,2016,2.44
+US,Total imports,2016,81.97
+US,Pipeline exports,2016,58.65
+US,LNG exports,2016,4.02
+US,Total exports,2016,62.67
+Other North America,Pipeline imports,2016,58.65
+Other North America,LNG imports,2016,5.86
+Other North America,Total imports,2016,64.51
+Other North America,Pipeline exports,2016,79.53
+Other North America,LNG exports,2016,0.03
+Other North America,Total exports,2016,79.56
+Brazil,Pipeline imports,2016,9.81
+Brazil,LNG imports,2016,2.63
+Brazil,Total imports,2016,12.44
+Brazil,LNG exports,2016,0.57
+Brazil,Total exports,2016,0.57
+Other S&C America,LNG imports,2016,12.56
+Other S&C America,Total imports,2016,12.56
+Other S&C America,Pipeline exports,2016,9.81
+Other S&C America,LNG exports,2016,19.84
+Other S&C America,Total exports,2016,29.65
+Europe,Pipeline imports,2016,230.52
+Europe,of which: Russia,2016,176.34
+Europe,Africa,2016,38.58
+Europe,Other CIS,2016,8.18
+Europe,Middle East,2016,7.42
+Europe,LNG imports,2016,56.5
+Europe,Total imports,2016,287.01
+Europe,LNG exports,2016,10.63
+Europe,Total exports,2016,10.63
+Russia,Pipeline imports,2016,24.28
+Russia,Total imports,2016,24.28
+Russia,Pipeline exports,2016,202.04
+Russia,of which: Europe,2016,176.34
+Russia,Other CIS,2016,25.69
+Russia,LNG exports,2016,14.62
+Russia,Total exports,2016,216.65
+Other CIS,Pipeline imports,2016,26.25
+Other CIS,Total imports,2016,26.25
+Other CIS,Pipeline exports,2016,72.79
+Other CIS,of which: China,2016,33.02
+Other CIS,Europe,2016,8.18
+Other CIS,Middle East,2016,7.32
+Other CIS,Russia,2016,24.28
+Other CIS,Total exports,2016,72.79
+Middle East,Pipeline imports,2016,7.32
+Middle East,of which: Africa,2016,0
+Middle East,Other CIS,2016,7.32
+Middle East,LNG imports,2016,13.74
+Middle East,Total imports,2016,21.06
+Middle East,Pipeline exports,2016,7.97
+Middle East,LNG exports,2016,125.97
+Middle East,Total exports,2016,133.94
+Africa,LNG imports,2016,10.71
+Africa,Total imports,2016,10.71
+Africa,Pipeline exports,2016,38.58
+Africa,of which: Europe,2016,38.58
+Africa,Middle East,2016,0
+Africa,LNG exports,2016,46.31
+Africa,Total exports,2016,84.9
+China,Pipeline imports,2016,36.76
+China,of which: Other Asia,2016,3.74
+China,Other CIS,2016,33.02
+China,LNG imports,2016,36.76
+China,Total imports,2016,73.52
+India,LNG imports,2016,24.29
+India,Total imports,2016,24.29
+India,LNG exports,2016,0.08
+India,Total exports,2016,0.08
+OECD Asia,Pipeline imports,2016,6.49
+OECD Asia,LNG imports,2016,159.87
+OECD Asia,Total imports,2016,166.36
+OECD Asia,LNG exports,2016,60.48
+OECD Asia,Total exports,2016,60.48
+Other Asia,LNG imports,2016,32.98
+Other Asia,Total imports,2016,32.98
+Other Asia,Pipeline exports,2016,10.23
+Other Asia,of which: China,2016,3.74
+Other Asia,OECD Asia,2016,6.49
+Other Asia,LNG exports,2016,75.81
+Other Asia,Total exports,2016,86.04
+World,Inter-regional pipeline trade,2016,479.61
+World,LNG trade,2016,358.34
+World,Total trade,2016,837.95
+US,Pipeline imports,2017,80.79
+US,LNG imports,2017,2.16
+US,Total imports,2017,82.95
+US,Pipeline exports,2017,66.07
+US,LNG exports,2017,17.19
+US,Total exports,2017,83.26
+Other North America,Pipeline imports,2017,66.07
+Other North America,LNG imports,2017,7
+Other North America,Total imports,2017,73.07
+Other North America,Pipeline exports,2017,80.79
+Other North America,LNG exports,2017,0.04
+Other North America,Total exports,2017,80.84
+Brazil,Pipeline imports,2017,8.41
+Brazil,LNG imports,2017,1.71
+Brazil,Total imports,2017,10.12
+Brazil,LNG exports,2017,0.21
+Brazil,Total exports,2017,0.21
+Other S&C America,LNG imports,2017,11.74
+Other S&C America,Total imports,2017,11.74
+Other S&C America,Pipeline exports,2017,8.41
+Other S&C America,LNG exports,2017,19.06
+Other S&C America,Total exports,2017,27.47
+Europe,Pipeline imports,2017,247.46
+Europe,of which: Russia,2017,192.98
+Europe,Africa,2017,37.48
+Europe,Other CIS,2017,8.09
+Europe,Middle East,2017,8.9
+Europe,LNG imports,2017,65.28
+Europe,Total imports,2017,312.73
+Europe,LNG exports,2017,7.95
+Europe,Total exports,2017,7.95
+Russia,Pipeline imports,2017,28.64
+Russia,Total imports,2017,28.64
+Russia,Pipeline exports,2017,219.73
+Russia,of which: Europe,2017,192.98
+Russia,Other CIS,2017,26.74
+Russia,LNG exports,2017,15.44
+Russia,Total exports,2017,235.17
+Other CIS,Pipeline imports,2017,28.82
+Other CIS,Total imports,2017,28.82
+Other CIS,Pipeline exports,2017,78.03
+Other CIS,of which: China,2017,36.66
+Other CIS,Europe,2017,8.09
+Other CIS,Middle East,2017,4.63
+Other CIS,Russia,2017,28.64
+Other CIS,Total exports,2017,78.03
+Middle East,Pipeline imports,2017,4.63
+Middle East,of which: Africa,2017,0
+Middle East,Other CIS,2017,4.63
+Middle East,LNG imports,2017,13.04
+Middle East,Total imports,2017,17.68
+Middle East,Pipeline exports,2017,10.98
+Middle East,LNG exports,2017,122.72
+Middle East,Total exports,2017,133.7
+Africa,LNG imports,2017,8.31
+Africa,Total imports,2017,8.31
+Africa,Pipeline exports,2017,37.48
+Africa,of which: Europe,2017,37.48
+Africa,Middle East,2017,0
+Africa,LNG exports,2017,55.83
+Africa,Total exports,2017,93.31
+China,Pipeline imports,2017,39.9
+China,of which: Other Asia,2017,3.24
+China,Other CIS,2017,36.66
+China,LNG imports,2017,52.93
+China,Total imports,2017,92.83
+India,LNG imports,2017,26.14
+India,Total imports,2017,26.14
+India,LNG exports,2017,0.1
+India,Total exports,2017,0.1
+OECD Asia,Pipeline imports,2017,5.81
+OECD Asia,LNG imports,2017,165.35
+OECD Asia,Total imports,2017,171.16
+OECD Asia,LNG exports,2017,76.82
+OECD Asia,Total exports,2017,76.82
+Other Asia,LNG imports,2017,40.21
+Other Asia,Total imports,2017,40.21
+Other Asia,Pipeline exports,2017,9.05
+Other Asia,of which: China,2017,3.24
+Other Asia,OECD Asia,2017,5.81
+Other Asia,LNG exports,2017,78.52
+Other Asia,Total exports,2017,87.56
+World,Inter-regional pipeline trade,2017,510.54
+World,LNG trade,2017,393.88
+World,Total trade,2017,904.42
+US,Pipeline imports,2018,77.34
+US,LNG imports,2018,2.12
+US,Total imports,2018,79.45
+US,Pipeline exports,2018,67.64
+US,LNG exports,2018,28.43
+US,Total exports,2018,96.07
+Other North America,Pipeline imports,2018,67.64
+Other North America,LNG imports,2018,7.5
+Other North America,Total imports,2018,75.15
+Other North America,Pipeline exports,2018,77.34
+Other North America,LNG exports,2018,0.05
+Other North America,Total exports,2018,77.39
+Brazil,Pipeline imports,2018,7.64
+Brazil,LNG imports,2018,2.87
+Brazil,Total imports,2018,10.51
+Brazil,LNG exports,2018,0.07
+Brazil,Total exports,2018,0.07
+Other S&C America,LNG imports,2018,11.6
+Other S&C America,Total imports,2018,11.6
+Other S&C America,Pipeline exports,2018,7.64
+Other S&C America,LNG exports,2018,21.54
+Other S&C America,Total exports,2018,29.18
+Europe,Pipeline imports,2018,249.07
+Europe,of which: Russia,2018,193.82
+Europe,Africa,2018,38.49
+Europe,Other CIS,2018,9.19
+Europe,Middle East,2018,7.57
+Europe,LNG imports,2018,71.52
+Europe,Total imports,2018,320.59
+Europe,LNG exports,2018,11.65
+Europe,Total exports,2018,11.65
+Russia,Pipeline imports,2018,25.17
+Russia,Total imports,2018,25.17
+Russia,Pipeline exports,2018,222.98
+Russia,of which: Europe,2018,193.82
+Russia,Other CIS,2018,29.16
+Russia,LNG exports,2018,24.94
+Russia,Total exports,2018,247.92
+Other CIS,Pipeline imports,2018,29.65
+Other CIS,Total imports,2018,29.65
+Other CIS,Pipeline exports,2018,81.38
+Other CIS,of which: China,2018,45.04
+Other CIS,Europe,2018,9.19
+Other CIS,Middle East,2018,1.98
+Other CIS,Russia,2018,25.17
+Other CIS,Total exports,2018,81.38
+Middle East,Pipeline imports,2018,2.13
+Middle East,of which: Africa,2018,0.15
+Middle East,Other CIS,2018,1.98
+Middle East,LNG imports,2018,9.37
+Middle East,Total imports,2018,11.5
+Middle East,Pipeline exports,2018,8.06
+Middle East,LNG exports,2018,125.83
+Middle East,Total exports,2018,133.88
+Africa,LNG imports,2018,3.17
+Africa,Total imports,2018,3.17
+Africa,Pipeline exports,2018,38.64
+Africa,of which: Europe,2018,38.49
+Africa,Middle East,2018,0.15
+Africa,LNG exports,2018,53.95
+Africa,Total exports,2018,92.59
+China,Pipeline imports,2018,47.89
+China,of which: Other Asia,2018,2.85
+China,Other CIS,2018,45.04
+China,LNG imports,2018,73.45
+China,Total imports,2018,121.34
+India,LNG imports,2018,30.6
+India,Total imports,2018,30.6
+India,LNG exports,2018,0
+India,Total exports,2018,0
+OECD Asia,Pipeline imports,2018,5.87
+OECD Asia,LNG imports,2018,173.19
+OECD Asia,Total imports,2018,179.05
+OECD Asia,LNG exports,2018,91.9
+OECD Asia,Total exports,2018,91.9
+Other Asia,LNG imports,2018,45.59
+Other Asia,Total imports,2018,45.59
+Other Asia,Pipeline exports,2018,8.72
+Other Asia,of which: China,2018,2.85
+Other Asia,OECD Asia,2018,5.87
+Other Asia,LNG exports,2018,72.61
+Other Asia,Total exports,2018,81.33
+World,Inter-regional pipeline trade,2018,512.39
+World,LNG trade,2018,430.97
+World,Total trade,2018,943.36

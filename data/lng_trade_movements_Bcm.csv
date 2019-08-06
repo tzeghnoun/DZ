@@ -1,0 +1,320 @@
+from,To,value
+US,Mexico,4.9
+US,North America,4.9
+US,Argentina,0.74
+US,Brazil,0.68
+US,Chile,1.07
+US,Other S. & Cent. America,0.52
+US,S. & Cent. America,3.01
+US,France,0.49
+US,Italy,0.47
+US,Spain,0.3
+US,Turkey,0.42
+US,United Kingdom,1.17
+US,Other EU,1.06
+US,Europe,3.9
+US,Egypt,0.18
+US,Kuwait,0.27
+US,United Arab Emirates,0.1
+US,Other Middle East & Africa,1.13
+US,Middle East & Africa,1.67
+US,China,2.98
+US,India,1.32
+US,Japan,3.4
+US,Pakistan,0.35
+US,Singapore,0.1
+US,South Korea,6.45
+US,Taiwan,0.35
+US,Asia Pacific,14.95
+Peru,Mexico,0.09
+Peru,North America,0.09
+Peru,France,0.33
+Peru,Spain,1.74
+Peru,United Kingdom,0.06
+Peru,Other EU,0.32
+Peru,Europe,2.44
+Peru,China,0.09
+Peru,Japan,0.76
+Peru,South Korea,1.3
+Peru,Taiwan,0.08
+Peru,Asia Pacific,2.23
+Tobago,Canada,0.43
+Tobago,Mexico,0.27
+Tobago,US,1.81
+Tobago,North America,2.52
+Tobago,Argentina,0.59
+Tobago,Brazil,0.78
+Tobago,Chile,2.5
+Tobago,Other S. & Cent. America,3.19
+Tobago,S. & Cent. America,7.06
+Tobago,France,0.08
+Tobago,Spain,2.18
+Tobago,Turkey,0.4
+Tobago,United Kingdom,0.79
+Tobago,Other EU,0.25
+Tobago,Europe,3.7
+Tobago,Egypt,0.1
+Tobago,Kuwait,0.09
+Tobago,Other Middle East & Africa,0.88
+Tobago,Middle East & Africa,1.07
+Tobago,China,0.52
+Tobago,India,0.5
+Tobago,Japan,0.16
+Tobago,Pakistan,0.08
+Tobago,Singapore,0.11
+Tobago,South Korea,0.25
+Tobago,Taiwan,0.31
+Tobago,Thailand,0.49
+Tobago,Asia Pacific,2.42
+Americas*,US,0.05
+Americas*,North America,0.05
+Americas*,South Korea,0.07
+Americas*,Asia Pacific,0.07
+Norway,Canada,0.08
+Norway,North America,0.08
+Norway,Brazil,0.24
+Norway,S. & Cent. America,0.24
+Norway,Belgium,0.09
+Norway,France,1.54
+Norway,Italy,0.11
+Norway,Spain,0.59
+Norway,Turkey,0.09
+Norway,United Kingdom,0.17
+Norway,Other EU,1.99
+Norway,Europe,4.59
+Norway,Egypt,0.6
+Norway,Kuwait,0.18
+Norway,Other Middle East & Africa,0.17
+Norway,Middle East & Africa,0.95
+Norway,China,0.25
+Norway,India,0.09
+Norway,Japan,0.09
+Norway,Pakistan,0.18
+Norway,South Korea,0.09
+Norway,Taiwan,0.08
+Norway,Asia Pacific,0.78
+Europe*,Canada,0.01
+Europe*,US,0.17
+Europe*,North America,0.18
+Europe*,Argentina,0.06
+Europe*,Brazil,0.36
+Europe*,S. & Cent. America,0.42
+Europe*,Belgium,0.03
+Europe*,France,0.04
+Europe*,Spain,0.12
+Europe*,Turkey,0.27
+Europe*,Other EU,0.29
+Europe*,Europe,0.76
+Europe*,Egypt,0.19
+Europe*,United Arab Emirates,0.18
+Europe*,Other Middle East & Africa,0.17
+Europe*,Middle East & Africa,0.55
+Europe*,China,0.87
+Europe*,India,0.57
+Europe*,Japan,0.54
+Europe*,Pakistan,0.26
+Europe*,Singapore,0.09
+Europe*,South Korea,0.77
+Europe*,Asia Pacific,3.11
+Federation,Canada,0.1
+Federation,North America,0.1
+Federation,Argentina,0.05
+Federation,Brazil,0.19
+Federation,S. & Cent. America,0.25
+Federation,Belgium,0.81
+Federation,France,1.49
+Federation,Spain,0.88
+Federation,United Kingdom,1.65
+Federation,Other EU,1.98
+Federation,Europe,6.81
+Federation,Egypt,0.28
+Federation,Other Middle East & Africa,0.3
+Federation,Middle East & Africa,0.58
+Federation,China,1.29
+Federation,India,0.51
+Federation,Japan,9.44
+Federation,Pakistan,0.09
+Federation,South Korea,2.64
+Federation,Taiwan,3.15
+Federation,Thailand,0.08
+Federation,Asia Pacific,17.2
+Oman,Kuwait,0.63
+Oman,Other Middle East & Africa,0.1
+Oman,Middle East & Africa,0.73
+Oman,China,0.68
+Oman,India,1.45
+Oman,Japan,4.19
+Oman,Pakistan,0.18
+Oman,South Korea,5.81
+Oman,Taiwan,0.42
+Oman,Thailand,0.09
+Oman,Asia Pacific,12.84
+Qatar,Argentina,1.46
+Qatar,Brazil,0.17
+Qatar,S. & Cent. America,1.63
+Qatar,Belgium,2.66
+Qatar,France,1.15
+Qatar,Italy,6.32
+Qatar,Spain,3.39
+Qatar,Turkey,3.07
+Qatar,United Kingdom,2.92
+Qatar,Other EU,3.08
+Qatar,Europe,22.59
+Qatar,Egypt,1.46
+Qatar,Kuwait,1.65
+Qatar,Other Middle East & Africa,0.25
+Qatar,Middle East & Africa,3.36
+Qatar,China,12.7
+Qatar,India,14.78
+Qatar,Japan,13.52
+Qatar,Pakistan,5.81
+Qatar,Singapore,0.59
+Qatar,South Korea,19.58
+Qatar,Taiwan,6.64
+Qatar,Thailand,2.8
+Qatar,Other Asia Pacific,0.85
+Qatar,Asia Pacific,77.27
+Arab Emirates,India,0.45
+Arab Emirates,Japan,6.78
+Arab Emirates,Taiwan,0.09
+Arab Emirates,Thailand,0.09
+Arab Emirates,Asia Pacific,7.41
+Algeria,Argentina,0.09
+Algeria,S. & Cent. America,0.09
+Algeria,France,4.02
+Algeria,Italy,0.73
+Algeria,Spain,1.52
+Algeria,Turkey,4.69
+Algeria,United Kingdom,0.32
+Algeria,Other EU,1.1
+Algeria,Europe,12.38
+Algeria,United Arab Emirates,0.38
+Algeria,Other Middle East & Africa,0.1
+Algeria,Middle East & Africa,0.48
+Algeria,China,0.09
+Algeria,India,0.31
+Algeria,Pakistan,0.19
+Algeria,Asia Pacific,0.6
+Angola,Brazil,0.08
+Angola,S. & Cent. America,0.08
+Angola,Belgium,0.09
+Angola,France,0.09
+Angola,Spain,0.09
+Angola,Turkey,0.09
+Angola,Other EU,0.18
+Angola,Europe,0.55
+Angola,Kuwait,0.64
+Angola,United Arab Emirates,0.09
+Angola,Middle East & Africa,0.73
+Angola,China,0.66
+Angola,India,2.17
+Angola,Japan,0.36
+Angola,Pakistan,0.09
+Angola,Singapore,0.18
+Angola,South Korea,0.34
+Angola,Asia Pacific,3.81
+Egypt,France,0.36
+Egypt,Italy,0.17
+Egypt,Turkey,0.2
+Egypt,United Kingdom,0.18
+Egypt,Europe,0.91
+Egypt,Kuwait,0.09
+Egypt,Middle East & Africa,0.09
+Egypt,China,0.25
+Egypt,India,0.24
+Egypt,Japan,0.18
+Egypt,South Korea,0.35
+Egypt,Asia Pacific,1.02
+Nigeria,Mexico,1.43
+Nigeria,US,0.08
+Nigeria,North America,1.52
+Nigeria,Argentina,0.51
+Nigeria,Brazil,0.36
+Nigeria,S. & Cent. America,0.86
+Nigeria,France,3.56
+Nigeria,Italy,0.13
+Nigeria,Spain,4.14
+Nigeria,Turkey,2.21
+Nigeria,Other EU,2.46
+Nigeria,Europe,12.5
+Nigeria,Egypt,0.27
+Nigeria,Kuwait,0.56
+Nigeria,United Arab Emirates,0.09
+Nigeria,Other Middle East & Africa,0.83
+Nigeria,Middle East & Africa,1.76
+Nigeria,China,1.52
+Nigeria,India,4.04
+Nigeria,Japan,2.09
+Nigeria,Pakistan,1.33
+Nigeria,South Korea,0.65
+Nigeria,Taiwan,0.25
+Nigeria,Thailand,1.31
+Nigeria,Asia Pacific,11.19
+Africa,Argentina,0.09
+Africa,Chile,0.73
+Africa,S. & Cent. America,0.82
+Africa,Italy,0.09
+Africa,Spain,0.08
+Africa,Turkey,0.08
+Africa,United Kingdom,0.07
+Africa,Other EU,0.08
+Africa,Europe,0.4
+Africa,Egypt,0.08
+Africa,Kuwait,0.19
+Africa,Other Middle East & Africa,0.1
+Africa,Middle East & Africa,0.37
+Africa,China,1.09
+Africa,India,1.69
+Africa,Japan,0.17
+Africa,Pakistan,0.45
+Africa,Singapore,0.3
+Africa,South Korea,0.1
+Africa,Asia Pacific,3.8
+Australia,United Arab Emirates,0.2
+Australia,Middle East & Africa,0.2
+Australia,China,32.09
+Australia,India,2.01
+Australia,Japan,39.11
+Australia,Malaysia,1.21
+Australia,Pakistan,0.09
+Australia,Singapore,2.76
+Australia,South Korea,10.76
+Australia,Taiwan,3.5
+Australia,Thailand,0.09
+Australia,Asia Pacific,91.62
+Brunei,China,0.28
+Brunei,Japan,5.7
+Brunei,Malaysia,0.59
+Brunei,South Korea,0.96
+Brunei,Taiwan,0.92
+Brunei,Thailand,0.31
+Brunei,Asia Pacific,8.76
+Indonesia,Mexico,0.18
+Indonesia,North America,0.18
+Indonesia,China,6.71
+Indonesia,Japan,6.99
+Indonesia,Pakistan,0.18
+Indonesia,Singapore,0.18
+Indonesia,South Korea,4.73
+Indonesia,Taiwan,1.57
+Indonesia,Thailand,0.27
+Indonesia,Asia Pacific,20.63
+Malaysia,China,7.87
+Malaysia,India,0.36
+Malaysia,Japan,15.09
+Malaysia,Pakistan,0.09
+Malaysia,South Korea,5.05
+Malaysia,Taiwan,3.82
+Malaysia,Thailand,0.71
+Malaysia,Asia Pacific,33
+New Guinea,China,3.29
+New Guinea,Japan,4.28
+New Guinea,Singapore,0.2
+New Guinea,South Korea,0.11
+New Guinea,Taiwan,1.62
+New Guinea,Asia Pacific,9.51
+Asia Pacific*,China,0.21
+Asia Pacific*,India,0.09
+Asia Pacific*,Japan,0.12
+Asia Pacific*,South Korea,0.19
+Asia Pacific*,Asia Pacific,0.62

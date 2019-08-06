@@ -1,0 +1,3095 @@
+country,year,electricity_generation,region
+Algeria,1985,12.27, Africa
+Algeria,1986,12.98, Africa
+Algeria,1987,12.72, Africa
+Algeria,1988,13.97, Africa
+Algeria,1989,15.32, Africa
+Algeria,1990,16.1, Africa
+Algeria,1991,17.34, Africa
+Algeria,1992,18.29, Africa
+Algeria,1993,19.41, Africa
+Algeria,1994,19.88, Africa
+Algeria,1995,19.71, Africa
+Algeria,1996,20.65, Africa
+Algeria,1997,21.5, Africa
+Algeria,1998,23.26, Africa
+Algeria,1999,24.76, Africa
+Algeria,2000,25.41, Africa
+Algeria,2001,26.62, Africa
+Algeria,2002,27.65, Africa
+Algeria,2003,29.53, Africa
+Algeria,2004,31.25, Africa
+Algeria,2005,33.91, Africa
+Algeria,2006,35.23, Africa
+Algeria,2007,37.31, Africa
+Algeria,2008,40.24, Africa
+Algeria,2009,43.11, Africa
+Algeria,2010,45.73, Africa
+Algeria,2011,53.07, Africa
+Algeria,2012,57.4, Africa
+Algeria,2013,59.89, Africa
+Algeria,2014,64.24, Africa
+Algeria,2015,68.8, Africa
+Algeria,2016,71, Africa
+Algeria,2017,76.02, Africa
+Algeria,2018,76.42, Africa
+Eastern Africa,1985,24.1, Africa
+Eastern Africa,1986,24.68, Africa
+Eastern Africa,1987,24.88, Africa
+Eastern Africa,1988,27.23, Africa
+Eastern Africa,1989,26.43, Africa
+Eastern Africa,1990,30.01, Africa
+Eastern Africa,1991,31.41, Africa
+Eastern Africa,1992,28.76, Africa
+Eastern Africa,1993,30.31, Africa
+Eastern Africa,1994,30.74, Africa
+Eastern Africa,1995,31.73, Africa
+Eastern Africa,1996,31.47, Africa
+Eastern Africa,1997,33.49, Africa
+Eastern Africa,1998,38.84, Africa
+Eastern Africa,1999,41.05, Africa
+Eastern Africa,2000,43.66, Africa
+Eastern Africa,2001,48.76, Africa
+Eastern Africa,2002,51.35, Africa
+Eastern Africa,2003,51.31, Africa
+Eastern Africa,2004,55.2, Africa
+Eastern Africa,2005,58.32, Africa
+Eastern Africa,2006,60.39, Africa
+Eastern Africa,2007,64.11, Africa
+Eastern Africa,2008,65.06, Africa
+Eastern Africa,2009,68.75, Africa
+Eastern Africa,2010,74.01, Africa
+Eastern Africa,2011,78.46, Africa
+Eastern Africa,2012,81.63, Africa
+Eastern Africa,2013,86.86, Africa
+Eastern Africa,2014,93.4, Africa
+Eastern Africa,2015,98.13, Africa
+Eastern Africa,2016,97.04, Africa
+Eastern Africa,2017,101.35, Africa
+Eastern Africa,2018,105.76, Africa
+Egypt,1985,30.25, Africa
+Egypt,1986,32.46, Africa
+Egypt,1987,35.65, Africa
+Egypt,1988,38.71, Africa
+Egypt,1989,40.61, Africa
+Egypt,1990,41.95, Africa
+Egypt,1991,43.28, Africa
+Egypt,1992,44.99, Africa
+Egypt,1993,46.74, Africa
+Egypt,1994,48.55, Africa
+Egypt,1995,50.65, Africa
+Egypt,1996,53.57, Africa
+Egypt,1997,56.78, Africa
+Egypt,1998,60.7, Africa
+Egypt,1999,65.73, Africa
+Egypt,2000,73.32, Africa
+Egypt,2001,80.71, Africa
+Egypt,2002,86.24, Africa
+Egypt,2003,92.19, Africa
+Egypt,2004,98.25, Africa
+Egypt,2005,104.95, Africa
+Egypt,2006,111.66, Africa
+Egypt,2007,119.87, Africa
+Egypt,2008,128.79, Africa
+Egypt,2009,134.27, Africa
+Egypt,2010,144.43, Africa
+Egypt,2011,149.56, Africa
+Egypt,2012,162.83, Africa
+Egypt,2013,165.06, Africa
+Egypt,2014,171.23, Africa
+Egypt,2015,181.84, Africa
+Egypt,2016,188.19, Africa
+Egypt,2017,193.21, Africa
+Egypt,2018,199.98, Africa
+Middle Africa,1985,9.74, Africa
+Middle Africa,1986,10.05, Africa
+Middle Africa,1987,10.09, Africa
+Middle Africa,1988,10.24, Africa
+Middle Africa,1989,11.94, Africa
+Middle Africa,1990,10.89, Africa
+Middle Africa,1991,10.61, Africa
+Middle Africa,1992,11.4, Africa
+Middle Africa,1993,10.75, Africa
+Middle Africa,1994,10.31, Africa
+Middle Africa,1995,11.44, Africa
+Middle Africa,1996,11.62, Africa
+Middle Africa,1997,11.06, Africa
+Middle Africa,1998,10.94, Africa
+Middle Africa,1999,11.52, Africa
+Middle Africa,2000,12.63, Africa
+Middle Africa,2001,13.05, Africa
+Middle Africa,2002,13.22, Africa
+Middle Africa,2003,13.95, Africa
+Middle Africa,2004,15.63, Africa
+Middle Africa,2005,16.39, Africa
+Middle Africa,2006,18.64, Africa
+Middle Africa,2007,18.64, Africa
+Middle Africa,2008,20.14, Africa
+Middle Africa,2009,21.14, Africa
+Middle Africa,2010,22.16, Africa
+Middle Africa,2011,22.68, Africa
+Middle Africa,2012,23.34, Africa
+Middle Africa,2013,27.65, Africa
+Middle Africa,2014,30.39, Africa
+Middle Africa,2015,31.86, Africa
+Middle Africa,2016,33.09, Africa
+Middle Africa,2017,36.98, Africa
+Middle Africa,2018,40.46, Africa
+Morocco,1985,7.34, Africa
+Morocco,1986,7.76, Africa
+Morocco,1987,8, Africa
+Morocco,1988,8.98, Africa
+Morocco,1989,9.02, Africa
+Morocco,1990,9.63, Africa
+Morocco,1991,9.21, Africa
+Morocco,1992,9.72, Africa
+Morocco,1993,9.91, Africa
+Morocco,1994,11.47, Africa
+Morocco,1995,12.09, Africa
+Morocco,1996,12.54, Africa
+Morocco,1997,13.59, Africa
+Morocco,1998,12.97, Africa
+Morocco,1999,12.89, Africa
+Morocco,2000,12.86, Africa
+Morocco,2001,15.05, Africa
+Morocco,2002,15.23, Africa
+Morocco,2003,16.52, Africa
+Morocco,2004,17.57, Africa
+Morocco,2005,19.72, Africa
+Morocco,2006,20.45, Africa
+Morocco,2007,20.31, Africa
+Morocco,2008,20.99, Africa
+Morocco,2009,21.66, Africa
+Morocco,2010,23.68, Africa
+Morocco,2011,25.36, Africa
+Morocco,2012,27.66, Africa
+Morocco,2013,28.12, Africa
+Morocco,2014,29.28, Africa
+Morocco,2015,30.32, Africa
+Morocco,2016,30.72, Africa
+Morocco,2017,31.63, Africa
+Morocco,2018,34.44, Africa
+Other Northern Africa,1985,11.39, Africa
+Other Northern Africa,1986,11.41, Africa
+Other Northern Africa,1987,12.5, Africa
+Other Northern Africa,1988,13.33, Africa
+Other Northern Africa,1989,13.59, Africa
+Other Northern Africa,1990,16.06, Africa
+Other Northern Africa,1991,16.57, Africa
+Other Northern Africa,1992,17.33, Africa
+Other Northern Africa,1993,18.05, Africa
+Other Northern Africa,1994,18.82, Africa
+Other Northern Africa,1995,19.17, Africa
+Other Northern Africa,1996,20.1, Africa
+Other Northern Africa,1997,21.19, Africa
+Other Northern Africa,1998,22.7, Africa
+Other Northern Africa,1999,24.49, Africa
+Other Northern Africa,2000,26.18, Africa
+Other Northern Africa,2001,27.59, Africa
+Other Northern Africa,2002,29.46, Africa
+Other Northern Africa,2003,30.32, Africa
+Other Northern Africa,2004,32.31, Africa
+Other Northern Africa,2005,35.42, Africa
+Other Northern Africa,2006,37.91, Africa
+Other Northern Africa,2007,40.07, Africa
+Other Northern Africa,2008,43.13, Africa
+Other Northern Africa,2009,45.72, Africa
+Other Northern Africa,2010,49.03, Africa
+Other Northern Africa,2011,42.6, Africa
+Other Northern Africa,2012,52.44, Africa
+Other Northern Africa,2013,56.4, Africa
+Other Northern Africa,2014,57.04, Africa
+Other Northern Africa,2015,57.28, Africa
+Other Northern Africa,2016,56.33, Africa
+Other Northern Africa,2017,59.92, Africa
+Other Northern Africa,2018,63.47, Africa
+Other Southern Africa,1985,2.17, Africa
+Other Southern Africa,1986,2.28, Africa
+Other Southern Africa,1987,2.6, Africa
+Other Southern Africa,1988,2.5, Africa
+Other Southern Africa,1989,2.59, Africa
+Other Southern Africa,1990,2.62, Africa
+Other Southern Africa,1991,2.74, Africa
+Other Southern Africa,1992,2.71, Africa
+Other Southern Africa,1993,2.71, Africa
+Other Southern Africa,1994,2.38, Africa
+Other Southern Africa,1995,2.64, Africa
+Other Southern Africa,1996,2.08, Africa
+Other Southern Africa,1997,1.86, Africa
+Other Southern Africa,1998,2.6, Africa
+Other Southern Africa,1999,3.18, Africa
+Other Southern Africa,2000,3.39, Africa
+Other Southern Africa,2001,3.22, Africa
+Other Southern Africa,2002,3.43, Africa
+Other Southern Africa,2003,3.29, Africa
+Other Southern Africa,2004,3.11, Africa
+Other Southern Africa,2005,3.51, Africa
+Other Southern Africa,2006,3.35, Africa
+Other Southern Africa,2007,3.24, Africa
+Other Southern Africa,2008,3.13, Africa
+Other Southern Africa,2009,2.96, Africa
+Other Southern Africa,2010,2.83, Africa
+Other Southern Africa,2011,2.89, Africa
+Other Southern Africa,2012,3.47, Africa
+Other Southern Africa,2013,4.14, Africa
+Other Southern Africa,2014,4.97, Africa
+Other Southern Africa,2015,5.05, Africa
+Other Southern Africa,2016,4.75, Africa
+Other Southern Africa,2017,5.64, Africa
+Other Southern Africa,2018,5, Africa
+South Africa,1985,143.49, Africa
+South Africa,1986,148.24, Africa
+South Africa,1987,152.37, Africa
+South Africa,1988,158.14, Africa
+South Africa,1989,163.36, Africa
+South Africa,1990,167.23, Africa
+South Africa,1991,168.32, Africa
+South Africa,1992,168.09, Africa
+South Africa,1993,174.71, Africa
+South Africa,1994,181.69, Africa
+South Africa,1995,186.66, Africa
+South Africa,1996,200.09, Africa
+South Africa,1997,210.36, Africa
+South Africa,1998,205.37, Africa
+South Africa,1999,203.01, Africa
+South Africa,2000,210.67, Africa
+South Africa,2001,210.1, Africa
+South Africa,2002,220.57, Africa
+South Africa,2003,234.23, Africa
+South Africa,2004,244.6, Africa
+South Africa,2005,244.92, Africa
+South Africa,2006,253.8, Africa
+South Africa,2007,263.48, Africa
+South Africa,2008,258.29, Africa
+South Africa,2009,249.56, Africa
+South Africa,2010,259.6, Africa
+South Africa,2011,262.54, Africa
+South Africa,2012,257.92, Africa
+South Africa,2013,256.14, Africa
+South Africa,2014,254.76, Africa
+South Africa,2015,250.15, Africa
+South Africa,2016,252.75, Africa
+South Africa,2017,255.09, Africa
+South Africa,2018,256, Africa
+Western Africa,1985,18.22, Africa
+Western Africa,1986,20.25, Africa
+Western Africa,1987,21.44, Africa
+Western Africa,1988,22.19, Africa
+Western Africa,1989,23.78, Africa
+Western Africa,1990,24.42, Africa
+Western Africa,1991,25.5, Africa
+Western Africa,1992,26.71, Africa
+Western Africa,1993,26.61, Africa
+Western Africa,1994,27.63, Africa
+Western Africa,1995,28.64, Africa
+Western Africa,1996,30.08, Africa
+Western Africa,1997,31.08, Africa
+Western Africa,1998,28.92, Africa
+Western Africa,1999,31.78, Africa
+Western Africa,2000,31.86, Africa
+Western Africa,2001,33.85, Africa
+Western Africa,2002,40.22, Africa
+Western Africa,2003,37.48, Africa
+Western Africa,2004,42.45, Africa
+Western Africa,2005,42.89, Africa
+Western Africa,2006,44.16, Africa
+Western Africa,2007,43.13, Africa
+Western Africa,2008,43.11, Africa
+Western Africa,2009,42.23, Africa
+Western Africa,2010,50.2, Africa
+Western Africa,2011,51.99, Africa
+Western Africa,2012,54.05, Africa
+Western Africa,2013,59.25, Africa
+Western Africa,2014,62.48, Africa
+Western Africa,2015,63.34, Africa
+Western Africa,2016,67.32, Africa
+Western Africa,2017,69.79, Africa
+Western Africa,2018,72.18, Africa
+Australia,1985,123.67, Asia Pacific
+Australia,1986,129.53, Asia Pacific
+Australia,1987,135.81, Asia Pacific
+Australia,1988,143.37, Asia Pacific
+Australia,1989,151.43, Asia Pacific
+Australia,1990,155.65, Asia Pacific
+Australia,1991,157.96, Asia Pacific
+Australia,1992,161.4, Asia Pacific
+Australia,1993,165.38, Asia Pacific
+Australia,1994,170.14, Asia Pacific
+Australia,1995,175.22, Asia Pacific
+Australia,1996,180.13, Asia Pacific
+Australia,1997,188.98, Asia Pacific
+Australia,1998,199.47, Asia Pacific
+Australia,1999,206.9, Asia Pacific
+Australia,2000,216.83, Asia Pacific
+Australia,2001,224.25, Asia Pacific
+Australia,2002,223.5, Asia Pacific
+Australia,2003,225.95, Asia Pacific
+Australia,2004,229.22, Asia Pacific
+Australia,2005,230.74, Asia Pacific
+Australia,2006,237.99, Asia Pacific
+Australia,2007,243.18, Asia Pacific
+Australia,2008,245.37, Asia Pacific
+Australia,2009,249.9, Asia Pacific
+Australia,2010,250.96, Asia Pacific
+Australia,2011,256.3, Asia Pacific
+Australia,2012,250.67, Asia Pacific
+Australia,2013,249.56, Asia Pacific
+Australia,2014,247.65, Asia Pacific
+Australia,2015,254.32, Asia Pacific
+Australia,2016,258.48, Asia Pacific
+Australia,2017,259.03, Asia Pacific
+Australia,2018,261.41, Asia Pacific
+Bangladesh,1985,4.53, Asia Pacific
+Bangladesh,1986,4.8, Asia Pacific
+Bangladesh,1987,5.59, Asia Pacific
+Bangladesh,1988,6.54, Asia Pacific
+Bangladesh,1989,7.12, Asia Pacific
+Bangladesh,1990,7.73, Asia Pacific
+Bangladesh,1991,8.27, Asia Pacific
+Bangladesh,1992,8.89, Asia Pacific
+Bangladesh,1993,9.21, Asia Pacific
+Bangladesh,1994,9.78, Asia Pacific
+Bangladesh,1995,10.81, Asia Pacific
+Bangladesh,1996,11.47, Asia Pacific
+Bangladesh,1997,11.86, Asia Pacific
+Bangladesh,1998,12.88, Asia Pacific
+Bangladesh,1999,14.45, Asia Pacific
+Bangladesh,2000,15.77, Asia Pacific
+Bangladesh,2001,17.39, Asia Pacific
+Bangladesh,2002,18.67, Asia Pacific
+Bangladesh,2003,19.71, Asia Pacific
+Bangladesh,2004,24.68, Asia Pacific
+Bangladesh,2005,26.45, Asia Pacific
+Bangladesh,2006,29.54, Asia Pacific
+Bangladesh,2007,31.02, Asia Pacific
+Bangladesh,2008,34.24, Asia Pacific
+Bangladesh,2009,37.21, Asia Pacific
+Bangladesh,2010,40.84, Asia Pacific
+Bangladesh,2011,44.22, Asia Pacific
+Bangladesh,2012,48.66, Asia Pacific
+Bangladesh,2013,54.37, Asia Pacific
+Bangladesh,2014,57.42, Asia Pacific
+Bangladesh,2015,61.83, Asia Pacific
+Bangladesh,2016,70, Asia Pacific
+Bangladesh,2017,74.43, Asia Pacific
+Bangladesh,2018,79.13, Asia Pacific
+China,1985,410.69, Asia Pacific
+China,1986,449.53, Asia Pacific
+China,1987,497.27, Asia Pacific
+China,1988,545.21, Asia Pacific
+China,1989,584.81, Asia Pacific
+China,1990,621.2, Asia Pacific
+China,1991,677.55, Asia Pacific
+China,1992,753.94, Asia Pacific
+China,1993,811.59, Asia Pacific
+China,1994,927.8, Asia Pacific
+China,1995,1007.03, Asia Pacific
+China,1996,1081.31, Asia Pacific
+China,1997,1135.55, Asia Pacific
+China,1998,1167, Asia Pacific
+China,1999,1239.3, Asia Pacific
+China,2000,1355.6, Asia Pacific
+China,2001,1480.8, Asia Pacific
+China,2002,1654, Asia Pacific
+China,2003,1910.58, Asia Pacific
+China,2004,2203.31, Asia Pacific
+China,2005,2500.26, Asia Pacific
+China,2006,2865.73, Asia Pacific
+China,2007,3281.55, Asia Pacific
+China,2008,3495.76, Asia Pacific
+China,2009,3714.65, Asia Pacific
+China,2010,4207.16, Asia Pacific
+China,2011,4713.02, Asia Pacific
+China,2012,4987.55, Asia Pacific
+China,2013,5431.64, Asia Pacific
+China,2014,5649.58, Asia Pacific
+China,2015,5814.57, Asia Pacific
+China,2016,6133.16, Asia Pacific
+China,2017,6604.45, Asia Pacific
+China,2018,7111.77, Asia Pacific
+China Hong Kong SAR,1985,19.25, Asia Pacific
+China Hong Kong SAR,1986,21.42, Asia Pacific
+China Hong Kong SAR,1987,23.75, Asia Pacific
+China Hong Kong SAR,1988,25.51, Asia Pacific
+China Hong Kong SAR,1989,27.36, Asia Pacific
+China Hong Kong SAR,1990,28.96, Asia Pacific
+China Hong Kong SAR,1991,31.89, Asia Pacific
+China Hong Kong SAR,1992,35.08, Asia Pacific
+China Hong Kong SAR,1993,35.95, Asia Pacific
+China Hong Kong SAR,1994,26.74, Asia Pacific
+China Hong Kong SAR,1995,27.92, Asia Pacific
+China Hong Kong SAR,1996,28.44, Asia Pacific
+China Hong Kong SAR,1997,28.94, Asia Pacific
+China Hong Kong SAR,1998,31.41, Asia Pacific
+China Hong Kong SAR,1999,29.5, Asia Pacific
+China Hong Kong SAR,2000,31.33, Asia Pacific
+China Hong Kong SAR,2001,32.43, Asia Pacific
+China Hong Kong SAR,2002,34.31, Asia Pacific
+China Hong Kong SAR,2003,35.51, Asia Pacific
+China Hong Kong SAR,2004,37.13, Asia Pacific
+China Hong Kong SAR,2005,38.45, Asia Pacific
+China Hong Kong SAR,2006,38.61, Asia Pacific
+China Hong Kong SAR,2007,38.95, Asia Pacific
+China Hong Kong SAR,2008,37.99, Asia Pacific
+China Hong Kong SAR,2009,38.73, Asia Pacific
+China Hong Kong SAR,2010,38.38, Asia Pacific
+China Hong Kong SAR,2011,39.1, Asia Pacific
+China Hong Kong SAR,2012,38.84, Asia Pacific
+China Hong Kong SAR,2013,39.16, Asia Pacific
+China Hong Kong SAR,2014,39.91, Asia Pacific
+China Hong Kong SAR,2015,38.03, Asia Pacific
+China Hong Kong SAR,2016,38.26, Asia Pacific
+China Hong Kong SAR,2017,37.12, Asia Pacific
+China Hong Kong SAR,2018,36.67, Asia Pacific
+India,1985,186.39, Asia Pacific
+India,1986,202.68, Asia Pacific
+India,1987,223.67, Asia Pacific
+India,1988,241.3, Asia Pacific
+India,1989,272.45, Asia Pacific
+India,1990,287.76, Asia Pacific
+India,1991,320.46, Asia Pacific
+India,1992,337.15, Asia Pacific
+India,1993,362.18, Asia Pacific
+India,1994,387.97, Asia Pacific
+India,1995,427.15, Asia Pacific
+India,1996,443.21, Asia Pacific
+India,1997,469.15, Asia Pacific
+India,1998,505.08, Asia Pacific
+India,1999,547.36, Asia Pacific
+India,2000,571.39, Asia Pacific
+India,2001,586.09, Asia Pacific
+India,2002,609.65, Asia Pacific
+India,2003,638.13, Asia Pacific
+India,2004,677.01, Asia Pacific
+India,2005,704.61, Asia Pacific
+India,2006,744.43, Asia Pacific
+India,2007,796.27, Asia Pacific
+India,2008,828.41, Asia Pacific
+India,2009,879.71, Asia Pacific
+India,2010,937.47, Asia Pacific
+India,2011,1034.01, Asia Pacific
+India,2012,1091.84, Asia Pacific
+India,2013,1146.14, Asia Pacific
+India,2014,1262.22, Asia Pacific
+India,2015,1317.3, Asia Pacific
+India,2016,1401.74, Asia Pacific
+India,2017,1470.34, Asia Pacific
+India,2018,1561.1, Asia Pacific
+Indonesia,1985,16.37, Asia Pacific
+Indonesia,1986,18.41, Asia Pacific
+Indonesia,1987,20.72, Asia Pacific
+Indonesia,1988,24.81, Asia Pacific
+Indonesia,1989,28.49, Asia Pacific
+Indonesia,1990,33.11, Asia Pacific
+Indonesia,1991,38.1, Asia Pacific
+Indonesia,1992,40.28, Asia Pacific
+Indonesia,1993,39.71, Asia Pacific
+Indonesia,1994,45.93, Asia Pacific
+Indonesia,1995,54.12, Asia Pacific
+Indonesia,1996,58.87, Asia Pacific
+Indonesia,1997,70.69, Asia Pacific
+Indonesia,1998,76.69, Asia Pacific
+Indonesia,1999,83.97, Asia Pacific
+Indonesia,2000,93.33, Asia Pacific
+Indonesia,2001,101.66, Asia Pacific
+Indonesia,2002,108.22, Asia Pacific
+Indonesia,2003,112.98, Asia Pacific
+Indonesia,2004,120.15, Asia Pacific
+Indonesia,2005,127.56, Asia Pacific
+Indonesia,2006,133.11, Asia Pacific
+Indonesia,2007,142.44, Asia Pacific
+Indonesia,2008,149.44, Asia Pacific
+Indonesia,2009,156.8, Asia Pacific
+Indonesia,2010,169.79, Asia Pacific
+Indonesia,2011,183.42, Asia Pacific
+Indonesia,2012,200.32, Asia Pacific
+Indonesia,2013,216.19, Asia Pacific
+Indonesia,2014,228.56, Asia Pacific
+Indonesia,2015,233.98, Asia Pacific
+Indonesia,2016,247.92, Asia Pacific
+Indonesia,2017,254.62, Asia Pacific
+Indonesia,2018,267.3, Asia Pacific
+Japan,1985,671.95, Asia Pacific
+Japan,1986,676.36, Asia Pacific
+Japan,1987,719.09, Asia Pacific
+Japan,1988,753.73, Asia Pacific
+Japan,1989,799.77, Asia Pacific
+Japan,1990,881.5, Asia Pacific
+Japan,1991,911.3, Asia Pacific
+Japan,1992,916.79, Asia Pacific
+Japan,1993,926.1, Asia Pacific
+Japan,1994,984.49, Asia Pacific
+Japan,1995,1010.88, Asia Pacific
+Japan,1996,1029.86, Asia Pacific
+Japan,1997,1054.86, Asia Pacific
+Japan,1998,1059.66, Asia Pacific
+Japan,1999,1079.14, Asia Pacific
+Japan,2000,1099.67, Asia Pacific
+Japan,2001,1083.14, Asia Pacific
+Japan,2002,1103.08, Asia Pacific
+Japan,2003,1092.6, Asia Pacific
+Japan,2004,1121.19, Asia Pacific
+Japan,2005,1153.06, Asia Pacific
+Japan,2006,1164.35, Asia Pacific
+Japan,2007,1180.11, Asia Pacific
+Japan,2008,1183.72, Asia Pacific
+Japan,2009,1114, Asia Pacific
+Japan,2010,1156.02, Asia Pacific
+Japan,2011,1104.18, Asia Pacific
+Japan,2012,1106.88, Asia Pacific
+Japan,2013,1087.76, Asia Pacific
+Japan,2014,1062.73, Asia Pacific
+Japan,2015,1030.11, Asia Pacific
+Japan,2016,1042.07, Asia Pacific
+Japan,2017,1050.15, Asia Pacific
+Japan,2018,1051.62, Asia Pacific
+Malaysia,1985,14.94, Asia Pacific
+Malaysia,1986,16.13, Asia Pacific
+Malaysia,1987,17.42, Asia Pacific
+Malaysia,1988,19.35, Asia Pacific
+Malaysia,1989,21.52, Asia Pacific
+Malaysia,1990,23.02, Asia Pacific
+Malaysia,1991,26.55, Asia Pacific
+Malaysia,1992,29.16, Asia Pacific
+Malaysia,1993,32.14, Asia Pacific
+Malaysia,1994,36.52, Asia Pacific
+Malaysia,1995,36.86, Asia Pacific
+Malaysia,1996,49.32, Asia Pacific
+Malaysia,1997,57.42, Asia Pacific
+Malaysia,1998,58.23, Asia Pacific
+Malaysia,1999,62.62, Asia Pacific
+Malaysia,2000,64.5, Asia Pacific
+Malaysia,2001,70.11, Asia Pacific
+Malaysia,2002,75.97, Asia Pacific
+Malaysia,2003,77.36, Asia Pacific
+Malaysia,2004,91.3, Asia Pacific
+Malaysia,2005,94.01, Asia Pacific
+Malaysia,2006,100.04, Asia Pacific
+Malaysia,2007,103.59, Asia Pacific
+Malaysia,2008,106.89, Asia Pacific
+Malaysia,2009,111.29, Asia Pacific
+Malaysia,2010,120.08, Asia Pacific
+Malaysia,2011,120.87, Asia Pacific
+Malaysia,2012,127.33, Asia Pacific
+Malaysia,2013,137.45, Asia Pacific
+Malaysia,2014,143.22, Asia Pacific
+Malaysia,2015,147.16, Asia Pacific
+Malaysia,2016,158.84, Asia Pacific
+Malaysia,2017,162.25, Asia Pacific
+Malaysia,2018,168.44, Asia Pacific
+New Zealand,1985,28.46, Asia Pacific
+New Zealand,1986,29.35, Asia Pacific
+New Zealand,1987,29.75, Asia Pacific
+New Zealand,1988,31.09, Asia Pacific
+New Zealand,1989,31.36, Asia Pacific
+New Zealand,1990,32.26, Asia Pacific
+New Zealand,1991,33.3, Asia Pacific
+New Zealand,1992,32.9, Asia Pacific
+New Zealand,1993,34.28, Asia Pacific
+New Zealand,1994,34.85, Asia Pacific
+New Zealand,1995,36.06, Asia Pacific
+New Zealand,1996,36.47, Asia Pacific
+New Zealand,1997,37.11, Asia Pacific
+New Zealand,1998,37.61, Asia Pacific
+New Zealand,1999,37.82, Asia Pacific
+New Zealand,2000,39.25, Asia Pacific
+New Zealand,2001,39.57, Asia Pacific
+New Zealand,2002,40.63, Asia Pacific
+New Zealand,2003,40.78, Asia Pacific
+New Zealand,2004,42.7, Asia Pacific
+New Zealand,2005,42.9, Asia Pacific
+New Zealand,2006,43.45, Asia Pacific
+New Zealand,2007,43.8, Asia Pacific
+New Zealand,2008,43.83, Asia Pacific
+New Zealand,2009,43.44, Asia Pacific
+New Zealand,2010,44.86, Asia Pacific
+New Zealand,2011,44.41, Asia Pacific
+New Zealand,2012,44.25, Asia Pacific
+New Zealand,2013,43.26, Asia Pacific
+New Zealand,2014,43.51, Asia Pacific
+New Zealand,2015,44.18, Asia Pacific
+New Zealand,2016,43.64, Asia Pacific
+New Zealand,2017,44.21, Asia Pacific
+New Zealand,2018,44.3, Asia Pacific
+Other Asia Pacific,1985,37.34, Asia Pacific
+Other Asia Pacific,1986,38.71, Asia Pacific
+Other Asia Pacific,1987,40.8, Asia Pacific
+Other Asia Pacific,1988,43.31, Asia Pacific
+Other Asia Pacific,1989,45.28, Asia Pacific
+Other Asia Pacific,1990,43.76, Asia Pacific
+Other Asia Pacific,1991,42.65, Asia Pacific
+Other Asia Pacific,1992,41.35, Asia Pacific
+Other Asia Pacific,1993,39.68, Asia Pacific
+Other Asia Pacific,1994,41.63, Asia Pacific
+Other Asia Pacific,1995,42.63, Asia Pacific
+Other Asia Pacific,1996,41.94, Asia Pacific
+Other Asia Pacific,1997,40.39, Asia Pacific
+Other Asia Pacific,1998,39.69, Asia Pacific
+Other Asia Pacific,1999,42.58, Asia Pacific
+Other Asia Pacific,2000,45.66, Asia Pacific
+Other Asia Pacific,2001,47.35, Asia Pacific
+Other Asia Pacific,2002,47.83, Asia Pacific
+Other Asia Pacific,2003,50.36, Asia Pacific
+Other Asia Pacific,2004,52.41, Asia Pacific
+Other Asia Pacific,2005,54.81, Asia Pacific
+Other Asia Pacific,2006,58.05, Asia Pacific
+Other Asia Pacific,2007,61.76, Asia Pacific
+Other Asia Pacific,2008,64.75, Asia Pacific
+Other Asia Pacific,2009,63.46, Asia Pacific
+Other Asia Pacific,2010,70.82, Asia Pacific
+Other Asia Pacific,2011,75.03, Asia Pacific
+Other Asia Pacific,2012,76.52, Asia Pacific
+Other Asia Pacific,2013,82.81, Asia Pacific
+Other Asia Pacific,2014,86.8, Asia Pacific
+Other Asia Pacific,2015,89.49, Asia Pacific
+Other Asia Pacific,2016,107.26, Asia Pacific
+Other Asia Pacific,2017,117.65, Asia Pacific
+Other Asia Pacific,2018,124.67, Asia Pacific
+Pakistan,1985,28.82, Asia Pacific
+Pakistan,1986,32.35, Asia Pacific
+Pakistan,1987,36.35, Asia Pacific
+Pakistan,1988,40.67, Asia Pacific
+Pakistan,1989,42.81, Asia Pacific
+Pakistan,1990,45.98, Asia Pacific
+Pakistan,1991,50.22, Asia Pacific
+Pakistan,1992,53.58, Asia Pacific
+Pakistan,1993,57.01, Asia Pacific
+Pakistan,1994,57.92, Asia Pacific
+Pakistan,1995,63.75, Asia Pacific
+Pakistan,1996,67.56, Asia Pacific
+Pakistan,1997,62.48, Asia Pacific
+Pakistan,1998,66.4, Asia Pacific
+Pakistan,1999,65.3, Asia Pacific
+Pakistan,2000,63.73, Asia Pacific
+Pakistan,2001,70.65, Asia Pacific
+Pakistan,2002,74.43, Asia Pacific
+Pakistan,2003,76.99, Asia Pacific
+Pakistan,2004,82.31, Asia Pacific
+Pakistan,2005,90.18, Asia Pacific
+Pakistan,2006,96.12, Asia Pacific
+Pakistan,2007,98.09, Asia Pacific
+Pakistan,2008,96.19, Asia Pacific
+Pakistan,2009,97.08, Asia Pacific
+Pakistan,2010,100.04, Asia Pacific
+Pakistan,2011,99.93, Asia Pacific
+Pakistan,2012,98.96, Asia Pacific
+Pakistan,2013,102.16, Asia Pacific
+Pakistan,2014,107.31, Asia Pacific
+Pakistan,2015,110.46, Asia Pacific
+Pakistan,2016,122.88, Asia Pacific
+Pakistan,2017,126.61, Asia Pacific
+Pakistan,2018,140.63, Asia Pacific
+Philippines,1985,22.77, Asia Pacific
+Philippines,1986,20.97, Asia Pacific
+Philippines,1987,22.64, Asia Pacific
+Philippines,1988,24.54, Asia Pacific
+Philippines,1989,25.57, Asia Pacific
+Philippines,1990,26.33, Asia Pacific
+Philippines,1991,25.65, Asia Pacific
+Philippines,1992,25.87, Asia Pacific
+Philippines,1993,26.58, Asia Pacific
+Philippines,1994,30.46, Asia Pacific
+Philippines,1995,33.55, Asia Pacific
+Philippines,1996,36.71, Asia Pacific
+Philippines,1997,39.8, Asia Pacific
+Philippines,1998,41.58, Asia Pacific
+Philippines,1999,41.43, Asia Pacific
+Philippines,2000,45.29, Asia Pacific
+Philippines,2001,47.05, Asia Pacific
+Philippines,2002,48.47, Asia Pacific
+Philippines,2003,52.94, Asia Pacific
+Philippines,2004,55.96, Asia Pacific
+Philippines,2005,56.57, Asia Pacific
+Philippines,2006,56.78, Asia Pacific
+Philippines,2007,59.61, Asia Pacific
+Philippines,2008,60.82, Asia Pacific
+Philippines,2009,61.93, Asia Pacific
+Philippines,2010,67.74, Asia Pacific
+Philippines,2011,69.18, Asia Pacific
+Philippines,2012,72.92, Asia Pacific
+Philippines,2013,75.27, Asia Pacific
+Philippines,2014,77.26, Asia Pacific
+Philippines,2015,82.41, Asia Pacific
+Philippines,2016,90.8, Asia Pacific
+Philippines,2017,94.37, Asia Pacific
+Philippines,2018,99.76, Asia Pacific
+Singapore,1985,9.88, Asia Pacific
+Singapore,1986,10.58, Asia Pacific
+Singapore,1987,11.81, Asia Pacific
+Singapore,1988,13.02, Asia Pacific
+Singapore,1989,14.04, Asia Pacific
+Singapore,1990,15.62, Asia Pacific
+Singapore,1991,16.6, Asia Pacific
+Singapore,1992,17.54, Asia Pacific
+Singapore,1993,18.96, Asia Pacific
+Singapore,1994,20.68, Asia Pacific
+Singapore,1995,22.06, Asia Pacific
+Singapore,1996,23.91, Asia Pacific
+Singapore,1997,26.71, Asia Pacific
+Singapore,1998,28.37, Asia Pacific
+Singapore,1999,29.52, Asia Pacific
+Singapore,2000,31.66, Asia Pacific
+Singapore,2001,33.06, Asia Pacific
+Singapore,2002,34.66, Asia Pacific
+Singapore,2003,35.28, Asia Pacific
+Singapore,2004,36.81, Asia Pacific
+Singapore,2005,38.21, Asia Pacific
+Singapore,2006,39.44, Asia Pacific
+Singapore,2007,41.14, Asia Pacific
+Singapore,2008,41.72, Asia Pacific
+Singapore,2009,41.8, Asia Pacific
+Singapore,2010,45.37, Asia Pacific
+Singapore,2011,46, Asia Pacific
+Singapore,2012,46.94, Asia Pacific
+Singapore,2013,47.96, Asia Pacific
+Singapore,2014,49.31, Asia Pacific
+Singapore,2015,50.27, Asia Pacific
+Singapore,2016,51.59, Asia Pacific
+Singapore,2017,52.23, Asia Pacific
+Singapore,2018,52.9, Asia Pacific
+South Korea,1985,62.67, Asia Pacific
+South Korea,1986,69.68, Asia Pacific
+South Korea,1987,80.25, Asia Pacific
+South Korea,1988,93.11, Asia Pacific
+South Korea,1989,103.62, Asia Pacific
+South Korea,1990,118.46, Asia Pacific
+South Korea,1991,131.62, Asia Pacific
+South Korea,1992,146.44, Asia Pacific
+South Korea,1993,161.9, Asia Pacific
+South Korea,1994,183.37, Asia Pacific
+South Korea,1995,203.55, Asia Pacific
+South Korea,1996,225.85, Asia Pacific
+South Korea,1997,246.59, Asia Pacific
+South Korea,1998,237.2, Asia Pacific
+South Korea,1999,262.15, Asia Pacific
+South Korea,2000,290.44, Asia Pacific
+South Korea,2001,309.89, Asia Pacific
+South Korea,2002,332.02, Asia Pacific
+South Korea,2003,347.76, Asia Pacific
+South Korea,2004,368.03, Asia Pacific
+South Korea,2005,389.48, Asia Pacific
+South Korea,2006,402.99, Asia Pacific
+South Korea,2007,425.41, Asia Pacific
+South Korea,2008,442.61, Asia Pacific
+South Korea,2009,452.45, Asia Pacific
+South Korea,2010,495.03, Asia Pacific
+South Korea,2011,517.57, Asia Pacific
+South Korea,2012,531.2, Asia Pacific
+South Korea,2013,537.17, Asia Pacific
+South Korea,2014,540.38, Asia Pacific
+South Korea,2015,547.8, Asia Pacific
+South Korea,2016,560.98, Asia Pacific
+South Korea,2017,576.41, Asia Pacific
+South Korea,2018,594.26, Asia Pacific
+Sri Lanka,1985,2.46, Asia Pacific
+Sri Lanka,1986,2.65, Asia Pacific
+Sri Lanka,1987,2.71, Asia Pacific
+Sri Lanka,1988,2.8, Asia Pacific
+Sri Lanka,1989,2.86, Asia Pacific
+Sri Lanka,1990,3.15, Asia Pacific
+Sri Lanka,1991,3.38, Asia Pacific
+Sri Lanka,1992,3.54, Asia Pacific
+Sri Lanka,1993,3.98, Asia Pacific
+Sri Lanka,1994,4.39, Asia Pacific
+Sri Lanka,1995,4.8, Asia Pacific
+Sri Lanka,1996,4.53, Asia Pacific
+Sri Lanka,1997,5.14, Asia Pacific
+Sri Lanka,1998,5.68, Asia Pacific
+Sri Lanka,1999,6.28, Asia Pacific
+Sri Lanka,2000,6.97, Asia Pacific
+Sri Lanka,2001,6.8, Asia Pacific
+Sri Lanka,2002,7.1, Asia Pacific
+Sri Lanka,2003,8.12, Asia Pacific
+Sri Lanka,2004,8.74, Asia Pacific
+Sri Lanka,2005,8.85, Asia Pacific
+Sri Lanka,2006,9.5, Asia Pacific
+Sri Lanka,2007,9.9, Asia Pacific
+Sri Lanka,2008,10, Asia Pacific
+Sri Lanka,2009,9.99, Asia Pacific
+Sri Lanka,2010,10.8, Asia Pacific
+Sri Lanka,2011,11.6, Asia Pacific
+Sri Lanka,2012,11.9, Asia Pacific
+Sri Lanka,2013,12.03, Asia Pacific
+Sri Lanka,2014,12.87, Asia Pacific
+Sri Lanka,2015,13.23, Asia Pacific
+Sri Lanka,2016,14.36, Asia Pacific
+Sri Lanka,2017,14.89, Asia Pacific
+Sri Lanka,2018,15.48, Asia Pacific
+Taiwan,1985,55.56, Asia Pacific
+Taiwan,1986,62.33, Asia Pacific
+Taiwan,1987,69.18, Asia Pacific
+Taiwan,1988,76.26, Asia Pacific
+Taiwan,1989,84.06, Asia Pacific
+Taiwan,1990,90.19, Asia Pacific
+Taiwan,1991,99.18, Asia Pacific
+Taiwan,1992,105.53, Asia Pacific
+Taiwan,1993,115.21, Asia Pacific
+Taiwan,1994,124.63, Asia Pacific
+Taiwan,1995,133.12, Asia Pacific
+Taiwan,1996,141.96, Asia Pacific
+Taiwan,1997,150.49, Asia Pacific
+Taiwan,1998,163.19, Asia Pacific
+Taiwan,1999,169.47, Asia Pacific
+Taiwan,2000,184.84, Asia Pacific
+Taiwan,2001,188.53, Asia Pacific
+Taiwan,2002,198.83, Asia Pacific
+Taiwan,2003,209.07, Asia Pacific
+Taiwan,2004,218.4, Asia Pacific
+Taiwan,2005,227.42, Asia Pacific
+Taiwan,2006,235.53, Asia Pacific
+Taiwan,2007,243.12, Asia Pacific
+Taiwan,2008,238.31, Asia Pacific
+Taiwan,2009,230.04, Asia Pacific
+Taiwan,2010,247.06, Asia Pacific
+Taiwan,2011,252.18, Asia Pacific
+Taiwan,2012,250.39, Asia Pacific
+Taiwan,2013,252.36, Asia Pacific
+Taiwan,2014,259.99, Asia Pacific
+Taiwan,2015,258.17, Asia Pacific
+Taiwan,2016,264.11, Asia Pacific
+Taiwan,2017,270.28, Asia Pacific
+Taiwan,2018,273.6, Asia Pacific
+Thailand,1985,23.03, Asia Pacific
+Thailand,1986,24.67, Asia Pacific
+Thailand,1987,28.57, Asia Pacific
+Thailand,1988,32.41, Asia Pacific
+Thailand,1989,37.35, Asia Pacific
+Thailand,1990,44.11, Asia Pacific
+Thailand,1991,50.12, Asia Pacific
+Thailand,1992,57.03, Asia Pacific
+Thailand,1993,63.34, Asia Pacific
+Thailand,1994,71.1, Asia Pacific
+Thailand,1995,79.74, Asia Pacific
+Thailand,1996,86.99, Asia Pacific
+Thailand,1997,92.66, Asia Pacific
+Thailand,1998,89.53, Asia Pacific
+Thailand,1999,90.22, Asia Pacific
+Thailand,2000,95.52, Asia Pacific
+Thailand,2001,100.99, Asia Pacific
+Thailand,2002,108.44, Asia Pacific
+Thailand,2003,115.93, Asia Pacific
+Thailand,2004,124.13, Asia Pacific
+Thailand,2005,130.43, Asia Pacific
+Thailand,2006,136.77, Asia Pacific
+Thailand,2007,142.54, Asia Pacific
+Thailand,2008,145.44, Asia Pacific
+Thailand,2009,145.91, Asia Pacific
+Thailand,2010,157.58, Asia Pacific
+Thailand,2011,153.32, Asia Pacific
+Thailand,2012,168.96, Asia Pacific
+Thailand,2013,168.63, Asia Pacific
+Thailand,2014,173.76, Asia Pacific
+Thailand,2015,177.83, Asia Pacific
+Thailand,2016,179.83, Asia Pacific
+Thailand,2017,176.74, Asia Pacific
+Thailand,2018,177.64, Asia Pacific
+Vietnam,1985,5.07, Asia Pacific
+Vietnam,1986,5.53, Asia Pacific
+Vietnam,1987,6.05, Asia Pacific
+Vietnam,1988,6.79, Asia Pacific
+Vietnam,1989,7.78, Asia Pacific
+Vietnam,1990,8.68, Asia Pacific
+Vietnam,1991,9.21, Asia Pacific
+Vietnam,1992,9.7, Asia Pacific
+Vietnam,1993,10.66, Asia Pacific
+Vietnam,1994,12.29, Asia Pacific
+Vietnam,1995,14.65, Asia Pacific
+Vietnam,1996,16.94, Asia Pacific
+Vietnam,1997,19.13, Asia Pacific
+Vietnam,1998,21.69, Asia Pacific
+Vietnam,1999,23.56, Asia Pacific
+Vietnam,2000,26.56, Asia Pacific
+Vietnam,2001,30.61, Asia Pacific
+Vietnam,2002,35.8, Asia Pacific
+Vietnam,2003,40.92, Asia Pacific
+Vietnam,2004,46.21, Asia Pacific
+Vietnam,2005,52.08, Asia Pacific
+Vietnam,2006,57.92, Asia Pacific
+Vietnam,2007,64.15, Asia Pacific
+Vietnam,2008,70.96, Asia Pacific
+Vietnam,2009,80.64, Asia Pacific
+Vietnam,2010,91.72, Asia Pacific
+Vietnam,2011,101.5, Asia Pacific
+Vietnam,2012,115.15, Asia Pacific
+Vietnam,2013,124.45, Asia Pacific
+Vietnam,2014,141.25, Asia Pacific
+Vietnam,2015,157.95, Asia Pacific
+Vietnam,2016,175.75, Asia Pacific
+Vietnam,2017,192.45, Asia Pacific
+Vietnam,2018,212.9, Asia Pacific
+Azerbaijan,1985,20.7, CIS
+Azerbaijan,1986,21.54, CIS
+Azerbaijan,1987,22.91, CIS
+Azerbaijan,1988,23.57, CIS
+Azerbaijan,1989,23.3, CIS
+Azerbaijan,1990,23.15, CIS
+Azerbaijan,1991,23.45, CIS
+Azerbaijan,1992,19.76, CIS
+Azerbaijan,1993,19.05, CIS
+Azerbaijan,1994,17.57, CIS
+Azerbaijan,1995,17.04, CIS
+Azerbaijan,1996,17.09, CIS
+Azerbaijan,1997,16.84, CIS
+Azerbaijan,1998,18, CIS
+Azerbaijan,1999,18.18, CIS
+Azerbaijan,2000,18.7, CIS
+Azerbaijan,2001,18.97, CIS
+Azerbaijan,2002,18.7, CIS
+Azerbaijan,2003,21.29, CIS
+Azerbaijan,2004,21.74, CIS
+Azerbaijan,2005,22.87, CIS
+Azerbaijan,2006,24.54, CIS
+Azerbaijan,2007,21.85, CIS
+Azerbaijan,2008,21.64, CIS
+Azerbaijan,2009,18.87, CIS
+Azerbaijan,2010,18.71, CIS
+Azerbaijan,2011,20.29, CIS
+Azerbaijan,2012,22.99, CIS
+Azerbaijan,2013,23.35, CIS
+Azerbaijan,2014,24.73, CIS
+Azerbaijan,2015,24.69, CIS
+Azerbaijan,2016,24.95, CIS
+Azerbaijan,2017,24.32, CIS
+Azerbaijan,2018,25.2, CIS
+Belarus,1985,33.17, CIS
+Belarus,1986,36.28, CIS
+Belarus,1987,37.45, CIS
+Belarus,1988,38.15, CIS
+Belarus,1989,38.49, CIS
+Belarus,1990,39.53, CIS
+Belarus,1991,38.73, CIS
+Belarus,1992,37.59, CIS
+Belarus,1993,33.37, CIS
+Belarus,1994,31.4, CIS
+Belarus,1995,24.92, CIS
+Belarus,1996,23.73, CIS
+Belarus,1997,26.06, CIS
+Belarus,1998,23.49, CIS
+Belarus,1999,26.52, CIS
+Belarus,2000,26.1, CIS
+Belarus,2001,25.06, CIS
+Belarus,2002,26.46, CIS
+Belarus,2003,26.63, CIS
+Belarus,2004,31.21, CIS
+Belarus,2005,30.96, CIS
+Belarus,2006,31.81, CIS
+Belarus,2007,31.83, CIS
+Belarus,2008,35.05, CIS
+Belarus,2009,30.41, CIS
+Belarus,2010,34.89, CIS
+Belarus,2011,32.2, CIS
+Belarus,2012,30.79, CIS
+Belarus,2013,31.5, CIS
+Belarus,2014,34.74, CIS
+Belarus,2015,34.23, CIS
+Belarus,2016,33.57, CIS
+Belarus,2017,34.52, CIS
+Belarus,2018,38.79, CIS
+Kazakhstan,1985,81.26, CIS
+Kazakhstan,1986,85.09, CIS
+Kazakhstan,1987,88.49, CIS
+Kazakhstan,1988,88.42, CIS
+Kazakhstan,1989,89.66, CIS
+Kazakhstan,1990,87.38, CIS
+Kazakhstan,1991,85.99, CIS
+Kazakhstan,1992,83.17, CIS
+Kazakhstan,1993,77.89, CIS
+Kazakhstan,1994,66.78, CIS
+Kazakhstan,1995,66.74, CIS
+Kazakhstan,1996,58.75, CIS
+Kazakhstan,1997,52, CIS
+Kazakhstan,1998,49.8, CIS
+Kazakhstan,1999,47.3, CIS
+Kazakhstan,2000,51.64, CIS
+Kazakhstan,2001,55.38, CIS
+Kazakhstan,2002,58.33, CIS
+Kazakhstan,2003,63.87, CIS
+Kazakhstan,2004,66.94, CIS
+Kazakhstan,2005,67.92, CIS
+Kazakhstan,2006,71.67, CIS
+Kazakhstan,2007,76.62, CIS
+Kazakhstan,2008,80.35, CIS
+Kazakhstan,2009,78.73, CIS
+Kazakhstan,2010,82.65, CIS
+Kazakhstan,2011,86.59, CIS
+Kazakhstan,2012,90.61, CIS
+Kazakhstan,2013,92.62, CIS
+Kazakhstan,2014,94.64, CIS
+Kazakhstan,2015,91.65, CIS
+Kazakhstan,2016,94.64, CIS
+Kazakhstan,2017,103.14, CIS
+Kazakhstan,2018,107.06, CIS
+Other CIS,1985,57.65, CIS
+Other CIS,1986,56.96, CIS
+Other CIS,1987,57.66, CIS
+Other CIS,1988,65.18, CIS
+Other CIS,1989,59.31, CIS
+Other CIS,1990,60.46, CIS
+Other CIS,1991,57.87, CIS
+Other CIS,1992,52.57, CIS
+Other CIS,1993,47.1, CIS
+Other CIS,1994,45.21, CIS
+Other CIS,1995,42.24, CIS
+Other CIS,1996,44.29, CIS
+Other CIS,1997,40.76, CIS
+Other CIS,1998,39.52, CIS
+Other CIS,1999,41.69, CIS
+Other CIS,2000,40.69, CIS
+Other CIS,2001,39.8, CIS
+Other CIS,2002,38.48, CIS
+Other CIS,2003,42, CIS
+Other CIS,2004,43.5, CIS
+Other CIS,2005,44.28, CIS
+Other CIS,2006,43.49, CIS
+Other CIS,2007,44.13, CIS
+Other CIS,2008,39.73, CIS
+Other CIS,2009,39.07, CIS
+Other CIS,2010,41.07, CIS
+Other CIS,2011,44.6, CIS
+Other CIS,2012,45.96, CIS
+Other CIS,2013,43.3, CIS
+Other CIS,2014,44.1, CIS
+Other CIS,2015,44.02, CIS
+Other CIS,2016,43.46, CIS
+Other CIS,2017,47.05, CIS
+Other CIS,2018,48.91, CIS
+Russian Federation,1985,962, CIS
+Russian Federation,1986,1001.4, CIS
+Russian Federation,1987,1047.3, CIS
+Russian Federation,1988,1065.5, CIS
+Russian Federation,1989,1076.5, CIS
+Russian Federation,1990,1082.2, CIS
+Russian Federation,1991,1068.16, CIS
+Russian Federation,1992,1008.45, CIS
+Russian Federation,1993,956.59, CIS
+Russian Federation,1994,875.91, CIS
+Russian Federation,1995,860.03, CIS
+Russian Federation,1996,847.18, CIS
+Russian Federation,1997,834.13, CIS
+Russian Federation,1998,827.16, CIS
+Russian Federation,1999,846.23, CIS
+Russian Federation,2000,877.76, CIS
+Russian Federation,2001,891.28, CIS
+Russian Federation,2002,891.29, CIS
+Russian Federation,2003,916.29, CIS
+Russian Federation,2004,931.9, CIS
+Russian Federation,2005,954.1, CIS
+Russian Federation,2006,992.1, CIS
+Russian Federation,2007,1018.7, CIS
+Russian Federation,2008,1040, CIS
+Russian Federation,2009,993.1, CIS
+Russian Federation,2010,1038.03, CIS
+Russian Federation,2011,1054.86, CIS
+Russian Federation,2012,1069.29, CIS
+Russian Federation,2013,1059.09, CIS
+Russian Federation,2014,1064.2, CIS
+Russian Federation,2015,1067.54, CIS
+Russian Federation,2016,1090.97, CIS
+Russian Federation,2017,1089.57, CIS
+Russian Federation,2018,1110.76, CIS
+Turkmenistan,1985,10.99, CIS
+Turkmenistan,1986,12.4, CIS
+Turkmenistan,1987,13.27, CIS
+Turkmenistan,1988,12.89, CIS
+Turkmenistan,1989,14.51, CIS
+Turkmenistan,1990,14.61, CIS
+Turkmenistan,1991,14.9, CIS
+Turkmenistan,1992,13.1, CIS
+Turkmenistan,1993,12.64, CIS
+Turkmenistan,1994,10.5, CIS
+Turkmenistan,1995,9.8, CIS
+Turkmenistan,1996,10.1, CIS
+Turkmenistan,1997,9.5, CIS
+Turkmenistan,1998,9.42, CIS
+Turkmenistan,1999,8.86, CIS
+Turkmenistan,2000,9.94, CIS
+Turkmenistan,2001,10.61, CIS
+Turkmenistan,2002,10.71, CIS
+Turkmenistan,2003,10.92, CIS
+Turkmenistan,2004,11.98, CIS
+Turkmenistan,2005,12.82, CIS
+Turkmenistan,2006,13.65, CIS
+Turkmenistan,2007,14.88, CIS
+Turkmenistan,2008,15, CIS
+Turkmenistan,2009,16, CIS
+Turkmenistan,2010,16.7, CIS
+Turkmenistan,2011,17.2, CIS
+Turkmenistan,2012,17.8, CIS
+Turkmenistan,2013,18.9, CIS
+Turkmenistan,2014,20.1, CIS
+Turkmenistan,2015,21.5, CIS
+Turkmenistan,2016,22.6, CIS
+Turkmenistan,2017,22.8, CIS
+Turkmenistan,2018,24.2, CIS
+Uzbekistan,1985,47.94, CIS
+Uzbekistan,1986,52.17, CIS
+Uzbekistan,1987,54.76, CIS
+Uzbekistan,1988,50.59, CIS
+Uzbekistan,1989,55.87, CIS
+Uzbekistan,1990,56.33, CIS
+Uzbekistan,1991,54.16, CIS
+Uzbekistan,1992,50.91, CIS
+Uzbekistan,1993,49.15, CIS
+Uzbekistan,1994,47.8, CIS
+Uzbekistan,1995,47.45, CIS
+Uzbekistan,1996,45.42, CIS
+Uzbekistan,1997,46.05, CIS
+Uzbekistan,1998,45.9, CIS
+Uzbekistan,1999,45.37, CIS
+Uzbekistan,2000,46.86, CIS
+Uzbekistan,2001,47.96, CIS
+Uzbekistan,2002,49.31, CIS
+Uzbekistan,2003,48.71, CIS
+Uzbekistan,2004,49.68, CIS
+Uzbekistan,2005,47.63, CIS
+Uzbekistan,2006,49.37, CIS
+Uzbekistan,2007,49.03, CIS
+Uzbekistan,2008,50.18, CIS
+Uzbekistan,2009,50.06, CIS
+Uzbekistan,2010,51.94, CIS
+Uzbekistan,2011,52.77, CIS
+Uzbekistan,2012,52.96, CIS
+Uzbekistan,2013,54.9, CIS
+Uzbekistan,2014,55.4, CIS
+Uzbekistan,2015,57.28, CIS
+Uzbekistan,2016,58.32, CIS
+Uzbekistan,2017,60.29, CIS
+Uzbekistan,2018,62.44, CIS
+Austria,1985,44.53, Europe
+Austria,1986,44.65, Europe
+Austria,1987,50.52, Europe
+Austria,1988,49.02, Europe
+Austria,1989,50.17, Europe
+Austria,1990,50.41, Europe
+Austria,1991,51.48, Europe
+Austria,1992,51.18, Europe
+Austria,1993,52.67, Europe
+Austria,1994,53.31, Europe
+Austria,1995,56.59, Europe
+Austria,1996,54.84, Europe
+Austria,1997,56.85, Europe
+Austria,1998,57.44, Europe
+Austria,1999,60.37, Europe
+Austria,2000,61.8, Europe
+Austria,2001,62.25, Europe
+Austria,2002,62.45, Europe
+Austria,2003,60.62, Europe
+Austria,2004,64.86, Europe
+Austria,2005,66.74, Europe
+Austria,2006,64.36, Europe
+Austria,2007,64.85, Europe
+Austria,2008,66.93, Europe
+Austria,2009,69.06, Europe
+Austria,2010,71.07, Europe
+Austria,2011,65.85, Europe
+Austria,2012,72.39, Europe
+Austria,2013,68.04, Europe
+Austria,2014,65.11, Europe
+Austria,2015,64.95, Europe
+Austria,2016,67.92, Europe
+Austria,2017,70.82, Europe
+Austria,2018,68.19, Europe
+Belgium,1985,57.32, Europe
+Belgium,1986,58.68, Europe
+Belgium,1987,63.37, Europe
+Belgium,1988,65.35, Europe
+Belgium,1989,67.55, Europe
+Belgium,1990,70.92, Europe
+Belgium,1991,71.94, Europe
+Belgium,1992,72.22, Europe
+Belgium,1993,70.83, Europe
+Belgium,1994,72.18, Europe
+Belgium,1995,74.41, Europe
+Belgium,1996,76.1, Europe
+Belgium,1997,78.83, Europe
+Belgium,1998,83.18, Europe
+Belgium,1999,84.51, Europe
+Belgium,2000,84.01, Europe
+Belgium,2001,79.82, Europe
+Belgium,2002,82.07, Europe
+Belgium,2003,84.63, Europe
+Belgium,2004,85.64, Europe
+Belgium,2005,87.03, Europe
+Belgium,2006,85.62, Europe
+Belgium,2007,88.82, Europe
+Belgium,2008,84.93, Europe
+Belgium,2009,91.23, Europe
+Belgium,2010,95.19, Europe
+Belgium,2011,90.24, Europe
+Belgium,2012,82.92, Europe
+Belgium,2013,83.49, Europe
+Belgium,2014,72.67, Europe
+Belgium,2015,69.85, Europe
+Belgium,2016,85.7, Europe
+Belgium,2017,86.48, Europe
+Belgium,2018,74.61, Europe
+Bulgaria,1985,41.63, Europe
+Bulgaria,1986,41.82, Europe
+Bulgaria,1987,43.47, Europe
+Bulgaria,1988,45.02, Europe
+Bulgaria,1989,44.33, Europe
+Bulgaria,1990,42.14, Europe
+Bulgaria,1991,40.86, Europe
+Bulgaria,1992,35.61, Europe
+Bulgaria,1993,38, Europe
+Bulgaria,1994,38.13, Europe
+Bulgaria,1995,41.79, Europe
+Bulgaria,1996,42.72, Europe
+Bulgaria,1997,42.8, Europe
+Bulgaria,1998,41.71, Europe
+Bulgaria,1999,38.25, Europe
+Bulgaria,2000,40.92, Europe
+Bulgaria,2001,43.97, Europe
+Bulgaria,2002,42.68, Europe
+Bulgaria,2003,42.6, Europe
+Bulgaria,2004,41.62, Europe
+Bulgaria,2005,44.37, Europe
+Bulgaria,2006,45.84, Europe
+Bulgaria,2007,43.3, Europe
+Bulgaria,2008,45.04, Europe
+Bulgaria,2009,42.96, Europe
+Bulgaria,2010,46.65, Europe
+Bulgaria,2011,50.8, Europe
+Bulgaria,2012,47.33, Europe
+Bulgaria,2013,43.78, Europe
+Bulgaria,2014,47.48, Europe
+Bulgaria,2015,49.23, Europe
+Bulgaria,2016,45.28, Europe
+Bulgaria,2017,45.58, Europe
+Bulgaria,2018,46.79, Europe
+Croatia,1985,, Europe
+Croatia,1986,, Europe
+Croatia,1987,, Europe
+Croatia,1988,, Europe
+Croatia,1989,, Europe
+Croatia,1990,8.75, Europe
+Croatia,1991,8.94, Europe
+Croatia,1992,8.9, Europe
+Croatia,1993,9.56, Europe
+Croatia,1994,8.77, Europe
+Croatia,1995,9.28, Europe
+Croatia,1996,11.17, Europe
+Croatia,1997,10.25, Europe
+Croatia,1998,11.46, Europe
+Croatia,1999,12.98, Europe
+Croatia,2000,11.28, Europe
+Croatia,2001,12.81, Europe
+Croatia,2002,12.77, Europe
+Croatia,2003,13.25, Europe
+Croatia,2004,13.99, Europe
+Croatia,2005,13.16, Europe
+Croatia,2006,13.05, Europe
+Croatia,2007,12.71, Europe
+Croatia,2008,12.89, Europe
+Croatia,2009,13.46, Europe
+Croatia,2010,14.9, Europe
+Croatia,2011,11.37, Europe
+Croatia,2012,10.76, Europe
+Croatia,2013,14.05, Europe
+Croatia,2014,13.55, Europe
+Croatia,2015,11.4, Europe
+Croatia,2016,12.82, Europe
+Croatia,2017,11.98, Europe
+Croatia,2018,13.76, Europe
+Cyprus,1985,1.32, Europe
+Cyprus,1986,1.42, Europe
+Cyprus,1987,1.5, Europe
+Cyprus,1988,1.65, Europe
+Cyprus,1989,1.83, Europe
+Cyprus,1990,1.97, Europe
+Cyprus,1991,2.08, Europe
+Cyprus,1992,2.43, Europe
+Cyprus,1993,2.59, Europe
+Cyprus,1994,2.68, Europe
+Cyprus,1995,2.5, Europe
+Cyprus,1996,2.61, Europe
+Cyprus,1997,2.73, Europe
+Cyprus,1998,2.99, Europe
+Cyprus,1999,3.14, Europe
+Cyprus,2000,3.37, Europe
+Cyprus,2001,3.55, Europe
+Cyprus,2002,3.79, Europe
+Cyprus,2003,4.05, Europe
+Cyprus,2004,4.2, Europe
+Cyprus,2005,4.38, Europe
+Cyprus,2006,4.65, Europe
+Cyprus,2007,4.87, Europe
+Cyprus,2008,5.08, Europe
+Cyprus,2009,5.21, Europe
+Cyprus,2010,5.32, Europe
+Cyprus,2011,4.93, Europe
+Cyprus,2012,4.72, Europe
+Cyprus,2013,4.29, Europe
+Cyprus,2014,4.35, Europe
+Cyprus,2015,4.53, Europe
+Cyprus,2016,4.89, Europe
+Cyprus,2017,5, Europe
+Cyprus,2018,5.05, Europe
+Czech Republic,1985,58.12, Europe
+Czech Republic,1986,60.61, Europe
+Czech Republic,1987,62.2, Europe
+Czech Republic,1988,64.33, Europe
+Czech Republic,1989,65.13, Europe
+Czech Republic,1990,62.56, Europe
+Czech Republic,1991,60.53, Europe
+Czech Republic,1992,59.29, Europe
+Czech Republic,1993,58.88, Europe
+Czech Republic,1994,58.7, Europe
+Czech Republic,1995,60.85, Europe
+Czech Republic,1996,64.26, Europe
+Czech Republic,1997,64.6, Europe
+Czech Republic,1998,64.93, Europe
+Czech Republic,1999,64.69, Europe
+Czech Republic,2000,73.47, Europe
+Czech Republic,2001,74.65, Europe
+Czech Republic,2002,76.35, Europe
+Czech Republic,2003,83.23, Europe
+Czech Republic,2004,84.33, Europe
+Czech Republic,2005,82.58, Europe
+Czech Republic,2006,84.36, Europe
+Czech Republic,2007,88.02, Europe
+Czech Republic,2008,83.52, Europe
+Czech Republic,2009,82.25, Europe
+Czech Republic,2010,85.9, Europe
+Czech Republic,2011,87.56, Europe
+Czech Republic,2012,87.57, Europe
+Czech Republic,2013,87.06, Europe
+Czech Republic,2014,86, Europe
+Czech Republic,2015,83.89, Europe
+Czech Republic,2016,83.3, Europe
+Czech Republic,2017,87.04, Europe
+Czech Republic,2018,88, Europe
+Denmark,1985,29.14, Europe
+Denmark,1986,30.78, Europe
+Denmark,1987,29.49, Europe
+Denmark,1988,28.07, Europe
+Denmark,1989,22.93, Europe
+Denmark,1990,25.98, Europe
+Denmark,1991,36.54, Europe
+Denmark,1992,30.73, Europe
+Denmark,1993,33.97, Europe
+Denmark,1994,40.2, Europe
+Denmark,1995,36.66, Europe
+Denmark,1996,53.58, Europe
+Denmark,1997,44.31, Europe
+Denmark,1998,41.11, Europe
+Denmark,1999,38.91, Europe
+Denmark,2000,36.05, Europe
+Denmark,2001,37.73, Europe
+Denmark,2002,39.28, Europe
+Denmark,2003,46.18, Europe
+Denmark,2004,40.44, Europe
+Denmark,2005,36.24, Europe
+Denmark,2006,45.6, Europe
+Denmark,2007,39.32, Europe
+Denmark,2008,36.62, Europe
+Denmark,2009,36.38, Europe
+Denmark,2010,38.86, Europe
+Denmark,2011,35.23, Europe
+Denmark,2012,30.7, Europe
+Denmark,2013,34.74, Europe
+Denmark,2014,32.18, Europe
+Denmark,2015,28.93, Europe
+Denmark,2016,30.54, Europe
+Denmark,2017,31.04, Europe
+Denmark,2018,30.49, Europe
+Estonia,1985,17.83, Europe
+Estonia,1986,17.95, Europe
+Estonia,1987,17.9, Europe
+Estonia,1988,17.63, Europe
+Estonia,1989,17.61, Europe
+Estonia,1990,17.18, Europe
+Estonia,1991,14.63, Europe
+Estonia,1992,11.83, Europe
+Estonia,1993,9.12, Europe
+Estonia,1994,9.15, Europe
+Estonia,1995,8.69, Europe
+Estonia,1996,9.1, Europe
+Estonia,1997,9.22, Europe
+Estonia,1998,8.52, Europe
+Estonia,1999,8.27, Europe
+Estonia,2000,8.51, Europe
+Estonia,2001,8.48, Europe
+Estonia,2002,8.53, Europe
+Estonia,2003,10.16, Europe
+Estonia,2004,10.3, Europe
+Estonia,2005,10.21, Europe
+Estonia,2006,9.73, Europe
+Estonia,2007,12.19, Europe
+Estonia,2008,10.58, Europe
+Estonia,2009,8.78, Europe
+Estonia,2010,12.96, Europe
+Estonia,2011,12.89, Europe
+Estonia,2012,11.97, Europe
+Estonia,2013,13.28, Europe
+Estonia,2014,12.45, Europe
+Estonia,2015,10.42, Europe
+Estonia,2016,12.18, Europe
+Estonia,2017,13.15, Europe
+Estonia,2018,12.44, Europe
+Finland,1985,49.39, Europe
+Finland,1986,48.95, Europe
+Finland,1987,53.02, Europe
+Finland,1988,53.49, Europe
+Finland,1989,53.36, Europe
+Finland,1990,54.28, Europe
+Finland,1991,57.98, Europe
+Finland,1992,57.64, Europe
+Finland,1993,60.98, Europe
+Finland,1994,65.54, Europe
+Finland,1995,64.41, Europe
+Finland,1996,69.09, Europe
+Finland,1997,69.15, Europe
+Finland,1998,70.44, Europe
+Finland,1999,69.41, Europe
+Finland,2000,70.47, Europe
+Finland,2001,74.81, Europe
+Finland,2002,75.37, Europe
+Finland,2003,84.74, Europe
+Finland,2004,86.29, Europe
+Finland,2005,70.84, Europe
+Finland,2006,82.66, Europe
+Finland,2007,81.68, Europe
+Finland,2008,77.8, Europe
+Finland,2009,72.55, Europe
+Finland,2010,81.05, Europe
+Finland,2011,73.7, Europe
+Finland,2012,70.48, Europe
+Finland,2013,71.4, Europe
+Finland,2014,68.22, Europe
+Finland,2015,68.8, Europe
+Finland,2016,68.81, Europe
+Finland,2017,67.09, Europe
+Finland,2018,69.59, Europe
+France,1985,343.48, Europe
+France,1986,362.23, Europe
+France,1987,377.87, Europe
+France,1988,391.63, Europe
+France,1989,406.14, Europe
+France,1990,420.75, Europe
+France,1991,455.56, Europe
+France,1992,463.64, Europe
+France,1993,472.71, Europe
+France,1994,476.87, Europe
+France,1995,494.27, Europe
+France,1996,513.4, Europe
+France,1997,504.77, Europe
+France,1998,511.28, Europe
+France,1999,525.81, Europe
+France,2000,539.95, Europe
+France,2001,549.53, Europe
+France,2002,559.06, Europe
+France,2003,566.84, Europe
+France,2004,574.05, Europe
+France,2005,576.06, Europe
+France,2006,574.87, Europe
+France,2007,569.77, Europe
+France,2008,573.81, Europe
+France,2009,535.94, Europe
+France,2010,569.29, Europe
+France,2011,564.99, Europe
+France,2012,564.48, Europe
+France,2013,573.85, Europe
+France,2014,564.15, Europe
+France,2015,570.32, Europe
+France,2016,556.18, Europe
+France,2017,554.07, Europe
+France,2018,574.17, Europe
+Germany,1985,522.53, Europe
+Germany,1986,523.56, Europe
+Germany,1987,532.44, Europe
+Germany,1988,549.49, Europe
+Germany,1989,559.87, Europe
+Germany,1990,549.9, Europe
+Germany,1991,540.22, Europe
+Germany,1992,538.17, Europe
+Germany,1993,527.12, Europe
+Germany,1994,528.47, Europe
+Germany,1995,536.82, Europe
+Germany,1996,552.67, Europe
+Germany,1997,552.32, Europe
+Germany,1998,557.22, Europe
+Germany,1999,556.3, Europe
+Germany,2000,576.56, Europe
+Germany,2001,586.41, Europe
+Germany,2002,586.69, Europe
+Germany,2003,608.78, Europe
+Germany,2004,617.47, Europe
+Germany,2005,622.58, Europe
+Germany,2006,639.57, Europe
+Germany,2007,640.58, Europe
+Germany,2008,640.69, Europe
+Germany,2009,595.62, Europe
+Germany,2010,633.09, Europe
+Germany,2011,613.07, Europe
+Germany,2012,630.15, Europe
+Germany,2013,638.73, Europe
+Germany,2014,627.77, Europe
+Germany,2015,648.15, Europe
+Germany,2016,650.71, Europe
+Germany,2017,653.65, Europe
+Germany,2018,648.7, Europe
+Greece,1985,27.74, Europe
+Greece,1986,28.24, Europe
+Greece,1987,30.27, Europe
+Greece,1988,33.39, Europe
+Greece,1989,34.46, Europe
+Greece,1990,35, Europe
+Greece,1991,35.81, Europe
+Greece,1992,37.41, Europe
+Greece,1993,38.4, Europe
+Greece,1994,40.62, Europe
+Greece,1995,41.55, Europe
+Greece,1996,42.56, Europe
+Greece,1997,43.51, Europe
+Greece,1998,46.33, Europe
+Greece,1999,49.62, Europe
+Greece,2000,53.84, Europe
+Greece,2001,53.7, Europe
+Greece,2002,54.61, Europe
+Greece,2003,58.48, Europe
+Greece,2004,59.35, Europe
+Greece,2005,60.02, Europe
+Greece,2006,60.79, Europe
+Greece,2007,63.5, Europe
+Greece,2008,63.75, Europe
+Greece,2009,61.37, Europe
+Greece,2010,57.39, Europe
+Greece,2011,59.44, Europe
+Greece,2012,60.96, Europe
+Greece,2013,57.15, Europe
+Greece,2014,50.47, Europe
+Greece,2015,51.87, Europe
+Greece,2016,54.44, Europe
+Greece,2017,55.27, Europe
+Greece,2018,54.15, Europe
+Hungary,1985,26.79, Europe
+Hungary,1986,28.04, Europe
+Hungary,1987,29.75, Europe
+Hungary,1988,29.23, Europe
+Hungary,1989,29.6, Europe
+Hungary,1990,28.44, Europe
+Hungary,1991,29.96, Europe
+Hungary,1992,31.68, Europe
+Hungary,1993,32.91, Europe
+Hungary,1994,33.52, Europe
+Hungary,1995,34.02, Europe
+Hungary,1996,35.09, Europe
+Hungary,1997,35.4, Europe
+Hungary,1998,37.19, Europe
+Hungary,1999,37.83, Europe
+Hungary,2000,35.19, Europe
+Hungary,2001,36.41, Europe
+Hungary,2002,36.16, Europe
+Hungary,2003,34.15, Europe
+Hungary,2004,33.71, Europe
+Hungary,2005,35.76, Europe
+Hungary,2006,35.86, Europe
+Hungary,2007,39.96, Europe
+Hungary,2008,40.02, Europe
+Hungary,2009,35.91, Europe
+Hungary,2010,37.37, Europe
+Hungary,2011,36.02, Europe
+Hungary,2012,34.63, Europe
+Hungary,2013,30.29, Europe
+Hungary,2014,29.4, Europe
+Hungary,2015,30.36, Europe
+Hungary,2016,31.9, Europe
+Hungary,2017,32.87, Europe
+Hungary,2018,31.98, Europe
+Iceland,1985,3.84, Europe
+Iceland,1986,4.06, Europe
+Iceland,1987,4.15, Europe
+Iceland,1988,4.42, Europe
+Iceland,1989,4.48, Europe
+Iceland,1990,4.45, Europe
+Iceland,1991,4.43, Europe
+Iceland,1992,4.54, Europe
+Iceland,1993,4.72, Europe
+Iceland,1994,4.77, Europe
+Iceland,1995,4.98, Europe
+Iceland,1996,5.11, Europe
+Iceland,1997,5.58, Europe
+Iceland,1998,6.27, Europe
+Iceland,1999,7.18, Europe
+Iceland,2000,7.68, Europe
+Iceland,2001,8.03, Europe
+Iceland,2002,8.41, Europe
+Iceland,2003,8.49, Europe
+Iceland,2004,8.62, Europe
+Iceland,2005,8.68, Europe
+Iceland,2006,9.92, Europe
+Iceland,2007,11.98, Europe
+Iceland,2008,16.47, Europe
+Iceland,2009,16.84, Europe
+Iceland,2010,17.06, Europe
+Iceland,2011,17.21, Europe
+Iceland,2012,17.55, Europe
+Iceland,2013,18.12, Europe
+Iceland,2014,18.12, Europe
+Iceland,2015,18.8, Europe
+Iceland,2016,18.55, Europe
+Iceland,2017,19.24, Europe
+Iceland,2018,19.86, Europe
+Ireland,1985,12.09, Europe
+Ireland,1986,12.65, Europe
+Ireland,1987,13.06, Europe
+Ireland,1988,13.23, Europe
+Ireland,1989,13.83, Europe
+Ireland,1990,14.5, Europe
+Ireland,1991,15.14, Europe
+Ireland,1992,16, Europe
+Ireland,1993,16.38, Europe
+Ireland,1994,17.09, Europe
+Ireland,1995,17.84, Europe
+Ireland,1996,19.16, Europe
+Ireland,1997,19.96, Europe
+Ireland,1998,21.15, Europe
+Ireland,1999,22.01, Europe
+Ireland,2000,23.98, Europe
+Ireland,2001,24.96, Europe
+Ireland,2002,25.2, Europe
+Ireland,2003,25.24, Europe
+Ireland,2004,25.6, Europe
+Ireland,2005,25.98, Europe
+Ireland,2006,27.5, Europe
+Ireland,2007,28.74, Europe
+Ireland,2008,30.26, Europe
+Ireland,2009,28.35, Europe
+Ireland,2010,28.69, Europe
+Ireland,2011,27.48, Europe
+Ireland,2012,27.6, Europe
+Ireland,2013,26.15, Europe
+Ireland,2014,26.32, Europe
+Ireland,2015,28.39, Europe
+Ireland,2016,30.42, Europe
+Ireland,2017,30.87, Europe
+Ireland,2018,30.87, Europe
+Italy,1985,185.74, Europe
+Italy,1986,192.33, Europe
+Italy,1987,201.37, Europe
+Italy,1988,203.56, Europe
+Italy,1989,210.75, Europe
+Italy,1990,216.89, Europe
+Italy,1991,222.04, Europe
+Italy,1992,226.24, Europe
+Italy,1993,222.79, Europe
+Italy,1994,231.8, Europe
+Italy,1995,241.48, Europe
+Italy,1996,244.49, Europe
+Italy,1997,251.46, Europe
+Italy,1998,259.76, Europe
+Italy,1999,265.66, Europe
+Italy,2000,276.63, Europe
+Italy,2001,279, Europe
+Italy,2002,284.4, Europe
+Italy,2003,293.87, Europe
+Italy,2004,303.32, Europe
+Italy,2005,303.67, Europe
+Italy,2006,314.09, Europe
+Italy,2007,313.9, Europe
+Italy,2008,319.13, Europe
+Italy,2009,292.64, Europe
+Italy,2010,302.06, Europe
+Italy,2011,302.57, Europe
+Italy,2012,299.28, Europe
+Italy,2013,289.8, Europe
+Italy,2014,279.83, Europe
+Italy,2015,282.99, Europe
+Italy,2016,289.77, Europe
+Italy,2017,295.83, Europe
+Italy,2018,290.61, Europe
+Latvia,1985,4.96, Europe
+Latvia,1986,5.18, Europe
+Latvia,1987,5.94, Europe
+Latvia,1988,5.11, Europe
+Latvia,1989,5.8, Europe
+Latvia,1990,6.65, Europe
+Latvia,1991,5.64, Europe
+Latvia,1992,3.83, Europe
+Latvia,1993,3.92, Europe
+Latvia,1994,4.44, Europe
+Latvia,1995,3.98, Europe
+Latvia,1996,3.13, Europe
+Latvia,1997,4.51, Europe
+Latvia,1998,5.8, Europe
+Latvia,1999,4.11, Europe
+Latvia,2000,4.14, Europe
+Latvia,2001,4.28, Europe
+Latvia,2002,3.98, Europe
+Latvia,2003,3.98, Europe
+Latvia,2004,4.69, Europe
+Latvia,2005,4.91, Europe
+Latvia,2006,4.89, Europe
+Latvia,2007,4.77, Europe
+Latvia,2008,5.27, Europe
+Latvia,2009,5.57, Europe
+Latvia,2010,6.63, Europe
+Latvia,2011,6.09, Europe
+Latvia,2012,6.17, Europe
+Latvia,2013,6.21, Europe
+Latvia,2014,5.14, Europe
+Latvia,2015,5.53, Europe
+Latvia,2016,6.42, Europe
+Latvia,2017,7.53, Europe
+Latvia,2018,6.67, Europe
+Lithuania,1985,20.96, Europe
+Lithuania,1986,22.42, Europe
+Lithuania,1987,22.75, Europe
+Lithuania,1988,26, Europe
+Lithuania,1989,29.16, Europe
+Lithuania,1990,28.41, Europe
+Lithuania,1991,29.36, Europe
+Lithuania,1992,18.71, Europe
+Lithuania,1993,14.11, Europe
+Lithuania,1994,10, Europe
+Lithuania,1995,13.84, Europe
+Lithuania,1996,16.79, Europe
+Lithuania,1997,14.86, Europe
+Lithuania,1998,17.63, Europe
+Lithuania,1999,13.54, Europe
+Lithuania,2000,11.43, Europe
+Lithuania,2001,14.74, Europe
+Lithuania,2002,17.72, Europe
+Lithuania,2003,19.49, Europe
+Lithuania,2004,19.27, Europe
+Lithuania,2005,14.78, Europe
+Lithuania,2006,12.48, Europe
+Lithuania,2007,14.01, Europe
+Lithuania,2008,14.01, Europe
+Lithuania,2009,15.36, Europe
+Lithuania,2010,5.75, Europe
+Lithuania,2011,4.82, Europe
+Lithuania,2012,5.04, Europe
+Lithuania,2013,4.76, Europe
+Lithuania,2014,4.4, Europe
+Lithuania,2015,4.93, Europe
+Lithuania,2016,4.27, Europe
+Lithuania,2017,4.19, Europe
+Lithuania,2018,3.52, Europe
+Luxembourg,1985,0.94, Europe
+Luxembourg,1986,1.02, Europe
+Luxembourg,1987,1.04, Europe
+Luxembourg,1988,1.33, Europe
+Luxembourg,1989,1.38, Europe
+Luxembourg,1990,1.38, Europe
+Luxembourg,1991,1.42, Europe
+Luxembourg,1992,1.2, Europe
+Luxembourg,1993,1.07, Europe
+Luxembourg,1994,1.15, Europe
+Luxembourg,1995,1.23, Europe
+Luxembourg,1996,1.26, Europe
+Luxembourg,1997,1.26, Europe
+Luxembourg,1998,1.3, Europe
+Luxembourg,1999,1.02, Europe
+Luxembourg,2000,1.17, Europe
+Luxembourg,2001,1.62, Europe
+Luxembourg,2002,3.7, Europe
+Luxembourg,2003,3.62, Europe
+Luxembourg,2004,4.13, Europe
+Luxembourg,2005,4.13, Europe
+Luxembourg,2006,4.33, Europe
+Luxembourg,2007,4, Europe
+Luxembourg,2008,3.56, Europe
+Luxembourg,2009,3.88, Europe
+Luxembourg,2010,4.59, Europe
+Luxembourg,2011,3.72, Europe
+Luxembourg,2012,3.82, Europe
+Luxembourg,2013,2.89, Europe
+Luxembourg,2014,2.96, Europe
+Luxembourg,2015,2.77, Europe
+Luxembourg,2016,2.2, Europe
+Luxembourg,2017,2.24, Europe
+Luxembourg,2018,2.26, Europe
+Netherlands,1985,62.98, Europe
+Netherlands,1986,67.17, Europe
+Netherlands,1987,68.45, Europe
+Netherlands,1988,69.65, Europe
+Netherlands,1989,73.08, Europe
+Netherlands,1990,71.89, Europe
+Netherlands,1991,74.28, Europe
+Netherlands,1992,77.23, Europe
+Netherlands,1993,76.99, Europe
+Netherlands,1994,79.68, Europe
+Netherlands,1995,81.06, Europe
+Netherlands,1996,85.23, Europe
+Netherlands,1997,86.66, Europe
+Netherlands,1998,92.01, Europe
+Netherlands,1999,87.62, Europe
+Netherlands,2000,90.18, Europe
+Netherlands,2001,94.07, Europe
+Netherlands,2002,95.08, Europe
+Netherlands,2003,98.14, Europe
+Netherlands,2004,102.14, Europe
+Netherlands,2005,100.77, Europe
+Netherlands,2006,98.83, Europe
+Netherlands,2007,105.16, Europe
+Netherlands,2008,108.2, Europe
+Netherlands,2009,113.5, Europe
+Netherlands,2010,118.14, Europe
+Netherlands,2011,112.97, Europe
+Netherlands,2012,102.51, Europe
+Netherlands,2013,100.88, Europe
+Netherlands,2014,103.42, Europe
+Netherlands,2015,110.09, Europe
+Netherlands,2016,115.17, Europe
+Netherlands,2017,117.26, Europe
+Netherlands,2018,117.52, Europe
+North Macedonia,1985,, Europe
+North Macedonia,1986,, Europe
+North Macedonia,1987,, Europe
+North Macedonia,1988,, Europe
+North Macedonia,1989,, Europe
+North Macedonia,1990,5.76, Europe
+North Macedonia,1991,5.77, Europe
+North Macedonia,1992,6.07, Europe
+North Macedonia,1993,5.18, Europe
+North Macedonia,1994,5.94, Europe
+North Macedonia,1995,6.13, Europe
+North Macedonia,1996,6.64, Europe
+North Macedonia,1997,6.73, Europe
+North Macedonia,1998,7.05, Europe
+North Macedonia,1999,6.86, Europe
+North Macedonia,2000,6.81, Europe
+North Macedonia,2001,6.36, Europe
+North Macedonia,2002,6.09, Europe
+North Macedonia,2003,6.74, Europe
+North Macedonia,2004,6.67, Europe
+North Macedonia,2005,6.94, Europe
+North Macedonia,2006,7.01, Europe
+North Macedonia,2007,6.5, Europe
+North Macedonia,2008,6.31, Europe
+North Macedonia,2009,6.83, Europe
+North Macedonia,2010,7.26, Europe
+North Macedonia,2011,6.76, Europe
+North Macedonia,2012,6.26, Europe
+North Macedonia,2013,6.09, Europe
+North Macedonia,2014,5.37, Europe
+North Macedonia,2015,5.65, Europe
+North Macedonia,2016,5.63, Europe
+North Macedonia,2017,5.6, Europe
+North Macedonia,2018,5.61, Europe
+Norway,1985,103.29, Europe
+Norway,1986,97.28, Europe
+Norway,1987,104.28, Europe
+Norway,1988,110.02, Europe
+Norway,1989,119.2, Europe
+Norway,1990,121.85, Europe
+Norway,1991,111.01, Europe
+Norway,1992,117.51, Europe
+Norway,1993,120.09, Europe
+Norway,1994,113.49, Europe
+Norway,1995,123.19, Europe
+Norway,1996,104.75, Europe
+Norway,1997,111.64, Europe
+Norway,1998,116.98, Europe
+Norway,1999,122.66, Europe
+Norway,2000,142.98, Europe
+Norway,2001,121.92, Europe
+Norway,2002,130.6, Europe
+Norway,2003,107.27, Europe
+Norway,2004,110.6, Europe
+Norway,2005,138.07, Europe
+Norway,2006,121.4, Europe
+Norway,2007,137.16, Europe
+Norway,2008,142.11, Europe
+Norway,2009,131.77, Europe
+Norway,2010,123.63, Europe
+Norway,2011,127.63, Europe
+Norway,2012,147.72, Europe
+Norway,2013,133.97, Europe
+Norway,2014,141.97, Europe
+Norway,2015,144.51, Europe
+Norway,2016,148.99, Europe
+Norway,2017,149.4, Europe
+Norway,2018,146.99, Europe
+Other Europe,1985,93.76, Europe
+Other Europe,1986,99.08, Europe
+Other Europe,1987,101.33, Europe
+Other Europe,1988,103.93, Europe
+Other Europe,1989,104.53, Europe
+Other Europe,1990,74.53, Europe
+Other Europe,1991,72.58, Europe
+Other Europe,1992,59.71, Europe
+Other Europe,1993,53.81, Europe
+Other Europe,1994,56.83, Europe
+Other Europe,1995,56.8, Europe
+Other Europe,1996,61.46, Europe
+Other Europe,1997,64.47, Europe
+Other Europe,1998,65.62, Europe
+Other Europe,1999,61.95, Europe
+Other Europe,2000,63.32, Europe
+Other Europe,2001,63.06, Europe
+Other Europe,2002,62.54, Europe
+Other Europe,2003,65.91, Europe
+Other Europe,2004,70.49, Europe
+Other Europe,2005,73.62, Europe
+Other Europe,2006,74.92, Europe
+Other Europe,2007,71.5, Europe
+Other Europe,2008,77.55, Europe
+Other Europe,2009,80.33, Europe
+Other Europe,2010,87.14, Europe
+Other Europe,2011,81.6, Europe
+Other Europe,2012,79.24, Europe
+Other Europe,2013,89.98, Europe
+Other Europe,2014,80, Europe
+Other Europe,2015,85.21, Europe
+Other Europe,2016,89, Europe
+Other Europe,2017,82.96, Europe
+Other Europe,2018,93.1, Europe
+Poland,1985,137.71, Europe
+Poland,1986,140.29, Europe
+Poland,1987,145.83, Europe
+Poland,1988,144.34, Europe
+Poland,1989,145.46, Europe
+Poland,1990,136.31, Europe
+Poland,1991,134.71, Europe
+Poland,1992,132.75, Europe
+Poland,1993,133.87, Europe
+Poland,1994,135.35, Europe
+Poland,1995,139.01, Europe
+Poland,1996,143.17, Europe
+Poland,1997,142.79, Europe
+Poland,1998,142.79, Europe
+Poland,1999,142.13, Europe
+Poland,2000,145.18, Europe
+Poland,2001,145.62, Europe
+Poland,2002,144.13, Europe
+Poland,2003,151.63, Europe
+Poland,2004,154.16, Europe
+Poland,2005,156.94, Europe
+Poland,2006,161.74, Europe
+Poland,2007,159.35, Europe
+Poland,2008,155.31, Europe
+Poland,2009,151.72, Europe
+Poland,2010,157.66, Europe
+Poland,2011,163.55, Europe
+Poland,2012,162.14, Europe
+Poland,2013,164.56, Europe
+Poland,2014,159.06, Europe
+Poland,2015,164.94, Europe
+Poland,2016,166.63, Europe
+Poland,2017,170.47, Europe
+Poland,2018,170.14, Europe
+Portugal,1985,18.9, Europe
+Portugal,1986,20.36, Europe
+Portugal,1987,20.14, Europe
+Portugal,1988,22.49, Europe
+Portugal,1989,25.81, Europe
+Portugal,1990,28.5, Europe
+Portugal,1991,29.87, Europe
+Portugal,1992,30.09, Europe
+Portugal,1993,31.2, Europe
+Portugal,1994,31.38, Europe
+Portugal,1995,33.26, Europe
+Portugal,1996,34.52, Europe
+Portugal,1997,34.21, Europe
+Portugal,1998,38.98, Europe
+Portugal,1999,43.29, Europe
+Portugal,2000,43.76, Europe
+Portugal,2001,46.51, Europe
+Portugal,2002,46.11, Europe
+Portugal,2003,46.85, Europe
+Portugal,2004,45.1, Europe
+Portugal,2005,46.58, Europe
+Portugal,2006,49.04, Europe
+Portugal,2007,47.25, Europe
+Portugal,2008,45.97, Europe
+Portugal,2009,50.21, Europe
+Portugal,2010,54.09, Europe
+Portugal,2011,52.47, Europe
+Portugal,2012,46.61, Europe
+Portugal,2013,51.67, Europe
+Portugal,2014,52.8, Europe
+Portugal,2015,52.42, Europe
+Portugal,2016,60.28, Europe
+Portugal,2017,59.43, Europe
+Portugal,2018,59.91, Europe
+Romania,1985,71.82, Europe
+Romania,1986,75.48, Europe
+Romania,1987,74.08, Europe
+Romania,1988,75.32, Europe
+Romania,1989,75.85, Europe
+Romania,1990,64.31, Europe
+Romania,1991,56.8, Europe
+Romania,1992,54.2, Europe
+Romania,1993,55.48, Europe
+Romania,1994,55.14, Europe
+Romania,1995,59.27, Europe
+Romania,1996,61.35, Europe
+Romania,1997,57.15, Europe
+Romania,1998,53.5, Europe
+Romania,1999,50.71, Europe
+Romania,2000,51.93, Europe
+Romania,2001,53.87, Europe
+Romania,2002,54.74, Europe
+Romania,2003,55.14, Europe
+Romania,2004,56.5, Europe
+Romania,2005,59.41, Europe
+Romania,2006,62.7, Europe
+Romania,2007,61.67, Europe
+Romania,2008,64.96, Europe
+Romania,2009,58.02, Europe
+Romania,2010,60.98, Europe
+Romania,2011,62.22, Europe
+Romania,2012,59.05, Europe
+Romania,2013,58.89, Europe
+Romania,2014,63.28, Europe
+Romania,2015,66.3, Europe
+Romania,2016,65.1, Europe
+Romania,2017,64.3, Europe
+Romania,2018,65.18, Europe
+Slovakia,1985,22.51, Europe
+Slovakia,1986,24.17, Europe
+Slovakia,1987,23.63, Europe
+Slovakia,1988,23.04, Europe
+Slovakia,1989,24.07, Europe
+Slovakia,1990,26.13, Europe
+Slovakia,1991,24.75, Europe
+Slovakia,1992,23.63, Europe
+Slovakia,1993,24.44, Europe
+Slovakia,1994,25.71, Europe
+Slovakia,1995,26.77, Europe
+Slovakia,1996,25.76, Europe
+Slovakia,1997,25.35, Europe
+Slovakia,1998,26.03, Europe
+Slovakia,1999,28.41, Europe
+Slovakia,2000,31.16, Europe
+Slovakia,2001,32.05, Europe
+Slovakia,2002,32.43, Europe
+Slovakia,2003,31.15, Europe
+Slovakia,2004,30.54, Europe
+Slovakia,2005,31.29, Europe
+Slovakia,2006,31.23, Europe
+Slovakia,2007,27.91, Europe
+Slovakia,2008,29.31, Europe
+Slovakia,2009,26.07, Europe
+Slovakia,2010,27.72, Europe
+Slovakia,2011,28.14, Europe
+Slovakia,2012,28.39, Europe
+Slovakia,2013,28.59, Europe
+Slovakia,2014,27.25, Europe
+Slovakia,2015,27.19, Europe
+Slovakia,2016,27.06, Europe
+Slovakia,2017,27.58, Europe
+Slovakia,2018,26.63, Europe
+Slovenia,1985,, Europe
+Slovenia,1986,, Europe
+Slovenia,1987,, Europe
+Slovenia,1988,, Europe
+Slovenia,1989,, Europe
+Slovenia,1990,12.4, Europe
+Slovenia,1991,12.74, Europe
+Slovenia,1992,12.34, Europe
+Slovenia,1993,11.95, Europe
+Slovenia,1994,12.89, Europe
+Slovenia,1995,12.91, Europe
+Slovenia,1996,12.74, Europe
+Slovenia,1997,13.18, Europe
+Slovenia,1998,13.7, Europe
+Slovenia,1999,13.26, Europe
+Slovenia,2000,13.62, Europe
+Slovenia,2001,14.47, Europe
+Slovenia,2002,14.6, Europe
+Slovenia,2003,13.82, Europe
+Slovenia,2004,15.27, Europe
+Slovenia,2005,15.12, Europe
+Slovenia,2006,15.12, Europe
+Slovenia,2007,15.04, Europe
+Slovenia,2008,16.4, Europe
+Slovenia,2009,16.4, Europe
+Slovenia,2010,16.44, Europe
+Slovenia,2011,16.06, Europe
+Slovenia,2012,15.74, Europe
+Slovenia,2013,16.1, Europe
+Slovenia,2014,17.44, Europe
+Slovenia,2015,15.1, Europe
+Slovenia,2016,16.5, Europe
+Slovenia,2017,16.33, Europe
+Slovenia,2018,16.31, Europe
+Spain,1985,126.56, Europe
+Spain,1986,128.54, Europe
+Spain,1987,132.67, Europe
+Spain,1988,138.76, Europe
+Spain,1989,147.05, Europe
+Spain,1990,151.92, Europe
+Spain,1991,155.8, Europe
+Spain,1992,158.72, Europe
+Spain,1993,156.8, Europe
+Spain,1994,161.85, Europe
+Spain,1995,167.09, Europe
+Spain,1996,174.45, Europe
+Spain,1997,190.4, Europe
+Spain,1998,195.21, Europe
+Spain,1999,208.45, Europe
+Spain,2000,224.47, Europe
+Spain,2001,236.04, Europe
+Spain,2002,244.96, Europe
+Spain,2003,260.73, Europe
+Spain,2004,280.01, Europe
+Spain,2005,294.08, Europe
+Spain,2006,299.45, Europe
+Spain,2007,305.05, Europe
+Spain,2008,313.76, Europe
+Spain,2009,296.3, Europe
+Spain,2010,300.43, Europe
+Spain,2011,291.76, Europe
+Spain,2012,297.56, Europe
+Spain,2013,285.26, Europe
+Spain,2014,278.75, Europe
+Spain,2015,281.02, Europe
+Spain,2016,274.63, Europe
+Spain,2017,275.63, Europe
+Spain,2018,275.02, Europe
+Sweden,1985,137.14, Europe
+Sweden,1986,138.65, Europe
+Sweden,1987,146.57, Europe
+Sweden,1988,146.23, Europe
+Sweden,1989,143.09, Europe
+Sweden,1990,146.51, Europe
+Sweden,1991,147.38, Europe
+Sweden,1992,146.44, Europe
+Sweden,1993,145.81, Europe
+Sweden,1994,143.04, Europe
+Sweden,1995,148.35, Europe
+Sweden,1996,140.63, Europe
+Sweden,1997,149.41, Europe
+Sweden,1998,159, Europe
+Sweden,1999,155.16, Europe
+Sweden,2000,145.58, Europe
+Sweden,2001,161.62, Europe
+Sweden,2002,146.73, Europe
+Sweden,2003,135.44, Europe
+Sweden,2004,152.45, Europe
+Sweden,2005,159.06, Europe
+Sweden,2006,143.3, Europe
+Sweden,2007,148.74, Europe
+Sweden,2008,149.65, Europe
+Sweden,2009,136.68, Europe
+Sweden,2010,148.25, Europe
+Sweden,2011,151.16, Europe
+Sweden,2012,166.3, Europe
+Sweden,2013,153.16, Europe
+Sweden,2014,153.66, Europe
+Sweden,2015,162.06, Europe
+Sweden,2016,156.13, Europe
+Sweden,2017,164.25, Europe
+Sweden,2018,163.55, Europe
+Switzerland,1985,56.34, Europe
+Switzerland,1986,57.41, Europe
+Switzerland,1987,59.73, Europe
+Switzerland,1988,60.54, Europe
+Switzerland,1989,54.61, Europe
+Switzerland,1990,56.02, Europe
+Switzerland,1991,58.06, Europe
+Switzerland,1992,59.52, Europe
+Switzerland,1993,61.56, Europe
+Switzerland,1994,66.13, Europe
+Switzerland,1995,62.86, Europe
+Switzerland,1996,57.33, Europe
+Switzerland,1997,62.9, Europe
+Switzerland,1998,63.29, Europe
+Switzerland,1999,68.62, Europe
+Switzerland,2000,67.33, Europe
+Switzerland,2001,72.25, Europe
+Switzerland,2002,66.94, Europe
+Switzerland,2003,67.18, Europe
+Switzerland,2004,65.39, Europe
+Switzerland,2005,59.48, Europe
+Switzerland,2006,63.86, Europe
+Switzerland,2007,67.73, Europe
+Switzerland,2008,68.74, Europe
+Switzerland,2009,68.26, Europe
+Switzerland,2010,68, Europe
+Switzerland,2011,64.82, Europe
+Switzerland,2012,70.02, Europe
+Switzerland,2013,70.4, Europe
+Switzerland,2014,71.95, Europe
+Switzerland,2015,67.87, Europe
+Switzerland,2016,63.31, Europe
+Switzerland,2017,63.3, Europe
+Switzerland,2018,69.81, Europe
+Turkey,1985,34.22, Europe
+Turkey,1986,39.69, Europe
+Turkey,1987,44.35, Europe
+Turkey,1988,48.05, Europe
+Turkey,1989,52.04, Europe
+Turkey,1990,57.54, Europe
+Turkey,1991,60.25, Europe
+Turkey,1992,67.34, Europe
+Turkey,1993,73.81, Europe
+Turkey,1994,78.32, Europe
+Turkey,1995,86.25, Europe
+Turkey,1996,94.86, Europe
+Turkey,1997,103.3, Europe
+Turkey,1998,111.02, Europe
+Turkey,1999,116.44, Europe
+Turkey,2000,124.92, Europe
+Turkey,2001,122.72, Europe
+Turkey,2002,129.4, Europe
+Turkey,2003,140.58, Europe
+Turkey,2004,150.7, Europe
+Turkey,2005,161.96, Europe
+Turkey,2006,176.3, Europe
+Turkey,2007,191.56, Europe
+Turkey,2008,198.42, Europe
+Turkey,2009,194.81, Europe
+Turkey,2010,211.21, Europe
+Turkey,2011,229.4, Europe
+Turkey,2012,239.5, Europe
+Turkey,2013,240.16, Europe
+Turkey,2014,251.96, Europe
+Turkey,2015,261.78, Europe
+Turkey,2016,274.41, Europe
+Turkey,2017,297.28, Europe
+Turkey,2018,302.51, Europe
+Ukraine,1985,272, Europe
+Ukraine,1986,272.7, Europe
+Ukraine,1987,281.5, Europe
+Ukraine,1988,297.2, Europe
+Ukraine,1989,295.3, Europe
+Ukraine,1990,298.83, Europe
+Ukraine,1991,278.68, Europe
+Ukraine,1992,252.52, Europe
+Ukraine,1993,229.91, Europe
+Ukraine,1994,202.92, Europe
+Ukraine,1995,194.02, Europe
+Ukraine,1996,182.99, Europe
+Ukraine,1997,178, Europe
+Ukraine,1998,172.82, Europe
+Ukraine,1999,172.12, Europe
+Ukraine,2000,171.44, Europe
+Ukraine,2001,172.97, Europe
+Ukraine,2002,173.73, Europe
+Ukraine,2003,180.36, Europe
+Ukraine,2004,182.16, Europe
+Ukraine,2005,186.06, Europe
+Ukraine,2006,193.38, Europe
+Ukraine,2007,196.25, Europe
+Ukraine,2008,192.59, Europe
+Ukraine,2009,173.62, Europe
+Ukraine,2010,188.83, Europe
+Ukraine,2011,194.95, Europe
+Ukraine,2012,198.88, Europe
+Ukraine,2013,194.38, Europe
+Ukraine,2014,182.81, Europe
+Ukraine,2015,163.68, Europe
+Ukraine,2016,164.57, Europe
+Ukraine,2017,155.41, Europe
+Ukraine,2018,159.35, Europe
+United Kingdom,1985,298.09, Europe
+United Kingdom,1986,301.07, Europe
+United Kingdom,1987,302.11, Europe
+United Kingdom,1988,308.82, Europe
+United Kingdom,1989,314.58, Europe
+United Kingdom,1990,319.74, Europe
+United Kingdom,1991,322.88, Europe
+United Kingdom,1992,321.04, Europe
+United Kingdom,1993,323.1, Europe
+United Kingdom,1994,326.56, Europe
+United Kingdom,1995,337.42, Europe
+United Kingdom,1996,350.87, Europe
+United Kingdom,1997,350.67, Europe
+United Kingdom,1998,362.7, Europe
+United Kingdom,1999,368.15, Europe
+United Kingdom,2000,377.07, Europe
+United Kingdom,2001,384.78, Europe
+United Kingdom,2002,387.25, Europe
+United Kingdom,2003,398.21, Europe
+United Kingdom,2004,393.93, Europe
+United Kingdom,2005,398.36, Europe
+United Kingdom,2006,397.28, Europe
+United Kingdom,2007,396.83, Europe
+United Kingdom,2008,388.92, Europe
+United Kingdom,2009,376.75, Europe
+United Kingdom,2010,382.07, Europe
+United Kingdom,2011,367.98, Europe
+United Kingdom,2012,363.87, Europe
+United Kingdom,2013,358.28, Europe
+United Kingdom,2014,338.1, Europe
+United Kingdom,2015,338.88, Europe
+United Kingdom,2016,339.3, Europe
+United Kingdom,2017,338.65, Europe
+United Kingdom,2018,333.92, Europe
+Iran,1985,38.91, Middle East
+Iran,1986,42.19, Middle East
+Iran,1987,45.06, Middle East
+Iran,1988,46.97, Middle East
+Iran,1989,51.43, Middle East
+Iran,1990,57.66, Middle East
+Iran,1991,62.81, Middle East
+Iran,1992,67.18, Middle East
+Iran,1993,74.69, Middle East
+Iran,1994,81, Middle East
+Iran,1995,84.35, Middle East
+Iran,1996,89.74, Middle East
+Iran,1997,96.98, Middle East
+Iran,1998,102.39, Middle East
+Iran,1999,110.09, Middle East
+Iran,2000,119.35, Middle East
+Iran,2001,127.6, Middle East
+Iran,2002,138.22, Middle East
+Iran,2003,151.65, Middle East
+Iran,2004,162.75, Middle East
+Iran,2005,177.08, Middle East
+Iran,2006,193.43, Middle East
+Iran,2007,203.13, Middle East
+Iran,2008,210.48, Middle East
+Iran,2009,221.81, Middle East
+Iran,2010,235.68, Middle East
+Iran,2011,235.59, Middle East
+Iran,2012,248.76, Middle East
+Iran,2013,258.85, Middle East
+Iran,2014,275.63, Middle East
+Iran,2015,280.24, Middle East
+Iran,2016,286.14, Middle East
+Iran,2017,305.16, Middle East
+Iran,2018,310.8, Middle East
+Iraq,1985,20.97, Middle East
+Iraq,1986,22.29, Middle East
+Iraq,1987,22.51, Middle East
+Iraq,1988,23.45, Middle East
+Iraq,1989,23.86, Middle East
+Iraq,1990,28.37, Middle East
+Iraq,1991,13.36, Middle East
+Iraq,1992,21.91, Middle East
+Iraq,1993,27.09, Middle East
+Iraq,1994,26.66, Middle East
+Iraq,1995,26.5, Middle East
+Iraq,1996,25.98, Middle East
+Iraq,1997,26.69, Middle East
+Iraq,1998,26.74, Middle East
+Iraq,1999,24.72, Middle East
+Iraq,2000,27.19, Middle East
+Iraq,2001,31.72, Middle East
+Iraq,2002,35.42, Middle East
+Iraq,2003,26.61, Middle East
+Iraq,2004,30.7, Middle East
+Iraq,2005,28.34, Middle East
+Iraq,2006,30.59, Middle East
+Iraq,2007,32.35, Middle East
+Iraq,2008,35.31, Middle East
+Iraq,2009,41.29, Middle East
+Iraq,2010,41.7, Middle East
+Iraq,2011,42.22, Middle East
+Iraq,2012,47.77, Middle East
+Iraq,2013,62.11, Middle East
+Iraq,2014,71.17, Middle East
+Iraq,2015,75.33, Middle East
+Iraq,2016,86.32, Middle East
+Iraq,2017,93.26, Middle East
+Iraq,2018,103.34, Middle East
+Israel,1985,15.43, Middle East
+Israel,1986,16.03, Middle East
+Israel,1987,17.68, Middle East
+Israel,1988,19.35, Middle East
+Israel,1989,20.45, Middle East
+Israel,1990,20.9, Middle East
+Israel,1991,21.51, Middle East
+Israel,1992,24.69, Middle East
+Israel,1993,26, Middle East
+Israel,1994,28.32, Middle East
+Israel,1995,30.44, Middle East
+Israel,1996,32.57, Middle East
+Israel,1997,35.11, Middle East
+Israel,1998,37.98, Middle East
+Israel,1999,39.23, Middle East
+Israel,2000,42.96, Middle East
+Israel,2001,43.84, Middle East
+Israel,2002,45.43, Middle East
+Israel,2003,47.05, Middle East
+Israel,2004,48.47, Middle East
+Israel,2005,49.83, Middle East
+Israel,2006,51.81, Middle East
+Israel,2007,55.11, Middle East
+Israel,2008,55.83, Middle East
+Israel,2009,55.31, Middle East
+Israel,2010,58.49, Middle East
+Israel,2011,59.28, Middle East
+Israel,2012,62.97, Middle East
+Israel,2013,61.37, Middle East
+Israel,2014,61.29, Middle East
+Israel,2015,64.27, Middle East
+Israel,2016,67.26, Middle East
+Israel,2017,67.67, Middle East
+Israel,2018,69.64, Middle East
+Kuwait,1985,15.42, Middle East
+Kuwait,1986,16.93, Middle East
+Kuwait,1987,18.09, Middle East
+Kuwait,1988,19.6, Middle East
+Kuwait,1989,21.09, Middle East
+Kuwait,1990,18.48, Middle East
+Kuwait,1991,10.78, Middle East
+Kuwait,1992,16.89, Middle East
+Kuwait,1993,20.18, Middle East
+Kuwait,1994,22.8, Middle East
+Kuwait,1995,23.72, Middle East
+Kuwait,1996,25.48, Middle East
+Kuwait,1997,26.72, Middle East
+Kuwait,1998,29.98, Middle East
+Kuwait,1999,31.58, Middle East
+Kuwait,2000,32.32, Middle East
+Kuwait,2001,34.3, Middle East
+Kuwait,2002,36.36, Middle East
+Kuwait,2003,39.8, Middle East
+Kuwait,2004,41.26, Middle East
+Kuwait,2005,43.73, Middle East
+Kuwait,2006,47.61, Middle East
+Kuwait,2007,48.75, Middle East
+Kuwait,2008,51.75, Middle East
+Kuwait,2009,53.22, Middle East
+Kuwait,2010,57.08, Middle East
+Kuwait,2011,57.46, Middle East
+Kuwait,2012,62.66, Middle East
+Kuwait,2013,60.98, Middle East
+Kuwait,2014,65.14, Middle East
+Kuwait,2015,68.29, Middle East
+Kuwait,2016,70.16, Middle East
+Kuwait,2017,72.89, Middle East
+Kuwait,2018,74.24, Middle East
+Oman,1985,2.89, Middle East
+Oman,1986,3.62, Middle East
+Oman,1987,3.88, Middle East
+Oman,1988,4.41, Middle East
+Oman,1989,4.71, Middle East
+Oman,1990,4.5, Middle East
+Oman,1991,4.62, Middle East
+Oman,1992,5.11, Middle East
+Oman,1993,5.83, Middle East
+Oman,1994,6.2, Middle East
+Oman,1995,6.5, Middle East
+Oman,1996,6.8, Middle East
+Oman,1997,7.32, Middle East
+Oman,1998,8.2, Middle East
+Oman,1999,8.41, Middle East
+Oman,2000,9.11, Middle East
+Oman,2001,9.74, Middle East
+Oman,2002,10.33, Middle East
+Oman,2003,10.71, Middle East
+Oman,2004,11.5, Middle East
+Oman,2005,12.65, Middle East
+Oman,2006,13.59, Middle East
+Oman,2007,14.44, Middle East
+Oman,2008,16.05, Middle East
+Oman,2009,18.45, Middle East
+Oman,2010,19.82, Middle East
+Oman,2011,21.87, Middle East
+Oman,2012,25.02, Middle East
+Oman,2013,26.24, Middle East
+Oman,2014,29.14, Middle East
+Oman,2015,32.76, Middle East
+Oman,2016,34.23, Middle East
+Oman,2017,36.13, Middle East
+Oman,2018,37.29, Middle East
+Other Middle East,1985,18.13, Middle East
+Other Middle East,1986,19.53, Middle East
+Other Middle East,1987,20.7, Middle East
+Other Middle East,1988,21.73, Middle East
+Other Middle East,1989,21.53, Middle East
+Other Middle East,1990,21.95, Middle East
+Other Middle East,1991,24.25, Middle East
+Other Middle East,1992,26.87, Middle East
+Other Middle East,1993,28.54, Middle East
+Other Middle East,1994,32.22, Middle East
+Other Middle East,1995,34.62, Middle East
+Other Middle East,1996,38.88, Middle East
+Other Middle East,1997,42.23, Middle East
+Other Middle East,1998,46.78, Middle East
+Other Middle East,1999,49.12, Middle East
+Other Middle East,2000,51.98, Middle East
+Other Middle East,2001,54.77, Middle East
+Other Middle East,2002,59.99, Middle East
+Other Middle East,2003,62.33, Middle East
+Other Middle East,2004,66.49, Middle East
+Other Middle East,2005,70.18, Middle East
+Other Middle East,2006,75.47, Middle East
+Other Middle East,2007,80.87, Middle East
+Other Middle East,2008,87.08, Middle East
+Other Middle East,2009,90.66, Middle East
+Other Middle East,2010,98.75, Middle East
+Other Middle East,2011,93.36, Middle East
+Other Middle East,2012,88.31, Middle East
+Other Middle East,2013,83.69, Middle East
+Other Middle East,2014,81.83, Middle East
+Other Middle East,2015,79.29, Middle East
+Other Middle East,2016,79.22, Middle East
+Other Middle East,2017,83.68, Middle East
+Other Middle East,2018,84.86, Middle East
+Qatar,1985,3.96, Middle East
+Qatar,1986,4.32, Middle East
+Qatar,1987,4.39, Middle East
+Qatar,1988,4.61, Middle East
+Qatar,1989,4.65, Middle East
+Qatar,1990,4.84, Middle East
+Qatar,1991,4.67, Middle East
+Qatar,1992,5.18, Middle East
+Qatar,1993,5.56, Middle East
+Qatar,1994,5.85, Middle East
+Qatar,1995,6.01, Middle East
+Qatar,1996,6.62, Middle East
+Qatar,1997,6.91, Middle East
+Qatar,1998,8.17, Middle East
+Qatar,1999,8.94, Middle East
+Qatar,2000,9.13, Middle East
+Qatar,2001,9.95, Middle East
+Qatar,2002,10.94, Middle East
+Qatar,2003,12.01, Middle East
+Qatar,2004,13.23, Middle East
+Qatar,2005,14.4, Middle East
+Qatar,2006,15.32, Middle East
+Qatar,2007,19.46, Middle East
+Qatar,2008,21.62, Middle East
+Qatar,2009,24.16, Middle East
+Qatar,2010,28.14, Middle East
+Qatar,2011,30.73, Middle East
+Qatar,2012,34.79, Middle East
+Qatar,2013,34.67, Middle East
+Qatar,2014,38.69, Middle East
+Qatar,2015,41.5, Middle East
+Qatar,2016,42.31, Middle East
+Qatar,2017,43.84, Middle East
+Qatar,2018,39.47, Middle East
+Saudi Arabia,1985,51.65, Middle East
+Saudi Arabia,1986,55.68, Middle East
+Saudi Arabia,1987,65, Middle East
+Saudi Arabia,1988,70.09, Middle East
+Saudi Arabia,1989,75.73, Middle East
+Saudi Arabia,1990,79.88, Middle East
+Saudi Arabia,1991,85, Middle East
+Saudi Arabia,1992,93.47, Middle East
+Saudi Arabia,1993,102.67, Middle East
+Saudi Arabia,1994,106.05, Middle East
+Saudi Arabia,1995,109.93, Middle East
+Saudi Arabia,1996,112.17, Middle East
+Saudi Arabia,1997,119.1, Middle East
+Saudi Arabia,1998,126.17, Middle East
+Saudi Arabia,1999,131, Middle East
+Saudi Arabia,2000,138.68, Middle East
+Saudi Arabia,2001,146.09, Middle East
+Saudi Arabia,2002,154.91, Middle East
+Saudi Arabia,2003,166.59, Middle East
+Saudi Arabia,2004,173.4, Middle East
+Saudi Arabia,2005,191.05, Middle East
+Saudi Arabia,2006,196.31, Middle East
+Saudi Arabia,2007,204.43, Middle East
+Saudi Arabia,2008,216.4, Middle East
+Saudi Arabia,2009,229.18, Middle East
+Saudi Arabia,2010,251.39, Middle East
+Saudi Arabia,2011,262.24, Middle East
+Saudi Arabia,2012,284.71, Middle East
+Saudi Arabia,2013,299.31, Middle East
+Saudi Arabia,2014,333.72, Middle East
+Saudi Arabia,2015,359.69, Middle East
+Saudi Arabia,2016,370.43, Middle East
+Saudi Arabia,2017,382.09, Middle East
+Saudi Arabia,2018,383.78, Middle East
+United Arab Emirates,1985,12, Middle East
+United Arab Emirates,1986,12.81, Middle East
+United Arab Emirates,1987,13.66, Middle East
+United Arab Emirates,1988,14.84, Middle East
+United Arab Emirates,1989,15.61, Middle East
+United Arab Emirates,1990,17.08, Middle East
+United Arab Emirates,1991,17.35, Middle East
+United Arab Emirates,1992,18.69, Middle East
+United Arab Emirates,1993,21.73, Middle East
+United Arab Emirates,1994,23.74, Middle East
+United Arab Emirates,1995,24.98, Middle East
+United Arab Emirates,1996,26.57, Middle East
+United Arab Emirates,1997,28.46, Middle East
+United Arab Emirates,1998,33.39, Middle East
+United Arab Emirates,1999,37.13, Middle East
+United Arab Emirates,2000,39.94, Middle East
+United Arab Emirates,2001,43.17, Middle East
+United Arab Emirates,2002,46.59, Middle East
+United Arab Emirates,2003,49.54, Middle East
+United Arab Emirates,2004,52.42, Middle East
+United Arab Emirates,2005,60.7, Middle East
+United Arab Emirates,2006,66.77, Middle East
+United Arab Emirates,2007,78.76, Middle East
+United Arab Emirates,2008,80.46, Middle East
+United Arab Emirates,2009,85.7, Middle East
+United Arab Emirates,2010,93.95, Middle East
+United Arab Emirates,2011,99.14, Middle East
+United Arab Emirates,2012,106.22, Middle East
+United Arab Emirates,2013,109.98, Middle East
+United Arab Emirates,2014,116.53, Middle East
+United Arab Emirates,2015,127.37, Middle East
+United Arab Emirates,2016,129.6, Middle East
+United Arab Emirates,2017,134.55, Middle East
+United Arab Emirates,2018,136.93, Middle East
+Canada,1985,459.02, North America
+Canada,1986,468.58, North America
+Canada,1987,496.4, North America
+Canada,1988,506.02, North America
+Canada,1989,498.09, North America
+Canada,1990,480.59, North America
+Canada,1991,506.99, North America
+Canada,1992,518.63, North America
+Canada,1993,530.23, North America
+Canada,1994,553.05, North America
+Canada,1995,557.87, North America
+Canada,1996,571.62, North America
+Canada,1997,572.34, North America
+Canada,1998,561.99, North America
+Canada,1999,577.77, North America
+Canada,2000,603.82, North America
+Canada,2001,587.75, North America
+Canada,2002,599.79, North America
+Canada,2003,588.27, North America
+Canada,2004,598.51, North America
+Canada,2005,624.24, North America
+Canada,2006,612.02, North America
+Canada,2007,637.08, North America
+Canada,2008,638.43, North America
+Canada,2009,614.04, North America
+Canada,2010,606.92, North America
+Canada,2011,638.28, North America
+Canada,2012,636.55, North America
+Canada,2013,662.5, North America
+Canada,2014,660.46, North America
+Canada,2015,663.68, North America
+Canada,2016,663.85, North America
+Canada,2017,662.73, North America
+Canada,2018,654.35, North America
+Mexico,1985,96.21, North America
+Mexico,1986,99.59, North America
+Mexico,1987,106.17, North America
+Mexico,1988,112.23, North America
+Mexico,1989,120.05, North America
+Mexico,1990,117.59, North America
+Mexico,1991,128.57, North America
+Mexico,1992,132.28, North America
+Mexico,1993,134.64, North America
+Mexico,1994,146.13, North America
+Mexico,1995,150.36, North America
+Mexico,1996,156.59, North America
+Mexico,1997,166.75, North America
+Mexico,1998,181.06, North America
+Mexico,1999,189.98, North America
+Mexico,2000,203.63, North America
+Mexico,2001,210.21, North America
+Mexico,2002,215.72, North America
+Mexico,2003,224.9, North America
+Mexico,2004,235.4, North America
+Mexico,2005,247.97, North America
+Mexico,2006,256.22, North America
+Mexico,2007,263.25, North America
+Mexico,2008,269.3, North America
+Mexico,2009,267.75, North America
+Mexico,2010,275.57, North America
+Mexico,2011,292.14, North America
+Mexico,2012,296.4, North America
+Mexico,2013,297.12, North America
+Mexico,2014,303.32, North America
+Mexico,2015,310.35, North America
+Mexico,2016,320.34, North America
+Mexico,2017,329.09, North America
+Mexico,2018,332.14, North America
+US,1985,2657.15, North America
+US,1986,2676.11, North America
+US,1987,2772.21, North America
+US,1988,2914.45, North America
+US,1989,3155.45, North America
+US,1990,3232.78, North America
+US,1991,3270.72, North America
+US,1992,3284.39, North America
+US,1993,3404.68, North America
+US,1994,3458.53, North America
+US,1995,3567.33, North America
+US,1996,3663.39, North America
+US,1997,3716.38, North America
+US,1998,3855.81, North America
+US,1999,3936.1, North America
+US,2000,4052.25, North America
+US,2001,3984.47, North America
+US,2002,4111.78, North America
+US,2003,4137.98, North America
+US,2004,4231.68, North America
+US,2005,4322.79, North America
+US,2006,4330.95, North America
+US,2007,4431.84, North America
+US,2008,4390.11, North America
+US,2009,4206.49, North America
+US,2010,4394.25, North America
+US,2011,4363.38, North America
+US,2012,4310.57, North America
+US,2013,4330.29, North America
+US,2014,4363.33, North America
+US,2015,4348.67, North America
+US,2016,4347.91, North America
+US,2017,4302.54, North America
+US,2018,4460.77, North America
+Argentina,1985,45.3, S. & Cent. America
+Argentina,1986,49.02, S. & Cent. America
+Argentina,1987,52.12, S. & Cent. America
+Argentina,1988,52.5, S. & Cent. America
+Argentina,1989,50.86, S. & Cent. America
+Argentina,1990,51, S. & Cent. America
+Argentina,1991,53.85, S. & Cent. America
+Argentina,1992,56.11, S. & Cent. America
+Argentina,1993,61.87, S. & Cent. America
+Argentina,1994,65.62, S. & Cent. America
+Argentina,1995,67.17, S. & Cent. America
+Argentina,1996,69.76, S. & Cent. America
+Argentina,1997,72.46, S. & Cent. America
+Argentina,1998,74.17, S. & Cent. America
+Argentina,1999,80.74, S. & Cent. America
+Argentina,2000,88.98, S. & Cent. America
+Argentina,2001,90.14, S. & Cent. America
+Argentina,2002,84.59, S. & Cent. America
+Argentina,2003,92.06, S. & Cent. America
+Argentina,2004,100.26, S. & Cent. America
+Argentina,2005,105.75, S. & Cent. America
+Argentina,2006,113.42, S. & Cent. America
+Argentina,2007,113.53, S. & Cent. America
+Argentina,2008,121.91, S. & Cent. America
+Argentina,2009,122.33, S. & Cent. America
+Argentina,2010,125.99, S. & Cent. America
+Argentina,2011,129.48, S. & Cent. America
+Argentina,2012,136.03, S. & Cent. America
+Argentina,2013,139.44, S. & Cent. America
+Argentina,2014,138.55, S. & Cent. America
+Argentina,2015,145.42, S. & Cent. America
+Argentina,2016,147.19, S. & Cent. America
+Argentina,2017,145.62, S. & Cent. America
+Argentina,2018,146.61, S. & Cent. America
+Brazil,1985,193.68, S. & Cent. America
+Brazil,1986,202.13, S. & Cent. America
+Brazil,1987,203.33, S. & Cent. America
+Brazil,1988,214.95, S. & Cent. America
+Brazil,1989,221.74, S. & Cent. America
+Brazil,1990,222.82, S. & Cent. America
+Brazil,1991,234.38, S. & Cent. America
+Brazil,1992,241.76, S. & Cent. America
+Brazil,1993,252, S. & Cent. America
+Brazil,1994,260.04, S. & Cent. America
+Brazil,1995,275.6, S. & Cent. America
+Brazil,1996,291.28, S. & Cent. America
+Brazil,1997,307.98, S. & Cent. America
+Brazil,1998,321.75, S. & Cent. America
+Brazil,1999,334.73, S. & Cent. America
+Brazil,2000,348.92, S. & Cent. America
+Brazil,2001,328.52, S. & Cent. America
+Brazil,2002,345.68, S. & Cent. America
+Brazil,2003,364.34, S. & Cent. America
+Brazil,2004,387.45, S. & Cent. America
+Brazil,2005,403.03, S. & Cent. America
+Brazil,2006,419.38, S. & Cent. America
+Brazil,2007,445.15, S. & Cent. America
+Brazil,2008,462.89, S. & Cent. America
+Brazil,2009,466.16, S. & Cent. America
+Brazil,2010,515.8, S. & Cent. America
+Brazil,2011,531.76, S. & Cent. America
+Brazil,2012,552.5, S. & Cent. America
+Brazil,2013,570.83, S. & Cent. America
+Brazil,2014,590.54, S. & Cent. America
+Brazil,2015,581.23, S. & Cent. America
+Brazil,2016,578.9, S. & Cent. America
+Brazil,2017,587.96, S. & Cent. America
+Brazil,2018,588.05, S. & Cent. America
+Central America,1985,11.16, S. & Cent. America
+Central America,1986,11.58, S. & Cent. America
+Central America,1987,12.65, S. & Cent. America
+Central America,1988,12.99, S. & Cent. America
+Central America,1989,13.89, S. & Cent. America
+Central America,1990,14.49, S. & Cent. America
+Central America,1991,15.27, S. & Cent. America
+Central America,1992,17.28, S. & Cent. America
+Central America,1993,18.23, S. & Cent. America
+Central America,1994,18.77, S. & Cent. America
+Central America,1995,19.82, S. & Cent. America
+Central America,1996,20.11, S. & Cent. America
+Central America,1997,21.1, S. & Cent. America
+Central America,1998,23.22, S. & Cent. America
+Central America,1999,24.75, S. & Cent. America
+Central America,2000,26.62, S. & Cent. America
+Central America,2001,28.5, S. & Cent. America
+Central America,2002,30.12, S. & Cent. America
+Central America,2003,32.15, S. & Cent. America
+Central America,2004,33.97, S. & Cent. America
+Central America,2005,35.83, S. & Cent. America
+Central America,2006,37.95, S. & Cent. America
+Central America,2007,39.97, S. & Cent. America
+Central America,2008,40.89, S. & Cent. America
+Central America,2009,41.59, S. & Cent. America
+Central America,2010,42.98, S. & Cent. America
+Central America,2011,44.37, S. & Cent. America
+Central America,2012,46.12, S. & Cent. America
+Central America,2013,47.59, S. & Cent. America
+Central America,2014,48.91, S. & Cent. America
+Central America,2015,51.7, S. & Cent. America
+Central America,2016,53.38, S. & Cent. America
+Central America,2017,53.66, S. & Cent. America
+Central America,2018,56.65, S. & Cent. America
+Chile,1985,14.04, S. & Cent. America
+Chile,1986,14.82, S. & Cent. America
+Chile,1987,15.64, S. & Cent. America
+Chile,1988,16.91, S. & Cent. America
+Chile,1989,17.81, S. & Cent. America
+Chile,1990,18.4, S. & Cent. America
+Chile,1991,19.96, S. & Cent. America
+Chile,1992,22.35, S. & Cent. America
+Chile,1993,24.01, S. & Cent. America
+Chile,1994,25.28, S. & Cent. America
+Chile,1995,28.03, S. & Cent. America
+Chile,1996,30.79, S. & Cent. America
+Chile,1997,33.29, S. & Cent. America
+Chile,1998,35.49, S. & Cent. America
+Chile,1999,38.38, S. & Cent. America
+Chile,2000,41.27, S. & Cent. America
+Chile,2001,43.92, S. & Cent. America
+Chile,2002,45.49, S. & Cent. America
+Chile,2003,48.79, S. & Cent. America
+Chile,2004,49.74, S. & Cent. America
+Chile,2005,51.9, S. & Cent. America
+Chile,2006,54.8, S. & Cent. America
+Chile,2007,58.31, S. & Cent. America
+Chile,2008,59.71, S. & Cent. America
+Chile,2009,59.7, S. & Cent. America
+Chile,2010,61.33, S. & Cent. America
+Chile,2011,65.22, S. & Cent. America
+Chile,2012,69.74, S. & Cent. America
+Chile,2013,72.97, S. & Cent. America
+Chile,2014,71.62, S. & Cent. America
+Chile,2015,74.54, S. & Cent. America
+Chile,2016,77.75, S. & Cent. America
+Chile,2017,78.61, S. & Cent. America
+Chile,2018,80.2, S. & Cent. America
+Colombia,1985,29.37, S. & Cent. America
+Colombia,1986,31.65, S. & Cent. America
+Colombia,1987,33.68, S. & Cent. America
+Colombia,1988,35.47, S. & Cent. America
+Colombia,1989,37.02, S. & Cent. America
+Colombia,1990,38.25, S. & Cent. America
+Colombia,1991,40.12, S. & Cent. America
+Colombia,1992,36.61, S. & Cent. America
+Colombia,1993,41.69, S. & Cent. America
+Colombia,1994,45.02, S. & Cent. America
+Colombia,1995,47.48, S. & Cent. America
+Colombia,1996,48.37, S. & Cent. America
+Colombia,1997,49.91, S. & Cent. America
+Colombia,1998,50.28, S. & Cent. America
+Colombia,1999,47.77, S. & Cent. America
+Colombia,2000,46.78, S. & Cent. America
+Colombia,2001,48.21, S. & Cent. America
+Colombia,2002,50.28, S. & Cent. America
+Colombia,2003,52.11, S. & Cent. America
+Colombia,2004,53.84, S. & Cent. America
+Colombia,2005,55.9, S. & Cent. America
+Colombia,2006,59.07, S. & Cent. America
+Colombia,2007,60.52, S. & Cent. America
+Colombia,2008,61.37, S. & Cent. America
+Colombia,2009,63.18, S. & Cent. America
+Colombia,2010,64.66, S. & Cent. America
+Colombia,2011,66.15, S. & Cent. America
+Colombia,2012,67.71, S. & Cent. America
+Colombia,2013,69.82, S. & Cent. America
+Colombia,2014,72.75, S. & Cent. America
+Colombia,2015,75.02, S. & Cent. America
+Colombia,2016,74.45, S. & Cent. America
+Colombia,2017,75.09, S. & Cent. America
+Colombia,2018,77.36, S. & Cent. America
+Ecuador,1985,4.56, S. & Cent. America
+Ecuador,1986,5.01, S. & Cent. America
+Ecuador,1987,5.38, S. & Cent. America
+Ecuador,1988,5.64, S. & Cent. America
+Ecuador,1989,5.77, S. & Cent. America
+Ecuador,1990,6.35, S. & Cent. America
+Ecuador,1991,6.97, S. & Cent. America
+Ecuador,1992,7.2, S. & Cent. America
+Ecuador,1993,7.41, S. & Cent. America
+Ecuador,1994,8.14, S. & Cent. America
+Ecuador,1995,8.43, S. & Cent. America
+Ecuador,1996,9.68, S. & Cent. America
+Ecuador,1997,10.36, S. & Cent. America
+Ecuador,1998,10.89, S. & Cent. America
+Ecuador,1999,10.31, S. & Cent. America
+Ecuador,2000,10.61, S. & Cent. America
+Ecuador,2001,11.05, S. & Cent. America
+Ecuador,2002,11.89, S. & Cent. America
+Ecuador,2003,11.55, S. & Cent. America
+Ecuador,2004,12.58, S. & Cent. America
+Ecuador,2005,13.4, S. & Cent. America
+Ecuador,2006,15.12, S. & Cent. America
+Ecuador,2007,17.34, S. & Cent. America
+Ecuador,2008,18.61, S. & Cent. America
+Ecuador,2009,18.26, S. & Cent. America
+Ecuador,2010,19.51, S. & Cent. America
+Ecuador,2011,20.54, S. & Cent. America
+Ecuador,2012,22.85, S. & Cent. America
+Ecuador,2013,23.26, S. & Cent. America
+Ecuador,2014,24.31, S. & Cent. America
+Ecuador,2015,25.95, S. & Cent. America
+Ecuador,2016,27.31, S. & Cent. America
+Ecuador,2017,28.03, S. & Cent. America
+Ecuador,2018,29.38, S. & Cent. America
+Other Caribbean,1985,35.44, S. & Cent. America
+Other Caribbean,1986,37.57, S. & Cent. America
+Other Caribbean,1987,39.7, S. & Cent. America
+Other Caribbean,1988,40.54, S. & Cent. America
+Other Caribbean,1989,41.05, S. & Cent. America
+Other Caribbean,1990,42.44, S. & Cent. America
+Other Caribbean,1991,41.26, S. & Cent. America
+Other Caribbean,1992,44.08, S. & Cent. America
+Other Caribbean,1993,44.35, S. & Cent. America
+Other Caribbean,1994,47.55, S. & Cent. America
+Other Caribbean,1995,50.11, S. & Cent. America
+Other Caribbean,1996,52.94, S. & Cent. America
+Other Caribbean,1997,56.21, S. & Cent. America
+Other Caribbean,1998,60.44, S. & Cent. America
+Other Caribbean,1999,64.01, S. & Cent. America
+Other Caribbean,2000,66.4, S. & Cent. America
+Other Caribbean,2001,67.13, S. & Cent. America
+Other Caribbean,2002,70.25, S. & Cent. America
+Other Caribbean,2003,72.18, S. & Cent. America
+Other Caribbean,2004,70.12, S. & Cent. America
+Other Caribbean,2005,72.84, S. & Cent. America
+Other Caribbean,2006,74.91, S. & Cent. America
+Other Caribbean,2007,75.22, S. & Cent. America
+Other Caribbean,2008,72.11, S. & Cent. America
+Other Caribbean,2009,71.67, S. & Cent. America
+Other Caribbean,2010,72.84, S. & Cent. America
+Other Caribbean,2011,73.23, S. & Cent. America
+Other Caribbean,2012,75.14, S. & Cent. America
+Other Caribbean,2013,75.83, S. & Cent. America
+Other Caribbean,2014,75.22, S. & Cent. America
+Other Caribbean,2015,77.02, S. & Cent. America
+Other Caribbean,2016,78.41, S. & Cent. America
+Other Caribbean,2017,74.59, S. & Cent. America
+Other Caribbean,2018,75.71, S. & Cent. America
+Other South America,1985,11.82, S. & Cent. America
+Other South America,1986,20.83, S. & Cent. America
+Other South America,1987,26.98, S. & Cent. America
+Other South America,1988,29.14, S. & Cent. America
+Other South America,1989,33.37, S. & Cent. America
+Other South America,1990,37.11, S. & Cent. America
+Other South America,1991,39.72, S. & Cent. America
+Other South America,1992,39.74, S. & Cent. America
+Other South America,1993,43.39, S. & Cent. America
+Other South America,1994,48.55, S. & Cent. America
+Other South America,1995,54.04, S. & Cent. America
+Other South America,1996,57.39, S. & Cent. America
+Other South America,1997,64.25, S. & Cent. America
+Other South America,1998,66.96, S. & Cent. America
+Other South America,1999,65.84, S. & Cent. America
+Other South America,2000,67.51, S. & Cent. America
+Other South America,2001,61.33, S. & Cent. America
+Other South America,2002,64.92, S. & Cent. America
+Other South America,2003,67.52, S. & Cent. America
+Other South America,2004,65.29, S. & Cent. America
+Other South America,2005,66.65, S. & Cent. America
+Other South America,2006,67.56, S. & Cent. America
+Other South America,2007,71.86, S. & Cent. America
+Other South America,2008,73.68, S. & Cent. America
+Other South America,2009,73.43, S. & Cent. America
+Other South America,2010,75.23, S. & Cent. America
+Other South America,2011,78.85, S. & Cent. America
+Other South America,2012,82.31, S. & Cent. America
+Other South America,2013,84.12, S. & Cent. America
+Other South America,2014,80.84, S. & Cent. America
+Other South America,2015,82.67, S. & Cent. America
+Other South America,2016,91.16, S. & Cent. America
+Other South America,2017,87.9, S. & Cent. America
+Other South America,2018,87.73, S. & Cent. America
+Peru,1985,12.11, S. & Cent. America
+Peru,1986,12.95, S. & Cent. America
+Peru,1987,14.01, S. & Cent. America
+Peru,1988,13.55, S. & Cent. America
+Peru,1989,13.73, S. & Cent. America
+Peru,1990,13.81, S. & Cent. America
+Peru,1991,14.48, S. & Cent. America
+Peru,1992,13.12, S. & Cent. America
+Peru,1993,14.81, S. & Cent. America
+Peru,1994,15.87, S. & Cent. America
+Peru,1995,16.88, S. & Cent. America
+Peru,1996,17.28, S. & Cent. America
+Peru,1997,17.95, S. & Cent. America
+Peru,1998,18.58, S. & Cent. America
+Peru,1999,19.05, S. & Cent. America
+Peru,2000,19.92, S. & Cent. America
+Peru,2001,20.79, S. & Cent. America
+Peru,2002,21.98, S. & Cent. America
+Peru,2003,22.92, S. & Cent. America
+Peru,2004,24.27, S. & Cent. America
+Peru,2005,25.51, S. & Cent. America
+Peru,2006,27.37, S. & Cent. America
+Peru,2007,29.94, S. & Cent. America
+Peru,2008,32.46, S. & Cent. America
+Peru,2009,32.94, S. & Cent. America
+Peru,2010,35.91, S. & Cent. America
+Peru,2011,38.81, S. & Cent. America
+Peru,2012,41.04, S. & Cent. America
+Peru,2013,43.33, S. & Cent. America
+Peru,2014,45.55, S. & Cent. America
+Peru,2015,48.27, S. & Cent. America
+Peru,2016,51.66, S. & Cent. America
+Peru,2017,52.7, S. & Cent. America
+Peru,2018,54, S. & Cent. America
+Trinidad & Tobago,1985,3.02, S. & Cent. America
+Trinidad & Tobago,1986,3.29, S. & Cent. America
+Trinidad & Tobago,1987,3.48, S. & Cent. America
+Trinidad & Tobago,1988,3.48, S. & Cent. America
+Trinidad & Tobago,1989,3.43, S. & Cent. America
+Trinidad & Tobago,1990,3.58, S. & Cent. America
+Trinidad & Tobago,1991,3.72, S. & Cent. America
+Trinidad & Tobago,1992,3.98, S. & Cent. America
+Trinidad & Tobago,1993,3.82, S. & Cent. America
+Trinidad & Tobago,1994,4.07, S. & Cent. America
+Trinidad & Tobago,1995,4.31, S. & Cent. America
+Trinidad & Tobago,1996,4.54, S. & Cent. America
+Trinidad & Tobago,1997,4.99, S. & Cent. America
+Trinidad & Tobago,1998,5.17, S. & Cent. America
+Trinidad & Tobago,1999,5.25, S. & Cent. America
+Trinidad & Tobago,2000,5.46, S. & Cent. America
+Trinidad & Tobago,2001,5.64, S. & Cent. America
+Trinidad & Tobago,2002,5.64, S. & Cent. America
+Trinidad & Tobago,2003,6.44, S. & Cent. America
+Trinidad & Tobago,2004,6.43, S. & Cent. America
+Trinidad & Tobago,2005,7.06, S. & Cent. America
+Trinidad & Tobago,2006,7.19, S. & Cent. America
+Trinidad & Tobago,2007,7.68, S. & Cent. America
+Trinidad & Tobago,2008,7.73, S. & Cent. America
+Trinidad & Tobago,2009,7.85, S. & Cent. America
+Trinidad & Tobago,2010,8.49, S. & Cent. America
+Trinidad & Tobago,2011,8.78, S. & Cent. America
+Trinidad & Tobago,2012,9.14, S. & Cent. America
+Trinidad & Tobago,2013,9.51, S. & Cent. America
+Trinidad & Tobago,2014,9.9, S. & Cent. America
+Trinidad & Tobago,2015,10.3, S. & Cent. America
+Trinidad & Tobago,2016,10.72, S. & Cent. America
+Trinidad & Tobago,2017,10.2, S. & Cent. America
+Trinidad & Tobago,2018,10.33, S. & Cent. America
+Venezuela,1985,47.29, S. & Cent. America
+Venezuela,1986,50.11, S. & Cent. America
+Venezuela,1987,54.13, S. & Cent. America
+Venezuela,1988,58.24, S. & Cent. America
+Venezuela,1989,57.62, S. & Cent. America
+Venezuela,1990,59.32, S. & Cent. America
+Venezuela,1991,63.34, S. & Cent. America
+Venezuela,1992,67.44, S. & Cent. America
+Venezuela,1993,69.38, S. & Cent. America
+Venezuela,1994,71.22, S. & Cent. America
+Venezuela,1995,73.45, S. & Cent. America
+Venezuela,1996,75.59, S. & Cent. America
+Venezuela,1997,78.07, S. & Cent. America
+Venezuela,1998,80.9, S. & Cent. America
+Venezuela,1999,80.58, S. & Cent. America
+Venezuela,2000,85.21, S. & Cent. America
+Venezuela,2001,90.12, S. & Cent. America
+Venezuela,2002,89.39, S. & Cent. America
+Venezuela,2003,90.06, S. & Cent. America
+Venezuela,2004,96.87, S. & Cent. America
+Venezuela,2005,104.36, S. & Cent. America
+Venezuela,2006,110.64, S. & Cent. America
+Venezuela,2007,113.7, S. & Cent. America
+Venezuela,2008,119.32, S. & Cent. America
+Venezuela,2009,124.84, S. & Cent. America
+Venezuela,2010,116.72, S. & Cent. America
+Venezuela,2011,122.9, S. & Cent. America
+Venezuela,2012,127.85, S. & Cent. America
+Venezuela,2013,130.02, S. & Cent. America
+Venezuela,2014,128.34, S. & Cent. America
+Venezuela,2015,123.75, S. & Cent. America
+Venezuela,2016,113.84, S. & Cent. America
+Venezuela,2017,117.25, S. & Cent. America
+Venezuela,2018,99.25, S. & Cent. America

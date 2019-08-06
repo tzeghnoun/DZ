@@ -1,0 +1,99 @@
+region,fuel,year,fuel_cons
+Africa,oil,2017,192
+Asia Pacific,oil,2017,1651
+CIS,oil,2017,191
+Europe,oil,2017,746
+Middle East,oil,2017,412
+North America,oil,2017,1097
+S. & Cent. America,oil,2017,317
+Africa,ng,2017,121
+Asia Pacific,ng,2017,661
+CIS,ng,2017,472
+Europe,ng,2017,482
+Middle East,ng,2017,453
+North America,ng,2017,804
+S. & Cent. America,ng,2017,148
+Africa,coal,2017,98
+Asia Pacific,coal,2017,2771
+CIS,coal,2017,126
+Europe,coal,2017,316
+Middle East,coal,2017,8
+North America,coal,2017,365
+S. & Cent. America,coal,2017,35
+Africa,nuclear,2017,4
+Asia Pacific,nuclear,2017,112
+CIS,nuclear,2017,47
+Europe,nuclear,2017,212
+Middle East,nuclear,2017,2
+North America,nuclear,2017,217
+S. & Cent. America,nuclear,2017,5
+Africa,hydroelectric,2017,28
+Asia Pacific,hydroelectric,2017,373
+CIS,hydroelectric,2017,54
+Europe,hydroelectric,2017,132
+Middle East,hydroelectric,2017,5
+North America,hydroelectric,2017,164
+S. & Cent. America,hydroelectric,2017,163
+Africa,renewables,2017,6
+Asia Pacific,renewables,2017,180
+CIS,renewables,2017,0
+Europe,renewables,2017,162
+Middle East,renewables,2017,1
+North America,renewables,2017,108
+S. & Cent. America,renewables,2017,32
+Africa,total,2017,449
+Asia Pacific,total,2017,5748
+CIS,total,2017,891
+Europe,total,2017,2050
+Middle East,total,2017,881
+North America,total,2017,2755
+S. & Cent. America,total,2017,700
+Africa,oil,2018,191
+Asia Pacific,oil,2018,1695
+CIS,oil,2018,194
+Europe,oil,2018,742
+Middle East,oil,2018,412
+North America,oil,2018,1113
+S. & Cent. America,oil,2018,315
+Africa,ng,2018,129
+Asia Pacific,ng,2018,710
+CIS,ng,2018,499
+Europe,ng,2018,472
+Middle East,ng,2018,476
+North America,ng,2018,879
+S. & Cent. America,ng,2018,145
+Africa,coal,2018,101
+Asia Pacific,coal,2018,2841
+CIS,coal,2018,135
+Europe,coal,2018,307
+Middle East,coal,2018,8
+North America,coal,2018,343
+S. & Cent. America,coal,2018,36
+Africa,nuclear,2018,3
+Asia Pacific,nuclear,2018,125
+CIS,nuclear,2018,47
+Europe,nuclear,2018,212
+Middle East,nuclear,2018,2
+North America,nuclear,2018,218
+S. & Cent. America,nuclear,2018,5
+Africa,hydroelectric,2018,30
+Asia Pacific,hydroelectric,2018,389
+CIS,hydroelectric,2018,55
+Europe,hydroelectric,2018,145
+Middle East,hydroelectric,2018,3
+North America,hydroelectric,2018,160
+S. & Cent. America,hydroelectric,2018,165
+Africa,renewables,2018,7
+Asia Pacific,renewables,2018,225
+CIS,renewables,2018,1
+Europe,renewables,2018,172
+Middle East,renewables,2018,2
+North America,renewables,2018,119
+S. & Cent. America,renewables,2018,35
+Africa,total,2018,462
+Asia Pacific,total,2018,5986
+CIS,total,2018,931
+Europe,total,2018,2051
+Middle East,total,2018,902
+North America,total,2018,2832
+S. & Cent. America,total,2018,702

@@ -1,0 +1,4321 @@
+country,year,oil_refining_capacity,region
+Algeria,1965,54.22, Africa
+Algeria,1966,54.22, Africa
+Algeria,1967,54.22, Africa
+Algeria,1968,54.22, Africa
+Algeria,1969,54.22, Africa
+Algeria,1970,57.74, Africa
+Algeria,1971,57.74, Africa
+Algeria,1972,116.28, Africa
+Algeria,1973,116.28, Africa
+Algeria,1974,116.28, Africa
+Algeria,1975,116.28, Africa
+Algeria,1976,116.28, Africa
+Algeria,1977,116.28, Africa
+Algeria,1978,110, Africa
+Algeria,1979,134, Africa
+Algeria,1980,440, Africa
+Algeria,1981,440, Africa
+Algeria,1982,440, Africa
+Algeria,1983,440, Africa
+Algeria,1984,440, Africa
+Algeria,1985,440, Africa
+Algeria,1986,434, Africa
+Algeria,1987,434, Africa
+Algeria,1988,434, Africa
+Algeria,1989,434, Africa
+Algeria,1990,434, Africa
+Algeria,1991,434, Africa
+Algeria,1992,434, Africa
+Algeria,1993,434, Africa
+Algeria,1994,434, Africa
+Algeria,1995,434, Africa
+Algeria,1996,434, Africa
+Algeria,1997,434, Africa
+Algeria,1998,434, Africa
+Algeria,1999,434, Africa
+Algeria,2000,434, Africa
+Algeria,2001,434, Africa
+Algeria,2002,434, Africa
+Algeria,2003,434, Africa
+Algeria,2004,442.97, Africa
+Algeria,2005,442.97, Africa
+Algeria,2006,442.97, Africa
+Algeria,2007,442.97, Africa
+Algeria,2008,444.5, Africa
+Algeria,2009,554.27, Africa
+Algeria,2010,554.27, Africa
+Algeria,2011,652.35, Africa
+Algeria,2012,652.35, Africa
+Algeria,2013,646.55, Africa
+Algeria,2014,650.86, Africa
+Algeria,2015,650.86, Africa
+Algeria,2016,650.86, Africa
+Algeria,2017,657, Africa
+Algeria,2018,657, Africa
+Egypt,1965,180.74, Africa
+Egypt,1966,180.74, Africa
+Egypt,1967,136.16, Africa
+Egypt,1968,130.53, Africa
+Egypt,1969,80.33, Africa
+Egypt,1970,175.4, Africa
+Egypt,1971,175.4, Africa
+Egypt,1972,175.4, Africa
+Egypt,1973,175.4, Africa
+Egypt,1974,175.4, Africa
+Egypt,1975,200.82, Africa
+Egypt,1976,222.91, Africa
+Egypt,1977,293.2, Africa
+Egypt,1978,314, Africa
+Egypt,1979,314, Africa
+Egypt,1980,324, Africa
+Egypt,1981,361, Africa
+Egypt,1982,386, Africa
+Egypt,1983,386, Africa
+Egypt,1984,433, Africa
+Egypt,1985,433, Africa
+Egypt,1986,443, Africa
+Egypt,1987,523, Africa
+Egypt,1988,576, Africa
+Egypt,1989,583, Africa
+Egypt,1990,583, Africa
+Egypt,1991,583, Africa
+Egypt,1992,592, Africa
+Egypt,1993,633, Africa
+Egypt,1994,633, Africa
+Egypt,1995,633, Africa
+Egypt,1996,645, Africa
+Egypt,1997,645, Africa
+Egypt,1998,645, Africa
+Egypt,1999,645, Africa
+Egypt,2000,654, Africa
+Egypt,2001,770, Africa
+Egypt,2002,810, Africa
+Egypt,2003,810, Africa
+Egypt,2004,810, Africa
+Egypt,2005,810, Africa
+Egypt,2006,810, Africa
+Egypt,2007,810, Africa
+Egypt,2008,810, Africa
+Egypt,2009,810, Africa
+Egypt,2010,810, Africa
+Egypt,2011,810, Africa
+Egypt,2012,810, Africa
+Egypt,2013,810, Africa
+Egypt,2014,810, Africa
+Egypt,2015,810, Africa
+Egypt,2016,810, Africa
+Egypt,2017,810, Africa
+Egypt,2018,795, Africa
+Morocco,1965,34.14, Africa
+Morocco,1966,34.14, Africa
+Morocco,1967,34.14, Africa
+Morocco,1968,34.14, Africa
+Morocco,1969,34.14, Africa
+Morocco,1970,34.14, Africa
+Morocco,1971,34.14, Africa
+Morocco,1972,40.16, Africa
+Morocco,1973,48.2, Africa
+Morocco,1974,78.32, Africa
+Morocco,1975,78.32, Africa
+Morocco,1976,78.32, Africa
+Morocco,1977,78.32, Africa
+Morocco,1978,74, Africa
+Morocco,1979,154, Africa
+Morocco,1980,154, Africa
+Morocco,1981,154, Africa
+Morocco,1982,154, Africa
+Morocco,1983,154, Africa
+Morocco,1984,154, Africa
+Morocco,1985,154, Africa
+Morocco,1986,154, Africa
+Morocco,1987,154, Africa
+Morocco,1988,154, Africa
+Morocco,1989,154, Africa
+Morocco,1990,154, Africa
+Morocco,1991,154, Africa
+Morocco,1992,154, Africa
+Morocco,1993,154, Africa
+Morocco,1994,154, Africa
+Morocco,1995,154, Africa
+Morocco,1996,154, Africa
+Morocco,1997,154, Africa
+Morocco,1998,154, Africa
+Morocco,1999,154, Africa
+Morocco,2000,154, Africa
+Morocco,2001,154, Africa
+Morocco,2002,154, Africa
+Morocco,2003,154, Africa
+Morocco,2004,154, Africa
+Morocco,2005,154, Africa
+Morocco,2006,154, Africa
+Morocco,2007,155.64, Africa
+Morocco,2008,130.53, Africa
+Morocco,2009,130.53, Africa
+Morocco,2010,130.53, Africa
+Morocco,2011,130.53, Africa
+Morocco,2012,200.82, Africa
+Morocco,2013,200.82, Africa
+Morocco,2014,200.82, Africa
+Morocco,2015,200.82, Africa
+Morocco,2016,200.82, Africa
+Morocco,2017,200.82, Africa
+Morocco,2018,200.82, Africa
+Nigeria,1965,32.13, Africa
+Nigeria,1966,32.13, Africa
+Nigeria,1967,33.34, Africa
+Nigeria,1968,42.17, Africa
+Nigeria,1969,42.17, Africa
+Nigeria,1970,55.23, Africa
+Nigeria,1971,60.25, Africa
+Nigeria,1972,60.25, Africa
+Nigeria,1973,60.25, Africa
+Nigeria,1974,60.25, Africa
+Nigeria,1975,60.25, Africa
+Nigeria,1976,60.25, Africa
+Nigeria,1977,60.25, Africa
+Nigeria,1978,160, Africa
+Nigeria,1979,160, Africa
+Nigeria,1980,210, Africa
+Nigeria,1981,210, Africa
+Nigeria,1982,260, Africa
+Nigeria,1983,260, Africa
+Nigeria,1984,260, Africa
+Nigeria,1985,261, Africa
+Nigeria,1986,270, Africa
+Nigeria,1987,270, Africa
+Nigeria,1988,275, Africa
+Nigeria,1989,385, Africa
+Nigeria,1990,385, Africa
+Nigeria,1991,385, Africa
+Nigeria,1992,385, Africa
+Nigeria,1993,385, Africa
+Nigeria,1994,240, Africa
+Nigeria,1995,310, Africa
+Nigeria,1996,385, Africa
+Nigeria,1997,275, Africa
+Nigeria,1998,275, Africa
+Nigeria,1999,355, Africa
+Nigeria,2000,270, Africa
+Nigeria,2001,395, Africa
+Nigeria,2002,340, Africa
+Nigeria,2003,335, Africa
+Nigeria,2004,250, Africa
+Nigeria,2005,345, Africa
+Nigeria,2006,150, Africa
+Nigeria,2007,150, Africa
+Nigeria,2008,250, Africa
+Nigeria,2009,110, Africa
+Nigeria,2010,211, Africa
+Nigeria,2011,336, Africa
+Nigeria,2012,336, Africa
+Nigeria,2013,336, Africa
+Nigeria,2014,339, Africa
+Nigeria,2015,339, Africa
+Nigeria,2016,339, Africa
+Nigeria,2017,339, Africa
+Nigeria,2018,344, Africa
+Other Africa,1965,216.74, Africa
+Other Africa,1966,244.42, Africa
+Other Africa,1967,251.12, Africa
+Other Africa,1968,287.03, Africa
+Other Africa,1969,287.07, Africa
+Other Africa,1970,298.08, Africa
+Other Africa,1971,309.73, Africa
+Other Africa,1972,320.47, Africa
+Other Africa,1973,375.8, Africa
+Other Africa,1974,446.29, Africa
+Other Africa,1975,477.42, Africa
+Other Africa,1976,553.13, Africa
+Other Africa,1977,571.2, Africa
+Other Africa,1978,604, Africa
+Other Africa,1979,604, Africa
+Other Africa,1980,621, Africa
+Other Africa,1981,621, Africa
+Other Africa,1982,636, Africa
+Other Africa,1983,633, Africa
+Other Africa,1984,820, Africa
+Other Africa,1985,855, Africa
+Other Africa,1986,872, Africa
+Other Africa,1987,887, Africa
+Other Africa,1988,887, Africa
+Other Africa,1989,887, Africa
+Other Africa,1990,877, Africa
+Other Africa,1991,877, Africa
+Other Africa,1992,877, Africa
+Other Africa,1993,881, Africa
+Other Africa,1994,873, Africa
+Other Africa,1995,873, Africa
+Other Africa,1996,875, Africa
+Other Africa,1997,823, Africa
+Other Africa,1998,843, Africa
+Other Africa,1999,825, Africa
+Other Africa,2000,859, Africa
+Other Africa,2001,889, Africa
+Other Africa,2002,889, Africa
+Other Africa,2003,889, Africa
+Other Africa,2004,877, Africa
+Other Africa,2005,886, Africa
+Other Africa,2006,958, Africa
+Other Africa,2007,958, Africa
+Other Africa,2008,958, Africa
+Other Africa,2009,958, Africa
+Other Africa,2010,959, Africa
+Other Africa,2011,780, Africa
+Other Africa,2012,910, Africa
+Other Africa,2013,930, Africa
+Other Africa,2014,932, Africa
+Other Africa,2015,932, Africa
+Other Africa,2016,932, Africa
+Other Africa,2017,912, Africa
+Other Africa,2018,917, Africa
+South Africa,1965,305, Africa
+South Africa,1966,395, Africa
+South Africa,1967,395, Africa
+South Africa,1968,395, Africa
+South Africa,1969,395, Africa
+South Africa,1970,395, Africa
+South Africa,1971,473, Africa
+South Africa,1972,473, Africa
+South Africa,1973,473, Africa
+South Africa,1974,473, Africa
+South Africa,1975,473, Africa
+South Africa,1976,473, Africa
+South Africa,1977,473, Africa
+South Africa,1978,473, Africa
+South Africa,1979,491, Africa
+South Africa,1980,491, Africa
+South Africa,1981,491, Africa
+South Africa,1982,491, Africa
+South Africa,1983,388, Africa
+South Africa,1984,324, Africa
+South Africa,1985,324, Africa
+South Africa,1986,324, Africa
+South Africa,1987,324, Africa
+South Africa,1988,324, Africa
+South Africa,1989,324, Africa
+South Africa,1990,324, Africa
+South Africa,1991,324, Africa
+South Africa,1992,324, Africa
+South Africa,1993,380, Africa
+South Africa,1994,451, Africa
+South Africa,1995,461, Africa
+South Africa,1996,464, Africa
+South Africa,1997,466, Africa
+South Africa,1998,466, Africa
+South Africa,1999,476, Africa
+South Africa,2000,481, Africa
+South Africa,2001,486, Africa
+South Africa,2002,505, Africa
+South Africa,2003,514, Africa
+South Africa,2004,517, Africa
+South Africa,2005,520, Africa
+South Africa,2006,520, Africa
+South Africa,2007,520, Africa
+South Africa,2008,520, Africa
+South Africa,2009,520, Africa
+South Africa,2010,520, Africa
+South Africa,2011,520, Africa
+South Africa,2012,520, Africa
+South Africa,2013,520, Africa
+South Africa,2014,520, Africa
+South Africa,2015,520, Africa
+South Africa,2016,520, Africa
+South Africa,2017,520, Africa
+South Africa,2018,520, Africa
+Australia,1965,462, Asia Pacific
+Australia,1966,455, Asia Pacific
+Australia,1967,496, Asia Pacific
+Australia,1968,543, Asia Pacific
+Australia,1969,554, Asia Pacific
+Australia,1970,603, Asia Pacific
+Australia,1971,624, Asia Pacific
+Australia,1972,640, Asia Pacific
+Australia,1973,686, Asia Pacific
+Australia,1974,689, Asia Pacific
+Australia,1975,702, Asia Pacific
+Australia,1976,691, Asia Pacific
+Australia,1977,715, Asia Pacific
+Australia,1978,715, Asia Pacific
+Australia,1979,730, Asia Pacific
+Australia,1980,723, Asia Pacific
+Australia,1981,725, Asia Pacific
+Australia,1982,725, Asia Pacific
+Australia,1983,725, Asia Pacific
+Australia,1984,723, Asia Pacific
+Australia,1985,670, Asia Pacific
+Australia,1986,659, Asia Pacific
+Australia,1987,647, Asia Pacific
+Australia,1988,660, Asia Pacific
+Australia,1989,662, Asia Pacific
+Australia,1990,662, Asia Pacific
+Australia,1991,677, Asia Pacific
+Australia,1992,694, Asia Pacific
+Australia,1993,703, Asia Pacific
+Australia,1994,708, Asia Pacific
+Australia,1995,730, Asia Pacific
+Australia,1996,751, Asia Pacific
+Australia,1997,793, Asia Pacific
+Australia,1998,810, Asia Pacific
+Australia,1999,828, Asia Pacific
+Australia,2000,828, Asia Pacific
+Australia,2001,815, Asia Pacific
+Australia,2002,829, Asia Pacific
+Australia,2003,756, Asia Pacific
+Australia,2004,763, Asia Pacific
+Australia,2005,718, Asia Pacific
+Australia,2006,693.8, Asia Pacific
+Australia,2007,732.9, Asia Pacific
+Australia,2008,733.9, Asia Pacific
+Australia,2009,733.9, Asia Pacific
+Australia,2010,739.6, Asia Pacific
+Australia,2011,742.4, Asia Pacific
+Australia,2012,663.4, Asia Pacific
+Australia,2013,662.4, Asia Pacific
+Australia,2014,536.15, Asia Pacific
+Australia,2015,443.1, Asia Pacific
+Australia,2016,451.75, Asia Pacific
+Australia,2017,453.95, Asia Pacific
+Australia,2018,453.95, Asia Pacific
+Bangladesh,1965,0, Asia Pacific
+Bangladesh,1966,0, Asia Pacific
+Bangladesh,1967,0, Asia Pacific
+Bangladesh,1968,0, Asia Pacific
+Bangladesh,1969,0, Asia Pacific
+Bangladesh,1970,0, Asia Pacific
+Bangladesh,1971,0, Asia Pacific
+Bangladesh,1972,31, Asia Pacific
+Bangladesh,1973,31, Asia Pacific
+Bangladesh,1974,30, Asia Pacific
+Bangladesh,1975,30, Asia Pacific
+Bangladesh,1976,31, Asia Pacific
+Bangladesh,1977,31, Asia Pacific
+Bangladesh,1978,31, Asia Pacific
+Bangladesh,1979,31, Asia Pacific
+Bangladesh,1980,31, Asia Pacific
+Bangladesh,1981,31, Asia Pacific
+Bangladesh,1982,31, Asia Pacific
+Bangladesh,1983,31, Asia Pacific
+Bangladesh,1984,31, Asia Pacific
+Bangladesh,1985,31, Asia Pacific
+Bangladesh,1986,31, Asia Pacific
+Bangladesh,1987,31, Asia Pacific
+Bangladesh,1988,31, Asia Pacific
+Bangladesh,1989,31, Asia Pacific
+Bangladesh,1990,31, Asia Pacific
+Bangladesh,1991,31, Asia Pacific
+Bangladesh,1992,31, Asia Pacific
+Bangladesh,1993,31, Asia Pacific
+Bangladesh,1994,31, Asia Pacific
+Bangladesh,1995,31, Asia Pacific
+Bangladesh,1996,31, Asia Pacific
+Bangladesh,1997,34, Asia Pacific
+Bangladesh,1998,35, Asia Pacific
+Bangladesh,1999,36, Asia Pacific
+Bangladesh,2000,36, Asia Pacific
+Bangladesh,2001,36, Asia Pacific
+Bangladesh,2002,36, Asia Pacific
+Bangladesh,2003,36, Asia Pacific
+Bangladesh,2004,36, Asia Pacific
+Bangladesh,2005,36, Asia Pacific
+Bangladesh,2006,36, Asia Pacific
+Bangladesh,2007,36, Asia Pacific
+Bangladesh,2008,36, Asia Pacific
+Bangladesh,2009,39, Asia Pacific
+Bangladesh,2010,39, Asia Pacific
+Bangladesh,2011,39, Asia Pacific
+Bangladesh,2012,40, Asia Pacific
+Bangladesh,2013,43, Asia Pacific
+Bangladesh,2014,43, Asia Pacific
+Bangladesh,2015,43, Asia Pacific
+Bangladesh,2016,43, Asia Pacific
+Bangladesh,2017,43, Asia Pacific
+Bangladesh,2018,43, Asia Pacific
+China,1965,241.5, Asia Pacific
+China,1966,317.99, Asia Pacific
+China,1967,317.99, Asia Pacific
+China,1968,462.23, Asia Pacific
+China,1969,539.81, Asia Pacific
+China,1970,605.38, Asia Pacific
+China,1971,768.2, Asia Pacific
+China,1972,875.29, Asia Pacific
+China,1973,1020.62, Asia Pacific
+China,1974,1229.33, Asia Pacific
+China,1975,1327.68, Asia Pacific
+China,1976,1575.73, Asia Pacific
+China,1977,1756.03, Asia Pacific
+China,1978,1724.35, Asia Pacific
+China,1979,1748.39, Asia Pacific
+China,1980,1972.4, Asia Pacific
+China,1981,1977.86, Asia Pacific
+China,1982,2185.48, Asia Pacific
+China,1983,2237.93, Asia Pacific
+China,1984,2243.4, Asia Pacific
+China,1985,2348.3, Asia Pacific
+China,1986,2370.15, Asia Pacific
+China,1987,2435.72, Asia Pacific
+China,1988,2560.29, Asia Pacific
+China,1989,2699.07, Asia Pacific
+China,1990,3160.21, Asia Pacific
+China,1991,3160.21, Asia Pacific
+China,1992,3326.3, Asia Pacific
+China,1993,3643.2, Asia Pacific
+China,1994,3897.81, Asia Pacific
+China,1995,4386.26, Asia Pacific
+China,1996,4617.92, Asia Pacific
+China,1997,4981.81, Asia Pacific
+China,1998,5017.87, Asia Pacific
+China,1999,5901.89, Asia Pacific
+China,2000,5908.45, Asia Pacific
+China,2001,6166.34, Asia Pacific
+China,2002,6877.71, Asia Pacific
+China,2003,7322.46, Asia Pacific
+China,2004,7843.69, Asia Pacific
+China,2005,8463.42, Asia Pacific
+China,2006,9226.54, Asia Pacific
+China,2007,9455.48, Asia Pacific
+China,2008,10360.39, Asia Pacific
+China,2009,11333.91, Asia Pacific
+China,2010,12322.53, Asia Pacific
+China,2011,13014.69, Asia Pacific
+China,2012,13643.13, Asia Pacific
+China,2013,14502.78, Asia Pacific
+China,2014,15252.55, Asia Pacific
+China,2015,15024.18, Asia Pacific
+China,2016,14854.52, Asia Pacific
+China,2017,15230.99, Asia Pacific
+China,2018,15655.47, Asia Pacific
+India,1965,231, Asia Pacific
+India,1966,329, Asia Pacific
+India,1967,320.15, Asia Pacific
+India,1968,366.7, Asia Pacific
+India,1969,423.7, Asia Pacific
+India,1970,411.63, Asia Pacific
+India,1971,415.15, Asia Pacific
+India,1972,489, Asia Pacific
+India,1973,499, Asia Pacific
+India,1974,555, Asia Pacific
+India,1975,564, Asia Pacific
+India,1976,568, Asia Pacific
+India,1977,564, Asia Pacific
+India,1978,626, Asia Pacific
+India,1979,557, Asia Pacific
+India,1980,557, Asia Pacific
+India,1981,557, Asia Pacific
+India,1982,753, Asia Pacific
+India,1983,779, Asia Pacific
+India,1984,705, Asia Pacific
+India,1985,867, Asia Pacific
+India,1986,991, Asia Pacific
+India,1987,1059, Asia Pacific
+India,1988,1051, Asia Pacific
+India,1989,1080, Asia Pacific
+India,1990,1122, Asia Pacific
+India,1991,1122, Asia Pacific
+India,1992,1041, Asia Pacific
+India,1993,1069, Asia Pacific
+India,1994,1072, Asia Pacific
+India,1995,1133, Asia Pacific
+India,1996,1210, Asia Pacific
+India,1997,1236, Asia Pacific
+India,1998,1356, Asia Pacific
+India,1999,2190, Asia Pacific
+India,2000,2219, Asia Pacific
+India,2001,2261, Asia Pacific
+India,2002,2303.04, Asia Pacific
+India,2003,2292.87, Asia Pacific
+India,2004,2558.41, Asia Pacific
+India,2005,2558.41, Asia Pacific
+India,2006,2871.7, Asia Pacific
+India,2007,2983.31, Asia Pacific
+India,2008,2992.06, Asia Pacific
+India,2009,3574.44, Asia Pacific
+India,2010,3703.31, Asia Pacific
+India,2011,3794.58, Asia Pacific
+India,2012,4278.83, Asia Pacific
+India,2013,4319.03, Asia Pacific
+India,2014,4319.03, Asia Pacific
+India,2015,4307.2, Asia Pacific
+India,2016,4620.26, Asia Pacific
+India,2017,4699.24, Asia Pacific
+India,2018,4971.63, Asia Pacific
+Indonesia,1965,225.15, Asia Pacific
+Indonesia,1966,228.95, Asia Pacific
+Indonesia,1967,238.45, Asia Pacific
+Indonesia,1968,238.45, Asia Pacific
+Indonesia,1969,243.2, Asia Pacific
+Indonesia,1970,269.8, Asia Pacific
+Indonesia,1971,342.95, Asia Pacific
+Indonesia,1972,342.95, Asia Pacific
+Indonesia,1973,342.95, Asia Pacific
+Indonesia,1974,342.95, Asia Pacific
+Indonesia,1975,342.95, Asia Pacific
+Indonesia,1976,449.35, Asia Pacific
+Indonesia,1977,449.35, Asia Pacific
+Indonesia,1978,427.5, Asia Pacific
+Indonesia,1979,427.5, Asia Pacific
+Indonesia,1980,426.55, Asia Pacific
+Indonesia,1981,424.65, Asia Pacific
+Indonesia,1982,424.65, Asia Pacific
+Indonesia,1983,424.65, Asia Pacific
+Indonesia,1984,814.15, Asia Pacific
+Indonesia,1985,823.65, Asia Pacific
+Indonesia,1986,823.65, Asia Pacific
+Indonesia,1987,823.65, Asia Pacific
+Indonesia,1988,822.7, Asia Pacific
+Indonesia,1989,822.7, Asia Pacific
+Indonesia,1990,822.7, Asia Pacific
+Indonesia,1991,822.7, Asia Pacific
+Indonesia,1992,822.7, Asia Pacific
+Indonesia,1993,822.7, Asia Pacific
+Indonesia,1994,941.45, Asia Pacific
+Indonesia,1995,941.45, Asia Pacific
+Indonesia,1996,941.45, Asia Pacific
+Indonesia,1997,1007.95, Asia Pacific
+Indonesia,1998,1041.2, Asia Pacific
+Indonesia,1999,1070.65, Asia Pacific
+Indonesia,2000,1070.65, Asia Pacific
+Indonesia,2001,1070.65, Asia Pacific
+Indonesia,2002,1004.15, Asia Pacific
+Indonesia,2003,1004.15, Asia Pacific
+Indonesia,2004,1004.15, Asia Pacific
+Indonesia,2005,1004.15, Asia Pacific
+Indonesia,2006,1004.15, Asia Pacific
+Indonesia,2007,1094.4, Asia Pacific
+Indonesia,2008,1094.4, Asia Pacific
+Indonesia,2009,1099.24, Asia Pacific
+Indonesia,2010,1099.24, Asia Pacific
+Indonesia,2011,1099.24, Asia Pacific
+Indonesia,2012,1099.24, Asia Pacific
+Indonesia,2013,1099.24, Asia Pacific
+Indonesia,2014,1099.24, Asia Pacific
+Indonesia,2015,1110.64, Asia Pacific
+Indonesia,2016,1110.64, Asia Pacific
+Indonesia,2017,1110.64, Asia Pacific
+Indonesia,2018,1116.36, Asia Pacific
+Japan,1965,1917, Asia Pacific
+Japan,1966,2102, Asia Pacific
+Japan,1967,2214, Asia Pacific
+Japan,1968,2613, Asia Pacific
+Japan,1969,3029, Asia Pacific
+Japan,1970,3504, Asia Pacific
+Japan,1971,3904, Asia Pacific
+Japan,1972,4635, Asia Pacific
+Japan,1973,5140, Asia Pacific
+Japan,1974,5377, Asia Pacific
+Japan,1975,5567, Asia Pacific
+Japan,1976,5643, Asia Pacific
+Japan,1977,5643, Asia Pacific
+Japan,1978,5643, Asia Pacific
+Japan,1979,5643, Asia Pacific
+Japan,1980,5643, Asia Pacific
+Japan,1981,5643, Asia Pacific
+Japan,1982,5643, Asia Pacific
+Japan,1983,4724, Asia Pacific
+Japan,1984,4724, Asia Pacific
+Japan,1985,4724, Asia Pacific
+Japan,1986,4619, Asia Pacific
+Japan,1987,4461, Asia Pacific
+Japan,1988,4324, Asia Pacific
+Japan,1989,4324, Asia Pacific
+Japan,1990,4324, Asia Pacific
+Japan,1991,4505, Asia Pacific
+Japan,1992,4636, Asia Pacific
+Japan,1993,4802, Asia Pacific
+Japan,1994,4862, Asia Pacific
+Japan,1995,5006, Asia Pacific
+Japan,1996,5006, Asia Pacific
+Japan,1997,5056, Asia Pacific
+Japan,1998,5144, Asia Pacific
+Japan,1999,5087, Asia Pacific
+Japan,2000,5010, Asia Pacific
+Japan,2001,4704.98, Asia Pacific
+Japan,2002,4727.78, Asia Pacific
+Japan,2003,4645.13, Asia Pacific
+Japan,2004,4531.13, Asia Pacific
+Japan,2005,4531.13, Asia Pacific
+Japan,2006,4588.43, Asia Pacific
+Japan,2007,4650.18, Asia Pacific
+Japan,2008,4650.18, Asia Pacific
+Japan,2009,4629.75, Asia Pacific
+Japan,2010,4290.6, Asia Pacific
+Japan,2011,4274.26, Asia Pacific
+Japan,2012,4253.57, Asia Pacific
+Japan,2013,4122.71, Asia Pacific
+Japan,2014,3749.36, Asia Pacific
+Japan,2015,3720.86, Asia Pacific
+Japan,2016,3600.21, Asia Pacific
+Japan,2017,3342.86, Asia Pacific
+Japan,2018,3342.86, Asia Pacific
+Malaysia,1965,118, Asia Pacific
+Malaysia,1966,123, Asia Pacific
+Malaysia,1967,124, Asia Pacific
+Malaysia,1968,120, Asia Pacific
+Malaysia,1969,124, Asia Pacific
+Malaysia,1970,125, Asia Pacific
+Malaysia,1971,125, Asia Pacific
+Malaysia,1972,123, Asia Pacific
+Malaysia,1973,123, Asia Pacific
+Malaysia,1974,182, Asia Pacific
+Malaysia,1975,143, Asia Pacific
+Malaysia,1976,168, Asia Pacific
+Malaysia,1977,140, Asia Pacific
+Malaysia,1978,143, Asia Pacific
+Malaysia,1979,158, Asia Pacific
+Malaysia,1980,172, Asia Pacific
+Malaysia,1981,175, Asia Pacific
+Malaysia,1982,175, Asia Pacific
+Malaysia,1983,205, Asia Pacific
+Malaysia,1984,205, Asia Pacific
+Malaysia,1985,209, Asia Pacific
+Malaysia,1986,213, Asia Pacific
+Malaysia,1987,213, Asia Pacific
+Malaysia,1988,213, Asia Pacific
+Malaysia,1989,220, Asia Pacific
+Malaysia,1990,230, Asia Pacific
+Malaysia,1991,235, Asia Pacific
+Malaysia,1992,235, Asia Pacific
+Malaysia,1993,240, Asia Pacific
+Malaysia,1994,350, Asia Pacific
+Malaysia,1995,365, Asia Pacific
+Malaysia,1996,376, Asia Pacific
+Malaysia,1997,376, Asia Pacific
+Malaysia,1998,476, Asia Pacific
+Malaysia,1999,491, Asia Pacific
+Malaysia,2000,572, Asia Pacific
+Malaysia,2001,559, Asia Pacific
+Malaysia,2002,524, Asia Pacific
+Malaysia,2003,527, Asia Pacific
+Malaysia,2004,527, Asia Pacific
+Malaysia,2005,522, Asia Pacific
+Malaysia,2006,528, Asia Pacific
+Malaysia,2007,534, Asia Pacific
+Malaysia,2008,568, Asia Pacific
+Malaysia,2009,572, Asia Pacific
+Malaysia,2010,582, Asia Pacific
+Malaysia,2011,601, Asia Pacific
+Malaysia,2012,606, Asia Pacific
+Malaysia,2013,612, Asia Pacific
+Malaysia,2014,612, Asia Pacific
+Malaysia,2015,612, Asia Pacific
+Malaysia,2016,618, Asia Pacific
+Malaysia,2017,625, Asia Pacific
+Malaysia,2018,625, Asia Pacific
+New Zealand,1965,61, Asia Pacific
+New Zealand,1966,61, Asia Pacific
+New Zealand,1967,61, Asia Pacific
+New Zealand,1968,61, Asia Pacific
+New Zealand,1969,61, Asia Pacific
+New Zealand,1970,61, Asia Pacific
+New Zealand,1971,61, Asia Pacific
+New Zealand,1972,61, Asia Pacific
+New Zealand,1973,61, Asia Pacific
+New Zealand,1974,61, Asia Pacific
+New Zealand,1975,61, Asia Pacific
+New Zealand,1976,61, Asia Pacific
+New Zealand,1977,61, Asia Pacific
+New Zealand,1978,61, Asia Pacific
+New Zealand,1979,61, Asia Pacific
+New Zealand,1980,61, Asia Pacific
+New Zealand,1981,61, Asia Pacific
+New Zealand,1982,61, Asia Pacific
+New Zealand,1983,61, Asia Pacific
+New Zealand,1984,61, Asia Pacific
+New Zealand,1985,61, Asia Pacific
+New Zealand,1986,61, Asia Pacific
+New Zealand,1987,88, Asia Pacific
+New Zealand,1988,88, Asia Pacific
+New Zealand,1989,88, Asia Pacific
+New Zealand,1990,88, Asia Pacific
+New Zealand,1991,88, Asia Pacific
+New Zealand,1992,88, Asia Pacific
+New Zealand,1993,88, Asia Pacific
+New Zealand,1994,88, Asia Pacific
+New Zealand,1995,88, Asia Pacific
+New Zealand,1996,97, Asia Pacific
+New Zealand,1997,97, Asia Pacific
+New Zealand,1998,96, Asia Pacific
+New Zealand,1999,96, Asia Pacific
+New Zealand,2000,96, Asia Pacific
+New Zealand,2001,101, Asia Pacific
+New Zealand,2002,104, Asia Pacific
+New Zealand,2003,104, Asia Pacific
+New Zealand,2004,104, Asia Pacific
+New Zealand,2005,102, Asia Pacific
+New Zealand,2006,102.42, Asia Pacific
+New Zealand,2007,102.62, Asia Pacific
+New Zealand,2008,102.62, Asia Pacific
+New Zealand,2009,135.61, Asia Pacific
+New Zealand,2010,135.61, Asia Pacific
+New Zealand,2011,135.61, Asia Pacific
+New Zealand,2012,135.61, Asia Pacific
+New Zealand,2013,135.61, Asia Pacific
+New Zealand,2014,135.61, Asia Pacific
+New Zealand,2015,135.61, Asia Pacific
+New Zealand,2016,135.61, Asia Pacific
+New Zealand,2017,135.61, Asia Pacific
+New Zealand,2018,135.61, Asia Pacific
+Other Asia Pacific,1965,24.7, Asia Pacific
+Other Asia Pacific,1966,24.7, Asia Pacific
+Other Asia Pacific,1967,24.7, Asia Pacific
+Other Asia Pacific,1968,24.7, Asia Pacific
+Other Asia Pacific,1969,62.7, Asia Pacific
+Other Asia Pacific,1970,62.7, Asia Pacific
+Other Asia Pacific,1971,62.7, Asia Pacific
+Other Asia Pacific,1972,93, Asia Pacific
+Other Asia Pacific,1973,93, Asia Pacific
+Other Asia Pacific,1974,96, Asia Pacific
+Other Asia Pacific,1975,96, Asia Pacific
+Other Asia Pacific,1976,96, Asia Pacific
+Other Asia Pacific,1977,136, Asia Pacific
+Other Asia Pacific,1978,134, Asia Pacific
+Other Asia Pacific,1979,142, Asia Pacific
+Other Asia Pacific,1980,178, Asia Pacific
+Other Asia Pacific,1981,192, Asia Pacific
+Other Asia Pacific,1982,217, Asia Pacific
+Other Asia Pacific,1983,226, Asia Pacific
+Other Asia Pacific,1984,226, Asia Pacific
+Other Asia Pacific,1985,183, Asia Pacific
+Other Asia Pacific,1986,183, Asia Pacific
+Other Asia Pacific,1987,184, Asia Pacific
+Other Asia Pacific,1988,185, Asia Pacific
+Other Asia Pacific,1989,185, Asia Pacific
+Other Asia Pacific,1990,185, Asia Pacific
+Other Asia Pacific,1991,187, Asia Pacific
+Other Asia Pacific,1992,187, Asia Pacific
+Other Asia Pacific,1993,187, Asia Pacific
+Other Asia Pacific,1994,187, Asia Pacific
+Other Asia Pacific,1995,145, Asia Pacific
+Other Asia Pacific,1996,145, Asia Pacific
+Other Asia Pacific,1997,145, Asia Pacific
+Other Asia Pacific,1998,145, Asia Pacific
+Other Asia Pacific,1999,145, Asia Pacific
+Other Asia Pacific,2000,143, Asia Pacific
+Other Asia Pacific,2001,143, Asia Pacific
+Other Asia Pacific,2002,137, Asia Pacific
+Other Asia Pacific,2003,138, Asia Pacific
+Other Asia Pacific,2004,171, Asia Pacific
+Other Asia Pacific,2005,170.19, Asia Pacific
+Other Asia Pacific,2006,170.19, Asia Pacific
+Other Asia Pacific,2007,170.19, Asia Pacific
+Other Asia Pacific,2008,172.19, Asia Pacific
+Other Asia Pacific,2009,177, Asia Pacific
+Other Asia Pacific,2010,177, Asia Pacific
+Other Asia Pacific,2011,178.47, Asia Pacific
+Other Asia Pacific,2012,178.47, Asia Pacific
+Other Asia Pacific,2013,184.33, Asia Pacific
+Other Asia Pacific,2014,191.33, Asia Pacific
+Other Asia Pacific,2015,191.33, Asia Pacific
+Other Asia Pacific,2016,191.33, Asia Pacific
+Other Asia Pacific,2017,191.33, Asia Pacific
+Other Asia Pacific,2018,191.33, Asia Pacific
+Pakistan,1965,52, Asia Pacific
+Pakistan,1966,62, Asia Pacific
+Pakistan,1967,62, Asia Pacific
+Pakistan,1968,62, Asia Pacific
+Pakistan,1969,62, Asia Pacific
+Pakistan,1970,62, Asia Pacific
+Pakistan,1971,62, Asia Pacific
+Pakistan,1972,62, Asia Pacific
+Pakistan,1973,62, Asia Pacific
+Pakistan,1974,62, Asia Pacific
+Pakistan,1975,62, Asia Pacific
+Pakistan,1976,62, Asia Pacific
+Pakistan,1977,96, Asia Pacific
+Pakistan,1978,96, Asia Pacific
+Pakistan,1979,96, Asia Pacific
+Pakistan,1980,113, Asia Pacific
+Pakistan,1981,113, Asia Pacific
+Pakistan,1982,113, Asia Pacific
+Pakistan,1983,113, Asia Pacific
+Pakistan,1984,113, Asia Pacific
+Pakistan,1985,113, Asia Pacific
+Pakistan,1986,113, Asia Pacific
+Pakistan,1987,113, Asia Pacific
+Pakistan,1988,113, Asia Pacific
+Pakistan,1989,113, Asia Pacific
+Pakistan,1990,129, Asia Pacific
+Pakistan,1991,129, Asia Pacific
+Pakistan,1992,129, Asia Pacific
+Pakistan,1993,129, Asia Pacific
+Pakistan,1994,132, Asia Pacific
+Pakistan,1995,132, Asia Pacific
+Pakistan,1996,131, Asia Pacific
+Pakistan,1997,132, Asia Pacific
+Pakistan,1998,131, Asia Pacific
+Pakistan,1999,134, Asia Pacific
+Pakistan,2000,134, Asia Pacific
+Pakistan,2001,226.53, Asia Pacific
+Pakistan,2002,226.53, Asia Pacific
+Pakistan,2003,227.53, Asia Pacific
+Pakistan,2004,255.65, Asia Pacific
+Pakistan,2005,268.95, Asia Pacific
+Pakistan,2006,271.46, Asia Pacific
+Pakistan,2007,274.77, Asia Pacific
+Pakistan,2008,274.25, Asia Pacific
+Pakistan,2009,276.08, Asia Pacific
+Pakistan,2010,278.71, Asia Pacific
+Pakistan,2011,278.9, Asia Pacific
+Pakistan,2012,275.14, Asia Pacific
+Pakistan,2013,389.81, Asia Pacific
+Pakistan,2014,389.81, Asia Pacific
+Pakistan,2015,388.71, Asia Pacific
+Pakistan,2016,389.28, Asia Pacific
+Pakistan,2017,401.19, Asia Pacific
+Pakistan,2018,401.45, Asia Pacific
+Philippines,1965,102, Asia Pacific
+Philippines,1966,109, Asia Pacific
+Philippines,1967,171, Asia Pacific
+Philippines,1968,187, Asia Pacific
+Philippines,1969,195, Asia Pacific
+Philippines,1970,199, Asia Pacific
+Philippines,1971,206, Asia Pacific
+Philippines,1972,275, Asia Pacific
+Philippines,1973,275, Asia Pacific
+Philippines,1974,275, Asia Pacific
+Philippines,1975,275, Asia Pacific
+Philippines,1976,246, Asia Pacific
+Philippines,1977,246, Asia Pacific
+Philippines,1978,257, Asia Pacific
+Philippines,1979,257, Asia Pacific
+Philippines,1980,256, Asia Pacific
+Philippines,1981,276, Asia Pacific
+Philippines,1982,291, Asia Pacific
+Philippines,1983,291, Asia Pacific
+Philippines,1984,291, Asia Pacific
+Philippines,1985,291, Asia Pacific
+Philippines,1986,291, Asia Pacific
+Philippines,1987,291, Asia Pacific
+Philippines,1988,291, Asia Pacific
+Philippines,1989,291, Asia Pacific
+Philippines,1990,291, Asia Pacific
+Philippines,1991,291, Asia Pacific
+Philippines,1992,291, Asia Pacific
+Philippines,1993,291, Asia Pacific
+Philippines,1994,301, Asia Pacific
+Philippines,1995,366, Asia Pacific
+Philippines,1996,369, Asia Pacific
+Philippines,1997,389, Asia Pacific
+Philippines,1998,394, Asia Pacific
+Philippines,1999,396, Asia Pacific
+Philippines,2000,398, Asia Pacific
+Philippines,2001,398, Asia Pacific
+Philippines,2002,398, Asia Pacific
+Philippines,2003,335, Asia Pacific
+Philippines,2004,280, Asia Pacific
+Philippines,2005,280, Asia Pacific
+Philippines,2006,275.5, Asia Pacific
+Philippines,2007,269.8, Asia Pacific
+Philippines,2008,269.8, Asia Pacific
+Philippines,2009,266.95, Asia Pacific
+Philippines,2010,264.1, Asia Pacific
+Philippines,2011,261.25, Asia Pacific
+Philippines,2012,261.25, Asia Pacific
+Philippines,2013,269.8, Asia Pacific
+Philippines,2014,270.75, Asia Pacific
+Philippines,2015,270.75, Asia Pacific
+Philippines,2016,270.75, Asia Pacific
+Philippines,2017,270.94, Asia Pacific
+Philippines,2018,270.94, Asia Pacific
+Singapore,1965,50, Asia Pacific
+Singapore,1966,79, Asia Pacific
+Singapore,1967,162, Asia Pacific
+Singapore,1968,170, Asia Pacific
+Singapore,1969,180, Asia Pacific
+Singapore,1970,288, Asia Pacific
+Singapore,1971,303, Asia Pacific
+Singapore,1972,490, Asia Pacific
+Singapore,1973,700, Asia Pacific
+Singapore,1974,956, Asia Pacific
+Singapore,1975,923, Asia Pacific
+Singapore,1976,918, Asia Pacific
+Singapore,1977,918, Asia Pacific
+Singapore,1978,958, Asia Pacific
+Singapore,1979,960, Asia Pacific
+Singapore,1980,1063, Asia Pacific
+Singapore,1981,1063, Asia Pacific
+Singapore,1982,1073, Asia Pacific
+Singapore,1983,1083, Asia Pacific
+Singapore,1984,1083, Asia Pacific
+Singapore,1985,1043, Asia Pacific
+Singapore,1986,973, Asia Pacific
+Singapore,1987,903, Asia Pacific
+Singapore,1988,881, Asia Pacific
+Singapore,1989,891, Asia Pacific
+Singapore,1990,933, Asia Pacific
+Singapore,1991,1031, Asia Pacific
+Singapore,1992,1056, Asia Pacific
+Singapore,1993,1098, Asia Pacific
+Singapore,1994,1133, Asia Pacific
+Singapore,1995,1175, Asia Pacific
+Singapore,1996,1175, Asia Pacific
+Singapore,1997,1200, Asia Pacific
+Singapore,1998,1220, Asia Pacific
+Singapore,1999,690, Asia Pacific
+Singapore,2000,1340, Asia Pacific
+Singapore,2001,1365, Asia Pacific
+Singapore,2002,1393, Asia Pacific
+Singapore,2003,1393, Asia Pacific
+Singapore,2004,1406, Asia Pacific
+Singapore,2005,1420, Asia Pacific
+Singapore,2006,1422, Asia Pacific
+Singapore,2007,1427, Asia Pacific
+Singapore,2008,1427, Asia Pacific
+Singapore,2009,1427, Asia Pacific
+Singapore,2010,1427, Asia Pacific
+Singapore,2011,1427, Asia Pacific
+Singapore,2012,1422, Asia Pacific
+Singapore,2013,1414, Asia Pacific
+Singapore,2014,1514, Asia Pacific
+Singapore,2015,1514, Asia Pacific
+Singapore,2016,1514, Asia Pacific
+Singapore,2017,1514, Asia Pacific
+Singapore,2018,1514, Asia Pacific
+South Korea,1965,33, Asia Pacific
+South Korea,1966,38, Asia Pacific
+South Korea,1967,57, Asia Pacific
+South Korea,1968,114, Asia Pacific
+South Korea,1969,171, Asia Pacific
+South Korea,1970,209, Asia Pacific
+South Korea,1971,257, Asia Pacific
+South Korea,1972,380, Asia Pacific
+South Korea,1973,380, Asia Pacific
+South Korea,1974,418, Asia Pacific
+South Korea,1975,418, Asia Pacific
+South Korea,1976,418, Asia Pacific
+South Korea,1977,380, Asia Pacific
+South Korea,1978,551, Asia Pacific
+South Korea,1979,551, Asia Pacific
+South Korea,1980,608, Asia Pacific
+South Korea,1981,750.5, Asia Pacific
+South Korea,1982,750.5, Asia Pacific
+South Korea,1983,750.5, Asia Pacific
+South Korea,1984,750.5, Asia Pacific
+South Korea,1985,750.5, Asia Pacific
+South Korea,1986,750.5, Asia Pacific
+South Korea,1987,750.5, Asia Pacific
+South Korea,1988,750.5, Asia Pacific
+South Korea,1989,798, Asia Pacific
+South Korea,1990,798, Asia Pacific
+South Korea,1991,983.25, Asia Pacific
+South Korea,1992,1591.25, Asia Pacific
+South Korea,1993,1591.25, Asia Pacific
+South Korea,1994,1615, Asia Pacific
+South Korea,1995,1727.1, Asia Pacific
+South Korea,1996,2316.1, Asia Pacific
+South Korea,1997,2316.1, Asia Pacific
+South Korea,1998,2316.1, Asia Pacific
+South Korea,1999,2316.1, Asia Pacific
+South Korea,2000,2316.1, Asia Pacific
+South Korea,2001,2316.1, Asia Pacific
+South Korea,2002,2316.1, Asia Pacific
+South Korea,2003,2316.1, Asia Pacific
+South Korea,2004,2598.25, Asia Pacific
+South Korea,2005,2598.25, Asia Pacific
+South Korea,2006,2633.4, Asia Pacific
+South Korea,2007,2679, Asia Pacific
+South Korea,2008,2712.25, Asia Pacific
+South Korea,2009,2745.5, Asia Pacific
+South Korea,2010,2774, Asia Pacific
+South Korea,2011,2864.25, Asia Pacific
+South Korea,2012,2877.55, Asia Pacific
+South Korea,2013,2877.55, Asia Pacific
+South Korea,2014,3122.65, Asia Pacific
+South Korea,2015,3128.35, Asia Pacific
+South Korea,2016,3258.5, Asia Pacific
+South Korea,2017,3298.4, Asia Pacific
+South Korea,2018,3345.9, Asia Pacific
+Taiwan,1965,46, Asia Pacific
+Taiwan,1966,50, Asia Pacific
+Taiwan,1967,50, Asia Pacific
+Taiwan,1968,103, Asia Pacific
+Taiwan,1969,103, Asia Pacific
+Taiwan,1970,103, Asia Pacific
+Taiwan,1971,122, Asia Pacific
+Taiwan,1972,193, Asia Pacific
+Taiwan,1973,193, Asia Pacific
+Taiwan,1974,288, Asia Pacific
+Taiwan,1975,274, Asia Pacific
+Taiwan,1976,369, Asia Pacific
+Taiwan,1977,464, Asia Pacific
+Taiwan,1978,447, Asia Pacific
+Taiwan,1979,447, Asia Pacific
+Taiwan,1980,542, Asia Pacific
+Taiwan,1981,542, Asia Pacific
+Taiwan,1982,542, Asia Pacific
+Taiwan,1983,542, Asia Pacific
+Taiwan,1984,542, Asia Pacific
+Taiwan,1985,570, Asia Pacific
+Taiwan,1986,570, Asia Pacific
+Taiwan,1987,570, Asia Pacific
+Taiwan,1988,570, Asia Pacific
+Taiwan,1989,570, Asia Pacific
+Taiwan,1990,570, Asia Pacific
+Taiwan,1991,570, Asia Pacific
+Taiwan,1992,570, Asia Pacific
+Taiwan,1993,570, Asia Pacific
+Taiwan,1994,570, Asia Pacific
+Taiwan,1995,732, Asia Pacific
+Taiwan,1996,732, Asia Pacific
+Taiwan,1997,732, Asia Pacific
+Taiwan,1998,732, Asia Pacific
+Taiwan,1999,732, Asia Pacific
+Taiwan,2000,732, Asia Pacific
+Taiwan,2001,874, Asia Pacific
+Taiwan,2002,1159, Asia Pacific
+Taiwan,2003,1159, Asia Pacific
+Taiwan,2004,1159, Asia Pacific
+Taiwan,2005,1159, Asia Pacific
+Taiwan,2006,1140, Asia Pacific
+Taiwan,2007,1197, Asia Pacific
+Taiwan,2008,1197, Asia Pacific
+Taiwan,2009,1197, Asia Pacific
+Taiwan,2010,1197, Asia Pacific
+Taiwan,2011,1197, Asia Pacific
+Taiwan,2012,1197, Asia Pacific
+Taiwan,2013,1197, Asia Pacific
+Taiwan,2014,1197, Asia Pacific
+Taiwan,2015,988, Asia Pacific
+Taiwan,2016,988, Asia Pacific
+Taiwan,2017,1083, Asia Pacific
+Taiwan,2018,1083, Asia Pacific
+Thailand,1965,45, Asia Pacific
+Thailand,1966,45, Asia Pacific
+Thailand,1967,45, Asia Pacific
+Thailand,1968,45, Asia Pacific
+Thailand,1969,63, Asia Pacific
+Thailand,1970,122, Asia Pacific
+Thailand,1971,122, Asia Pacific
+Thailand,1972,153, Asia Pacific
+Thailand,1973,153, Asia Pacific
+Thailand,1974,153, Asia Pacific
+Thailand,1975,153, Asia Pacific
+Thailand,1976,153, Asia Pacific
+Thailand,1977,153, Asia Pacific
+Thailand,1978,166, Asia Pacific
+Thailand,1979,171, Asia Pacific
+Thailand,1980,177, Asia Pacific
+Thailand,1981,177, Asia Pacific
+Thailand,1982,177, Asia Pacific
+Thailand,1983,177, Asia Pacific
+Thailand,1984,177, Asia Pacific
+Thailand,1985,166, Asia Pacific
+Thailand,1986,179, Asia Pacific
+Thailand,1987,179, Asia Pacific
+Thailand,1988,179, Asia Pacific
+Thailand,1989,222.28, Asia Pacific
+Thailand,1990,222.28, Asia Pacific
+Thailand,1991,222.28, Asia Pacific
+Thailand,1992,409.7, Asia Pacific
+Thailand,1993,449.9, Asia Pacific
+Thailand,1994,476.7, Asia Pacific
+Thailand,1995,476.7, Asia Pacific
+Thailand,1996,817.5, Asia Pacific
+Thailand,1997,866.5, Asia Pacific
+Thailand,1998,883.5, Asia Pacific
+Thailand,1999,898.5, Asia Pacific
+Thailand,2000,898.5, Asia Pacific
+Thailand,2001,1063.5, Asia Pacific
+Thailand,2002,1067.5, Asia Pacific
+Thailand,2003,1067.5, Asia Pacific
+Thailand,2004,1067.5, Asia Pacific
+Thailand,2005,1077.5, Asia Pacific
+Thailand,2006,1099.5, Asia Pacific
+Thailand,2007,1099.5, Asia Pacific
+Thailand,2008,1164.5, Asia Pacific
+Thailand,2009,1235.5, Asia Pacific
+Thailand,2010,1229.5, Asia Pacific
+Thailand,2011,1229.5, Asia Pacific
+Thailand,2012,1229.5, Asia Pacific
+Thailand,2013,1236.5, Asia Pacific
+Thailand,2014,1251.5, Asia Pacific
+Thailand,2015,1251.5, Asia Pacific
+Thailand,2016,1234.5, Asia Pacific
+Thailand,2017,1234.5, Asia Pacific
+Thailand,2018,1234.5, Asia Pacific
+Vietnam,1965,0, Asia Pacific
+Vietnam,1966,0, Asia Pacific
+Vietnam,1967,0, Asia Pacific
+Vietnam,1968,0, Asia Pacific
+Vietnam,1969,0, Asia Pacific
+Vietnam,1970,0, Asia Pacific
+Vietnam,1971,0, Asia Pacific
+Vietnam,1972,0, Asia Pacific
+Vietnam,1973,0, Asia Pacific
+Vietnam,1974,0, Asia Pacific
+Vietnam,1975,0, Asia Pacific
+Vietnam,1976,0, Asia Pacific
+Vietnam,1977,0, Asia Pacific
+Vietnam,1978,0, Asia Pacific
+Vietnam,1979,0, Asia Pacific
+Vietnam,1980,0, Asia Pacific
+Vietnam,1981,0, Asia Pacific
+Vietnam,1982,0, Asia Pacific
+Vietnam,1983,0, Asia Pacific
+Vietnam,1984,0, Asia Pacific
+Vietnam,1985,0, Asia Pacific
+Vietnam,1986,0, Asia Pacific
+Vietnam,1987,0, Asia Pacific
+Vietnam,1988,1, Asia Pacific
+Vietnam,1989,1, Asia Pacific
+Vietnam,1990,1, Asia Pacific
+Vietnam,1991,1, Asia Pacific
+Vietnam,1992,0, Asia Pacific
+Vietnam,1993,0, Asia Pacific
+Vietnam,1994,0, Asia Pacific
+Vietnam,1995,0, Asia Pacific
+Vietnam,1996,0, Asia Pacific
+Vietnam,1997,0, Asia Pacific
+Vietnam,1998,3, Asia Pacific
+Vietnam,1999,8, Asia Pacific
+Vietnam,2000,8, Asia Pacific
+Vietnam,2001,8, Asia Pacific
+Vietnam,2002,8, Asia Pacific
+Vietnam,2003,8, Asia Pacific
+Vietnam,2004,11, Asia Pacific
+Vietnam,2005,11, Asia Pacific
+Vietnam,2006,11, Asia Pacific
+Vietnam,2007,11, Asia Pacific
+Vietnam,2008,11, Asia Pacific
+Vietnam,2009,159, Asia Pacific
+Vietnam,2010,159, Asia Pacific
+Vietnam,2011,159, Asia Pacific
+Vietnam,2012,159, Asia Pacific
+Vietnam,2013,159, Asia Pacific
+Vietnam,2014,159, Asia Pacific
+Vietnam,2015,159, Asia Pacific
+Vietnam,2016,163, Asia Pacific
+Vietnam,2017,167, Asia Pacific
+Vietnam,2018,367, Asia Pacific
+Azerbaijan,1965,, CIS
+Azerbaijan,1966,, CIS
+Azerbaijan,1967,, CIS
+Azerbaijan,1968,, CIS
+Azerbaijan,1969,, CIS
+Azerbaijan,1970,, CIS
+Azerbaijan,1971,, CIS
+Azerbaijan,1972,, CIS
+Azerbaijan,1973,, CIS
+Azerbaijan,1974,, CIS
+Azerbaijan,1975,, CIS
+Azerbaijan,1976,, CIS
+Azerbaijan,1977,, CIS
+Azerbaijan,1978,, CIS
+Azerbaijan,1979,, CIS
+Azerbaijan,1980,600, CIS
+Azerbaijan,1981,720, CIS
+Azerbaijan,1982,720, CIS
+Azerbaijan,1983,720, CIS
+Azerbaijan,1984,720, CIS
+Azerbaijan,1985,720, CIS
+Azerbaijan,1986,720, CIS
+Azerbaijan,1987,720, CIS
+Azerbaijan,1988,720, CIS
+Azerbaijan,1989,720, CIS
+Azerbaijan,1990,720, CIS
+Azerbaijan,1991,650, CIS
+Azerbaijan,1992,490, CIS
+Azerbaijan,1993,450, CIS
+Azerbaijan,1994,430, CIS
+Azerbaijan,1995,405, CIS
+Azerbaijan,1996,285, CIS
+Azerbaijan,1997,285, CIS
+Azerbaijan,1998,285, CIS
+Azerbaijan,1999,285, CIS
+Azerbaijan,2000,285, CIS
+Azerbaijan,2001,205, CIS
+Azerbaijan,2002,205, CIS
+Azerbaijan,2003,205, CIS
+Azerbaijan,2004,205, CIS
+Azerbaijan,2005,205, CIS
+Azerbaijan,2006,205, CIS
+Azerbaijan,2007,205, CIS
+Azerbaijan,2008,205, CIS
+Azerbaijan,2009,205, CIS
+Azerbaijan,2010,205, CIS
+Azerbaijan,2011,205, CIS
+Azerbaijan,2012,205, CIS
+Azerbaijan,2013,205, CIS
+Azerbaijan,2014,205, CIS
+Azerbaijan,2015,205, CIS
+Azerbaijan,2016,205, CIS
+Azerbaijan,2017,205, CIS
+Azerbaijan,2018,120, CIS
+Belarus,1965,, CIS
+Belarus,1966,, CIS
+Belarus,1967,, CIS
+Belarus,1968,, CIS
+Belarus,1969,, CIS
+Belarus,1970,, CIS
+Belarus,1971,, CIS
+Belarus,1972,, CIS
+Belarus,1973,, CIS
+Belarus,1974,, CIS
+Belarus,1975,, CIS
+Belarus,1976,, CIS
+Belarus,1977,, CIS
+Belarus,1978,, CIS
+Belarus,1979,, CIS
+Belarus,1980,780, CIS
+Belarus,1981,780, CIS
+Belarus,1982,780, CIS
+Belarus,1983,780, CIS
+Belarus,1984,780, CIS
+Belarus,1985,780, CIS
+Belarus,1986,780, CIS
+Belarus,1987,780, CIS
+Belarus,1988,780, CIS
+Belarus,1989,780, CIS
+Belarus,1990,780, CIS
+Belarus,1991,780, CIS
+Belarus,1992,780, CIS
+Belarus,1993,780, CIS
+Belarus,1994,780, CIS
+Belarus,1995,340, CIS
+Belarus,1996,340, CIS
+Belarus,1997,380, CIS
+Belarus,1998,500, CIS
+Belarus,1999,500, CIS
+Belarus,2000,500, CIS
+Belarus,2001,500, CIS
+Belarus,2002,500, CIS
+Belarus,2003,480, CIS
+Belarus,2004,460, CIS
+Belarus,2005,460, CIS
+Belarus,2006,460, CIS
+Belarus,2007,460, CIS
+Belarus,2008,460, CIS
+Belarus,2009,460, CIS
+Belarus,2010,460, CIS
+Belarus,2011,460, CIS
+Belarus,2012,460, CIS
+Belarus,2013,460, CIS
+Belarus,2014,460, CIS
+Belarus,2015,460, CIS
+Belarus,2016,460, CIS
+Belarus,2017,490, CIS
+Belarus,2018,520, CIS
+Kazakhstan,1965,, CIS
+Kazakhstan,1966,, CIS
+Kazakhstan,1967,, CIS
+Kazakhstan,1968,, CIS
+Kazakhstan,1969,, CIS
+Kazakhstan,1970,, CIS
+Kazakhstan,1971,, CIS
+Kazakhstan,1972,, CIS
+Kazakhstan,1973,, CIS
+Kazakhstan,1974,, CIS
+Kazakhstan,1975,, CIS
+Kazakhstan,1976,, CIS
+Kazakhstan,1977,, CIS
+Kazakhstan,1978,, CIS
+Kazakhstan,1979,, CIS
+Kazakhstan,1980,220, CIS
+Kazakhstan,1981,220, CIS
+Kazakhstan,1982,220, CIS
+Kazakhstan,1983,220, CIS
+Kazakhstan,1984,220, CIS
+Kazakhstan,1985,360, CIS
+Kazakhstan,1986,360, CIS
+Kazakhstan,1987,360, CIS
+Kazakhstan,1988,360, CIS
+Kazakhstan,1989,360, CIS
+Kazakhstan,1990,360, CIS
+Kazakhstan,1991,330, CIS
+Kazakhstan,1992,330, CIS
+Kazakhstan,1993,330, CIS
+Kazakhstan,1994,330, CIS
+Kazakhstan,1995,330, CIS
+Kazakhstan,1996,330, CIS
+Kazakhstan,1997,330, CIS
+Kazakhstan,1998,330, CIS
+Kazakhstan,1999,330, CIS
+Kazakhstan,2000,330, CIS
+Kazakhstan,2001,330, CIS
+Kazakhstan,2002,330, CIS
+Kazakhstan,2003,330, CIS
+Kazakhstan,2004,330, CIS
+Kazakhstan,2005,330, CIS
+Kazakhstan,2006,330, CIS
+Kazakhstan,2007,330, CIS
+Kazakhstan,2008,330, CIS
+Kazakhstan,2009,330, CIS
+Kazakhstan,2010,330, CIS
+Kazakhstan,2011,330, CIS
+Kazakhstan,2012,330, CIS
+Kazakhstan,2013,350, CIS
+Kazakhstan,2014,350, CIS
+Kazakhstan,2015,350, CIS
+Kazakhstan,2016,350, CIS
+Kazakhstan,2017,360, CIS
+Kazakhstan,2018,390, CIS
+Other CIS,1965,0, CIS
+Other CIS,1966,0, CIS
+Other CIS,1967,0, CIS
+Other CIS,1968,0, CIS
+Other CIS,1969,0, CIS
+Other CIS,1970,0, CIS
+Other CIS,1971,0, CIS
+Other CIS,1972,0, CIS
+Other CIS,1973,0, CIS
+Other CIS,1974,0, CIS
+Other CIS,1975,0, CIS
+Other CIS,1976,0, CIS
+Other CIS,1977,0, CIS
+Other CIS,1978,0, CIS
+Other CIS,1979,0, CIS
+Other CIS,1980,0, CIS
+Other CIS,1981,0, CIS
+Other CIS,1982,0, CIS
+Other CIS,1983,0, CIS
+Other CIS,1984,0, CIS
+Other CIS,1985,0, CIS
+Other CIS,1986,0, CIS
+Other CIS,1987,0, CIS
+Other CIS,1988,0, CIS
+Other CIS,1989,0, CIS
+Other CIS,1990,0, CIS
+Other CIS,1991,0, CIS
+Other CIS,1992,0, CIS
+Other CIS,1993,0, CIS
+Other CIS,1994,0, CIS
+Other CIS,1995,0, CIS
+Other CIS,1996,10, CIS
+Other CIS,1997,10, CIS
+Other CIS,1998,10, CIS
+Other CIS,1999,10, CIS
+Other CIS,2000,10, CIS
+Other CIS,2001,10, CIS
+Other CIS,2002,10, CIS
+Other CIS,2003,10, CIS
+Other CIS,2004,10, CIS
+Other CIS,2005,10, CIS
+Other CIS,2006,10, CIS
+Other CIS,2007,10, CIS
+Other CIS,2008,10, CIS
+Other CIS,2009,10, CIS
+Other CIS,2010,14, CIS
+Other CIS,2011,10, CIS
+Other CIS,2012,10, CIS
+Other CIS,2013,11, CIS
+Other CIS,2014,28, CIS
+Other CIS,2015,37, CIS
+Other CIS,2016,37, CIS
+Other CIS,2017,37, CIS
+Other CIS,2018,37, CIS
+Russian Federation,1965,, CIS
+Russian Federation,1966,, CIS
+Russian Federation,1967,, CIS
+Russian Federation,1968,, CIS
+Russian Federation,1969,, CIS
+Russian Federation,1970,, CIS
+Russian Federation,1971,, CIS
+Russian Federation,1972,, CIS
+Russian Federation,1973,, CIS
+Russian Federation,1974,, CIS
+Russian Federation,1975,, CIS
+Russian Federation,1976,, CIS
+Russian Federation,1977,, CIS
+Russian Federation,1978,, CIS
+Russian Federation,1979,, CIS
+Russian Federation,1980,6857, CIS
+Russian Federation,1981,6857, CIS
+Russian Federation,1982,7027, CIS
+Russian Federation,1983,7067, CIS
+Russian Federation,1984,7067, CIS
+Russian Federation,1985,7127, CIS
+Russian Federation,1986,7193, CIS
+Russian Federation,1987,7193, CIS
+Russian Federation,1988,7193, CIS
+Russian Federation,1989,7193, CIS
+Russian Federation,1990,7193, CIS
+Russian Federation,1991,7193, CIS
+Russian Federation,1992,6541, CIS
+Russian Federation,1993,6466, CIS
+Russian Federation,1994,6124, CIS
+Russian Federation,1995,6117, CIS
+Russian Federation,1996,6065, CIS
+Russian Federation,1997,5722, CIS
+Russian Federation,1998,5593, CIS
+Russian Federation,1999,5531, CIS
+Russian Federation,2000,5516, CIS
+Russian Federation,2001,5536, CIS
+Russian Federation,2002,5444, CIS
+Russian Federation,2003,5313, CIS
+Russian Federation,2004,5316, CIS
+Russian Federation,2005,5398, CIS
+Russian Federation,2006,5514, CIS
+Russian Federation,2007,5471, CIS
+Russian Federation,2008,5387, CIS
+Russian Federation,2009,5425, CIS
+Russian Federation,2010,5563, CIS
+Russian Federation,2011,5721, CIS
+Russian Federation,2012,5816, CIS
+Russian Federation,2013,6279, CIS
+Russian Federation,2014,6417, CIS
+Russian Federation,2015,6523, CIS
+Russian Federation,2016,6594, CIS
+Russian Federation,2017,6596, CIS
+Russian Federation,2018,6596, CIS
+Turkmenistan,1965,, CIS
+Turkmenistan,1966,, CIS
+Turkmenistan,1967,, CIS
+Turkmenistan,1968,, CIS
+Turkmenistan,1969,, CIS
+Turkmenistan,1970,, CIS
+Turkmenistan,1971,, CIS
+Turkmenistan,1972,, CIS
+Turkmenistan,1973,, CIS
+Turkmenistan,1974,, CIS
+Turkmenistan,1975,, CIS
+Turkmenistan,1976,, CIS
+Turkmenistan,1977,, CIS
+Turkmenistan,1978,, CIS
+Turkmenistan,1979,, CIS
+Turkmenistan,1980,130, CIS
+Turkmenistan,1981,130, CIS
+Turkmenistan,1982,170.7, CIS
+Turkmenistan,1983,170.7, CIS
+Turkmenistan,1984,170.7, CIS
+Turkmenistan,1985,170.7, CIS
+Turkmenistan,1986,170.7, CIS
+Turkmenistan,1987,170.7, CIS
+Turkmenistan,1988,170.7, CIS
+Turkmenistan,1989,170.7, CIS
+Turkmenistan,1990,170.7, CIS
+Turkmenistan,1991,251.03, CIS
+Turkmenistan,1992,251.03, CIS
+Turkmenistan,1993,251.03, CIS
+Turkmenistan,1994,251.03, CIS
+Turkmenistan,1995,251.03, CIS
+Turkmenistan,1996,251.03, CIS
+Turkmenistan,1997,251.03, CIS
+Turkmenistan,1998,251.03, CIS
+Turkmenistan,1999,251.03, CIS
+Turkmenistan,2000,251.03, CIS
+Turkmenistan,2001,251.03, CIS
+Turkmenistan,2002,251.03, CIS
+Turkmenistan,2003,251.03, CIS
+Turkmenistan,2004,251.03, CIS
+Turkmenistan,2005,251.03, CIS
+Turkmenistan,2006,251.03, CIS
+Turkmenistan,2007,251.03, CIS
+Turkmenistan,2008,251.03, CIS
+Turkmenistan,2009,251.03, CIS
+Turkmenistan,2010,251.03, CIS
+Turkmenistan,2011,251.03, CIS
+Turkmenistan,2012,251.03, CIS
+Turkmenistan,2013,251.03, CIS
+Turkmenistan,2014,251.03, CIS
+Turkmenistan,2015,271.11, CIS
+Turkmenistan,2016,271.11, CIS
+Turkmenistan,2017,271.11, CIS
+Turkmenistan,2018,271.11, CIS
+USSR,1965,4518.49, CIS
+USSR,1966,4779.56, CIS
+USSR,1967,5060.71, CIS
+USSR,1968,5341.86, CIS
+USSR,1969,5623.01, CIS
+USSR,1970,6104.99, CIS
+USSR,1971,6526.71, CIS
+USSR,1972,6827.95, CIS
+USSR,1973,7229.59, CIS
+USSR,1974,8032.88, CIS
+USSR,1975,8434.52, CIS
+USSR,1976,9036.99, CIS
+USSR,1977,9840.27, CIS
+USSR,1978,9762, CIS
+USSR,1979,9942, CIS
+USSR,1980,, CIS
+USSR,1981,, CIS
+USSR,1982,, CIS
+USSR,1983,, CIS
+USSR,1984,, CIS
+USSR,1985,, CIS
+USSR,1986,, CIS
+USSR,1987,, CIS
+USSR,1988,, CIS
+USSR,1989,, CIS
+USSR,1990,, CIS
+USSR,1991,, CIS
+USSR,1992,, CIS
+USSR,1993,, CIS
+USSR,1994,, CIS
+USSR,1995,, CIS
+USSR,1996,, CIS
+USSR,1997,, CIS
+USSR,1998,, CIS
+USSR,1999,, CIS
+USSR,2000,, CIS
+USSR,2001,, CIS
+USSR,2002,, CIS
+USSR,2003,, CIS
+USSR,2004,, CIS
+USSR,2005,, CIS
+USSR,2006,, CIS
+USSR,2007,, CIS
+USSR,2008,, CIS
+USSR,2009,, CIS
+USSR,2010,, CIS
+USSR,2011,, CIS
+USSR,2012,, CIS
+USSR,2013,, CIS
+USSR,2014,, CIS
+USSR,2015,, CIS
+USSR,2016,, CIS
+USSR,2017,, CIS
+USSR,2018,, CIS
+Uzbekistan,1965,, CIS
+Uzbekistan,1966,, CIS
+Uzbekistan,1967,, CIS
+Uzbekistan,1968,, CIS
+Uzbekistan,1969,, CIS
+Uzbekistan,1970,, CIS
+Uzbekistan,1971,, CIS
+Uzbekistan,1972,, CIS
+Uzbekistan,1973,, CIS
+Uzbekistan,1974,, CIS
+Uzbekistan,1975,, CIS
+Uzbekistan,1976,, CIS
+Uzbekistan,1977,, CIS
+Uzbekistan,1978,, CIS
+Uzbekistan,1979,, CIS
+Uzbekistan,1980,175, CIS
+Uzbekistan,1981,175, CIS
+Uzbekistan,1982,175, CIS
+Uzbekistan,1983,175, CIS
+Uzbekistan,1984,175, CIS
+Uzbekistan,1985,175, CIS
+Uzbekistan,1986,175, CIS
+Uzbekistan,1987,175, CIS
+Uzbekistan,1988,175, CIS
+Uzbekistan,1989,175, CIS
+Uzbekistan,1990,175, CIS
+Uzbekistan,1991,175, CIS
+Uzbekistan,1992,175, CIS
+Uzbekistan,1993,175, CIS
+Uzbekistan,1994,175, CIS
+Uzbekistan,1995,175, CIS
+Uzbekistan,1996,175, CIS
+Uzbekistan,1997,232, CIS
+Uzbekistan,1998,232, CIS
+Uzbekistan,1999,232, CIS
+Uzbekistan,2000,232, CIS
+Uzbekistan,2001,232, CIS
+Uzbekistan,2002,232, CIS
+Uzbekistan,2003,232, CIS
+Uzbekistan,2004,232, CIS
+Uzbekistan,2005,232, CIS
+Uzbekistan,2006,232, CIS
+Uzbekistan,2007,232, CIS
+Uzbekistan,2008,232, CIS
+Uzbekistan,2009,232, CIS
+Uzbekistan,2010,232, CIS
+Uzbekistan,2011,232, CIS
+Uzbekistan,2012,232, CIS
+Uzbekistan,2013,232, CIS
+Uzbekistan,2014,232, CIS
+Uzbekistan,2015,232, CIS
+Uzbekistan,2016,232, CIS
+Uzbekistan,2017,232, CIS
+Uzbekistan,2018,232, CIS
+Austria,1965,80, Europe
+Austria,1966,80, Europe
+Austria,1967,80, Europe
+Austria,1968,80, Europe
+Austria,1969,80, Europe
+Austria,1970,151, Europe
+Austria,1971,151, Europe
+Austria,1972,151, Europe
+Austria,1973,221, Europe
+Austria,1974,221, Europe
+Austria,1975,221, Europe
+Austria,1976,291, Europe
+Austria,1977,291, Europe
+Austria,1978,291, Europe
+Austria,1979,291, Europe
+Austria,1980,291, Europe
+Austria,1981,291, Europe
+Austria,1982,201, Europe
+Austria,1983,201, Europe
+Austria,1984,201, Europe
+Austria,1985,201, Europe
+Austria,1986,201, Europe
+Austria,1987,201, Europe
+Austria,1988,201, Europe
+Austria,1989,201, Europe
+Austria,1990,201, Europe
+Austria,1991,201, Europe
+Austria,1992,201, Europe
+Austria,1993,201, Europe
+Austria,1994,201, Europe
+Austria,1995,201, Europe
+Austria,1996,201, Europe
+Austria,1997,201, Europe
+Austria,1998,201, Europe
+Austria,1999,201, Europe
+Austria,2000,201, Europe
+Austria,2001,201, Europe
+Austria,2002,201, Europe
+Austria,2003,201, Europe
+Austria,2004,200.82, Europe
+Austria,2005,200.82, Europe
+Austria,2006,200.82, Europe
+Austria,2007,200.82, Europe
+Austria,2008,200.82, Europe
+Austria,2009,200.82, Europe
+Austria,2010,200.82, Europe
+Austria,2011,192.79, Europe
+Austria,2012,192.79, Europe
+Austria,2013,192.79, Europe
+Austria,2014,192.79, Europe
+Austria,2015,192.79, Europe
+Austria,2016,192.79, Europe
+Austria,2017,192.79, Europe
+Austria,2018,192.79, Europe
+Belgium,1965,335, Europe
+Belgium,1966,352, Europe
+Belgium,1967,502, Europe
+Belgium,1968,611, Europe
+Belgium,1969,692, Europe
+Belgium,1970,721, Europe
+Belgium,1971,837, Europe
+Belgium,1972,847, Europe
+Belgium,1973,865, Europe
+Belgium,1974,936, Europe
+Belgium,1975,978, Europe
+Belgium,1976,1113, Europe
+Belgium,1977,1082, Europe
+Belgium,1978,1076, Europe
+Belgium,1979,1076, Europe
+Belgium,1980,1060, Europe
+Belgium,1981,1060, Europe
+Belgium,1982,726, Europe
+Belgium,1983,726, Europe
+Belgium,1984,607, Europe
+Belgium,1985,569, Europe
+Belgium,1986,609, Europe
+Belgium,1987,676, Europe
+Belgium,1988,686, Europe
+Belgium,1989,693, Europe
+Belgium,1990,684, Europe
+Belgium,1991,662, Europe
+Belgium,1992,662, Europe
+Belgium,1993,662, Europe
+Belgium,1994,665, Europe
+Belgium,1995,669, Europe
+Belgium,1996,686, Europe
+Belgium,1997,689, Europe
+Belgium,1998,707, Europe
+Belgium,1999,709, Europe
+Belgium,2000,739, Europe
+Belgium,2001,758, Europe
+Belgium,2002,780, Europe
+Belgium,2003,776, Europe
+Belgium,2004,751, Europe
+Belgium,2005,756, Europe
+Belgium,2006,766, Europe
+Belgium,2007,781, Europe
+Belgium,2008,786, Europe
+Belgium,2009,786, Europe
+Belgium,2010,787, Europe
+Belgium,2011,788, Europe
+Belgium,2012,753, Europe
+Belgium,2013,776, Europe
+Belgium,2014,776, Europe
+Belgium,2015,776, Europe
+Belgium,2016,776, Europe
+Belgium,2017,776, Europe
+Belgium,2018,776, Europe
+Bulgaria,1965,54, Europe
+Bulgaria,1966,63, Europe
+Bulgaria,1967,63, Europe
+Bulgaria,1968,74, Europe
+Bulgaria,1969,100, Europe
+Bulgaria,1970,131, Europe
+Bulgaria,1971,161, Europe
+Bulgaria,1972,170, Europe
+Bulgaria,1973,201, Europe
+Bulgaria,1974,231, Europe
+Bulgaria,1975,231, Europe
+Bulgaria,1976,240, Europe
+Bulgaria,1977,241, Europe
+Bulgaria,1978,277, Europe
+Bulgaria,1979,277, Europe
+Bulgaria,1980,277, Europe
+Bulgaria,1981,277, Europe
+Bulgaria,1982,277, Europe
+Bulgaria,1983,277, Europe
+Bulgaria,1984,277, Europe
+Bulgaria,1985,277, Europe
+Bulgaria,1986,277, Europe
+Bulgaria,1987,277, Europe
+Bulgaria,1988,277, Europe
+Bulgaria,1989,277, Europe
+Bulgaria,1990,277, Europe
+Bulgaria,1991,267, Europe
+Bulgaria,1992,257, Europe
+Bulgaria,1993,237, Europe
+Bulgaria,1994,237, Europe
+Bulgaria,1995,210, Europe
+Bulgaria,1996,210, Europe
+Bulgaria,1997,210, Europe
+Bulgaria,1998,120, Europe
+Bulgaria,1999,120, Europe
+Bulgaria,2000,120, Europe
+Bulgaria,2001,120, Europe
+Bulgaria,2002,120, Europe
+Bulgaria,2003,120, Europe
+Bulgaria,2004,180, Europe
+Bulgaria,2005,205, Europe
+Bulgaria,2006,205, Europe
+Bulgaria,2007,175, Europe
+Bulgaria,2008,175, Europe
+Bulgaria,2009,180, Europe
+Bulgaria,2010,195, Europe
+Bulgaria,2011,195, Europe
+Bulgaria,2012,195, Europe
+Bulgaria,2013,195, Europe
+Bulgaria,2014,195, Europe
+Bulgaria,2015,195, Europe
+Bulgaria,2016,195, Europe
+Bulgaria,2017,195, Europe
+Bulgaria,2018,195, Europe
+Czech Republic,1965,24, Europe
+Czech Republic,1966,24, Europe
+Czech Republic,1967,58, Europe
+Czech Republic,1968,58, Europe
+Czech Republic,1969,58, Europe
+Czech Republic,1970,58, Europe
+Czech Republic,1971,58, Europe
+Czech Republic,1972,58, Europe
+Czech Republic,1973,58, Europe
+Czech Republic,1974,120, Europe
+Czech Republic,1975,120, Europe
+Czech Republic,1976,120, Europe
+Czech Republic,1977,120, Europe
+Czech Republic,1978,120, Europe
+Czech Republic,1979,120, Europe
+Czech Republic,1980,120, Europe
+Czech Republic,1981,120, Europe
+Czech Republic,1982,177, Europe
+Czech Republic,1983,177, Europe
+Czech Republic,1984,177, Europe
+Czech Republic,1985,177, Europe
+Czech Republic,1986,177, Europe
+Czech Republic,1987,177, Europe
+Czech Republic,1988,177, Europe
+Czech Republic,1989,177, Europe
+Czech Republic,1990,177, Europe
+Czech Republic,1991,177, Europe
+Czech Republic,1992,177, Europe
+Czech Republic,1993,177, Europe
+Czech Republic,1994,177, Europe
+Czech Republic,1995,177, Europe
+Czech Republic,1996,177, Europe
+Czech Republic,1997,177, Europe
+Czech Republic,1998,200, Europe
+Czech Republic,1999,200, Europe
+Czech Republic,2000,200, Europe
+Czech Republic,2001,200, Europe
+Czech Republic,2002,200, Europe
+Czech Republic,2003,193, Europe
+Czech Republic,2004,193, Europe
+Czech Republic,2005,193.39, Europe
+Czech Republic,2006,193.39, Europe
+Czech Republic,2007,193.39, Europe
+Czech Republic,2008,193.39, Europe
+Czech Republic,2009,193.39, Europe
+Czech Republic,2010,193.39, Europe
+Czech Republic,2011,193.39, Europe
+Czech Republic,2012,174.72, Europe
+Czech Republic,2013,174.72, Europe
+Czech Republic,2014,174.72, Europe
+Czech Republic,2015,174.72, Europe
+Czech Republic,2016,174.72, Europe
+Czech Republic,2017,174.72, Europe
+Czech Republic,2018,174.72, Europe
+Denmark,1965,53.08, Europe
+Denmark,1966,113, Europe
+Denmark,1967,127, Europe
+Denmark,1968,162, Europe
+Denmark,1969,179, Europe
+Denmark,1970,189, Europe
+Denmark,1971,216, Europe
+Denmark,1972,222, Europe
+Denmark,1973,227, Europe
+Denmark,1974,220, Europe
+Denmark,1975,226, Europe
+Denmark,1976,226, Europe
+Denmark,1977,221, Europe
+Denmark,1978,220, Europe
+Denmark,1979,220, Europe
+Denmark,1980,220, Europe
+Denmark,1981,220, Europe
+Denmark,1982,185, Europe
+Denmark,1983,185, Europe
+Denmark,1984,174, Europe
+Denmark,1985,175, Europe
+Denmark,1986,175, Europe
+Denmark,1987,175, Europe
+Denmark,1988,174, Europe
+Denmark,1989,193, Europe
+Denmark,1990,193, Europe
+Denmark,1991,193, Europe
+Denmark,1992,180, Europe
+Denmark,1993,185, Europe
+Denmark,1994,185, Europe
+Denmark,1995,221, Europe
+Denmark,1996,234, Europe
+Denmark,1997,178, Europe
+Denmark,1998,178, Europe
+Denmark,1999,184, Europe
+Denmark,2000,184, Europe
+Denmark,2001,184, Europe
+Denmark,2002,189, Europe
+Denmark,2003,189, Europe
+Denmark,2004,188, Europe
+Denmark,2005,188.77, Europe
+Denmark,2006,188.77, Europe
+Denmark,2007,188.77, Europe
+Denmark,2008,188.77, Europe
+Denmark,2009,188.77, Europe
+Denmark,2010,188.77, Europe
+Denmark,2011,180.74, Europe
+Denmark,2012,180.74, Europe
+Denmark,2013,180.74, Europe
+Denmark,2014,180, Europe
+Denmark,2015,180, Europe
+Denmark,2016,180, Europe
+Denmark,2017,180.55, Europe
+Denmark,2018,180.55, Europe
+Finland,1965,60, Europe
+Finland,1966,84, Europe
+Finland,1967,110, Europe
+Finland,1968,130, Europe
+Finland,1969,185, Europe
+Finland,1970,185, Europe
+Finland,1971,193, Europe
+Finland,1972,196, Europe
+Finland,1973,201, Europe
+Finland,1974,201, Europe
+Finland,1975,201, Europe
+Finland,1976,300, Europe
+Finland,1977,301, Europe
+Finland,1978,301, Europe
+Finland,1979,301, Europe
+Finland,1980,300, Europe
+Finland,1981,301, Europe
+Finland,1982,249, Europe
+Finland,1983,241, Europe
+Finland,1984,240, Europe
+Finland,1985,241, Europe
+Finland,1986,241, Europe
+Finland,1987,241, Europe
+Finland,1988,240, Europe
+Finland,1989,201, Europe
+Finland,1990,201, Europe
+Finland,1991,201, Europe
+Finland,1992,200, Europe
+Finland,1993,201, Europe
+Finland,1994,241, Europe
+Finland,1995,241, Europe
+Finland,1996,250, Europe
+Finland,1997,251, Europe
+Finland,1998,261, Europe
+Finland,1999,261, Europe
+Finland,2000,261, Europe
+Finland,2001,261, Europe
+Finland,2002,261, Europe
+Finland,2003,261, Europe
+Finland,2004,260, Europe
+Finland,2005,261.07, Europe
+Finland,2006,261.07, Europe
+Finland,2007,261.07, Europe
+Finland,2008,261.07, Europe
+Finland,2009,261.07, Europe
+Finland,2010,261.07, Europe
+Finland,2011,261.07, Europe
+Finland,2012,261.07, Europe
+Finland,2013,261.07, Europe
+Finland,2014,261.07, Europe
+Finland,2015,261.07, Europe
+Finland,2016,261.07, Europe
+Finland,2017,261.07, Europe
+Finland,2018,261.07, Europe
+France,1965,1411, Europe
+France,1966,1590, Europe
+France,1967,1683, Europe
+France,1968,1949, Europe
+France,1969,2113, Europe
+France,1970,2339, Europe
+France,1971,2431, Europe
+France,1972,2902, Europe
+France,1973,3090, Europe
+France,1974,3402, Europe
+France,1975,3404, Europe
+France,1976,3438, Europe
+France,1977,3439, Europe
+France,1978,3395, Europe
+France,1979,3351, Europe
+France,1980,3326, Europe
+France,1981,3179, Europe
+France,1982,2831, Europe
+France,1983,2378, Europe
+France,1984,2194, Europe
+France,1985,2184, Europe
+France,1986,1919, Europe
+France,1987,1927, Europe
+France,1988,1815, Europe
+France,1989,1699, Europe
+France,1990,1699, Europe
+France,1991,1699, Europe
+France,1992,1711, Europe
+France,1993,1687, Europe
+France,1994,1697, Europe
+France,1995,1728, Europe
+France,1996,1749, Europe
+France,1997,1872, Europe
+France,1998,1918, Europe
+France,1999,1933, Europe
+France,2000,1984, Europe
+France,2001,1961, Europe
+France,2002,1987, Europe
+France,2003,1967, Europe
+France,2004,1982.29, Europe
+France,2005,1978.22, Europe
+France,2006,1959.28, Europe
+France,2007,1961.97, Europe
+France,2008,1970.61, Europe
+France,2009,1847, Europe
+France,2010,1702.21, Europe
+France,2011,1610.17, Europe
+France,2012,1512.77, Europe
+France,2013,1374.93, Europe
+France,2014,1374.93, Europe
+France,2015,1374.93, Europe
+France,2016,1245.1, Europe
+France,2017,1245.1, Europe
+France,2018,1245.1, Europe
+Germany,1965,1747, Europe
+Germany,1966,1911, Europe
+Germany,1967,2324, Europe
+Germany,1968,2436, Europe
+Germany,1969,2502, Europe
+Germany,1970,2643, Europe
+Germany,1971,2773, Europe
+Germany,1972,2918, Europe
+Germany,1973,3192, Europe
+Germany,1974,3268, Europe
+Germany,1975,3461, Europe
+Germany,1976,3452, Europe
+Germany,1977,3505, Europe
+Germany,1978,3603, Europe
+Germany,1979,3492, Europe
+Germany,1980,3422, Europe
+Germany,1981,3333, Europe
+Germany,1982,2976, Europe
+Germany,1983,2735, Europe
+Germany,1984,2553, Europe
+Germany,1985,2198, Europe
+Germany,1986,2158, Europe
+Germany,1987,2061, Europe
+Germany,1988,2077, Europe
+Germany,1989,2018, Europe
+Germany,1990,2024, Europe
+Germany,1991,2209, Europe
+Germany,1992,2219, Europe
+Germany,1993,2248, Europe
+Germany,1994,2272, Europe
+Germany,1995,2104, Europe
+Germany,1996,2098, Europe
+Germany,1997,2170, Europe
+Germany,1998,2206, Europe
+Germany,1999,2240, Europe
+Germany,2000,2262, Europe
+Germany,2001,2274, Europe
+Germany,2002,2286, Europe
+Germany,2003,2304, Europe
+Germany,2004,2320.1, Europe
+Germany,2005,2322.1, Europe
+Germany,2006,2390.38, Europe
+Germany,2007,2390.38, Europe
+Germany,2008,2366.28, Europe
+Germany,2009,2362.27, Europe
+Germany,2010,2091.16, Europe
+Germany,2011,2077.48, Europe
+Germany,2012,2096.52, Europe
+Germany,2013,2061.14, Europe
+Germany,2014,2076.62, Europe
+Germany,2015,2049.49, Europe
+Germany,2016,2051.5, Europe
+Germany,2017,2068.87, Europe
+Germany,2018,2084.53, Europe
+Greece,1965,37, Europe
+Greece,1966,89, Europe
+Greece,1967,91, Europe
+Greece,1968,90, Europe
+Greece,1969,97, Europe
+Greece,1970,97, Europe
+Greece,1971,105, Europe
+Greece,1972,125, Europe
+Greece,1973,314, Europe
+Greece,1974,411, Europe
+Greece,1975,420, Europe
+Greece,1976,407, Europe
+Greece,1977,407, Europe
+Greece,1978,413, Europe
+Greece,1979,418, Europe
+Greece,1980,443, Europe
+Greece,1981,443, Europe
+Greece,1982,443, Europe
+Greece,1983,403, Europe
+Greece,1984,403, Europe
+Greece,1985,403, Europe
+Greece,1986,403, Europe
+Greece,1987,403, Europe
+Greece,1988,403, Europe
+Greece,1989,403, Europe
+Greece,1990,403, Europe
+Greece,1991,403, Europe
+Greece,1992,295, Europe
+Greece,1993,295, Europe
+Greece,1994,385, Europe
+Greece,1995,403, Europe
+Greece,1996,403, Europe
+Greece,1997,403, Europe
+Greece,1998,403, Europe
+Greece,1999,403, Europe
+Greece,2000,412, Europe
+Greece,2001,412, Europe
+Greece,2002,412, Europe
+Greece,2003,412, Europe
+Greece,2004,412, Europe
+Greece,2005,418, Europe
+Greece,2006,425, Europe
+Greece,2007,425, Europe
+Greece,2008,425, Europe
+Greece,2009,425, Europe
+Greece,2010,490, Europe
+Greece,2011,495, Europe
+Greece,2012,498, Europe
+Greece,2013,498, Europe
+Greece,2014,498, Europe
+Greece,2015,528, Europe
+Greece,2016,528, Europe
+Greece,2017,528, Europe
+Greece,2018,528, Europe
+Hungary,1965,90, Europe
+Hungary,1966,99, Europe
+Hungary,1967,105, Europe
+Hungary,1968,115, Europe
+Hungary,1969,125, Europe
+Hungary,1970,134, Europe
+Hungary,1971,137, Europe
+Hungary,1972,150, Europe
+Hungary,1973,165, Europe
+Hungary,1974,177, Europe
+Hungary,1975,201, Europe
+Hungary,1976,204, Europe
+Hungary,1977,221, Europe
+Hungary,1978,251, Europe
+Hungary,1979,291, Europe
+Hungary,1980,290, Europe
+Hungary,1981,291, Europe
+Hungary,1982,291, Europe
+Hungary,1983,285, Europe
+Hungary,1984,221, Europe
+Hungary,1985,221, Europe
+Hungary,1986,221, Europe
+Hungary,1987,221, Europe
+Hungary,1988,221, Europe
+Hungary,1989,221, Europe
+Hungary,1990,221, Europe
+Hungary,1991,221, Europe
+Hungary,1992,221, Europe
+Hungary,1993,221, Europe
+Hungary,1994,221, Europe
+Hungary,1995,221, Europe
+Hungary,1996,221, Europe
+Hungary,1997,221, Europe
+Hungary,1998,221, Europe
+Hungary,1999,221, Europe
+Hungary,2000,221, Europe
+Hungary,2001,221, Europe
+Hungary,2002,165, Europe
+Hungary,2003,165, Europe
+Hungary,2004,165, Europe
+Hungary,2005,165, Europe
+Hungary,2006,165, Europe
+Hungary,2007,165, Europe
+Hungary,2008,165, Europe
+Hungary,2009,165, Europe
+Hungary,2010,165, Europe
+Hungary,2011,165, Europe
+Hungary,2012,165, Europe
+Hungary,2013,165, Europe
+Hungary,2014,165, Europe
+Hungary,2015,165, Europe
+Hungary,2016,165, Europe
+Hungary,2017,165, Europe
+Hungary,2018,165, Europe
+Ireland,1965,45.6, Europe
+Ireland,1966,45.6, Europe
+Ireland,1967,49.4, Europe
+Ireland,1968,51.3, Europe
+Ireland,1969,52.25, Europe
+Ireland,1970,52.25, Europe
+Ireland,1971,52.25, Europe
+Ireland,1972,58, Europe
+Ireland,1973,58, Europe
+Ireland,1974,56, Europe
+Ireland,1975,56, Europe
+Ireland,1976,56, Europe
+Ireland,1977,56, Europe
+Ireland,1978,56, Europe
+Ireland,1979,56, Europe
+Ireland,1980,56, Europe
+Ireland,1981,56, Europe
+Ireland,1982,56, Europe
+Ireland,1983,56, Europe
+Ireland,1984,56, Europe
+Ireland,1985,56, Europe
+Ireland,1986,56, Europe
+Ireland,1987,56, Europe
+Ireland,1988,56, Europe
+Ireland,1989,56, Europe
+Ireland,1990,56, Europe
+Ireland,1991,56, Europe
+Ireland,1992,56, Europe
+Ireland,1993,56, Europe
+Ireland,1994,56, Europe
+Ireland,1995,56, Europe
+Ireland,1996,56, Europe
+Ireland,1997,58, Europe
+Ireland,1998,65, Europe
+Ireland,1999,66, Europe
+Ireland,2000,75, Europe
+Ireland,2001,75, Europe
+Ireland,2002,75, Europe
+Ireland,2003,75, Europe
+Ireland,2004,75, Europe
+Ireland,2005,75, Europe
+Ireland,2006,75, Europe
+Ireland,2007,75, Europe
+Ireland,2008,75, Europe
+Ireland,2009,75, Europe
+Ireland,2010,75, Europe
+Ireland,2011,75, Europe
+Ireland,2012,75, Europe
+Ireland,2013,75, Europe
+Ireland,2014,75, Europe
+Ireland,2015,75, Europe
+Ireland,2016,75, Europe
+Ireland,2017,75, Europe
+Ireland,2018,75, Europe
+Italy,1965,1560, Europe
+Italy,1966,2198, Europe
+Italy,1967,2564, Europe
+Italy,1968,2625, Europe
+Italy,1969,2738, Europe
+Italy,1970,2939, Europe
+Italy,1971,3539, Europe
+Italy,1972,3628, Europe
+Italy,1973,3792, Europe
+Italy,1974,3889, Europe
+Italy,1975,4343, Europe
+Italy,1976,4343, Europe
+Italy,1977,4270, Europe
+Italy,1978,3803, Europe
+Italy,1979,3201, Europe
+Italy,1980,3101, Europe
+Italy,1981,3036, Europe
+Italy,1982,2795, Europe
+Italy,1983,2777, Europe
+Italy,1984,2738, Europe
+Italy,1985,2585, Europe
+Italy,1986,2586, Europe
+Italy,1987,2591, Europe
+Italy,1988,2475, Europe
+Italy,1989,2474, Europe
+Italy,1990,2528, Europe
+Italy,1991,2535, Europe
+Italy,1992,2455, Europe
+Italy,1993,2359, Europe
+Italy,1994,2359, Europe
+Italy,1995,2359, Europe
+Italy,1996,2344, Europe
+Italy,1997,2345, Europe
+Italy,1998,2385, Europe
+Italy,1999,2485, Europe
+Italy,2000,2485, Europe
+Italy,2001,2485, Europe
+Italy,2002,2485, Europe
+Italy,2003,2485, Europe
+Italy,2004,2497, Europe
+Italy,2005,2515, Europe
+Italy,2006,2526, Europe
+Italy,2007,2377, Europe
+Italy,2008,2396, Europe
+Italy,2009,2396, Europe
+Italy,2010,2396, Europe
+Italy,2011,2276, Europe
+Italy,2012,2098, Europe
+Italy,2013,1861, Europe
+Italy,2014,1900, Europe
+Italy,2015,1900, Europe
+Italy,2016,1900, Europe
+Italy,2017,1900, Europe
+Italy,2018,1900, Europe
+Lithuania,1965,, Europe
+Lithuania,1966,, Europe
+Lithuania,1967,, Europe
+Lithuania,1968,, Europe
+Lithuania,1969,, Europe
+Lithuania,1970,, Europe
+Lithuania,1971,, Europe
+Lithuania,1972,, Europe
+Lithuania,1973,, Europe
+Lithuania,1974,, Europe
+Lithuania,1975,, Europe
+Lithuania,1976,, Europe
+Lithuania,1977,, Europe
+Lithuania,1978,, Europe
+Lithuania,1979,, Europe
+Lithuania,1980,0, Europe
+Lithuania,1981,0, Europe
+Lithuania,1982,0, Europe
+Lithuania,1983,0, Europe
+Lithuania,1984,0, Europe
+Lithuania,1985,240, Europe
+Lithuania,1986,240, Europe
+Lithuania,1987,240, Europe
+Lithuania,1988,240, Europe
+Lithuania,1989,240, Europe
+Lithuania,1990,240, Europe
+Lithuania,1991,240, Europe
+Lithuania,1992,240, Europe
+Lithuania,1993,240, Europe
+Lithuania,1994,240, Europe
+Lithuania,1995,240, Europe
+Lithuania,1996,240, Europe
+Lithuania,1997,240, Europe
+Lithuania,1998,240, Europe
+Lithuania,1999,240, Europe
+Lithuania,2000,240, Europe
+Lithuania,2001,240, Europe
+Lithuania,2002,240, Europe
+Lithuania,2003,240, Europe
+Lithuania,2004,240.99, Europe
+Lithuania,2005,240.99, Europe
+Lithuania,2006,240.99, Europe
+Lithuania,2007,240.99, Europe
+Lithuania,2008,240.99, Europe
+Lithuania,2009,240.99, Europe
+Lithuania,2010,240.99, Europe
+Lithuania,2011,240.99, Europe
+Lithuania,2012,240.99, Europe
+Lithuania,2013,240.99, Europe
+Lithuania,2014,240.99, Europe
+Lithuania,2015,240.99, Europe
+Lithuania,2016,240.99, Europe
+Lithuania,2017,240.99, Europe
+Lithuania,2018,240.99, Europe
+Netherlands,1965,614, Europe
+Netherlands,1966,659, Europe
+Netherlands,1967,773, Europe
+Netherlands,1968,846, Europe
+Netherlands,1969,1319, Europe
+Netherlands,1970,1348, Europe
+Netherlands,1971,1587, Europe
+Netherlands,1972,1826, Europe
+Netherlands,1973,1826, Europe
+Netherlands,1974,1841, Europe
+Netherlands,1975,1985, Europe
+Netherlands,1976,2031, Europe
+Netherlands,1977,1869, Europe
+Netherlands,1978,1850, Europe
+Netherlands,1979,1850, Europe
+Netherlands,1980,1852, Europe
+Netherlands,1981,1705, Europe
+Netherlands,1982,1625, Europe
+Netherlands,1983,1504, Europe
+Netherlands,1984,1500, Europe
+Netherlands,1985,1478, Europe
+Netherlands,1986,1456, Europe
+Netherlands,1987,1363, Europe
+Netherlands,1988,1359, Europe
+Netherlands,1989,1367, Europe
+Netherlands,1990,1207, Europe
+Netherlands,1991,1225, Europe
+Netherlands,1992,1254, Europe
+Netherlands,1993,1197, Europe
+Netherlands,1994,1197, Europe
+Netherlands,1995,1257, Europe
+Netherlands,1996,1234, Europe
+Netherlands,1997,1261, Europe
+Netherlands,1998,1261, Europe
+Netherlands,1999,1277, Europe
+Netherlands,2000,1277, Europe
+Netherlands,2001,1278, Europe
+Netherlands,2002,1281.5, Europe
+Netherlands,2003,1281.5, Europe
+Netherlands,2004,1283.5, Europe
+Netherlands,2005,1273.9, Europe
+Netherlands,2006,1273.89, Europe
+Netherlands,2007,1236.28, Europe
+Netherlands,2008,1279.58, Europe
+Netherlands,2009,1279.58, Europe
+Netherlands,2010,1273.93, Europe
+Netherlands,2011,1276.23, Europe
+Netherlands,2012,1274.33, Europe
+Netherlands,2013,1274.33, Europe
+Netherlands,2014,1274.33, Europe
+Netherlands,2015,1292.75, Europe
+Netherlands,2016,1292.75, Europe
+Netherlands,2017,1293.75, Europe
+Netherlands,2018,1293.75, Europe
+Norway,1965,60, Europe
+Norway,1966,60, Europe
+Norway,1967,98, Europe
+Norway,1968,107, Europe
+Norway,1969,117, Europe
+Norway,1970,194, Europe
+Norway,1971,161, Europe
+Norway,1972,173, Europe
+Norway,1973,168, Europe
+Norway,1974,168, Europe
+Norway,1975,259, Europe
+Norway,1976,259, Europe
+Norway,1977,264, Europe
+Norway,1978,260, Europe
+Norway,1979,260, Europe
+Norway,1980,250, Europe
+Norway,1981,240, Europe
+Norway,1982,240, Europe
+Norway,1983,240, Europe
+Norway,1984,240, Europe
+Norway,1985,240, Europe
+Norway,1986,240, Europe
+Norway,1987,240, Europe
+Norway,1988,210, Europe
+Norway,1989,260, Europe
+Norway,1990,291, Europe
+Norway,1991,288, Europe
+Norway,1992,288, Europe
+Norway,1993,288, Europe
+Norway,1994,288, Europe
+Norway,1995,298, Europe
+Norway,1996,308, Europe
+Norway,1997,308, Europe
+Norway,1998,310, Europe
+Norway,1999,323, Europe
+Norway,2000,305, Europe
+Norway,2001,307, Europe
+Norway,2002,316, Europe
+Norway,2003,316, Europe
+Norway,2004,316, Europe
+Norway,2005,316, Europe
+Norway,2006,316, Europe
+Norway,2007,316, Europe
+Norway,2008,316, Europe
+Norway,2009,316, Europe
+Norway,2010,316, Europe
+Norway,2011,329, Europe
+Norway,2012,342, Europe
+Norway,2013,342, Europe
+Norway,2014,342, Europe
+Norway,2015,342, Europe
+Norway,2016,342, Europe
+Norway,2017,342, Europe
+Norway,2018,342, Europe
+Other Europe,1965,64.2, Europe
+Other Europe,1966,75.6, Europe
+Other Europe,1967,75.6, Europe
+Other Europe,1968,169.2, Europe
+Other Europe,1969,189.15, Europe
+Other Europe,1970,245.9, Europe
+Other Europe,1971,308.6, Europe
+Other Europe,1972,327, Europe
+Other Europe,1973,330, Europe
+Other Europe,1974,337, Europe
+Other Europe,1975,337, Europe
+Other Europe,1976,314, Europe
+Other Europe,1977,358, Europe
+Other Europe,1978,404, Europe
+Other Europe,1979,554, Europe
+Other Europe,1980,624, Europe
+Other Europe,1981,624, Europe
+Other Europe,1982,674, Europe
+Other Europe,1983,674, Europe
+Other Europe,1984,674, Europe
+Other Europe,1985,694, Europe
+Other Europe,1986,749, Europe
+Other Europe,1987,749, Europe
+Other Europe,1988,750, Europe
+Other Europe,1989,752, Europe
+Other Europe,1990,752, Europe
+Other Europe,1991,675, Europe
+Other Europe,1992,596, Europe
+Other Europe,1993,598, Europe
+Other Europe,1994,600, Europe
+Other Europe,1995,600, Europe
+Other Europe,1996,601, Europe
+Other Europe,1997,605, Europe
+Other Europe,1998,554, Europe
+Other Europe,1999,544, Europe
+Other Europe,2000,477, Europe
+Other Europe,2001,482, Europe
+Other Europe,2002,447, Europe
+Other Europe,2003,447, Europe
+Other Europe,2004,420, Europe
+Other Europe,2005,420, Europe
+Other Europe,2006,401, Europe
+Other Europe,2007,401, Europe
+Other Europe,2008,398, Europe
+Other Europe,2009,420, Europe
+Other Europe,2010,420, Europe
+Other Europe,2011,404, Europe
+Other Europe,2012,426, Europe
+Other Europe,2013,376, Europe
+Other Europe,2014,376, Europe
+Other Europe,2015,376, Europe
+Other Europe,2016,376, Europe
+Other Europe,2017,358, Europe
+Other Europe,2018,358, Europe
+Poland,1965,86, Europe
+Poland,1966,86, Europe
+Poland,1967,86, Europe
+Poland,1968,161, Europe
+Poland,1969,161, Europe
+Poland,1970,161, Europe
+Poland,1971,201, Europe
+Poland,1972,241, Europe
+Poland,1973,241, Europe
+Poland,1974,241, Europe
+Poland,1975,311, Europe
+Poland,1976,320, Europe
+Poland,1977,351, Europe
+Poland,1978,361, Europe
+Poland,1979,361, Europe
+Poland,1980,361, Europe
+Poland,1981,361, Europe
+Poland,1982,361, Europe
+Poland,1983,361, Europe
+Poland,1984,361, Europe
+Poland,1985,361, Europe
+Poland,1986,361, Europe
+Poland,1987,361, Europe
+Poland,1988,361, Europe
+Poland,1989,361, Europe
+Poland,1990,361, Europe
+Poland,1991,335, Europe
+Poland,1992,335, Europe
+Poland,1993,335, Europe
+Poland,1994,341, Europe
+Poland,1995,341, Europe
+Poland,1996,341, Europe
+Poland,1997,361, Europe
+Poland,1998,372, Europe
+Poland,1999,378, Europe
+Poland,2000,384, Europe
+Poland,2001,386, Europe
+Poland,2002,482, Europe
+Poland,2003,482, Europe
+Poland,2004,484.78, Europe
+Poland,2005,506.91, Europe
+Poland,2006,497.66, Europe
+Poland,2007,493.46, Europe
+Poland,2008,492.46, Europe
+Poland,2009,491.05, Europe
+Poland,2010,560.47, Europe
+Poland,2011,579.57, Europe
+Poland,2012,581.76, Europe
+Poland,2013,581.76, Europe
+Poland,2014,581.76, Europe
+Poland,2015,581.38, Europe
+Poland,2016,581.38, Europe
+Poland,2017,568.17, Europe
+Poland,2018,581.38, Europe
+Portugal,1965,24, Europe
+Portugal,1966,24, Europe
+Portugal,1967,24, Europe
+Portugal,1968,24, Europe
+Portugal,1969,64, Europe
+Portugal,1970,80, Europe
+Portugal,1971,80, Europe
+Portugal,1972,80, Europe
+Portugal,1973,131, Europe
+Portugal,1974,131, Europe
+Portugal,1975,191, Europe
+Portugal,1976,191, Europe
+Portugal,1977,191, Europe
+Portugal,1978,241, Europe
+Portugal,1979,201, Europe
+Portugal,1980,201, Europe
+Portugal,1981,201, Europe
+Portugal,1982,291, Europe
+Portugal,1983,291, Europe
+Portugal,1984,291, Europe
+Portugal,1985,291, Europe
+Portugal,1986,291, Europe
+Portugal,1987,291, Europe
+Portugal,1988,291, Europe
+Portugal,1989,291, Europe
+Portugal,1990,291, Europe
+Portugal,1991,291, Europe
+Portugal,1992,291, Europe
+Portugal,1993,291, Europe
+Portugal,1994,291, Europe
+Portugal,1995,291, Europe
+Portugal,1996,291, Europe
+Portugal,1997,291, Europe
+Portugal,1998,291, Europe
+Portugal,1999,291, Europe
+Portugal,2000,291, Europe
+Portugal,2001,306, Europe
+Portugal,2002,306, Europe
+Portugal,2003,306, Europe
+Portugal,2004,306, Europe
+Portugal,2005,306.49, Europe
+Portugal,2006,306.49, Europe
+Portugal,2007,306.49, Europe
+Portugal,2008,306.49, Europe
+Portugal,2009,306.49, Europe
+Portugal,2010,306.49, Europe
+Portugal,2011,306.49, Europe
+Portugal,2012,330, Europe
+Portugal,2013,330, Europe
+Portugal,2014,330, Europe
+Portugal,2015,330, Europe
+Portugal,2016,330, Europe
+Portugal,2017,330, Europe
+Portugal,2018,330, Europe
+Romania,1965,241, Europe
+Romania,1966,241, Europe
+Romania,1967,281, Europe
+Romania,1968,280, Europe
+Romania,1969,301, Europe
+Romania,1970,321, Europe
+Romania,1971,337, Europe
+Romania,1972,336, Europe
+Romania,1973,372, Europe
+Romania,1974,402, Europe
+Romania,1975,402, Europe
+Romania,1976,471, Europe
+Romania,1977,510, Europe
+Romania,1978,538, Europe
+Romania,1979,583, Europe
+Romania,1980,618, Europe
+Romania,1981,618, Europe
+Romania,1982,618, Europe
+Romania,1983,618, Europe
+Romania,1984,618, Europe
+Romania,1985,618, Europe
+Romania,1986,618, Europe
+Romania,1987,618, Europe
+Romania,1988,678, Europe
+Romania,1989,698, Europe
+Romania,1990,698, Europe
+Romania,1991,698, Europe
+Romania,1992,597, Europe
+Romania,1993,567, Europe
+Romania,1994,532, Europe
+Romania,1995,532, Europe
+Romania,1996,528, Europe
+Romania,1997,525, Europe
+Romania,1998,512, Europe
+Romania,1999,438, Europe
+Romania,2000,391, Europe
+Romania,2001,461, Europe
+Romania,2002,421, Europe
+Romania,2003,419, Europe
+Romania,2004,378, Europe
+Romania,2005,389, Europe
+Romania,2006,389, Europe
+Romania,2007,389, Europe
+Romania,2008,358.03, Europe
+Romania,2009,283.1, Europe
+Romania,2010,246.79, Europe
+Romania,2011,228.9, Europe
+Romania,2012,213.53, Europe
+Romania,2013,235.44, Europe
+Romania,2014,228.46, Europe
+Romania,2015,238.98, Europe
+Romania,2016,255.93, Europe
+Romania,2017,246.57, Europe
+Romania,2018,253.96, Europe
+Slovakia,1965,68, Europe
+Slovakia,1966,72, Europe
+Slovakia,1967,84, Europe
+Slovakia,1968,94, Europe
+Slovakia,1969,114, Europe
+Slovakia,1970,118, Europe
+Slovakia,1971,145, Europe
+Slovakia,1972,151, Europe
+Slovakia,1973,159, Europe
+Slovakia,1974,159, Europe
+Slovakia,1975,151, Europe
+Slovakia,1976,149, Europe
+Slovakia,1977,143, Europe
+Slovakia,1978,200, Europe
+Slovakia,1979,200, Europe
+Slovakia,1980,200, Europe
+Slovakia,1981,200, Europe
+Slovakia,1982,200, Europe
+Slovakia,1983,200, Europe
+Slovakia,1984,200, Europe
+Slovakia,1985,200, Europe
+Slovakia,1986,200, Europe
+Slovakia,1987,200, Europe
+Slovakia,1988,200, Europe
+Slovakia,1989,200, Europe
+Slovakia,1990,180, Europe
+Slovakia,1991,180, Europe
+Slovakia,1992,180, Europe
+Slovakia,1993,180, Europe
+Slovakia,1994,180, Europe
+Slovakia,1995,150, Europe
+Slovakia,1996,115, Europe
+Slovakia,1997,115, Europe
+Slovakia,1998,115, Europe
+Slovakia,1999,115, Europe
+Slovakia,2000,120, Europe
+Slovakia,2001,122, Europe
+Slovakia,2002,122, Europe
+Slovakia,2003,122, Europe
+Slovakia,2004,122, Europe
+Slovakia,2005,122, Europe
+Slovakia,2006,122, Europe
+Slovakia,2007,122, Europe
+Slovakia,2008,122, Europe
+Slovakia,2009,122, Europe
+Slovakia,2010,122, Europe
+Slovakia,2011,122, Europe
+Slovakia,2012,122, Europe
+Slovakia,2013,122, Europe
+Slovakia,2014,122, Europe
+Slovakia,2015,122, Europe
+Slovakia,2016,122, Europe
+Slovakia,2017,122, Europe
+Slovakia,2018,122, Europe
+Spain,1965,311, Europe
+Spain,1966,341, Europe
+Spain,1967,482, Europe
+Spain,1968,511, Europe
+Spain,1969,723, Europe
+Spain,1970,894, Europe
+Spain,1971,894, Europe
+Spain,1972,894, Europe
+Spain,1973,894, Europe
+Spain,1974,964, Europe
+Spain,1975,994, Europe
+Spain,1976,1212, Europe
+Spain,1977,1275, Europe
+Spain,1978,1362, Europe
+Spain,1979,1372, Europe
+Spain,1980,1392, Europe
+Spain,1981,1422, Europe
+Spain,1982,1427, Europe
+Spain,1983,1402, Europe
+Spain,1984,1372, Europe
+Spain,1985,1312, Europe
+Spain,1986,1312, Europe
+Spain,1987,1312, Europe
+Spain,1988,1312, Europe
+Spain,1989,1287, Europe
+Spain,1990,1267, Europe
+Spain,1991,1272, Europe
+Spain,1992,1272, Europe
+Spain,1993,1277, Europe
+Spain,1994,1282, Europe
+Spain,1995,1308, Europe
+Spain,1996,1324, Europe
+Spain,1997,1312, Europe
+Spain,1998,1312, Europe
+Spain,1999,1326, Europe
+Spain,2000,1330, Europe
+Spain,2001,1330, Europe
+Spain,2002,1330, Europe
+Spain,2003,1347, Europe
+Spain,2004,1372, Europe
+Spain,2005,1377, Europe
+Spain,2006,1361.57, Europe
+Spain,2007,1361.57, Europe
+Spain,2008,1361.57, Europe
+Spain,2009,1361.57, Europe
+Spain,2010,1421.42, Europe
+Spain,2011,1541.91, Europe
+Spain,2012,1546.33, Europe
+Spain,2013,1546.33, Europe
+Spain,2014,1546.33, Europe
+Spain,2015,1562.39, Europe
+Spain,2016,1562.39, Europe
+Spain,2017,1562.39, Europe
+Spain,2018,1564.2, Europe
+Sweden,1965,98, Europe
+Sweden,1966,153, Europe
+Sweden,1967,153, Europe
+Sweden,1968,253, Europe
+Sweden,1969,253, Europe
+Sweden,1970,253, Europe
+Sweden,1971,253, Europe
+Sweden,1972,253, Europe
+Sweden,1973,253, Europe
+Sweden,1974,253, Europe
+Sweden,1975,253, Europe
+Sweden,1976,420, Europe
+Sweden,1977,420, Europe
+Sweden,1978,426, Europe
+Sweden,1979,441, Europe
+Sweden,1980,471, Europe
+Sweden,1981,471, Europe
+Sweden,1982,451, Europe
+Sweden,1983,451, Europe
+Sweden,1984,444, Europe
+Sweden,1985,436, Europe
+Sweden,1986,436, Europe
+Sweden,1987,436, Europe
+Sweden,1988,436, Europe
+Sweden,1989,436, Europe
+Sweden,1990,436, Europe
+Sweden,1991,436, Europe
+Sweden,1992,436, Europe
+Sweden,1993,436, Europe
+Sweden,1994,436, Europe
+Sweden,1995,436, Europe
+Sweden,1996,436, Europe
+Sweden,1997,436, Europe
+Sweden,1998,436, Europe
+Sweden,1999,436, Europe
+Sweden,2000,454, Europe
+Sweden,2001,454, Europe
+Sweden,2002,454, Europe
+Sweden,2003,454, Europe
+Sweden,2004,454, Europe
+Sweden,2005,454, Europe
+Sweden,2006,454, Europe
+Sweden,2007,454, Europe
+Sweden,2008,454, Europe
+Sweden,2009,454, Europe
+Sweden,2010,454, Europe
+Sweden,2011,454, Europe
+Sweden,2012,454, Europe
+Sweden,2013,454, Europe
+Sweden,2014,454, Europe
+Sweden,2015,454, Europe
+Sweden,2016,454, Europe
+Sweden,2017,454, Europe
+Sweden,2018,454, Europe
+Switzerland,1965,42.75, Europe
+Switzerland,1966,93, Europe
+Switzerland,1967,97.5, Europe
+Switzerland,1968,97.5, Europe
+Switzerland,1969,103.45, Europe
+Switzerland,1970,99.4, Europe
+Switzerland,1971,102.25, Europe
+Switzerland,1972,120, Europe
+Switzerland,1973,140, Europe
+Switzerland,1974,138, Europe
+Switzerland,1975,138, Europe
+Switzerland,1976,137, Europe
+Switzerland,1977,137, Europe
+Switzerland,1978,132, Europe
+Switzerland,1979,132, Europe
+Switzerland,1980,132, Europe
+Switzerland,1981,132, Europe
+Switzerland,1982,132, Europe
+Switzerland,1983,132, Europe
+Switzerland,1984,132, Europe
+Switzerland,1985,132, Europe
+Switzerland,1986,132, Europe
+Switzerland,1987,132, Europe
+Switzerland,1988,132, Europe
+Switzerland,1989,60, Europe
+Switzerland,1990,80, Europe
+Switzerland,1991,132, Europe
+Switzerland,1992,132, Europe
+Switzerland,1993,132, Europe
+Switzerland,1994,132, Europe
+Switzerland,1995,132, Europe
+Switzerland,1996,132, Europe
+Switzerland,1997,132, Europe
+Switzerland,1998,132, Europe
+Switzerland,1999,132, Europe
+Switzerland,2000,132, Europe
+Switzerland,2001,132, Europe
+Switzerland,2002,132, Europe
+Switzerland,2003,136, Europe
+Switzerland,2004,140, Europe
+Switzerland,2005,140, Europe
+Switzerland,2006,140, Europe
+Switzerland,2007,140, Europe
+Switzerland,2008,140, Europe
+Switzerland,2009,140, Europe
+Switzerland,2010,140, Europe
+Switzerland,2011,140, Europe
+Switzerland,2012,106, Europe
+Switzerland,2013,140, Europe
+Switzerland,2014,140, Europe
+Switzerland,2015,68, Europe
+Switzerland,2016,68, Europe
+Switzerland,2017,68, Europe
+Switzerland,2018,68, Europe
+Turkey,1965,96, Europe
+Turkey,1966,96, Europe
+Turkey,1967,120, Europe
+Turkey,1968,120, Europe
+Turkey,1969,204, Europe
+Turkey,1970,204, Europe
+Turkey,1971,204, Europe
+Turkey,1972,280, Europe
+Turkey,1973,281, Europe
+Turkey,1974,281, Europe
+Turkey,1975,281, Europe
+Turkey,1976,280, Europe
+Turkey,1977,311, Europe
+Turkey,1978,320, Europe
+Turkey,1979,350, Europe
+Turkey,1980,366, Europe
+Turkey,1981,366, Europe
+Turkey,1982,466, Europe
+Turkey,1983,466, Europe
+Turkey,1984,466, Europe
+Turkey,1985,466, Europe
+Turkey,1986,579, Europe
+Turkey,1987,703, Europe
+Turkey,1988,703, Europe
+Turkey,1989,703, Europe
+Turkey,1990,703, Europe
+Turkey,1991,708, Europe
+Turkey,1992,713, Europe
+Turkey,1993,713, Europe
+Turkey,1994,713, Europe
+Turkey,1995,713, Europe
+Turkey,1996,713, Europe
+Turkey,1997,713, Europe
+Turkey,1998,713, Europe
+Turkey,1999,713, Europe
+Turkey,2000,713, Europe
+Turkey,2001,713, Europe
+Turkey,2002,713, Europe
+Turkey,2003,713, Europe
+Turkey,2004,613, Europe
+Turkey,2005,613, Europe
+Turkey,2006,613, Europe
+Turkey,2007,613, Europe
+Turkey,2008,613, Europe
+Turkey,2009,613, Europe
+Turkey,2010,613, Europe
+Turkey,2011,596, Europe
+Turkey,2012,596, Europe
+Turkey,2013,596, Europe
+Turkey,2014,596, Europe
+Turkey,2015,596, Europe
+Turkey,2016,596, Europe
+Turkey,2017,596, Europe
+Turkey,2018,818, Europe
+Ukraine,1965,, Europe
+Ukraine,1966,, Europe
+Ukraine,1967,, Europe
+Ukraine,1968,, Europe
+Ukraine,1969,, Europe
+Ukraine,1970,, Europe
+Ukraine,1971,, Europe
+Ukraine,1972,, Europe
+Ukraine,1973,, Europe
+Ukraine,1974,, Europe
+Ukraine,1975,, Europe
+Ukraine,1976,, Europe
+Ukraine,1977,, Europe
+Ukraine,1978,, Europe
+Ukraine,1979,, Europe
+Ukraine,1980,1133, Europe
+Ukraine,1981,1133, Europe
+Ukraine,1982,1133, Europe
+Ukraine,1983,1293, Europe
+Ukraine,1984,1293, Europe
+Ukraine,1985,1293, Europe
+Ukraine,1986,1293, Europe
+Ukraine,1987,1293, Europe
+Ukraine,1988,1293, Europe
+Ukraine,1989,1293, Europe
+Ukraine,1990,1233, Europe
+Ukraine,1991,1233, Europe
+Ukraine,1992,1233, Europe
+Ukraine,1993,1233, Europe
+Ukraine,1994,1083, Europe
+Ukraine,1995,1083, Europe
+Ukraine,1996,1083, Europe
+Ukraine,1997,1083, Europe
+Ukraine,1998,1083, Europe
+Ukraine,1999,1083, Europe
+Ukraine,2000,891, Europe
+Ukraine,2001,731, Europe
+Ukraine,2002,699, Europe
+Ukraine,2003,639, Europe
+Ukraine,2004,639, Europe
+Ukraine,2005,525, Europe
+Ukraine,2006,525, Europe
+Ukraine,2007,526, Europe
+Ukraine,2008,566, Europe
+Ukraine,2009,582, Europe
+Ukraine,2010,484, Europe
+Ukraine,2011,484, Europe
+Ukraine,2012,258, Europe
+Ukraine,2013,272, Europe
+Ukraine,2014,250, Europe
+Ukraine,2015,250, Europe
+Ukraine,2016,250, Europe
+Ukraine,2017,250, Europe
+Ukraine,2018,250, Europe
+United Kingdom,1965,1474, Europe
+United Kingdom,1966,1683, Europe
+United Kingdom,1967,1731, Europe
+United Kingdom,1968,1957, Europe
+United Kingdom,1969,2195, Europe
+United Kingdom,1970,2305, Europe
+United Kingdom,1971,2450, Europe
+United Kingdom,1972,2487, Europe
+United Kingdom,1973,2852, Europe
+United Kingdom,1974,2984, Europe
+United Kingdom,1975,2940, Europe
+United Kingdom,1976,2916, Europe
+United Kingdom,1977,2801, Europe
+United Kingdom,1978,2681, Europe
+United Kingdom,1979,2677, Europe
+United Kingdom,1980,2614, Europe
+United Kingdom,1981,2518, Europe
+United Kingdom,1982,2281, Europe
+United Kingdom,1983,2022, Europe
+United Kingdom,1984,1919, Europe
+United Kingdom,1985,1864, Europe
+United Kingdom,1986,1805, Europe
+United Kingdom,1987,1823, Europe
+United Kingdom,1988,1814, Europe
+United Kingdom,1989,1827, Europe
+United Kingdom,1990,1850, Europe
+United Kingdom,1991,1827, Europe
+United Kingdom,1992,1837, Europe
+United Kingdom,1993,1844, Europe
+United Kingdom,1994,1866, Europe
+United Kingdom,1995,1844, Europe
+United Kingdom,1996,1873, Europe
+United Kingdom,1997,1823, Europe
+United Kingdom,1998,1848, Europe
+United Kingdom,1999,1777, Europe
+United Kingdom,2000,1778, Europe
+United Kingdom,2001,1769, Europe
+United Kingdom,2002,1785, Europe
+United Kingdom,2003,1813, Europe
+United Kingdom,2004,1847.56, Europe
+United Kingdom,2005,1819.45, Europe
+United Kingdom,2006,1835.51, Europe
+United Kingdom,2007,1819.45, Europe
+United Kingdom,2008,1827.48, Europe
+United Kingdom,2009,1757.19, Europe
+United Kingdom,2010,1757.19, Europe
+United Kingdom,2011,1787.32, Europe
+United Kingdom,2012,1526.25, Europe
+United Kingdom,2013,1498.13, Europe
+United Kingdom,2014,1337.47, Europe
+United Kingdom,2015,1337.47, Europe
+United Kingdom,2016,1227.02, Europe
+United Kingdom,2017,1227.02, Europe
+United Kingdom,2018,1227.02, Europe
+Bahrain,1965,205, Middle East
+Bahrain,1966,205, Middle East
+Bahrain,1967,205, Middle East
+Bahrain,1968,205, Middle East
+Bahrain,1969,205, Middle East
+Bahrain,1970,205, Middle East
+Bahrain,1971,205, Middle East
+Bahrain,1972,250, Middle East
+Bahrain,1973,250, Middle East
+Bahrain,1974,250, Middle East
+Bahrain,1975,250, Middle East
+Bahrain,1976,250, Middle East
+Bahrain,1977,250, Middle East
+Bahrain,1978,260, Middle East
+Bahrain,1979,260, Middle East
+Bahrain,1980,260, Middle East
+Bahrain,1981,260, Middle East
+Bahrain,1982,260, Middle East
+Bahrain,1983,260, Middle East
+Bahrain,1984,260, Middle East
+Bahrain,1985,260, Middle East
+Bahrain,1986,260, Middle East
+Bahrain,1987,260, Middle East
+Bahrain,1988,260, Middle East
+Bahrain,1989,260, Middle East
+Bahrain,1990,260, Middle East
+Bahrain,1991,260, Middle East
+Bahrain,1992,260, Middle East
+Bahrain,1993,260, Middle East
+Bahrain,1994,260, Middle East
+Bahrain,1995,260, Middle East
+Bahrain,1996,260, Middle East
+Bahrain,1997,260, Middle East
+Bahrain,1998,260, Middle East
+Bahrain,1999,260, Middle East
+Bahrain,2000,260, Middle East
+Bahrain,2001,260, Middle East
+Bahrain,2002,260, Middle East
+Bahrain,2003,260, Middle East
+Bahrain,2004,260, Middle East
+Bahrain,2005,260, Middle East
+Bahrain,2006,260, Middle East
+Bahrain,2007,260, Middle East
+Bahrain,2008,260, Middle East
+Bahrain,2009,260, Middle East
+Bahrain,2010,260, Middle East
+Bahrain,2011,260, Middle East
+Bahrain,2012,260, Middle East
+Bahrain,2013,260, Middle East
+Bahrain,2014,260, Middle East
+Bahrain,2015,260, Middle East
+Bahrain,2016,260, Middle East
+Bahrain,2017,260, Middle East
+Bahrain,2018,260, Middle East
+Iran,1965,467, Middle East
+Iran,1966,524, Middle East
+Iran,1967,524, Middle East
+Iran,1968,594, Middle East
+Iran,1969,594, Middle East
+Iran,1970,594, Middle East
+Iran,1971,605, Middle East
+Iran,1972,605, Middle East
+Iran,1973,660, Middle East
+Iran,1974,690, Middle East
+Iran,1975,810, Middle East
+Iran,1976,810, Middle East
+Iran,1977,1050, Middle East
+Iran,1978,1081, Middle East
+Iran,1979,1086, Middle East
+Iran,1980,590, Middle East
+Iran,1981,590, Middle East
+Iran,1982,590, Middle East
+Iran,1983,632, Middle East
+Iran,1984,680, Middle East
+Iran,1985,685, Middle East
+Iran,1986,685, Middle East
+Iran,1987,780, Middle East
+Iran,1988,790, Middle East
+Iran,1989,860, Middle East
+Iran,1990,880, Middle East
+Iran,1991,995, Middle East
+Iran,1992,1045, Middle East
+Iran,1993,1220, Middle East
+Iran,1994,1255, Middle East
+Iran,1995,1315, Middle East
+Iran,1996,1315, Middle East
+Iran,1997,1436, Middle East
+Iran,1998,1597, Middle East
+Iran,1999,1647, Middle East
+Iran,2000,1647, Middle East
+Iran,2001,1647, Middle East
+Iran,2002,1647, Middle East
+Iran,2003,1692, Middle East
+Iran,2004,1692, Middle East
+Iran,2005,1692, Middle East
+Iran,2006,1772, Middle East
+Iran,2007,1772, Middle East
+Iran,2008,1805, Middle East
+Iran,2009,1860, Middle East
+Iran,2010,1860, Middle East
+Iran,2011,1860, Middle East
+Iran,2012,1952, Middle East
+Iran,2013,1985, Middle East
+Iran,2014,1985, Middle East
+Iran,2015,1985, Middle East
+Iran,2016,1985, Middle East
+Iran,2017,2105, Middle East
+Iran,2018,2225, Middle East
+Iraq,1965,79, Middle East
+Iraq,1966,82, Middle East
+Iraq,1967,82, Middle East
+Iraq,1968,103, Middle East
+Iraq,1969,103, Middle East
+Iraq,1970,103, Middle East
+Iraq,1971,109, Middle East
+Iraq,1972,115, Middle East
+Iraq,1973,115, Middle East
+Iraq,1974,186, Middle East
+Iraq,1975,186, Middle East
+Iraq,1976,186, Middle East
+Iraq,1977,186, Middle East
+Iraq,1978,210, Middle East
+Iraq,1979,302, Middle East
+Iraq,1980,319, Middle East
+Iraq,1981,191, Middle East
+Iraq,1982,278, Middle East
+Iraq,1983,430, Middle East
+Iraq,1984,520, Middle East
+Iraq,1985,520, Middle East
+Iraq,1986,530, Middle East
+Iraq,1987,530, Middle East
+Iraq,1988,530, Middle East
+Iraq,1989,580, Middle East
+Iraq,1990,600, Middle East
+Iraq,1991,370, Middle East
+Iraq,1992,578, Middle East
+Iraq,1993,628, Middle East
+Iraq,1994,628, Middle East
+Iraq,1995,648, Middle East
+Iraq,1996,658, Middle East
+Iraq,1997,708, Middle East
+Iraq,1998,708, Middle East
+Iraq,1999,718, Middle East
+Iraq,2000,718, Middle East
+Iraq,2001,718, Middle East
+Iraq,2002,718, Middle East
+Iraq,2003,718, Middle East
+Iraq,2004,718, Middle East
+Iraq,2005,728, Middle East
+Iraq,2006,743, Middle East
+Iraq,2007,738, Middle East
+Iraq,2008,738, Middle East
+Iraq,2009,853, Middle East
+Iraq,2010,914, Middle East
+Iraq,2011,935, Middle East
+Iraq,2012,971, Middle East
+Iraq,2013,823, Middle East
+Iraq,2014,791, Middle East
+Iraq,2015,763, Middle East
+Iraq,2016,779, Middle East
+Iraq,2017,779, Middle East
+Iraq,2018,859, Middle East
+Israel,1965,87, Middle East
+Israel,1966,95, Middle East
+Israel,1967,109, Middle East
+Israel,1968,109, Middle East
+Israel,1969,102, Middle East
+Israel,1970,125, Middle East
+Israel,1971,133, Middle East
+Israel,1972,147, Middle East
+Israel,1973,212, Middle East
+Israel,1974,201, Middle East
+Israel,1975,181, Middle East
+Israel,1976,201, Middle East
+Israel,1977,201, Middle East
+Israel,1978,194, Middle East
+Israel,1979,194, Middle East
+Israel,1980,194, Middle East
+Israel,1981,194, Middle East
+Israel,1982,194, Middle East
+Israel,1983,200, Middle East
+Israel,1984,210, Middle East
+Israel,1985,270, Middle East
+Israel,1986,270, Middle East
+Israel,1987,270, Middle East
+Israel,1988,270, Middle East
+Israel,1989,270, Middle East
+Israel,1990,270, Middle East
+Israel,1991,270, Middle East
+Israel,1992,270, Middle East
+Israel,1993,270, Middle East
+Israel,1994,270, Middle East
+Israel,1995,270, Middle East
+Israel,1996,270, Middle East
+Israel,1997,270, Middle East
+Israel,1998,270, Middle East
+Israel,1999,270, Middle East
+Israel,2000,270, Middle East
+Israel,2001,270, Middle East
+Israel,2002,270, Middle East
+Israel,2003,270, Middle East
+Israel,2004,270, Middle East
+Israel,2005,270, Middle East
+Israel,2006,270, Middle East
+Israel,2007,272, Middle East
+Israel,2008,275, Middle East
+Israel,2009,275, Middle East
+Israel,2010,280, Middle East
+Israel,2011,292, Middle East
+Israel,2012,292, Middle East
+Israel,2013,294, Middle East
+Israel,2014,301, Middle East
+Israel,2015,301, Middle East
+Israel,2016,301, Middle East
+Israel,2017,301, Middle East
+Israel,2018,301, Middle East
+Kuwait,1965,342, Middle East
+Kuwait,1966,360, Middle East
+Kuwait,1967,360, Middle East
+Kuwait,1968,440, Middle East
+Kuwait,1969,469, Middle East
+Kuwait,1970,469, Middle East
+Kuwait,1971,541, Middle East
+Kuwait,1972,523, Middle East
+Kuwait,1973,523, Middle East
+Kuwait,1974,523, Middle East
+Kuwait,1975,563, Middle East
+Kuwait,1976,577, Middle East
+Kuwait,1977,577, Middle East
+Kuwait,1978,579, Middle East
+Kuwait,1979,579, Middle East
+Kuwait,1980,579, Middle East
+Kuwait,1981,554, Middle East
+Kuwait,1982,534, Middle East
+Kuwait,1983,534, Middle East
+Kuwait,1984,704, Middle East
+Kuwait,1985,584, Middle East
+Kuwait,1986,684, Middle East
+Kuwait,1987,844, Middle East
+Kuwait,1988,844, Middle East
+Kuwait,1989,844, Middle East
+Kuwait,1990,280, Middle East
+Kuwait,1991,140, Middle East
+Kuwait,1992,380, Middle East
+Kuwait,1993,464, Middle East
+Kuwait,1994,764, Middle East
+Kuwait,1995,824, Middle East
+Kuwait,1996,854, Middle East
+Kuwait,1997,906, Middle East
+Kuwait,1998,926, Middle East
+Kuwait,1999,926, Middle East
+Kuwait,2000,680, Middle East
+Kuwait,2001,764, Middle East
+Kuwait,2002,814, Middle East
+Kuwait,2003,914, Middle East
+Kuwait,2004,936, Middle East
+Kuwait,2005,936, Middle East
+Kuwait,2006,936, Middle East
+Kuwait,2007,936, Middle East
+Kuwait,2008,936, Middle East
+Kuwait,2009,936, Middle East
+Kuwait,2010,936, Middle East
+Kuwait,2011,936, Middle East
+Kuwait,2012,936, Middle East
+Kuwait,2013,936, Middle East
+Kuwait,2014,936, Middle East
+Kuwait,2015,936, Middle East
+Kuwait,2016,936, Middle East
+Kuwait,2017,736, Middle East
+Kuwait,2018,736, Middle East
+Oman,1965,0, Middle East
+Oman,1966,0, Middle East
+Oman,1967,0, Middle East
+Oman,1968,0, Middle East
+Oman,1969,0, Middle East
+Oman,1970,0, Middle East
+Oman,1971,0, Middle East
+Oman,1972,0, Middle East
+Oman,1973,0, Middle East
+Oman,1974,0, Middle East
+Oman,1975,0, Middle East
+Oman,1976,0, Middle East
+Oman,1977,0, Middle East
+Oman,1978,0, Middle East
+Oman,1979,0, Middle East
+Oman,1980,0, Middle East
+Oman,1981,0, Middle East
+Oman,1982,50, Middle East
+Oman,1983,50, Middle East
+Oman,1984,50, Middle East
+Oman,1985,50, Middle East
+Oman,1986,70, Middle East
+Oman,1987,80, Middle East
+Oman,1988,80, Middle East
+Oman,1989,80, Middle East
+Oman,1990,80, Middle East
+Oman,1991,80, Middle East
+Oman,1992,80, Middle East
+Oman,1993,80, Middle East
+Oman,1994,80, Middle East
+Oman,1995,80, Middle East
+Oman,1996,80, Middle East
+Oman,1997,80, Middle East
+Oman,1998,80, Middle East
+Oman,1999,80, Middle East
+Oman,2000,80, Middle East
+Oman,2001,82, Middle East
+Oman,2002,85, Middle East
+Oman,2003,85, Middle East
+Oman,2004,85, Middle East
+Oman,2005,85, Middle East
+Oman,2006,201, Middle East
+Oman,2007,216, Middle East
+Oman,2008,222, Middle East
+Oman,2009,222, Middle East
+Oman,2010,222, Middle East
+Oman,2011,222, Middle East
+Oman,2012,222, Middle East
+Oman,2013,222, Middle East
+Oman,2014,222, Middle East
+Oman,2015,222, Middle East
+Oman,2016,222, Middle East
+Oman,2017,304, Middle East
+Oman,2018,334, Middle East
+Other Middle East,1965,217.9, Middle East
+Other Middle East,1966,231.2, Middle East
+Other Middle East,1967,229.3, Middle East
+Other Middle East,1968,232.15, Middle East
+Other Middle East,1969,267.9, Middle East
+Other Middle East,1970,292.6, Middle East
+Other Middle East,1971,283.65, Middle East
+Other Middle East,1972,280, Middle East
+Other Middle East,1973,281, Middle East
+Other Middle East,1974,294, Middle East
+Other Middle East,1975,361, Middle East
+Other Middle East,1976,364, Middle East
+Other Middle East,1977,328, Middle East
+Other Middle East,1978,342, Middle East
+Other Middle East,1979,345, Middle East
+Other Middle East,1980,465, Middle East
+Other Middle East,1981,513, Middle East
+Other Middle East,1982,513, Middle East
+Other Middle East,1983,520, Middle East
+Other Middle East,1984,520, Middle East
+Other Middle East,1985,520, Middle East
+Other Middle East,1986,530, Middle East
+Other Middle East,1987,530, Middle East
+Other Middle East,1988,530, Middle East
+Other Middle East,1989,493, Middle East
+Other Middle East,1990,483, Middle East
+Other Middle East,1991,498, Middle East
+Other Middle East,1992,478, Middle East
+Other Middle East,1993,478, Middle East
+Other Middle East,1994,478, Middle East
+Other Middle East,1995,478, Middle East
+Other Middle East,1996,478, Middle East
+Other Middle East,1997,478, Middle East
+Other Middle East,1998,483, Middle East
+Other Middle East,1999,496, Middle East
+Other Middle East,2000,496, Middle East
+Other Middle East,2001,496, Middle East
+Other Middle East,2002,496, Middle East
+Other Middle East,2003,496, Middle East
+Other Middle East,2004,496, Middle East
+Other Middle East,2005,496, Middle East
+Other Middle East,2006,496, Middle East
+Other Middle East,2007,496, Middle East
+Other Middle East,2008,496, Middle East
+Other Middle East,2009,496, Middle East
+Other Middle East,2010,496, Middle East
+Other Middle East,2011,496, Middle East
+Other Middle East,2012,496, Middle East
+Other Middle East,2013,382, Middle East
+Other Middle East,2014,382, Middle East
+Other Middle East,2015,382, Middle East
+Other Middle East,2016,382, Middle East
+Other Middle East,2017,496, Middle East
+Other Middle East,2018,496, Middle East
+Qatar,1965,0.95, Middle East
+Qatar,1966,0.95, Middle East
+Qatar,1967,0.95, Middle East
+Qatar,1968,0.95, Middle East
+Qatar,1969,0.95, Middle East
+Qatar,1970,0.95, Middle East
+Qatar,1971,0.95, Middle East
+Qatar,1972,1, Middle East
+Qatar,1973,1, Middle East
+Qatar,1974,7, Middle East
+Qatar,1975,7, Middle East
+Qatar,1976,9, Middle East
+Qatar,1977,10, Middle East
+Qatar,1978,11, Middle East
+Qatar,1979,11, Middle East
+Qatar,1980,13, Middle East
+Qatar,1981,13, Middle East
+Qatar,1982,12, Middle East
+Qatar,1983,63, Middle East
+Qatar,1984,56, Middle East
+Qatar,1985,56, Middle East
+Qatar,1986,62, Middle East
+Qatar,1987,62, Middle East
+Qatar,1988,62, Middle East
+Qatar,1989,62, Middle East
+Qatar,1990,62, Middle East
+Qatar,1991,60, Middle East
+Qatar,1992,60, Middle East
+Qatar,1993,58, Middle East
+Qatar,1994,58, Middle East
+Qatar,1995,62, Middle East
+Qatar,1996,62, Middle East
+Qatar,1997,62, Middle East
+Qatar,1998,62, Middle East
+Qatar,1999,62, Middle East
+Qatar,2000,62, Middle East
+Qatar,2001,62, Middle East
+Qatar,2002,137, Middle East
+Qatar,2003,137, Middle East
+Qatar,2004,137, Middle East
+Qatar,2005,137, Middle East
+Qatar,2006,137, Middle East
+Qatar,2007,137, Middle East
+Qatar,2008,137, Middle East
+Qatar,2009,283, Middle East
+Qatar,2010,283, Middle East
+Qatar,2011,283, Middle East
+Qatar,2012,283, Middle East
+Qatar,2013,283, Middle East
+Qatar,2014,283, Middle East
+Qatar,2015,283, Middle East
+Qatar,2016,429, Middle East
+Qatar,2017,429, Middle East
+Qatar,2018,429, Middle East
+Saudi Arabia,1965,303, Middle East
+Saudi Arabia,1966,335, Middle East
+Saudi Arabia,1967,335, Middle East
+Saudi Arabia,1968,347, Middle East
+Saudi Arabia,1969,347, Middle East
+Saudi Arabia,1970,676, Middle East
+Saudi Arabia,1971,676, Middle East
+Saudi Arabia,1972,676, Middle East
+Saudi Arabia,1973,676, Middle East
+Saudi Arabia,1974,676, Middle East
+Saudi Arabia,1975,703, Middle East
+Saudi Arabia,1976,703, Middle East
+Saudi Arabia,1977,703, Middle East
+Saudi Arabia,1978,645, Middle East
+Saudi Arabia,1979,690, Middle East
+Saudi Arabia,1980,700, Middle East
+Saudi Arabia,1981,820, Middle East
+Saudi Arabia,1982,820, Middle East
+Saudi Arabia,1983,1010, Middle East
+Saudi Arabia,1984,1260, Middle East
+Saudi Arabia,1985,1510, Middle East
+Saudi Arabia,1986,1540, Middle East
+Saudi Arabia,1987,1565, Middle East
+Saudi Arabia,1988,1565, Middle East
+Saudi Arabia,1989,1915, Middle East
+Saudi Arabia,1990,1860, Middle East
+Saudi Arabia,1991,1645, Middle East
+Saudi Arabia,1992,1660, Middle East
+Saudi Arabia,1993,1670, Middle East
+Saudi Arabia,1994,1683, Middle East
+Saudi Arabia,1995,1692, Middle East
+Saudi Arabia,1996,1699, Middle East
+Saudi Arabia,1997,1704, Middle East
+Saudi Arabia,1998,1762, Middle East
+Saudi Arabia,1999,1808, Middle East
+Saudi Arabia,2000,1798, Middle East
+Saudi Arabia,2001,1805, Middle East
+Saudi Arabia,2002,1809, Middle East
+Saudi Arabia,2003,2049, Middle East
+Saudi Arabia,2004,2074, Middle East
+Saudi Arabia,2005,2102, Middle East
+Saudi Arabia,2006,2102, Middle East
+Saudi Arabia,2007,2102, Middle East
+Saudi Arabia,2008,2102, Middle East
+Saudi Arabia,2009,2109, Middle East
+Saudi Arabia,2010,2109, Middle East
+Saudi Arabia,2011,2107, Middle East
+Saudi Arabia,2012,2107, Middle East
+Saudi Arabia,2013,2507, Middle East
+Saudi Arabia,2014,2899, Middle East
+Saudi Arabia,2015,2899, Middle East
+Saudi Arabia,2016,2901, Middle East
+Saudi Arabia,2017,2826, Middle East
+Saudi Arabia,2018,2835, Middle East
+United Arab Emirates,1965,0, Middle East
+United Arab Emirates,1966,0, Middle East
+United Arab Emirates,1967,0, Middle East
+United Arab Emirates,1968,0, Middle East
+United Arab Emirates,1969,0, Middle East
+United Arab Emirates,1970,0, Middle East
+United Arab Emirates,1971,0, Middle East
+United Arab Emirates,1972,0, Middle East
+United Arab Emirates,1973,0, Middle East
+United Arab Emirates,1974,0, Middle East
+United Arab Emirates,1975,0, Middle East
+United Arab Emirates,1976,15, Middle East
+United Arab Emirates,1977,15, Middle East
+United Arab Emirates,1978,15, Middle East
+United Arab Emirates,1979,15, Middle East
+United Arab Emirates,1980,15, Middle East
+United Arab Emirates,1981,135, Middle East
+United Arab Emirates,1982,135, Middle East
+United Arab Emirates,1983,180, Middle East
+United Arab Emirates,1984,180, Middle East
+United Arab Emirates,1985,180, Middle East
+United Arab Emirates,1986,180, Middle East
+United Arab Emirates,1987,180, Middle East
+United Arab Emirates,1988,180, Middle East
+United Arab Emirates,1989,180, Middle East
+United Arab Emirates,1990,185, Middle East
+United Arab Emirates,1991,192, Middle East
+United Arab Emirates,1992,202, Middle East
+United Arab Emirates,1993,215, Middle East
+United Arab Emirates,1994,220, Middle East
+United Arab Emirates,1995,220, Middle East
+United Arab Emirates,1996,273, Middle East
+United Arab Emirates,1997,279, Middle East
+United Arab Emirates,1998,220, Middle East
+United Arab Emirates,1999,340, Middle East
+United Arab Emirates,2000,630, Middle East
+United Arab Emirates,2001,674, Middle East
+United Arab Emirates,2002,711, Middle East
+United Arab Emirates,2003,620, Middle East
+United Arab Emirates,2004,620, Middle East
+United Arab Emirates,2005,620, Middle East
+United Arab Emirates,2006,620, Middle East
+United Arab Emirates,2007,625, Middle East
+United Arab Emirates,2008,682, Middle East
+United Arab Emirates,2009,702, Middle East
+United Arab Emirates,2010,702, Middle East
+United Arab Emirates,2011,707, Middle East
+United Arab Emirates,2012,712, Middle East
+United Arab Emirates,2013,712, Middle East
+United Arab Emirates,2014,728, Middle East
+United Arab Emirates,2015,1149, Middle East
+United Arab Emirates,2016,1149, Middle East
+United Arab Emirates,2017,1229, Middle East
+United Arab Emirates,2018,1229, Middle East
+Canada,1965,1089.14, North America
+Canada,1966,1140.47, North America
+Canada,1967,1238.53, North America
+Canada,1968,1280.04, North America
+Canada,1969,1344.32, North America
+Canada,1970,1396.46, North America
+Canada,1971,1651.58, North America
+Canada,1972,1683.98, North America
+Canada,1973,1846.07, North America
+Canada,1974,2034.32, North America
+Canada,1975,2089.36, North America
+Canada,1976,2150.01, North America
+Canada,1977,2152.97, North America
+Canada,1978,2216.53, North America
+Canada,1979,2231.54, North America
+Canada,1980,2154.9, North America
+Canada,1981,2160.37, North America
+Canada,1982,2092.68, North America
+Canada,1983,1873.36, North America
+Canada,1984,1891.91, North America
+Canada,1985,1879.96, North America
+Canada,1986,1781.27, North America
+Canada,1987,1882.6, North America
+Canada,1988,1847.85, North America
+Canada,1989,1885.23, North America
+Canada,1990,1919.51, North America
+Canada,1991,1903.06, North America
+Canada,1992,1911.21, North America
+Canada,1993,1824.1, North America
+Canada,1994,1831.69, North America
+Canada,1995,1791.87, North America
+Canada,1996,1806.94, North America
+Canada,1997,1810.84, North America
+Canada,1998,1844.46, North America
+Canada,1999,1861.19, North America
+Canada,2000,1860.59, North America
+Canada,2001,1917.29, North America
+Canada,2002,1922.64, North America
+Canada,2003,1958.62, North America
+Canada,2004,1915.25, North America
+Canada,2005,1895.94, North America
+Canada,2006,1914.22, North America
+Canada,2007,1906.67, North America
+Canada,2008,1951.42, North America
+Canada,2009,1976.09, North America
+Canada,2010,1913.18, North America
+Canada,2011,2004.54, North America
+Canada,2012,2014.85, North America
+Canada,2013,1929.44, North America
+Canada,2014,1929.44, North America
+Canada,2015,1930.79, North America
+Canada,2016,1933.71, North America
+Canada,2017,1969.56, North America
+Canada,2018,2025.19, North America
+Mexico,1965,417, North America
+Mexico,1966,417, North America
+Mexico,1967,457, North America
+Mexico,1968,525, North America
+Mexico,1969,525, North America
+Mexico,1970,562, North America
+Mexico,1971,562, North America
+Mexico,1972,594, North America
+Mexico,1973,722, North America
+Mexico,1974,722, North America
+Mexico,1975,746, North America
+Mexico,1976,822, North America
+Mexico,1977,822, North America
+Mexico,1978,991, North America
+Mexico,1979,1091, North America
+Mexico,1980,1226, North America
+Mexico,1981,1221, North America
+Mexico,1982,1215, North America
+Mexico,1983,1218, North America
+Mexico,1984,1269, North America
+Mexico,1985,1263, North America
+Mexico,1986,1280, North America
+Mexico,1987,1462, North America
+Mexico,1988,1462, North America
+Mexico,1989,1627, North America
+Mexico,1990,1627, North America
+Mexico,1991,1447.8, North America
+Mexico,1992,1447.8, North America
+Mexico,1993,1444, North America
+Mexico,1994,1444, North America
+Mexico,1995,1444, North America
+Mexico,1996,1444, North America
+Mexico,1997,1448.75, North America
+Mexico,1998,1448.75, North America
+Mexico,1999,1448.75, North America
+Mexico,2000,1481.05, North America
+Mexico,2001,1481.05, North America
+Mexico,2002,1463, North America
+Mexico,2003,1463, North America
+Mexico,2004,1463, North America
+Mexico,2005,1463, North America
+Mexico,2006,1463, North America
+Mexico,2007,1463, North America
+Mexico,2008,1463, North America
+Mexico,2009,1463, North America
+Mexico,2010,1463, North America
+Mexico,2011,1605.5, North America
+Mexico,2012,1605.5, North America
+Mexico,2013,1605.5, North America
+Mexico,2014,1521.9, North America
+Mexico,2015,1521.9, North America
+Mexico,2016,1521.9, North America
+Mexico,2017,1545.65, North America
+Mexico,2018,1545.65, North America
+US,1965,10390, North America
+US,1966,10660, North America
+US,1967,11350, North America
+US,1968,11700, North America
+US,1969,12020, North America
+US,1970,12860, North America
+US,1971,13290, North America
+US,1972,13640, North America
+US,1973,14360, North America
+US,1974,14960, North America
+US,1975,15240, North America
+US,1976,16400, North America
+US,1977,17050, North America
+US,1978,17440, North America
+US,1979,17990, North America
+US,1980,18620, North America
+US,1981,17890, North America
+US,1982,16860, North America
+US,1983,16140, North America
+US,1984,15659, North America
+US,1985,15459, North America
+US,1986,15566, North America
+US,1987,15915, North America
+US,1988,15655, North America
+US,1989,15572, North America
+US,1990,15676, North America
+US,1991,15696, North America
+US,1992,15121, North America
+US,1993,15058, North America
+US,1994,15434, North America
+US,1995,15333, North America
+US,1996,15452, North America
+US,1997,15711, North America
+US,1998,16261, North America
+US,1999,16512, North America
+US,2000,16568, North America
+US,2001,16755, North America
+US,2002,16757, North America
+US,2003,16947, North America
+US,2004,17125, North America
+US,2005,17339, North America
+US,2006,17440, North America
+US,2007,17594, North America
+US,2008,17672, North America
+US,2009,17597, North America
+US,2010,17736, North America
+US,2011,17367, North America
+US,2012,17823, North America
+US,2013,17925, North America
+US,2014,17967, North America
+US,2015,18317, North America
+US,2016,18617, North America
+US,2017,18567, North America
+US,2018,18762, North America
+Argentina,1965,402.32, S. & Cent. America
+Argentina,1966,414.2, S. & Cent. America
+Argentina,1967,412.3, S. & Cent. America
+Argentina,1968,423.7, S. & Cent. America
+Argentina,1969,434.15, S. & Cent. America
+Argentina,1970,437.69, S. & Cent. America
+Argentina,1971,603.92, S. & Cent. America
+Argentina,1972,602, S. & Cent. America
+Argentina,1973,624, S. & Cent. America
+Argentina,1974,721, S. & Cent. America
+Argentina,1975,684, S. & Cent. America
+Argentina,1976,703, S. & Cent. America
+Argentina,1977,655, S. & Cent. America
+Argentina,1978,684, S. & Cent. America
+Argentina,1979,684, S. & Cent. America
+Argentina,1980,684, S. & Cent. America
+Argentina,1981,684, S. & Cent. America
+Argentina,1982,684, S. & Cent. America
+Argentina,1983,677, S. & Cent. America
+Argentina,1984,677, S. & Cent. America
+Argentina,1985,677, S. & Cent. America
+Argentina,1986,677, S. & Cent. America
+Argentina,1987,679, S. & Cent. America
+Argentina,1988,682, S. & Cent. America
+Argentina,1989,681, S. & Cent. America
+Argentina,1990,681, S. & Cent. America
+Argentina,1991,685, S. & Cent. America
+Argentina,1992,679, S. & Cent. America
+Argentina,1993,679, S. & Cent. America
+Argentina,1994,654, S. & Cent. America
+Argentina,1995,639, S. & Cent. America
+Argentina,1996,640, S. & Cent. America
+Argentina,1997,644, S. & Cent. America
+Argentina,1998,642, S. & Cent. America
+Argentina,1999,618, S. & Cent. America
+Argentina,2000,625, S. & Cent. America
+Argentina,2001,613, S. & Cent. America
+Argentina,2002,613, S. & Cent. America
+Argentina,2003,615, S. & Cent. America
+Argentina,2004,620, S. & Cent. America
+Argentina,2005,615, S. & Cent. America
+Argentina,2006,617, S. & Cent. America
+Argentina,2007,628, S. & Cent. America
+Argentina,2008,628, S. & Cent. America
+Argentina,2009,625, S. & Cent. America
+Argentina,2010,625, S. & Cent. America
+Argentina,2011,625, S. & Cent. America
+Argentina,2012,657, S. & Cent. America
+Argentina,2013,657, S. & Cent. America
+Argentina,2014,657, S. & Cent. America
+Argentina,2015,657, S. & Cent. America
+Argentina,2016,657, S. & Cent. America
+Argentina,2017,657, S. & Cent. America
+Argentina,2018,580, S. & Cent. America
+Brazil,1965,346.65, S. & Cent. America
+Brazil,1966,351.88, S. & Cent. America
+Brazil,1967,360.9, S. & Cent. America
+Brazil,1968,439.28, S. & Cent. America
+Brazil,1969,476.52, S. & Cent. America
+Brazil,1970,525, S. & Cent. America
+Brazil,1971,597, S. & Cent. America
+Brazil,1972,756, S. & Cent. America
+Brazil,1973,820, S. & Cent. America
+Brazil,1974,981, S. & Cent. America
+Brazil,1975,996, S. & Cent. America
+Brazil,1976,990, S. & Cent. America
+Brazil,1977,1110, S. & Cent. America
+Brazil,1978,1202, S. & Cent. America
+Brazil,1979,1202, S. & Cent. America
+Brazil,1980,1393, S. & Cent. America
+Brazil,1981,1394, S. & Cent. America
+Brazil,1982,1423, S. & Cent. America
+Brazil,1983,1435, S. & Cent. America
+Brazil,1984,1435, S. & Cent. America
+Brazil,1985,1435, S. & Cent. America
+Brazil,1986,1435, S. & Cent. America
+Brazil,1987,1435, S. & Cent. America
+Brazil,1988,1404, S. & Cent. America
+Brazil,1989,1440, S. & Cent. America
+Brazil,1990,1440, S. & Cent. America
+Brazil,1991,1445, S. & Cent. America
+Brazil,1992,1444, S. & Cent. America
+Brazil,1993,1429, S. & Cent. America
+Brazil,1994,1473, S. & Cent. America
+Brazil,1995,1481, S. & Cent. America
+Brazil,1996,1481, S. & Cent. America
+Brazil,1997,1749.81, S. & Cent. America
+Brazil,1998,1768.04, S. & Cent. America
+Brazil,1999,1795.58, S. & Cent. America
+Brazil,2000,1849.36, S. & Cent. America
+Brazil,2001,1849.36, S. & Cent. America
+Brazil,2002,1853.54, S. & Cent. America
+Brazil,2003,1915.39, S. & Cent. America
+Brazil,2004,1925.72, S. & Cent. America
+Brazil,2005,1941.85, S. & Cent. America
+Brazil,2006,1942.01, S. & Cent. America
+Brazil,2007,1964.11, S. & Cent. America
+Brazil,2008,1976.5, S. & Cent. America
+Brazil,2009,1991.74, S. & Cent. America
+Brazil,2010,1991.74, S. & Cent. America
+Brazil,2011,2013.8, S. & Cent. America
+Brazil,2012,2004.24, S. & Cent. America
+Brazil,2013,2096.85, S. & Cent. America
+Brazil,2014,2238.38, S. & Cent. America
+Brazil,2015,2281.4, S. & Cent. America
+Brazil,2016,2288.87, S. & Cent. America
+Brazil,2017,2285.08, S. & Cent. America
+Brazil,2018,2285.08, S. & Cent. America
+Chile,1965,79.42, S. & Cent. America
+Chile,1966,86.45, S. & Cent. America
+Chile,1967,86.45, S. & Cent. America
+Chile,1968,85.5, S. & Cent. America
+Chile,1969,86.45, S. & Cent. America
+Chile,1970,105.45, S. & Cent. America
+Chile,1971,129.2, S. & Cent. America
+Chile,1972,124, S. & Cent. America
+Chile,1973,124, S. & Cent. America
+Chile,1974,124, S. & Cent. America
+Chile,1975,149, S. & Cent. America
+Chile,1976,140, S. & Cent. America
+Chile,1977,130, S. & Cent. America
+Chile,1978,138, S. & Cent. America
+Chile,1979,138, S. & Cent. America
+Chile,1980,138, S. & Cent. America
+Chile,1981,148, S. & Cent. America
+Chile,1982,148, S. & Cent. America
+Chile,1983,148, S. & Cent. America
+Chile,1984,148, S. & Cent. America
+Chile,1985,148, S. & Cent. America
+Chile,1986,148, S. & Cent. America
+Chile,1987,148, S. & Cent. America
+Chile,1988,148, S. & Cent. America
+Chile,1989,148, S. & Cent. America
+Chile,1990,148, S. & Cent. America
+Chile,1991,148, S. & Cent. America
+Chile,1992,148, S. & Cent. America
+Chile,1993,150, S. & Cent. America
+Chile,1994,162, S. & Cent. America
+Chile,1995,163, S. & Cent. America
+Chile,1996,181, S. & Cent. America
+Chile,1997,201, S. & Cent. America
+Chile,1998,201, S. & Cent. America
+Chile,1999,201, S. & Cent. America
+Chile,2000,201, S. & Cent. America
+Chile,2001,201, S. & Cent. America
+Chile,2002,218, S. & Cent. America
+Chile,2003,238, S. & Cent. America
+Chile,2004,238, S. & Cent. America
+Chile,2005,238, S. & Cent. America
+Chile,2006,234, S. & Cent. America
+Chile,2007,242, S. & Cent. America
+Chile,2008,242, S. & Cent. America
+Chile,2009,242, S. & Cent. America
+Chile,2010,242, S. & Cent. America
+Chile,2011,250, S. & Cent. America
+Chile,2012,254, S. & Cent. America
+Chile,2013,254, S. & Cent. America
+Chile,2014,258, S. & Cent. America
+Chile,2015,258, S. & Cent. America
+Chile,2016,258, S. & Cent. America
+Chile,2017,258, S. & Cent. America
+Chile,2018,258, S. & Cent. America
+Colombia,1965,95, S. & Cent. America
+Colombia,1966,122.55, S. & Cent. America
+Colombia,1967,122.55, S. & Cent. America
+Colombia,1968,132.05, S. & Cent. America
+Colombia,1969,130.53, S. & Cent. America
+Colombia,1970,131.1, S. & Cent. America
+Colombia,1971,164.68, S. & Cent. America
+Colombia,1972,172, S. & Cent. America
+Colombia,1973,166, S. & Cent. America
+Colombia,1974,172, S. & Cent. America
+Colombia,1975,172, S. & Cent. America
+Colombia,1976,165, S. & Cent. America
+Colombia,1977,165, S. & Cent. America
+Colombia,1978,166, S. & Cent. America
+Colombia,1979,176, S. & Cent. America
+Colombia,1980,191, S. & Cent. America
+Colombia,1981,191, S. & Cent. America
+Colombia,1982,201, S. & Cent. America
+Colombia,1983,212, S. & Cent. America
+Colombia,1984,212, S. & Cent. America
+Colombia,1985,212, S. & Cent. America
+Colombia,1986,217, S. & Cent. America
+Colombia,1987,227, S. & Cent. America
+Colombia,1988,227, S. & Cent. America
+Colombia,1989,227, S. & Cent. America
+Colombia,1990,245, S. & Cent. America
+Colombia,1991,253, S. & Cent. America
+Colombia,1992,253, S. & Cent. America
+Colombia,1993,253, S. & Cent. America
+Colombia,1994,253, S. & Cent. America
+Colombia,1995,275, S. & Cent. America
+Colombia,1996,289, S. & Cent. America
+Colombia,1997,306, S. & Cent. America
+Colombia,1998,306, S. & Cent. America
+Colombia,1999,313, S. & Cent. America
+Colombia,2000,323, S. & Cent. America
+Colombia,2001,323, S. & Cent. America
+Colombia,2002,324, S. & Cent. America
+Colombia,2003,311, S. & Cent. America
+Colombia,2004,311, S. & Cent. America
+Colombia,2005,311, S. & Cent. America
+Colombia,2006,324, S. & Cent. America
+Colombia,2007,324, S. & Cent. America
+Colombia,2008,326, S. & Cent. America
+Colombia,2009,336, S. & Cent. America
+Colombia,2010,336, S. & Cent. America
+Colombia,2011,336, S. & Cent. America
+Colombia,2012,336, S. & Cent. America
+Colombia,2013,336, S. & Cent. America
+Colombia,2014,336, S. & Cent. America
+Colombia,2015,421, S. & Cent. America
+Colombia,2016,421, S. & Cent. America
+Colombia,2017,421, S. & Cent. America
+Colombia,2018,421, S. & Cent. America
+Curacao,1965,, S. & Cent. America
+Curacao,1966,, S. & Cent. America
+Curacao,1967,, S. & Cent. America
+Curacao,1968,, S. & Cent. America
+Curacao,1969,, S. & Cent. America
+Curacao,1970,, S. & Cent. America
+Curacao,1971,, S. & Cent. America
+Curacao,1972,, S. & Cent. America
+Curacao,1973,, S. & Cent. America
+Curacao,1974,, S. & Cent. America
+Curacao,1975,, S. & Cent. America
+Curacao,1976,, S. & Cent. America
+Curacao,1977,, S. & Cent. America
+Curacao,1978,, S. & Cent. America
+Curacao,1979,, S. & Cent. America
+Curacao,1980,, S. & Cent. America
+Curacao,1981,, S. & Cent. America
+Curacao,1982,, S. & Cent. America
+Curacao,1983,, S. & Cent. America
+Curacao,1984,, S. & Cent. America
+Curacao,1985,, S. & Cent. America
+Curacao,1986,320, S. & Cent. America
+Curacao,1987,320, S. & Cent. America
+Curacao,1988,320, S. & Cent. America
+Curacao,1989,320, S. & Cent. America
+Curacao,1990,320, S. & Cent. America
+Curacao,1991,320, S. & Cent. America
+Curacao,1992,320, S. & Cent. America
+Curacao,1993,320, S. & Cent. America
+Curacao,1994,320, S. & Cent. America
+Curacao,1995,320, S. & Cent. America
+Curacao,1996,320, S. & Cent. America
+Curacao,1997,320, S. & Cent. America
+Curacao,1998,320, S. & Cent. America
+Curacao,1999,320, S. & Cent. America
+Curacao,2000,320, S. & Cent. America
+Curacao,2001,320, S. & Cent. America
+Curacao,2002,320, S. & Cent. America
+Curacao,2003,320, S. & Cent. America
+Curacao,2004,320, S. & Cent. America
+Curacao,2005,320, S. & Cent. America
+Curacao,2006,320, S. & Cent. America
+Curacao,2007,320, S. & Cent. America
+Curacao,2008,320, S. & Cent. America
+Curacao,2009,320, S. & Cent. America
+Curacao,2010,320, S. & Cent. America
+Curacao,2011,320, S. & Cent. America
+Curacao,2012,320, S. & Cent. America
+Curacao,2013,320, S. & Cent. America
+Curacao,2014,320, S. & Cent. America
+Curacao,2015,320, S. & Cent. America
+Curacao,2016,320, S. & Cent. America
+Curacao,2017,320, S. & Cent. America
+Curacao,2018,320, S. & Cent. America
+Ecuador,1965,18.05, S. & Cent. America
+Ecuador,1966,11.4, S. & Cent. America
+Ecuador,1967,19, S. & Cent. America
+Ecuador,1968,35.15, S. & Cent. America
+Ecuador,1969,31.35, S. & Cent. America
+Ecuador,1970,33.53, S. & Cent. America
+Ecuador,1971,34.2, S. & Cent. America
+Ecuador,1972,34.5, S. & Cent. America
+Ecuador,1973,34.5, S. & Cent. America
+Ecuador,1974,34.5, S. & Cent. America
+Ecuador,1975,39.38, S. & Cent. America
+Ecuador,1976,44.4, S. & Cent. America
+Ecuador,1977,102.1, S. & Cent. America
+Ecuador,1978,102.1, S. & Cent. America
+Ecuador,1979,102.1, S. & Cent. America
+Ecuador,1980,102.1, S. & Cent. America
+Ecuador,1981,102.1, S. & Cent. America
+Ecuador,1982,102.1, S. & Cent. America
+Ecuador,1983,102.1, S. & Cent. America
+Ecuador,1984,102.1, S. & Cent. America
+Ecuador,1985,102.1, S. & Cent. America
+Ecuador,1986,102.1, S. & Cent. America
+Ecuador,1987,146.5, S. & Cent. America
+Ecuador,1988,146.5, S. & Cent. America
+Ecuador,1989,146.5, S. & Cent. America
+Ecuador,1990,146.5, S. & Cent. America
+Ecuador,1991,146.5, S. & Cent. America
+Ecuador,1992,147, S. & Cent. America
+Ecuador,1993,147, S. & Cent. America
+Ecuador,1994,147, S. & Cent. America
+Ecuador,1995,157, S. & Cent. America
+Ecuador,1996,157, S. & Cent. America
+Ecuador,1997,157, S. & Cent. America
+Ecuador,1998,177, S. & Cent. America
+Ecuador,1999,177, S. & Cent. America
+Ecuador,2000,177, S. & Cent. America
+Ecuador,2001,177, S. & Cent. America
+Ecuador,2002,177, S. & Cent. America
+Ecuador,2003,177, S. & Cent. America
+Ecuador,2004,177, S. & Cent. America
+Ecuador,2005,177, S. & Cent. America
+Ecuador,2006,177, S. & Cent. America
+Ecuador,2007,175, S. & Cent. America
+Ecuador,2008,175, S. & Cent. America
+Ecuador,2009,175, S. & Cent. America
+Ecuador,2010,175, S. & Cent. America
+Ecuador,2011,175, S. & Cent. America
+Ecuador,2012,175, S. & Cent. America
+Ecuador,2013,175, S. & Cent. America
+Ecuador,2014,175, S. & Cent. America
+Ecuador,2015,175, S. & Cent. America
+Ecuador,2016,175, S. & Cent. America
+Ecuador,2017,175, S. & Cent. America
+Ecuador,2018,175, S. & Cent. America
+Netherlands Antilles,1965,703, S. & Cent. America
+Netherlands Antilles,1966,755.25, S. & Cent. America
+Netherlands Antilles,1967,755.25, S. & Cent. America
+Netherlands Antilles,1968,755.25, S. & Cent. America
+Netherlands Antilles,1969,798, S. & Cent. America
+Netherlands Antilles,1970,797, S. & Cent. America
+Netherlands Antilles,1971,797, S. & Cent. America
+Netherlands Antilles,1972,945, S. & Cent. America
+Netherlands Antilles,1973,980, S. & Cent. America
+Netherlands Antilles,1974,849, S. & Cent. America
+Netherlands Antilles,1975,810, S. & Cent. America
+Netherlands Antilles,1976,802, S. & Cent. America
+Netherlands Antilles,1977,842, S. & Cent. America
+Netherlands Antilles,1978,842, S. & Cent. America
+Netherlands Antilles,1979,792, S. & Cent. America
+Netherlands Antilles,1980,782, S. & Cent. America
+Netherlands Antilles,1981,782, S. & Cent. America
+Netherlands Antilles,1982,782, S. & Cent. America
+Netherlands Antilles,1983,761, S. & Cent. America
+Netherlands Antilles,1984,620, S. & Cent. America
+Netherlands Antilles,1985,320, S. & Cent. America
+Netherlands Antilles,1986,, S. & Cent. America
+Netherlands Antilles,1987,, S. & Cent. America
+Netherlands Antilles,1988,, S. & Cent. America
+Netherlands Antilles,1989,, S. & Cent. America
+Netherlands Antilles,1990,, S. & Cent. America
+Netherlands Antilles,1991,, S. & Cent. America
+Netherlands Antilles,1992,, S. & Cent. America
+Netherlands Antilles,1993,, S. & Cent. America
+Netherlands Antilles,1994,, S. & Cent. America
+Netherlands Antilles,1995,, S. & Cent. America
+Netherlands Antilles,1996,, S. & Cent. America
+Netherlands Antilles,1997,, S. & Cent. America
+Netherlands Antilles,1998,, S. & Cent. America
+Netherlands Antilles,1999,, S. & Cent. America
+Netherlands Antilles,2000,, S. & Cent. America
+Netherlands Antilles,2001,, S. & Cent. America
+Netherlands Antilles,2002,, S. & Cent. America
+Netherlands Antilles,2003,, S. & Cent. America
+Netherlands Antilles,2004,, S. & Cent. America
+Netherlands Antilles,2005,, S. & Cent. America
+Netherlands Antilles,2006,, S. & Cent. America
+Netherlands Antilles,2007,, S. & Cent. America
+Netherlands Antilles,2008,, S. & Cent. America
+Netherlands Antilles,2009,, S. & Cent. America
+Netherlands Antilles,2010,, S. & Cent. America
+Netherlands Antilles,2011,, S. & Cent. America
+Netherlands Antilles,2012,, S. & Cent. America
+Netherlands Antilles,2013,, S. & Cent. America
+Netherlands Antilles,2014,, S. & Cent. America
+Netherlands Antilles,2015,, S. & Cent. America
+Netherlands Antilles,2016,, S. & Cent. America
+Netherlands Antilles,2017,, S. & Cent. America
+Netherlands Antilles,2018,, S. & Cent. America
+Other S. & Cent. America,1965,396.34, S. & Cent. America
+Other S. & Cent. America,1966,471.87, S. & Cent. America
+Other S. & Cent. America,1967,505.4, S. & Cent. America
+Other S. & Cent. America,1968,550.52, S. & Cent. America
+Other S. & Cent. America,1969,687.32, S. & Cent. America
+Other S. & Cent. America,1970,965.35, S. & Cent. America
+Other S. & Cent. America,1971,1164.1, S. & Cent. America
+Other S. & Cent. America,1972,1346.51, S. & Cent. America
+Other S. & Cent. America,1973,1856.85, S. & Cent. America
+Other S. & Cent. America,1974,1854.85, S. & Cent. America
+Other S. & Cent. America,1975,2004.85, S. & Cent. America
+Other S. & Cent. America,1976,1998.85, S. & Cent. America
+Other S. & Cent. America,1977,2033.85, S. & Cent. America
+Other S. & Cent. America,1978,2018, S. & Cent. America
+Other S. & Cent. America,1979,2020, S. & Cent. America
+Other S. & Cent. America,1980,2023, S. & Cent. America
+Other S. & Cent. America,1981,1988, S. & Cent. America
+Other S. & Cent. America,1982,1675, S. & Cent. America
+Other S. & Cent. America,1983,1667, S. & Cent. America
+Other S. & Cent. America,1984,1597, S. & Cent. America
+Other S. & Cent. America,1985,1197, S. & Cent. America
+Other S. & Cent. America,1986,1197, S. & Cent. America
+Other S. & Cent. America,1987,1198, S. & Cent. America
+Other S. & Cent. America,1988,1185, S. & Cent. America
+Other S. & Cent. America,1989,1307, S. & Cent. America
+Other S. & Cent. America,1990,1377, S. & Cent. America
+Other S. & Cent. America,1991,1445, S. & Cent. America
+Other S. & Cent. America,1992,1460, S. & Cent. America
+Other S. & Cent. America,1993,1410, S. & Cent. America
+Other S. & Cent. America,1994,1344, S. & Cent. America
+Other S. & Cent. America,1995,1184, S. & Cent. America
+Other S. & Cent. America,1996,1208, S. & Cent. America
+Other S. & Cent. America,1997,1133, S. & Cent. America
+Other S. & Cent. America,1998,1114, S. & Cent. America
+Other S. & Cent. America,1999,1150, S. & Cent. America
+Other S. & Cent. America,2000,1109, S. & Cent. America
+Other S. & Cent. America,2001,1133, S. & Cent. America
+Other S. & Cent. America,2002,1112, S. & Cent. America
+Other S. & Cent. America,2003,1143, S. & Cent. America
+Other S. & Cent. America,2004,1151, S. & Cent. America
+Other S. & Cent. America,2005,1144, S. & Cent. America
+Other S. & Cent. America,2006,1150, S. & Cent. America
+Other S. & Cent. America,2007,1192, S. & Cent. America
+Other S. & Cent. America,2008,1176, S. & Cent. America
+Other S. & Cent. America,2009,900, S. & Cent. America
+Other S. & Cent. America,2010,901, S. & Cent. America
+Other S. & Cent. America,2011,1013, S. & Cent. America
+Other S. & Cent. America,2012,356, S. & Cent. America
+Other S. & Cent. America,2013,361, S. & Cent. America
+Other S. & Cent. America,2014,376, S. & Cent. America
+Other S. & Cent. America,2015,384, S. & Cent. America
+Other S. & Cent. America,2016,384, S. & Cent. America
+Other S. & Cent. America,2017,384, S. & Cent. America
+Other S. & Cent. America,2018,384, S. & Cent. America
+Peru,1965,60.04, S. & Cent. America
+Peru,1966,60.42, S. & Cent. America
+Peru,1967,85.5, S. & Cent. America
+Peru,1968,98.42, S. & Cent. America
+Peru,1969,87.4, S. & Cent. America
+Peru,1970,87.4, S. & Cent. America
+Peru,1971,100.32, S. & Cent. America
+Peru,1972,101, S. & Cent. America
+Peru,1973,107, S. & Cent. America
+Peru,1974,130, S. & Cent. America
+Peru,1975,130, S. & Cent. America
+Peru,1976,116, S. & Cent. America
+Peru,1977,171, S. & Cent. America
+Peru,1978,170, S. & Cent. America
+Peru,1979,170, S. & Cent. America
+Peru,1980,171, S. & Cent. America
+Peru,1981,176, S. & Cent. America
+Peru,1982,186, S. & Cent. America
+Peru,1983,186, S. & Cent. America
+Peru,1984,187, S. & Cent. America
+Peru,1985,187, S. & Cent. America
+Peru,1986,187, S. & Cent. America
+Peru,1987,187, S. & Cent. America
+Peru,1988,187, S. & Cent. America
+Peru,1989,187, S. & Cent. America
+Peru,1990,187, S. & Cent. America
+Peru,1991,187, S. & Cent. America
+Peru,1992,187, S. & Cent. America
+Peru,1993,189, S. & Cent. America
+Peru,1994,189, S. & Cent. America
+Peru,1995,189, S. & Cent. America
+Peru,1996,189, S. & Cent. America
+Peru,1997,189, S. & Cent. America
+Peru,1998,189, S. & Cent. America
+Peru,1999,192, S. & Cent. America
+Peru,2000,198, S. & Cent. America
+Peru,2001,198, S. & Cent. America
+Peru,2002,198, S. & Cent. America
+Peru,2003,198, S. & Cent. America
+Peru,2004,223, S. & Cent. America
+Peru,2005,223, S. & Cent. America
+Peru,2006,223, S. & Cent. America
+Peru,2007,223, S. & Cent. America
+Peru,2008,230, S. & Cent. America
+Peru,2009,252, S. & Cent. America
+Peru,2010,252, S. & Cent. America
+Peru,2011,252, S. & Cent. America
+Peru,2012,252, S. & Cent. America
+Peru,2013,253, S. & Cent. America
+Peru,2014,253, S. & Cent. America
+Peru,2015,253, S. & Cent. America
+Peru,2016,253, S. & Cent. America
+Peru,2017,253, S. & Cent. America
+Peru,2018,253, S. & Cent. America
+Trinidad & Tobago,1965,341, S. & Cent. America
+Trinidad & Tobago,1966,390, S. & Cent. America
+Trinidad & Tobago,1967,405, S. & Cent. America
+Trinidad & Tobago,1968,430, S. & Cent. America
+Trinidad & Tobago,1969,433, S. & Cent. America
+Trinidad & Tobago,1970,436, S. & Cent. America
+Trinidad & Tobago,1971,436, S. & Cent. America
+Trinidad & Tobago,1972,450, S. & Cent. America
+Trinidad & Tobago,1973,450, S. & Cent. America
+Trinidad & Tobago,1974,456, S. & Cent. America
+Trinidad & Tobago,1975,456, S. & Cent. America
+Trinidad & Tobago,1976,456, S. & Cent. America
+Trinidad & Tobago,1977,456, S. & Cent. America
+Trinidad & Tobago,1978,436, S. & Cent. America
+Trinidad & Tobago,1979,436, S. & Cent. America
+Trinidad & Tobago,1980,436, S. & Cent. America
+Trinidad & Tobago,1981,436, S. & Cent. America
+Trinidad & Tobago,1982,410, S. & Cent. America
+Trinidad & Tobago,1983,355, S. & Cent. America
+Trinidad & Tobago,1984,310, S. & Cent. America
+Trinidad & Tobago,1985,300, S. & Cent. America
+Trinidad & Tobago,1986,300, S. & Cent. America
+Trinidad & Tobago,1987,300, S. & Cent. America
+Trinidad & Tobago,1988,300, S. & Cent. America
+Trinidad & Tobago,1989,300, S. & Cent. America
+Trinidad & Tobago,1990,273, S. & Cent. America
+Trinidad & Tobago,1991,240, S. & Cent. America
+Trinidad & Tobago,1992,240, S. & Cent. America
+Trinidad & Tobago,1993,240, S. & Cent. America
+Trinidad & Tobago,1994,240, S. & Cent. America
+Trinidad & Tobago,1995,240, S. & Cent. America
+Trinidad & Tobago,1996,165, S. & Cent. America
+Trinidad & Tobago,1997,165, S. & Cent. America
+Trinidad & Tobago,1998,165, S. & Cent. America
+Trinidad & Tobago,1999,165, S. & Cent. America
+Trinidad & Tobago,2000,165, S. & Cent. America
+Trinidad & Tobago,2001,165, S. & Cent. America
+Trinidad & Tobago,2002,165, S. & Cent. America
+Trinidad & Tobago,2003,165, S. & Cent. America
+Trinidad & Tobago,2004,165, S. & Cent. America
+Trinidad & Tobago,2005,165, S. & Cent. America
+Trinidad & Tobago,2006,165, S. & Cent. America
+Trinidad & Tobago,2007,165, S. & Cent. America
+Trinidad & Tobago,2008,165, S. & Cent. America
+Trinidad & Tobago,2009,165, S. & Cent. America
+Trinidad & Tobago,2010,165, S. & Cent. America
+Trinidad & Tobago,2011,165, S. & Cent. America
+Trinidad & Tobago,2012,165, S. & Cent. America
+Trinidad & Tobago,2013,165, S. & Cent. America
+Trinidad & Tobago,2014,165, S. & Cent. America
+Trinidad & Tobago,2015,165, S. & Cent. America
+Trinidad & Tobago,2016,165, S. & Cent. America
+Trinidad & Tobago,2017,165, S. & Cent. America
+Trinidad & Tobago,2018,0, S. & Cent. America
+Venezuela,1965,1120, S. & Cent. America
+Venezuela,1966,1135, S. & Cent. America
+Venezuela,1967,1217, S. & Cent. America
+Venezuela,1968,1222, S. & Cent. America
+Venezuela,1969,1258, S. & Cent. America
+Venezuela,1970,1289, S. & Cent. America
+Venezuela,1971,1295, S. & Cent. America
+Venezuela,1972,1474, S. & Cent. America
+Venezuela,1973,1474, S. & Cent. America
+Venezuela,1974,1474, S. & Cent. America
+Venezuela,1975,1445, S. & Cent. America
+Venezuela,1976,1445, S. & Cent. America
+Venezuela,1977,1445, S. & Cent. America
+Venezuela,1978,1371, S. & Cent. America
+Venezuela,1979,1371, S. & Cent. America
+Venezuela,1980,1283, S. & Cent. America
+Venezuela,1981,1263, S. & Cent. America
+Venezuela,1982,1253, S. & Cent. America
+Venezuela,1983,1243, S. & Cent. America
+Venezuela,1984,1243, S. & Cent. America
+Venezuela,1985,1243, S. & Cent. America
+Venezuela,1986,1186, S. & Cent. America
+Venezuela,1987,1186, S. & Cent. America
+Venezuela,1988,1186, S. & Cent. America
+Venezuela,1989,1186, S. & Cent. America
+Venezuela,1990,1186, S. & Cent. America
+Venezuela,1991,1196, S. & Cent. America
+Venezuela,1992,1202, S. & Cent. America
+Venezuela,1993,1202, S. & Cent. America
+Venezuela,1994,1202, S. & Cent. America
+Venezuela,1995,1212, S. & Cent. America
+Venezuela,1996,1212, S. & Cent. America
+Venezuela,1997,1212, S. & Cent. America
+Venezuela,1998,1215, S. & Cent. America
+Venezuela,1999,1226, S. & Cent. America
+Venezuela,2000,1269, S. & Cent. America
+Venezuela,2001,1269, S. & Cent. America
+Venezuela,2002,1269, S. & Cent. America
+Venezuela,2003,1269, S. & Cent. America
+Venezuela,2004,1284, S. & Cent. America
+Venezuela,2005,1291, S. & Cent. America
+Venezuela,2006,1294, S. & Cent. America
+Venezuela,2007,1303, S. & Cent. America
+Venezuela,2008,1303, S. & Cent. America
+Venezuela,2009,1303, S. & Cent. America
+Venezuela,2010,1303, S. & Cent. America
+Venezuela,2011,1303, S. & Cent. America
+Venezuela,2012,1303, S. & Cent. America
+Venezuela,2013,1303, S. & Cent. America
+Venezuela,2014,1303, S. & Cent. America
+Venezuela,2015,1303, S. & Cent. America
+Venezuela,2016,1303, S. & Cent. America
+Venezuela,2017,1303, S. & Cent. America
+Venezuela,2018,1303, S. & Cent. America

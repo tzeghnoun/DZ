@@ -1,0 +1,433 @@
+country,region,year,type,value
+Algeria, Africa,2017,wind,0.02
+Egypt, Africa,2017,wind,2.45
+Morocco, Africa,2017,wind,3.03
+Other Africa, Africa,2017,wind,1.43
+South Africa, Africa,2017,wind,5.87
+Australia, Asia Pacific,2017,wind,13.19
+Bangladesh, Asia Pacific,2017,wind,0.01
+China, Asia Pacific,2017,wind,295
+China Hong Kong SAR, Asia Pacific,2017,wind,0
+India, Asia Pacific,2017,wind,52.62
+Indonesia, Asia Pacific,2017,wind,0
+Japan, Asia Pacific,2017,wind,6.11
+Malaysia, Asia Pacific,2017,wind,0
+New Zealand, Asia Pacific,2017,wind,2.14
+Other Asia Pacific, Asia Pacific,2017,wind,0.31
+Pakistan, Asia Pacific,2017,wind,1.2
+Philippines, Asia Pacific,2017,wind,1.09
+Singapore, Asia Pacific,2017,wind,0
+South Korea, Asia Pacific,2017,wind,2.17
+Sri Lanka, Asia Pacific,2017,wind,0.37
+Taiwan, Asia Pacific,2017,wind,1.72
+Thailand, Asia Pacific,2017,wind,0.53
+Vietnam, Asia Pacific,2017,wind,0.26
+Azerbaijan, CIS,2017,wind,0.02
+Belarus, CIS,2017,wind,0.1
+Kazakhstan, CIS,2017,wind,0.33
+Other CIS, CIS,2017,wind,0.01
+Russian Federation, CIS,2017,wind,0.14
+Turkmenistan, CIS,2017,wind,0
+Uzbekistan, CIS,2017,wind,0
+Austria, Europe,2017,wind,6.57
+Belgium, Europe,2017,wind,6.51
+Czech Republic, Europe,2017,wind,0.59
+Finland, Europe,2017,wind,4.8
+France, Europe,2017,wind,24.32
+Germany, Europe,2017,wind,105.69
+Greece, Europe,2017,wind,5.54
+Hungary, Europe,2017,wind,0.76
+Italy, Europe,2017,wind,17.74
+Netherlands, Europe,2017,wind,10.57
+Norway, Europe,2017,wind,2.85
+Other Europe, Europe,2017,wind,0.29
+Poland, Europe,2017,wind,14.91
+Portugal, Europe,2017,wind,12.25
+Romania, Europe,2017,wind,7.41
+Spain, Europe,2017,wind,49.13
+Sweden, Europe,2017,wind,17.61
+Switzerland, Europe,2017,wind,0.13
+Turkey, Europe,2017,wind,17.9
+Ukraine, Europe,2017,wind,0.97
+United Kingdom, Europe,2017,wind,50
+Iran, Middle East,2017,wind,0.29
+Iraq, Middle East,2017,wind,0
+Israel, Middle East,2017,wind,0.11
+Kuwait, Middle East,2017,wind,0.02
+Oman, Middle East,2017,wind,0
+Other Middle East, Middle East,2017,wind,0.46
+Qatar, Middle East,2017,wind,0
+Saudi Arabia, Middle East,2017,wind,0
+United Arab Emirates, Middle East,2017,wind,0
+Canada, North America,2017,wind,29.07
+Mexico, North America,2017,wind,10.62
+US, North America,2017,wind,256.87
+Argentina, S. & Cent. America,2017,wind,0.61
+Brazil, S. & Cent. America,2017,wind,42.37
+Chile, S. & Cent. America,2017,wind,3.63
+Colombia, S. & Cent. America,2017,wind,0
+Ecuador, S. & Cent. America,2017,wind,0.07
+Other S. & Cent. America, S. & Cent. America,2017,wind,8.37
+Peru, S. & Cent. America,2017,wind,1.07
+Trinidad & Tobago, S. & Cent. America,2017,wind,0
+Venezuela, S. & Cent. America,2017,wind,0
+Algeria, Africa,2017,solar,0.5
+Egypt, Africa,2017,solar,0.26
+Morocco, Africa,2017,solar,0.42
+Other Africa, Africa,2017,solar,1.15
+South Africa, Africa,2017,solar,4.28
+Australia, Asia Pacific,2017,solar,8.96
+Bangladesh, Asia Pacific,2017,solar,0.27
+China, Asia Pacific,2017,solar,117.8
+China Hong Kong SAR, Asia Pacific,2017,solar,0
+India, Asia Pacific,2017,solar,21.52
+Indonesia, Asia Pacific,2017,solar,0.03
+Japan, Asia Pacific,2017,solar,61.83
+Malaysia, Asia Pacific,2017,solar,0.36
+New Zealand, Asia Pacific,2017,solar,0.08
+Other Asia Pacific, Asia Pacific,2017,solar,0.48
+Pakistan, Asia Pacific,2017,solar,1.06
+Philippines, Asia Pacific,2017,solar,1.2
+Singapore, Asia Pacific,2017,solar,0.23
+South Korea, Asia Pacific,2017,solar,7.06
+Sri Lanka, Asia Pacific,2017,solar,0.15
+Taiwan, Asia Pacific,2017,solar,1.69
+Thailand, Asia Pacific,2017,solar,4.48
+Vietnam, Asia Pacific,2017,solar,0.01
+Azerbaijan, CIS,2017,solar,0.04
+Belarus, CIS,2017,solar,0.09
+Kazakhstan, CIS,2017,solar,0.09
+Other CIS, CIS,2017,solar,0.01
+Russian Federation, CIS,2017,solar,0.53
+Turkmenistan, CIS,2017,solar,0.01
+Uzbekistan, CIS,2017,solar,0
+Austria, Europe,2017,solar,1.27
+Belgium, Europe,2017,solar,3.29
+Czech Republic, Europe,2017,solar,2.19
+Finland, Europe,2017,solar,0.04
+France, Europe,2017,solar,9.16
+Germany, Europe,2017,solar,39.4
+Greece, Europe,2017,solar,3.99
+Hungary, Europe,2017,solar,0.35
+Italy, Europe,2017,solar,24.38
+Netherlands, Europe,2017,solar,2.2
+Norway, Europe,2017,solar,0.04
+Other Europe, Europe,2017,solar,0.38
+Poland, Europe,2017,solar,0.16
+Portugal, Europe,2017,solar,0.99
+Romania, Europe,2017,solar,1.86
+Spain, Europe,2017,solar,14.32
+Sweden, Europe,2017,solar,0.23
+Switzerland, Europe,2017,solar,1.68
+Turkey, Europe,2017,solar,2.89
+Ukraine, Europe,2017,solar,0.76
+United Kingdom, Europe,2017,solar,11.52
+Iran, Middle East,2017,solar,0.01
+Iraq, Middle East,2017,solar,0.06
+Israel, Middle East,2017,solar,1.6
+Kuwait, Middle East,2017,solar,0.09
+Oman, Middle East,2017,solar,0.01
+Other Middle East, Middle East,2017,solar,1.96
+Qatar, Middle East,2017,solar,0.01
+Saudi Arabia, Middle East,2017,solar,0.14
+United Arab Emirates, Middle East,2017,solar,0.53
+Canada, North America,2017,solar,3.29
+Mexico, North America,2017,solar,1.19
+US, North America,2017,solar,78.06
+Argentina, S. & Cent. America,2017,solar,0.02
+Brazil, S. & Cent. America,2017,solar,0.83
+Chile, S. & Cent. America,2017,solar,3.9
+Colombia, S. & Cent. America,2017,solar,0
+Ecuador, S. & Cent. America,2017,solar,0.04
+Other S. & Cent. America, S. & Cent. America,2017,solar,2.37
+Peru, S. & Cent. America,2017,solar,0.29
+Trinidad & Tobago, S. & Cent. America,2017,solar,0
+Venezuela, S. & Cent. America,2017,solar,0.01
+Algeria, Africa,2017,other,0
+Egypt, Africa,2017,other,0
+Morocco, Africa,2017,other,0
+Other Africa, Africa,2017,other,7.01
+South Africa, Africa,2017,other,0.48
+Australia, Asia Pacific,2017,other,3.54
+Bangladesh, Asia Pacific,2017,other,0.01
+China, Asia Pacific,2017,other,79.6
+China Hong Kong SAR, Asia Pacific,2017,other,0.1
+India, Asia Pacific,2017,other,21.62
+Indonesia, Asia Pacific,2017,other,13.35
+Japan, Asia Pacific,2017,other,30.87
+Malaysia, Asia Pacific,2017,other,0.96
+New Zealand, Asia Pacific,2017,other,8.43
+Other Asia Pacific, Asia Pacific,2017,other,0.15
+Pakistan, Asia Pacific,2017,other,1.62
+Philippines, Asia Pacific,2017,other,11.28
+Singapore, Asia Pacific,2017,other,0.83
+South Korea, Asia Pacific,2017,other,8.35
+Sri Lanka, Asia Pacific,2017,other,0.07
+Taiwan, Asia Pacific,2017,other,1.86
+Thailand, Asia Pacific,2017,other,9.94
+Vietnam, Asia Pacific,2017,other,0.06
+Azerbaijan, CIS,2017,other,0.09
+Belarus, CIS,2017,other,0.11
+Kazakhstan, CIS,2017,other,0
+Other CIS, CIS,2017,other,0.02
+Russian Federation, CIS,2017,other,0.47
+Turkmenistan, CIS,2017,other,0
+Uzbekistan, CIS,2017,other,0
+Austria, Europe,2017,other,4.64
+Belgium, Europe,2017,other,5.76
+Czech Republic, Europe,2017,other,4.96
+Finland, Europe,2017,other,11.84
+France, Europe,2017,other,7.99
+Germany, Europe,2017,other,51.09
+Greece, Europe,2017,other,0.31
+Hungary, Europe,2017,other,2.14
+Italy, Europe,2017,other,25.58
+Netherlands, Europe,2017,other,4.6
+Norway, Europe,2017,other,0.21
+Other Europe, Europe,2017,other,0.2
+Poland, Europe,2017,other,6.49
+Portugal, Europe,2017,other,3.44
+Romania, Europe,2017,other,0.53
+Spain, Europe,2017,other,6.08
+Sweden, Europe,2017,other,12.08
+Switzerland, Europe,2017,other,1.84
+Turkey, Europe,2017,other,8.25
+Ukraine, Europe,2017,other,0.16
+United Kingdom, Europe,2017,other,31.87
+Iran, Middle East,2017,other,0.02
+Iraq, Middle East,2017,other,0
+Israel, Middle East,2017,other,0.12
+Kuwait, Middle East,2017,other,0
+Oman, Middle East,2017,other,0
+Other Middle East, Middle East,2017,other,0
+Qatar, Middle East,2017,other,0.11
+Saudi Arabia, Middle East,2017,other,0
+United Arab Emirates, Middle East,2017,other,0.01
+Canada, North America,2017,other,9.72
+Mexico, North America,2017,other,7.32
+US, North America,2017,other,82.83
+Argentina, S. & Cent. America,2017,other,2.38
+Brazil, S. & Cent. America,2017,other,51.27
+Chile, S. & Cent. America,2017,other,6.93
+Colombia, S. & Cent. America,2017,other,1.99
+Ecuador, S. & Cent. America,2017,other,0.43
+Other S. & Cent. America, S. & Cent. America,2017,other,12.19
+Peru, S. & Cent. America,2017,other,0.58
+Trinidad & Tobago, S. & Cent. America,2017,other,0
+Venezuela, S. & Cent. America,2017,other,0
+Algeria, Africa,2018,wind,0.01
+Egypt, Africa,2018,wind,2.44
+Morocco, Africa,2018,wind,3.84
+Other Africa, Africa,2018,wind,1.5
+South Africa, Africa,2018,wind,6.89
+Australia, Asia Pacific,2018,wind,16.27
+Bangladesh, Asia Pacific,2018,wind,0.01
+China, Asia Pacific,2018,wind,366
+China Hong Kong SAR, Asia Pacific,2018,wind,0
+India, Asia Pacific,2018,wind,60.31
+Indonesia, Asia Pacific,2018,wind,0.2
+Japan, Asia Pacific,2018,wind,6.79
+Malaysia, Asia Pacific,2018,wind,0
+New Zealand, Asia Pacific,2018,wind,2.05
+Other Asia Pacific, Asia Pacific,2018,wind,0.5
+Pakistan, Asia Pacific,2018,wind,1.72
+Philippines, Asia Pacific,2018,wind,1.15
+Singapore, Asia Pacific,2018,wind,0
+South Korea, Asia Pacific,2018,wind,2.4
+Sri Lanka, Asia Pacific,2018,wind,0.31
+Taiwan, Asia Pacific,2018,wind,1.68
+Thailand, Asia Pacific,2018,wind,0.76
+Vietnam, Asia Pacific,2018,wind,0.33
+Azerbaijan, CIS,2018,wind,0.08
+Belarus, CIS,2018,wind,0.12
+Kazakhstan, CIS,2018,wind,0.54
+Other CIS, CIS,2018,wind,0.01
+Russian Federation, CIS,2018,wind,0.23
+Turkmenistan, CIS,2018,wind,0
+Uzbekistan, CIS,2018,wind,0
+Austria, Europe,2018,wind,5.9
+Belgium, Europe,2018,wind,7.47
+Czech Republic, Europe,2018,wind,0.61
+Finland, Europe,2018,wind,5.86
+France, Europe,2018,wind,28.17
+Germany, Europe,2018,wind,111.59
+Greece, Europe,2018,wind,6.3
+Hungary, Europe,2018,wind,0.61
+Italy, Europe,2018,wind,17.47
+Netherlands, Europe,2018,wind,10.55
+Norway, Europe,2018,wind,3.88
+Other Europe, Europe,2018,wind,0.53
+Poland, Europe,2018,wind,12.85
+Portugal, Europe,2018,wind,12.66
+Romania, Europe,2018,wind,6.5
+Spain, Europe,2018,wind,50.84
+Sweden, Europe,2018,wind,16.81
+Switzerland, Europe,2018,wind,0.13
+Turkey, Europe,2018,wind,19.83
+Ukraine, Europe,2018,wind,1.13
+United Kingdom, Europe,2018,wind,57.12
+Iran, Middle East,2018,wind,0.36
+Iraq, Middle East,2018,wind,0
+Israel, Middle East,2018,wind,0.11
+Kuwait, Middle East,2018,wind,0.02
+Oman, Middle East,2018,wind,0
+Other Middle East, Middle East,2018,wind,0.57
+Qatar, Middle East,2018,wind,0
+Saudi Arabia, Middle East,2018,wind,0
+United Arab Emirates, Middle East,2018,wind,0
+Canada, North America,2018,wind,32.17
+Mexico, North America,2018,wind,12.63
+US, North America,2018,wind,277.73
+Argentina, S. & Cent. America,2018,wind,1.41
+Brazil, S. & Cent. America,2018,wind,48.48
+Chile, S. & Cent. America,2018,wind,3.69
+Colombia, S. & Cent. America,2018,wind,0.04
+Ecuador, S. & Cent. America,2018,wind,0.08
+Other S. & Cent. America, S. & Cent. America,2018,wind,10.66
+Peru, S. & Cent. America,2018,wind,1.49
+Trinidad & Tobago, S. & Cent. America,2018,wind,0
+Venezuela, S. & Cent. America,2018,wind,0
+Algeria, Africa,2018,solar,0.6
+Egypt, Africa,2018,solar,1.04
+Morocco, Africa,2018,solar,0.95
+Other Africa, Africa,2018,solar,1.5
+South Africa, Africa,2018,solar,4.94
+Australia, Asia Pacific,2018,solar,12.08
+Bangladesh, Asia Pacific,2018,solar,0.3
+China, Asia Pacific,2018,solar,177.5
+China Hong Kong SAR, Asia Pacific,2018,solar,0
+India, Asia Pacific,2018,solar,30.73
+Indonesia, Asia Pacific,2018,solar,0.02
+Japan, Asia Pacific,2018,solar,71.69
+Malaysia, Asia Pacific,2018,solar,0.46
+New Zealand, Asia Pacific,2018,solar,0.1
+Other Asia Pacific, Asia Pacific,2018,solar,0.59
+Pakistan, Asia Pacific,2018,solar,2.12
+Philippines, Asia Pacific,2018,solar,1.25
+Singapore, Asia Pacific,2018,solar,0.28
+South Korea, Asia Pacific,2018,solar,9.35
+Sri Lanka, Asia Pacific,2018,solar,0.21
+Taiwan, Asia Pacific,2018,solar,2.73
+Thailand, Asia Pacific,2018,solar,4.72
+Vietnam, Asia Pacific,2018,solar,0.08
+Azerbaijan, CIS,2018,solar,0.04
+Belarus, CIS,2018,solar,0.13
+Kazakhstan, CIS,2018,solar,0.11
+Other CIS, CIS,2018,solar,0.01
+Russian Federation, CIS,2018,solar,0.57
+Turkmenistan, CIS,2018,solar,0.01
+Uzbekistan, CIS,2018,solar,0
+Austria, Europe,2018,solar,1.58
+Belgium, Europe,2018,solar,3.97
+Czech Republic, Europe,2018,solar,2.34
+Finland, Europe,2018,solar,0.16
+France, Europe,2018,solar,10.16
+Germany, Europe,2018,solar,46.16
+Greece, Europe,2018,solar,3.79
+Hungary, Europe,2018,solar,0.59
+Italy, Europe,2018,solar,23.23
+Netherlands, Europe,2018,solar,3.2
+Norway, Europe,2018,solar,0.06
+Other Europe, Europe,2018,solar,0.44
+Poland, Europe,2018,solar,0.3
+Portugal, Europe,2018,solar,1.02
+Romania, Europe,2018,solar,1.67
+Spain, Europe,2018,solar,12.52
+Sweden, Europe,2018,solar,0.37
+Switzerland, Europe,2018,solar,1.96
+Turkey, Europe,2018,solar,7.89
+Ukraine, Europe,2018,solar,1.29
+United Kingdom, Europe,2018,solar,12.92
+Iran, Middle East,2018,solar,0.04
+Iraq, Middle East,2018,solar,0.06
+Israel, Middle East,2018,solar,1.79
+Kuwait, Middle East,2018,solar,0.09
+Oman, Middle East,2018,solar,0.01
+Other Middle East, Middle East,2018,solar,3.02
+Qatar, Middle East,2018,solar,0.01
+Saudi Arabia, Middle East,2018,solar,0.15
+United Arab Emirates, Middle East,2018,solar,0.95
+Canada, North America,2018,solar,3.55
+Mexico, North America,2018,solar,2.24
+US, North America,2018,solar,97.12
+Argentina, S. & Cent. America,2018,solar,0.11
+Brazil, S. & Cent. America,2018,solar,3.14
+Chile, S. & Cent. America,2018,solar,5.12
+Colombia, S. & Cent. America,2018,solar,0.01
+Ecuador, S. & Cent. America,2018,solar,0.04
+Other S. & Cent. America, S. & Cent. America,2018,solar,3.26
+Peru, S. & Cent. America,2018,solar,0.75
+Trinidad & Tobago, S. & Cent. America,2018,solar,0
+Venezuela, S. & Cent. America,2018,solar,0.01
+Algeria, Africa,2018,other,0
+Egypt, Africa,2018,other,0
+Morocco, Africa,2018,other,0
+Other Africa, Africa,2018,other,7.63
+South Africa, Africa,2018,other,0.53
+Australia, Asia Pacific,2018,other,3.54
+Bangladesh, Asia Pacific,2018,other,0.01
+China, Asia Pacific,2018,other,90.72
+China Hong Kong SAR, Asia Pacific,2018,other,0.1
+India, Asia Pacific,2018,other,30.46
+Indonesia, Asia Pacific,2018,other,14.54
+Japan, Asia Pacific,2018,other,33.66
+Malaysia, Asia Pacific,2018,other,1
+New Zealand, Asia Pacific,2018,other,8.32
+Other Asia Pacific, Asia Pacific,2018,other,0.16
+Pakistan, Asia Pacific,2018,other,1.67
+Philippines, Asia Pacific,2018,other,11.54
+Singapore, Asia Pacific,2018,other,0.9
+South Korea, Asia Pacific,2018,other,10.17
+Sri Lanka, Asia Pacific,2018,other,0.11
+Taiwan, Asia Pacific,2018,other,2.01
+Thailand, Asia Pacific,2018,other,12.32
+Vietnam, Asia Pacific,2018,other,0.06
+Azerbaijan, CIS,2018,other,0.08
+Belarus, CIS,2018,other,0.11
+Kazakhstan, CIS,2018,other,0
+Other CIS, CIS,2018,other,0.02
+Russian Federation, CIS,2018,other,0.46
+Turkmenistan, CIS,2018,other,0
+Uzbekistan, CIS,2018,other,0
+Austria, Europe,2018,other,4.76
+Belgium, Europe,2018,other,5.43
+Czech Republic, Europe,2018,other,4.73
+Finland, Europe,2018,other,12.86
+France, Europe,2018,other,8.52
+Germany, Europe,2018,other,51.44
+Greece, Europe,2018,other,0.3
+Hungary, Europe,2018,other,2.37
+Italy, Europe,2018,other,25.31
+Netherlands, Europe,2018,other,4.88
+Norway, Europe,2018,other,0.18
+Other Europe, Europe,2018,other,0.23
+Poland, Europe,2018,other,6.33
+Portugal, Europe,2018,other,3.44
+Romania, Europe,2018,other,0.46
+Spain, Europe,2018,other,7.38
+Sweden, Europe,2018,other,11.86
+Switzerland, Europe,2018,other,1.97
+Turkey, Europe,2018,other,9.98
+Ukraine, Europe,2018,other,0.22
+United Kingdom, Europe,2018,other,35.59
+Iran, Middle East,2018,other,0.02
+Iraq, Middle East,2018,other,0
+Israel, Middle East,2018,other,0.12
+Kuwait, Middle East,2018,other,0
+Oman, Middle East,2018,other,0
+Other Middle East, Middle East,2018,other,0
+Qatar, Middle East,2018,other,0.11
+Saudi Arabia, Middle East,2018,other,0
+United Arab Emirates, Middle East,2018,other,0.01
+Canada, North America,2018,other,9.59
+Mexico, North America,2018,other,6.48
+US, North America,2018,other,83.68
+Argentina, S. & Cent. America,2018,other,2.3
+Brazil, S. & Cent. America,2018,other,52.89
+Chile, S. & Cent. America,2018,other,6.74
+Colombia, S. & Cent. America,2018,other,2.09
+Ecuador, S. & Cent. America,2018,other,0.43
+Other S. & Cent. America, S. & Cent. America,2018,other,12.91
+Peru, S. & Cent. America,2018,other,0.67
+Trinidad & Tobago, S. & Cent. America,2018,other,0
+Venezuela, S. & Cent. America,2018,other,0

@@ -1,0 +1,2263 @@
+country,year,gas_proved_reserves,region
+Algeria,1980,3.58,Africa
+Algeria,1981,3.54,Africa
+Algeria,1982,3.48,Africa
+Algeria,1983,3.4,Africa
+Algeria,1984,3.31,Africa
+Algeria,1985,3.22,Africa
+Algeria,1986,3.14,Africa
+Algeria,1987,3.04,Africa
+Algeria,1988,3.11,Africa
+Algeria,1989,3.13,Africa
+Algeria,1990,3.18,Africa
+Algeria,1991,3.49,Africa
+Algeria,1992,3.51,Africa
+Algeria,1993,3.56,Africa
+Algeria,1994,2.85,Africa
+Algeria,1995,3.55,Africa
+Algeria,1996,3.56,Africa
+Algeria,1997,3.92,Africa
+Algeria,1998,3.92,Africa
+Algeria,1999,4.35,Africa
+Algeria,2000,4.35,Africa
+Algeria,2001,4.35,Africa
+Algeria,2002,4.35,Africa
+Algeria,2003,4.37,Africa
+Algeria,2004,4.37,Africa
+Algeria,2005,4.34,Africa
+Algeria,2006,4.34,Africa
+Algeria,2007,4.34,Africa
+Algeria,2008,4.34,Africa
+Algeria,2009,4.34,Africa
+Algeria,2010,4.34,Africa
+Algeria,2011,4.34,Africa
+Algeria,2012,4.34,Africa
+Algeria,2013,4.34,Africa
+Algeria,2014,4.34,Africa
+Algeria,2015,4.34,Africa
+Algeria,2016,4.34,Africa
+Algeria,2017,4.34,Africa
+Algeria,2018,4.34,Africa
+Egypt,1980,0.08,Africa
+Egypt,1981,0.08,Africa
+Egypt,1982,0.2,Africa
+Egypt,1983,0.19,Africa
+Egypt,1984,0.23,Africa
+Egypt,1985,0.25,Africa
+Egypt,1986,0.28,Africa
+Egypt,1987,0.3,Africa
+Egypt,1988,0.32,Africa
+Egypt,1989,0.34,Africa
+Egypt,1990,0.36,Africa
+Egypt,1991,0.38,Africa
+Egypt,1992,0.42,Africa
+Egypt,1993,0.57,Africa
+Egypt,1994,0.61,Africa
+Egypt,1995,0.62,Africa
+Egypt,1996,0.82,Africa
+Egypt,1997,0.89,Africa
+Egypt,1998,0.98,Africa
+Egypt,1999,1.18,Africa
+Egypt,2000,1.38,Africa
+Egypt,2001,1.5,Africa
+Egypt,2002,1.59,Africa
+Egypt,2003,1.66,Africa
+Egypt,2004,1.8,Africa
+Egypt,2005,1.82,Africa
+Egypt,2006,1.91,Africa
+Egypt,2007,1.99,Africa
+Egypt,2008,2.07,Africa
+Egypt,2009,2.11,Africa
+Egypt,2010,2.13,Africa
+Egypt,2011,2.11,Africa
+Egypt,2012,1.96,Africa
+Egypt,2013,1.78,Africa
+Egypt,2014,2.1,Africa
+Egypt,2015,2.01,Africa
+Egypt,2016,2.14,Africa
+Egypt,2017,2.14,Africa
+Egypt,2018,2.14,Africa
+Libya,1980,0.65,Africa
+Libya,1981,0.63,Africa
+Libya,1982,0.62,Africa
+Libya,1983,0.61,Africa
+Libya,1984,0.6,Africa
+Libya,1985,0.59,Africa
+Libya,1986,0.69,Africa
+Libya,1987,0.69,Africa
+Libya,1988,0.79,Africa
+Libya,1989,1.16,Africa
+Libya,1990,1.15,Africa
+Libya,1991,1.24,Africa
+Libya,1992,1.23,Africa
+Libya,1993,1.22,Africa
+Libya,1994,1.24,Africa
+Libya,1995,1.25,Africa
+Libya,1996,1.25,Africa
+Libya,1997,1.25,Africa
+Libya,1998,1.25,Africa
+Libya,1999,1.25,Africa
+Libya,2000,1.25,Africa
+Libya,2001,1.25,Africa
+Libya,2002,1.43,Africa
+Libya,2003,1.42,Africa
+Libya,2004,1.42,Africa
+Libya,2005,1.25,Africa
+Libya,2006,1.35,Africa
+Libya,2007,1.46,Africa
+Libya,2008,1.46,Africa
+Libya,2009,1.47,Africa
+Libya,2010,1.42,Africa
+Libya,2011,1.47,Africa
+Libya,2012,1.47,Africa
+Libya,2013,1.43,Africa
+Libya,2014,1.43,Africa
+Libya,2015,1.43,Africa
+Libya,2016,1.43,Africa
+Libya,2017,1.43,Africa
+Libya,2018,1.43,Africa
+Nigeria,1980,1.1,Africa
+Nigeria,1981,1.09,Africa
+Nigeria,1982,1.32,Africa
+Nigeria,1983,1.3,Africa
+Nigeria,1984,1.29,Africa
+Nigeria,1985,1.27,Africa
+Nigeria,1986,2.28,Africa
+Nigeria,1987,2.29,Africa
+Nigeria,1988,2.35,Africa
+Nigeria,1989,2.69,Africa
+Nigeria,1990,2.7,Africa
+Nigeria,1991,3.23,Africa
+Nigeria,1992,3.53,Africa
+Nigeria,1993,3.5,Africa
+Nigeria,1994,3.28,Africa
+Nigeria,1995,3.3,Africa
+Nigeria,1996,3.3,Africa
+Nigeria,1997,3.31,Africa
+Nigeria,1998,3.34,Africa
+Nigeria,1999,3.34,Africa
+Nigeria,2000,3.9,Africa
+Nigeria,2001,4.4,Africa
+Nigeria,2002,4.75,Africa
+Nigeria,2003,4.8,Africa
+Nigeria,2004,4.97,Africa
+Nigeria,2005,4.89,Africa
+Nigeria,2006,4.95,Africa
+Nigeria,2007,5.03,Africa
+Nigeria,2008,5.03,Africa
+Nigeria,2009,5.03,Africa
+Nigeria,2010,4.92,Africa
+Nigeria,2011,4.92,Africa
+Nigeria,2012,4.86,Africa
+Nigeria,2013,4.85,Africa
+Nigeria,2014,5.06,Africa
+Nigeria,2015,5.02,Africa
+Nigeria,2016,5.2,Africa
+Nigeria,2017,5.35,Africa
+Nigeria,2018,5.35,Africa
+Other Africa,1980,0.33,Africa
+Other Africa,1981,0.33,Africa
+Other Africa,1982,0.42,Africa
+Other Africa,1983,0.53,Africa
+Other Africa,1984,0.54,Africa
+Other Africa,1985,0.58,Africa
+Other Africa,1986,0.7,Africa
+Other Africa,1987,0.77,Africa
+Other Africa,1988,0.79,Africa
+Other Africa,1989,0.8,Africa
+Other Africa,1990,0.8,Africa
+Other Africa,1991,0.76,Africa
+Other Africa,1992,0.77,Africa
+Other Africa,1993,0.73,Africa
+Other Africa,1994,0.76,Africa
+Other Africa,1995,0.79,Africa
+Other Africa,1996,0.81,Africa
+Other Africa,1997,0.8,Africa
+Other Africa,1998,0.82,Africa
+Other Africa,1999,0.84,Africa
+Other Africa,2000,1.05,Africa
+Other Africa,2001,1.07,Africa
+Other Africa,2002,1.04,Africa
+Other Africa,2003,1,Africa
+Other Africa,2004,1.02,Africa
+Other Africa,2005,1.15,Africa
+Other Africa,2006,1.15,Africa
+Other Africa,2007,1.16,Africa
+Other Africa,2008,1.13,Africa
+Other Africa,2009,1.18,Africa
+Other Africa,2010,1.18,Africa
+Other Africa,2011,1.2,Africa
+Other Africa,2012,1.19,Africa
+Other Africa,2013,1.14,Africa
+Other Africa,2014,1.11,Africa
+Other Africa,2015,1.07,Africa
+Other Africa,2016,1.2,Africa
+Other Africa,2017,1.18,Africa
+Other Africa,2018,1.18,Africa
+Australia,1980,0.14,Asia Pacific
+Australia,1981,0.36,Asia Pacific
+Australia,1982,0.5,Asia Pacific
+Australia,1983,0.49,Asia Pacific
+Australia,1984,0.54,Asia Pacific
+Australia,1985,0.55,Asia Pacific
+Australia,1986,0.7,Asia Pacific
+Australia,1987,0.83,Asia Pacific
+Australia,1988,0.81,Asia Pacific
+Australia,1989,0.74,Asia Pacific
+Australia,1990,0.72,Asia Pacific
+Australia,1991,0.74,Asia Pacific
+Australia,1992,0.78,Asia Pacific
+Australia,1993,0.77,Asia Pacific
+Australia,1994,1.01,Asia Pacific
+Australia,1995,0.99,Asia Pacific
+Australia,1996,1.06,Asia Pacific
+Australia,1997,1.17,Asia Pacific
+Australia,1998,1.55,Asia Pacific
+Australia,1999,1.55,Asia Pacific
+Australia,2000,1.72,Asia Pacific
+Australia,2001,2.08,Asia Pacific
+Australia,2002,1.97,Asia Pacific
+Australia,2003,1.86,Asia Pacific
+Australia,2004,1.81,Asia Pacific
+Australia,2005,1.84,Asia Pacific
+Australia,2006,1.85,Asia Pacific
+Australia,2007,1.79,Asia Pacific
+Australia,2008,2.74,Asia Pacific
+Australia,2009,2.75,Asia Pacific
+Australia,2010,2.86,Asia Pacific
+Australia,2011,2.81,Asia Pacific
+Australia,2012,2.82,Asia Pacific
+Australia,2013,2.82,Asia Pacific
+Australia,2014,2.39,Asia Pacific
+Australia,2015,2.39,Asia Pacific
+Australia,2016,2.39,Asia Pacific
+Australia,2017,2.39,Asia Pacific
+Australia,2018,2.39,Asia Pacific
+Bangladesh,1980,0.28,Asia Pacific
+Bangladesh,1981,0.31,Asia Pacific
+Bangladesh,1982,0.33,Asia Pacific
+Bangladesh,1983,0.3,Asia Pacific
+Bangladesh,1984,0.34,Asia Pacific
+Bangladesh,1985,0.34,Asia Pacific
+Bangladesh,1986,0.34,Asia Pacific
+Bangladesh,1987,0.34,Asia Pacific
+Bangladesh,1988,0.34,Asia Pacific
+Bangladesh,1989,0.7,Asia Pacific
+Bangladesh,1990,0.7,Asia Pacific
+Bangladesh,1991,0.69,Asia Pacific
+Bangladesh,1992,0.29,Asia Pacific
+Bangladesh,1993,0.29,Asia Pacific
+Bangladesh,1994,0.29,Asia Pacific
+Bangladesh,1995,0.26,Asia Pacific
+Bangladesh,1996,0.29,Asia Pacific
+Bangladesh,1997,0.29,Asia Pacific
+Bangladesh,1998,0.29,Asia Pacific
+Bangladesh,1999,0.31,Asia Pacific
+Bangladesh,2000,0.29,Asia Pacific
+Bangladesh,2001,0.33,Asia Pacific
+Bangladesh,2002,0.33,Asia Pacific
+Bangladesh,2003,0.42,Asia Pacific
+Bangladesh,2004,0.41,Asia Pacific
+Bangladesh,2005,0.39,Asia Pacific
+Bangladesh,2006,0.37,Asia Pacific
+Bangladesh,2007,0.36,Asia Pacific
+Bangladesh,2008,0.33,Asia Pacific
+Bangladesh,2009,0.35,Asia Pacific
+Bangladesh,2010,0.34,Asia Pacific
+Bangladesh,2011,0.34,Asia Pacific
+Bangladesh,2012,0.27,Asia Pacific
+Bangladesh,2013,0.24,Asia Pacific
+Bangladesh,2014,0.22,Asia Pacific
+Bangladesh,2015,0.2,Asia Pacific
+Bangladesh,2016,0.18,Asia Pacific
+Bangladesh,2017,0.16,Asia Pacific
+Bangladesh,2018,0.16,Asia Pacific
+Brunei,1980,0.2,Asia Pacific
+Brunei,1981,0.21,Asia Pacific
+Brunei,1982,0.22,Asia Pacific
+Brunei,1983,0.21,Asia Pacific
+Brunei,1984,0.23,Asia Pacific
+Brunei,1985,0.23,Asia Pacific
+Brunei,1986,0.33,Asia Pacific
+Brunei,1987,0.32,Asia Pacific
+Brunei,1988,0.31,Asia Pacific
+Brunei,1989,0.31,Asia Pacific
+Brunei,1990,0.32,Asia Pacific
+Brunei,1991,0.39,Asia Pacific
+Brunei,1992,0.39,Asia Pacific
+Brunei,1993,0.39,Asia Pacific
+Brunei,1994,0.39,Asia Pacific
+Brunei,1995,0.39,Asia Pacific
+Brunei,1996,0.39,Asia Pacific
+Brunei,1997,0.38,Asia Pacific
+Brunei,1998,0.37,Asia Pacific
+Brunei,1999,0.36,Asia Pacific
+Brunei,2000,0.36,Asia Pacific
+Brunei,2001,0.35,Asia Pacific
+Brunei,2002,0.34,Asia Pacific
+Brunei,2003,0.34,Asia Pacific
+Brunei,2004,0.33,Asia Pacific
+Brunei,2005,0.33,Asia Pacific
+Brunei,2006,0.32,Asia Pacific
+Brunei,2007,0.33,Asia Pacific
+Brunei,2008,0.31,Asia Pacific
+Brunei,2009,0.3,Asia Pacific
+Brunei,2010,0.29,Asia Pacific
+Brunei,2011,0.28,Asia Pacific
+Brunei,2012,0.28,Asia Pacific
+Brunei,2013,0.27,Asia Pacific
+Brunei,2014,0.27,Asia Pacific
+Brunei,2015,0.27,Asia Pacific
+Brunei,2016,0.27,Asia Pacific
+Brunei,2017,0.27,Asia Pacific
+Brunei,2018,0.27,Asia Pacific
+China,1980,0.71,Asia Pacific
+China,1981,0.7,Asia Pacific
+China,1982,0.87,Asia Pacific
+China,1983,0.88,Asia Pacific
+China,1984,0.9,Asia Pacific
+China,1985,0.88,Asia Pacific
+China,1986,0.87,Asia Pacific
+China,1987,0.9,Asia Pacific
+China,1988,0.93,Asia Pacific
+China,1989,1.03,Asia Pacific
+China,1990,1.01,Asia Pacific
+China,1991,1.01,Asia Pacific
+China,1992,1.41,Asia Pacific
+China,1993,1.68,Asia Pacific
+China,1994,1.68,Asia Pacific
+China,1995,1.68,Asia Pacific
+China,1996,1.18,Asia Pacific
+China,1997,1.17,Asia Pacific
+China,1998,1.38,Asia Pacific
+China,1999,1.38,Asia Pacific
+China,2000,1.38,Asia Pacific
+China,2001,1.38,Asia Pacific
+China,2002,1.28,Asia Pacific
+China,2003,1.35,Asia Pacific
+China,2004,1.46,Asia Pacific
+China,2005,1.55,Asia Pacific
+China,2006,1.7,Asia Pacific
+China,2007,2.27,Asia Pacific
+China,2008,2.71,Asia Pacific
+China,2009,2.87,Asia Pacific
+China,2010,2.75,Asia Pacific
+China,2011,2.93,Asia Pacific
+China,2012,3.14,Asia Pacific
+China,2013,3.37,Asia Pacific
+China,2014,3.58,Asia Pacific
+China,2015,4.68,Asia Pacific
+China,2016,5.48,Asia Pacific
+China,2017,6.07,Asia Pacific
+China,2018,6.07,Asia Pacific
+India,1980,0.33,Asia Pacific
+India,1981,0.4,Asia Pacific
+India,1982,0.4,Asia Pacific
+India,1983,0.44,Asia Pacific
+India,1984,0.46,Asia Pacific
+India,1985,0.46,Asia Pacific
+India,1986,0.52,Asia Pacific
+India,1987,0.53,Asia Pacific
+India,1988,0.58,Asia Pacific
+India,1989,0.66,Asia Pacific
+India,1990,0.67,Asia Pacific
+India,1991,0.7,Asia Pacific
+India,1992,0.71,Asia Pacific
+India,1993,0.69,Asia Pacific
+India,1994,0.68,Asia Pacific
+India,1995,0.65,Asia Pacific
+India,1996,0.62,Asia Pacific
+India,1997,0.67,Asia Pacific
+India,1998,0.65,Asia Pacific
+India,1999,0.62,Asia Pacific
+India,2000,0.73,Asia Pacific
+India,2001,0.73,Asia Pacific
+India,2002,0.72,Asia Pacific
+India,2003,0.82,Asia Pacific
+India,2004,0.89,Asia Pacific
+India,2005,1.06,Asia Pacific
+India,2006,1.03,Asia Pacific
+India,2007,1.02,Asia Pacific
+India,2008,1.05,Asia Pacific
+India,2009,1.07,Asia Pacific
+India,2010,1.11,Asia Pacific
+India,2011,1.23,Asia Pacific
+India,2012,1.28,Asia Pacific
+India,2013,1.3,Asia Pacific
+India,2014,1.37,Asia Pacific
+India,2015,1.2,Asia Pacific
+India,2016,1.18,Asia Pacific
+India,2017,1.24,Asia Pacific
+India,2018,1.29,Asia Pacific
+Indonesia,1980,0.83,Asia Pacific
+Indonesia,1981,0.88,Asia Pacific
+Indonesia,1982,0.97,Asia Pacific
+Indonesia,1983,1.21,Asia Pacific
+Indonesia,1984,1.72,Asia Pacific
+Indonesia,1985,2.01,Asia Pacific
+Indonesia,1986,2.3,Asia Pacific
+Indonesia,1987,2.4,Asia Pacific
+Indonesia,1988,2.6,Asia Pacific
+Indonesia,1989,2.59,Asia Pacific
+Indonesia,1990,2.91,Asia Pacific
+Indonesia,1991,1.87,Asia Pacific
+Indonesia,1992,1.85,Asia Pacific
+Indonesia,1993,1.85,Asia Pacific
+Indonesia,1994,1.85,Asia Pacific
+Indonesia,1995,1.98,Asia Pacific
+Indonesia,1996,2.08,Asia Pacific
+Indonesia,1997,2.18,Asia Pacific
+Indonesia,1998,2.21,Asia Pacific
+Indonesia,1999,2.66,Asia Pacific
+Indonesia,2000,2.72,Asia Pacific
+Indonesia,2001,2.64,Asia Pacific
+Indonesia,2002,2.6,Asia Pacific
+Indonesia,2003,2.6,Asia Pacific
+Indonesia,2004,2.81,Asia Pacific
+Indonesia,2005,2.52,Asia Pacific
+Indonesia,2006,2.67,Asia Pacific
+Indonesia,2007,3.05,Asia Pacific
+Indonesia,2008,3.23,Asia Pacific
+Indonesia,2009,3.12,Asia Pacific
+Indonesia,2010,3.01,Asia Pacific
+Indonesia,2011,3.01,Asia Pacific
+Indonesia,2012,2.97,Asia Pacific
+Indonesia,2013,2.92,Asia Pacific
+Indonesia,2014,2.88,Asia Pacific
+Indonesia,2015,2.82,Asia Pacific
+Indonesia,2016,2.91,Asia Pacific
+Indonesia,2017,2.88,Asia Pacific
+Indonesia,2018,2.76,Asia Pacific
+Malaysia,1980,1.14,Asia Pacific
+Malaysia,1981,1.18,Asia Pacific
+Malaysia,1982,1.31,Asia Pacific
+Malaysia,1983,1.36,Asia Pacific
+Malaysia,1984,1.32,Asia Pacific
+Malaysia,1985,1.43,Asia Pacific
+Malaysia,1986,1.44,Asia Pacific
+Malaysia,1987,1.42,Asia Pacific
+Malaysia,1988,1.41,Asia Pacific
+Malaysia,1989,1.39,Asia Pacific
+Malaysia,1990,1.55,Asia Pacific
+Malaysia,1991,1.61,Asia Pacific
+Malaysia,1992,1.85,Asia Pacific
+Malaysia,1993,2.09,Asia Pacific
+Malaysia,1994,2.2,Asia Pacific
+Malaysia,1995,2.31,Asia Pacific
+Malaysia,1996,2.19,Asia Pacific
+Malaysia,1997,2.17,Asia Pacific
+Malaysia,1998,2.37,Asia Pacific
+Malaysia,1999,2.34,Asia Pacific
+Malaysia,2000,2.25,Asia Pacific
+Malaysia,2001,2.25,Asia Pacific
+Malaysia,2002,2.38,Asia Pacific
+Malaysia,2003,2.43,Asia Pacific
+Malaysia,2004,2.37,Asia Pacific
+Malaysia,2005,2.32,Asia Pacific
+Malaysia,2006,2.4,Asia Pacific
+Malaysia,2007,2.42,Asia Pacific
+Malaysia,2008,2.4,Asia Pacific
+Malaysia,2009,2.4,Asia Pacific
+Malaysia,2010,2.41,Asia Pacific
+Malaysia,2011,2.45,Asia Pacific
+Malaysia,2012,2.51,Asia Pacific
+Malaysia,2013,2.68,Asia Pacific
+Malaysia,2014,2.74,Asia Pacific
+Malaysia,2015,2.74,Asia Pacific
+Malaysia,2016,2.39,Asia Pacific
+Malaysia,2017,2.39,Asia Pacific
+Malaysia,2018,2.39,Asia Pacific
+Myanmar,1980,0.09,Asia Pacific
+Myanmar,1981,0.14,Asia Pacific
+Myanmar,1982,0.14,Asia Pacific
+Myanmar,1983,0.24,Asia Pacific
+Myanmar,1984,0.26,Asia Pacific
+Myanmar,1985,0.26,Asia Pacific
+Myanmar,1986,0.26,Asia Pacific
+Myanmar,1987,0.26,Asia Pacific
+Myanmar,1988,0.26,Asia Pacific
+Myanmar,1989,0.26,Asia Pacific
+Myanmar,1990,0.26,Asia Pacific
+Myanmar,1991,0.27,Asia Pacific
+Myanmar,1992,0.27,Asia Pacific
+Myanmar,1993,0.26,Asia Pacific
+Myanmar,1994,0.26,Asia Pacific
+Myanmar,1995,0.26,Asia Pacific
+Myanmar,1996,0.28,Asia Pacific
+Myanmar,1997,0.28,Asia Pacific
+Myanmar,1998,0.28,Asia Pacific
+Myanmar,1999,0.28,Asia Pacific
+Myanmar,2000,0.28,Asia Pacific
+Myanmar,2001,0.34,Asia Pacific
+Myanmar,2002,0.44,Asia Pacific
+Myanmar,2003,0.4,Asia Pacific
+Myanmar,2004,0.48,Asia Pacific
+Myanmar,2005,0.53,Asia Pacific
+Myanmar,2006,0.53,Asia Pacific
+Myanmar,2007,0.49,Asia Pacific
+Myanmar,2008,0.34,Asia Pacific
+Myanmar,2009,0.33,Asia Pacific
+Myanmar,2010,0.22,Asia Pacific
+Myanmar,2011,0.22,Asia Pacific
+Myanmar,2012,0.28,Asia Pacific
+Myanmar,2013,0.52,Asia Pacific
+Myanmar,2014,0.52,Asia Pacific
+Myanmar,2015,0.52,Asia Pacific
+Myanmar,2016,1.17,Asia Pacific
+Myanmar,2017,1.17,Asia Pacific
+Myanmar,2018,1.17,Asia Pacific
+Other Asia Pacific,1980,0.24,Asia Pacific
+Other Asia Pacific,1981,0.24,Asia Pacific
+Other Asia Pacific,1982,0.23,Asia Pacific
+Other Asia Pacific,1983,0.23,Asia Pacific
+Other Asia Pacific,1984,0.22,Asia Pacific
+Other Asia Pacific,1985,0.25,Asia Pacific
+Other Asia Pacific,1986,0.23,Asia Pacific
+Other Asia Pacific,1987,0.22,Asia Pacific
+Other Asia Pacific,1988,0.26,Asia Pacific
+Other Asia Pacific,1989,0.25,Asia Pacific
+Other Asia Pacific,1990,0.28,Asia Pacific
+Other Asia Pacific,1991,0.31,Asia Pacific
+Other Asia Pacific,1992,0.31,Asia Pacific
+Other Asia Pacific,1993,0.32,Asia Pacific
+Other Asia Pacific,1994,0.33,Asia Pacific
+Other Asia Pacific,1995,0.39,Asia Pacific
+Other Asia Pacific,1996,0.38,Asia Pacific
+Other Asia Pacific,1997,0.39,Asia Pacific
+Other Asia Pacific,1998,0.39,Asia Pacific
+Other Asia Pacific,1999,0.33,Asia Pacific
+Other Asia Pacific,2000,0.32,Asia Pacific
+Other Asia Pacific,2001,0.37,Asia Pacific
+Other Asia Pacific,2002,0.37,Asia Pacific
+Other Asia Pacific,2003,0.41,Asia Pacific
+Other Asia Pacific,2004,0.41,Asia Pacific
+Other Asia Pacific,2005,0.4,Asia Pacific
+Other Asia Pacific,2006,0.4,Asia Pacific
+Other Asia Pacific,2007,0.33,Asia Pacific
+Other Asia Pacific,2008,0.32,Asia Pacific
+Other Asia Pacific,2009,0.29,Asia Pacific
+Other Asia Pacific,2010,0.28,Asia Pacific
+Other Asia Pacific,2011,0.28,Asia Pacific
+Other Asia Pacific,2012,0.26,Asia Pacific
+Other Asia Pacific,2013,0.29,Asia Pacific
+Other Asia Pacific,2014,0.28,Asia Pacific
+Other Asia Pacific,2015,0.26,Asia Pacific
+Other Asia Pacific,2016,0.26,Asia Pacific
+Other Asia Pacific,2017,0.25,Asia Pacific
+Other Asia Pacific,2018,0.25,Asia Pacific
+Pakistan,1980,0.29,Asia Pacific
+Pakistan,1981,0.32,Asia Pacific
+Pakistan,1982,0.36,Asia Pacific
+Pakistan,1983,0.3,Asia Pacific
+Pakistan,1984,0.3,Asia Pacific
+Pakistan,1985,0.3,Asia Pacific
+Pakistan,1986,0.36,Asia Pacific
+Pakistan,1987,0.43,Asia Pacific
+Pakistan,1988,0.34,Asia Pacific
+Pakistan,1989,0.35,Asia Pacific
+Pakistan,1990,0.38,Asia Pacific
+Pakistan,1991,0.44,Asia Pacific
+Pakistan,1992,0.48,Asia Pacific
+Pakistan,1993,0.45,Asia Pacific
+Pakistan,1994,0.45,Asia Pacific
+Pakistan,1995,0.41,Asia Pacific
+Pakistan,1996,0.39,Asia Pacific
+Pakistan,1997,0.36,Asia Pacific
+Pakistan,1998,0.4,Asia Pacific
+Pakistan,1999,0.4,Asia Pacific
+Pakistan,2000,0.5,Asia Pacific
+Pakistan,2001,0.52,Asia Pacific
+Pakistan,2002,0.55,Asia Pacific
+Pakistan,2003,0.54,Asia Pacific
+Pakistan,2004,0.58,Asia Pacific
+Pakistan,2005,0.68,Asia Pacific
+Pakistan,2006,0.68,Asia Pacific
+Pakistan,2007,0.67,Asia Pacific
+Pakistan,2008,0.61,Asia Pacific
+Pakistan,2009,0.58,Asia Pacific
+Pakistan,2010,0.55,Asia Pacific
+Pakistan,2011,0.55,Asia Pacific
+Pakistan,2012,0.54,Asia Pacific
+Pakistan,2013,0.49,Asia Pacific
+Pakistan,2014,0.45,Asia Pacific
+Pakistan,2015,0.38,Asia Pacific
+Pakistan,2016,0.36,Asia Pacific
+Pakistan,2017,0.38,Asia Pacific
+Pakistan,2018,0.37,Asia Pacific
+Papua New Guinea,1980,0,Asia Pacific
+Papua New Guinea,1981,0,Asia Pacific
+Papua New Guinea,1982,0,Asia Pacific
+Papua New Guinea,1983,0,Asia Pacific
+Papua New Guinea,1984,0,Asia Pacific
+Papua New Guinea,1985,0,Asia Pacific
+Papua New Guinea,1986,0,Asia Pacific
+Papua New Guinea,1987,0,Asia Pacific
+Papua New Guinea,1988,0,Asia Pacific
+Papua New Guinea,1989,0,Asia Pacific
+Papua New Guinea,1990,0,Asia Pacific
+Papua New Guinea,1991,0,Asia Pacific
+Papua New Guinea,1992,0,Asia Pacific
+Papua New Guinea,1993,0,Asia Pacific
+Papua New Guinea,1994,0,Asia Pacific
+Papua New Guinea,1995,0,Asia Pacific
+Papua New Guinea,1996,0,Asia Pacific
+Papua New Guinea,1997,0,Asia Pacific
+Papua New Guinea,1998,0,Asia Pacific
+Papua New Guinea,1999,0,Asia Pacific
+Papua New Guinea,2000,0,Asia Pacific
+Papua New Guinea,2001,0,Asia Pacific
+Papua New Guinea,2002,0,Asia Pacific
+Papua New Guinea,2003,0,Asia Pacific
+Papua New Guinea,2004,0,Asia Pacific
+Papua New Guinea,2005,0,Asia Pacific
+Papua New Guinea,2006,0,Asia Pacific
+Papua New Guinea,2007,0,Asia Pacific
+Papua New Guinea,2008,0,Asia Pacific
+Papua New Guinea,2009,0.15,Asia Pacific
+Papua New Guinea,2010,0.15,Asia Pacific
+Papua New Guinea,2011,0.15,Asia Pacific
+Papua New Guinea,2012,0.15,Asia Pacific
+Papua New Guinea,2013,0.15,Asia Pacific
+Papua New Guinea,2014,0.15,Asia Pacific
+Papua New Guinea,2015,0.14,Asia Pacific
+Papua New Guinea,2016,0.2,Asia Pacific
+Papua New Guinea,2017,0.19,Asia Pacific
+Papua New Guinea,2018,0.18,Asia Pacific
+Thailand,1980,0.3,Asia Pacific
+Thailand,1981,0.42,Asia Pacific
+Thailand,1982,0.36,Asia Pacific
+Thailand,1983,0.17,Asia Pacific
+Thailand,1984,0.22,Asia Pacific
+Thailand,1985,0.23,Asia Pacific
+Thailand,1986,0.21,Asia Pacific
+Thailand,1987,0.19,Asia Pacific
+Thailand,1988,0.2,Asia Pacific
+Thailand,1989,0.24,Asia Pacific
+Thailand,1990,0.23,Asia Pacific
+Thailand,1991,0.25,Asia Pacific
+Thailand,1992,0.24,Asia Pacific
+Thailand,1993,0.19,Asia Pacific
+Thailand,1994,0.18,Asia Pacific
+Thailand,1995,0.18,Asia Pacific
+Thailand,1996,0.2,Asia Pacific
+Thailand,1997,0.21,Asia Pacific
+Thailand,1998,0.43,Asia Pacific
+Thailand,1999,0.36,Asia Pacific
+Thailand,2000,0.37,Asia Pacific
+Thailand,2001,0.39,Asia Pacific
+Thailand,2002,0.46,Asia Pacific
+Thailand,2003,0.43,Asia Pacific
+Thailand,2004,0.37,Asia Pacific
+Thailand,2005,0.31,Asia Pacific
+Thailand,2006,0.34,Asia Pacific
+Thailand,2007,0.33,Asia Pacific
+Thailand,2008,0.35,Asia Pacific
+Thailand,2009,0.32,Asia Pacific
+Thailand,2010,0.31,Asia Pacific
+Thailand,2011,0.29,Asia Pacific
+Thailand,2012,0.26,Asia Pacific
+Thailand,2013,0.25,Asia Pacific
+Thailand,2014,0.23,Asia Pacific
+Thailand,2015,0.21,Asia Pacific
+Thailand,2016,0.2,Asia Pacific
+Thailand,2017,0.19,Asia Pacific
+Thailand,2018,0.19,Asia Pacific
+Vietnam,1980,0,Asia Pacific
+Vietnam,1981,0,Asia Pacific
+Vietnam,1982,0,Asia Pacific
+Vietnam,1983,0,Asia Pacific
+Vietnam,1984,0,Asia Pacific
+Vietnam,1985,0,Asia Pacific
+Vietnam,1986,0,Asia Pacific
+Vietnam,1987,0,Asia Pacific
+Vietnam,1988,0,Asia Pacific
+Vietnam,1989,0,Asia Pacific
+Vietnam,1990,0.01,Asia Pacific
+Vietnam,1991,0.01,Asia Pacific
+Vietnam,1992,0.1,Asia Pacific
+Vietnam,1993,0.1,Asia Pacific
+Vietnam,1994,0.13,Asia Pacific
+Vietnam,1995,0.14,Asia Pacific
+Vietnam,1996,0.17,Asia Pacific
+Vietnam,1997,0.16,Asia Pacific
+Vietnam,1998,0.16,Asia Pacific
+Vietnam,1999,0.16,Asia Pacific
+Vietnam,2000,0.16,Asia Pacific
+Vietnam,2001,0.19,Asia Pacific
+Vietnam,2002,0.22,Asia Pacific
+Vietnam,2003,0.21,Asia Pacific
+Vietnam,2004,0.21,Asia Pacific
+Vietnam,2005,0.21,Asia Pacific
+Vietnam,2006,0.21,Asia Pacific
+Vietnam,2007,0.5,Asia Pacific
+Vietnam,2008,0.58,Asia Pacific
+Vietnam,2009,0.71,Asia Pacific
+Vietnam,2010,0.65,Asia Pacific
+Vietnam,2011,0.65,Asia Pacific
+Vietnam,2012,0.65,Asia Pacific
+Vietnam,2013,0.65,Asia Pacific
+Vietnam,2014,0.65,Asia Pacific
+Vietnam,2015,0.65,Asia Pacific
+Vietnam,2016,0.65,Asia Pacific
+Vietnam,2017,0.65,Asia Pacific
+Vietnam,2018,0.65,Asia Pacific
+Azerbaijan,1980,,CIS
+Azerbaijan,1981,,CIS
+Azerbaijan,1982,,CIS
+Azerbaijan,1983,,CIS
+Azerbaijan,1984,,CIS
+Azerbaijan,1985,,CIS
+Azerbaijan,1986,,CIS
+Azerbaijan,1987,,CIS
+Azerbaijan,1988,,CIS
+Azerbaijan,1989,,CIS
+Azerbaijan,1990,,CIS
+Azerbaijan,1991,,CIS
+Azerbaijan,1992,,CIS
+Azerbaijan,1993,,CIS
+Azerbaijan,1994,,CIS
+Azerbaijan,1995,,CIS
+Azerbaijan,1996,,CIS
+Azerbaijan,1997,0.66,CIS
+Azerbaijan,1998,0.66,CIS
+Azerbaijan,1999,0.99,CIS
+Azerbaijan,2000,0.99,CIS
+Azerbaijan,2001,0.99,CIS
+Azerbaijan,2002,0.99,CIS
+Azerbaijan,2003,0.99,CIS
+Azerbaijan,2004,0.99,CIS
+Azerbaijan,2005,0.99,CIS
+Azerbaijan,2006,0.99,CIS
+Azerbaijan,2007,1,CIS
+Azerbaijan,2008,1.06,CIS
+Azerbaijan,2009,1.02,CIS
+Azerbaijan,2010,1.02,CIS
+Azerbaijan,2011,1.02,CIS
+Azerbaijan,2012,1.02,CIS
+Azerbaijan,2013,1.01,CIS
+Azerbaijan,2014,1.34,CIS
+Azerbaijan,2015,1.32,CIS
+Azerbaijan,2016,1.32,CIS
+Azerbaijan,2017,1.32,CIS
+Azerbaijan,2018,2.13,CIS
+Kazakhstan,1980,,CIS
+Kazakhstan,1981,,CIS
+Kazakhstan,1982,,CIS
+Kazakhstan,1983,,CIS
+Kazakhstan,1984,,CIS
+Kazakhstan,1985,,CIS
+Kazakhstan,1986,,CIS
+Kazakhstan,1987,,CIS
+Kazakhstan,1988,,CIS
+Kazakhstan,1989,,CIS
+Kazakhstan,1990,,CIS
+Kazakhstan,1991,,CIS
+Kazakhstan,1992,,CIS
+Kazakhstan,1993,,CIS
+Kazakhstan,1994,,CIS
+Kazakhstan,1995,,CIS
+Kazakhstan,1996,,CIS
+Kazakhstan,1997,1.34,CIS
+Kazakhstan,1998,1.34,CIS
+Kazakhstan,1999,1.32,CIS
+Kazakhstan,2000,1.32,CIS
+Kazakhstan,2001,1.32,CIS
+Kazakhstan,2002,1.32,CIS
+Kazakhstan,2003,1.36,CIS
+Kazakhstan,2004,1.36,CIS
+Kazakhstan,2005,1.36,CIS
+Kazakhstan,2006,1.36,CIS
+Kazakhstan,2007,1.36,CIS
+Kazakhstan,2008,1.29,CIS
+Kazakhstan,2009,1.28,CIS
+Kazakhstan,2010,1.29,CIS
+Kazakhstan,2011,1.35,CIS
+Kazakhstan,2012,0.93,CIS
+Kazakhstan,2013,1.06,CIS
+Kazakhstan,2014,1.06,CIS
+Kazakhstan,2015,1.09,CIS
+Kazakhstan,2016,1.02,CIS
+Kazakhstan,2017,0.99,CIS
+Kazakhstan,2018,0.99,CIS
+Other CIS,1980,0,CIS
+Other CIS,1981,0,CIS
+Other CIS,1982,0,CIS
+Other CIS,1983,0,CIS
+Other CIS,1984,0,CIS
+Other CIS,1985,0,CIS
+Other CIS,1986,0,CIS
+Other CIS,1987,0,CIS
+Other CIS,1988,0,CIS
+Other CIS,1989,0,CIS
+Other CIS,1990,0,CIS
+Other CIS,1991,0,CIS
+Other CIS,1992,0,CIS
+Other CIS,1993,0,CIS
+Other CIS,1994,0,CIS
+Other CIS,1995,0,CIS
+Other CIS,1996,0,CIS
+Other CIS,1997,0.04,CIS
+Other CIS,1998,0.04,CIS
+Other CIS,1999,0.04,CIS
+Other CIS,2000,0.04,CIS
+Other CIS,2001,0.04,CIS
+Other CIS,2002,0.04,CIS
+Other CIS,2003,0.04,CIS
+Other CIS,2004,0.04,CIS
+Other CIS,2005,0.04,CIS
+Other CIS,2006,0.04,CIS
+Other CIS,2007,0.04,CIS
+Other CIS,2008,0.04,CIS
+Other CIS,2009,0.04,CIS
+Other CIS,2010,0.04,CIS
+Other CIS,2011,0.04,CIS
+Other CIS,2012,0.04,CIS
+Other CIS,2013,0.04,CIS
+Other CIS,2014,0.04,CIS
+Other CIS,2015,0.04,CIS
+Other CIS,2016,0.04,CIS
+Other CIS,2017,0.04,CIS
+Other CIS,2018,0.04,CIS
+Russian Federation,1980,,CIS
+Russian Federation,1981,,CIS
+Russian Federation,1982,,CIS
+Russian Federation,1983,,CIS
+Russian Federation,1984,,CIS
+Russian Federation,1985,,CIS
+Russian Federation,1986,,CIS
+Russian Federation,1987,,CIS
+Russian Federation,1988,,CIS
+Russian Federation,1989,,CIS
+Russian Federation,1990,,CIS
+Russian Federation,1991,33.91,CIS
+Russian Federation,1992,34.73,CIS
+Russian Federation,1993,34.73,CIS
+Russian Federation,1994,34.51,CIS
+Russian Federation,1995,33.7,CIS
+Russian Federation,1996,33.43,CIS
+Russian Federation,1997,33.57,CIS
+Russian Federation,1998,33.36,CIS
+Russian Federation,1999,32.95,CIS
+Russian Federation,2000,33.16,CIS
+Russian Federation,2001,33.36,CIS
+Russian Federation,2002,33.91,CIS
+Russian Federation,2003,33.77,CIS
+Russian Federation,2004,33.64,CIS
+Russian Federation,2005,33.77,CIS
+Russian Federation,2006,33.77,CIS
+Russian Federation,2007,33.91,CIS
+Russian Federation,2008,33.98,CIS
+Russian Federation,2009,34.05,CIS
+Russian Federation,2010,34.12,CIS
+Russian Federation,2011,34.46,CIS
+Russian Federation,2012,34.64,CIS
+Russian Federation,2013,34.94,CIS
+Russian Federation,2014,35.05,CIS
+Russian Federation,2015,34.96,CIS
+Russian Federation,2016,34.83,CIS
+Russian Federation,2017,38.94,CIS
+Russian Federation,2018,38.94,CIS
+Turkmenistan,1980,,CIS
+Turkmenistan,1981,,CIS
+Turkmenistan,1982,,CIS
+Turkmenistan,1983,,CIS
+Turkmenistan,1984,,CIS
+Turkmenistan,1985,,CIS
+Turkmenistan,1986,,CIS
+Turkmenistan,1987,,CIS
+Turkmenistan,1988,,CIS
+Turkmenistan,1989,,CIS
+Turkmenistan,1990,,CIS
+Turkmenistan,1991,,CIS
+Turkmenistan,1992,,CIS
+Turkmenistan,1993,,CIS
+Turkmenistan,1994,,CIS
+Turkmenistan,1995,,CIS
+Turkmenistan,1996,,CIS
+Turkmenistan,1997,2.64,CIS
+Turkmenistan,1998,2.52,CIS
+Turkmenistan,1999,2.6,CIS
+Turkmenistan,2000,2.6,CIS
+Turkmenistan,2001,2.6,CIS
+Turkmenistan,2002,2.6,CIS
+Turkmenistan,2003,2.6,CIS
+Turkmenistan,2004,2.6,CIS
+Turkmenistan,2005,2.6,CIS
+Turkmenistan,2006,2.6,CIS
+Turkmenistan,2007,2.6,CIS
+Turkmenistan,2008,8.18,CIS
+Turkmenistan,2009,8.18,CIS
+Turkmenistan,2010,11.33,CIS
+Turkmenistan,2011,19.49,CIS
+Turkmenistan,2012,19.49,CIS
+Turkmenistan,2013,19.49,CIS
+Turkmenistan,2014,19.49,CIS
+Turkmenistan,2015,19.49,CIS
+Turkmenistan,2016,19.49,CIS
+Turkmenistan,2017,19.49,CIS
+Turkmenistan,2018,19.49,CIS
+USSR,1980,20.47,CIS
+USSR,1981,21.75,CIS
+USSR,1982,22.39,CIS
+USSR,1983,23.03,CIS
+USSR,1984,23.99,CIS
+USSR,1985,25.59,CIS
+USSR,1986,26.23,CIS
+USSR,1987,26.67,CIS
+USSR,1988,27.19,CIS
+USSR,1989,33.26,CIS
+USSR,1990,34.88,CIS
+USSR,1991,2.42,CIS
+USSR,1992,2.39,CIS
+USSR,1993,3.41,CIS
+USSR,1994,3.85,CIS
+USSR,1995,4.13,CIS
+USSR,1996,3.94,CIS
+USSR,1997,,CIS
+USSR,1998,,CIS
+USSR,1999,,CIS
+USSR,2000,,CIS
+USSR,2001,,CIS
+USSR,2002,,CIS
+USSR,2003,,CIS
+USSR,2004,,CIS
+USSR,2005,,CIS
+USSR,2006,,CIS
+USSR,2007,,CIS
+USSR,2008,,CIS
+USSR,2009,,CIS
+USSR,2010,,CIS
+USSR,2011,,CIS
+USSR,2012,,CIS
+USSR,2013,,CIS
+USSR,2014,,CIS
+USSR,2015,,CIS
+USSR,2016,,CIS
+USSR,2017,,CIS
+USSR,2018,,CIS
+Uzbekistan,1980,,CIS
+Uzbekistan,1981,,CIS
+Uzbekistan,1982,,CIS
+Uzbekistan,1983,,CIS
+Uzbekistan,1984,,CIS
+Uzbekistan,1985,,CIS
+Uzbekistan,1986,,CIS
+Uzbekistan,1987,,CIS
+Uzbekistan,1988,,CIS
+Uzbekistan,1989,,CIS
+Uzbekistan,1990,,CIS
+Uzbekistan,1991,,CIS
+Uzbekistan,1992,,CIS
+Uzbekistan,1993,,CIS
+Uzbekistan,1994,,CIS
+Uzbekistan,1995,,CIS
+Uzbekistan,1996,,CIS
+Uzbekistan,1997,1.24,CIS
+Uzbekistan,1998,1.24,CIS
+Uzbekistan,1999,1.24,CIS
+Uzbekistan,2000,1.31,CIS
+Uzbekistan,2001,1.31,CIS
+Uzbekistan,2002,1.31,CIS
+Uzbekistan,2003,1.32,CIS
+Uzbekistan,2004,1.32,CIS
+Uzbekistan,2005,1.31,CIS
+Uzbekistan,2006,1.32,CIS
+Uzbekistan,2007,1.32,CIS
+Uzbekistan,2008,1.32,CIS
+Uzbekistan,2009,1.27,CIS
+Uzbekistan,2010,1.25,CIS
+Uzbekistan,2011,1.25,CIS
+Uzbekistan,2012,1.25,CIS
+Uzbekistan,2013,1.21,CIS
+Uzbekistan,2014,1.21,CIS
+Uzbekistan,2015,1.21,CIS
+Uzbekistan,2016,1.21,CIS
+Uzbekistan,2017,1.21,CIS
+Uzbekistan,2018,1.21,CIS
+Denmark,1980,0.09,Europe
+Denmark,1981,0.09,Europe
+Denmark,1982,0.09,Europe
+Denmark,1983,0.1,Europe
+Denmark,1984,0.11,Europe
+Denmark,1985,0.09,Europe
+Denmark,1986,0.07,Europe
+Denmark,1987,0.07,Europe
+Denmark,1988,0.08,Europe
+Denmark,1989,0.11,Europe
+Denmark,1990,0.1,Europe
+Denmark,1991,0.11,Europe
+Denmark,1992,0.13,Europe
+Denmark,1993,0.13,Europe
+Denmark,1994,0.13,Europe
+Denmark,1995,0.13,Europe
+Denmark,1996,0.12,Europe
+Denmark,1997,0.12,Europe
+Denmark,1998,0.11,Europe
+Denmark,1999,0.15,Europe
+Denmark,2000,0.15,Europe
+Denmark,2001,0.15,Europe
+Denmark,2002,0.14,Europe
+Denmark,2003,0.14,Europe
+Denmark,2004,0.14,Europe
+Denmark,2005,0.13,Europe
+Denmark,2006,0.12,Europe
+Denmark,2007,0.07,Europe
+Denmark,2008,0.06,Europe
+Denmark,2009,0.07,Europe
+Denmark,2010,0.05,Europe
+Denmark,2011,0.04,Europe
+Denmark,2012,0.04,Europe
+Denmark,2013,0.04,Europe
+Denmark,2014,0.04,Europe
+Denmark,2015,0.02,Europe
+Denmark,2016,0.01,Europe
+Denmark,2017,0.03,Europe
+Denmark,2018,0.03,Europe
+Germany,1980,0.23,Europe
+Germany,1981,0.22,Europe
+Germany,1982,0.21,Europe
+Germany,1983,0.28,Europe
+Germany,1984,0.27,Europe
+Germany,1985,0.26,Europe
+Germany,1986,0.34,Europe
+Germany,1987,0.33,Europe
+Germany,1988,0.32,Europe
+Germany,1989,0.31,Europe
+Germany,1990,0.19,Europe
+Germany,1991,0.17,Europe
+Germany,1992,0.17,Europe
+Germany,1993,0.17,Europe
+Germany,1994,0.2,Europe
+Germany,1995,0.21,Europe
+Germany,1996,0.22,Europe
+Germany,1997,0.2,Europe
+Germany,1998,0.2,Europe
+Germany,1999,0.24,Europe
+Germany,2000,0.23,Europe
+Germany,2001,0.22,Europe
+Germany,2002,0.21,Europe
+Germany,2003,0.19,Europe
+Germany,2004,0.18,Europe
+Germany,2005,0.16,Europe
+Germany,2006,0.14,Europe
+Germany,2007,0.13,Europe
+Germany,2008,0.11,Europe
+Germany,2009,0.09,Europe
+Germany,2010,0.08,Europe
+Germany,2011,0.07,Europe
+Germany,2012,0.06,Europe
+Germany,2013,0.05,Europe
+Germany,2014,0.05,Europe
+Germany,2015,0.04,Europe
+Germany,2016,0.04,Europe
+Germany,2017,0.03,Europe
+Germany,2018,0.03,Europe
+Italy,1980,0.15,Europe
+Italy,1981,0.17,Europe
+Italy,1982,0.17,Europe
+Italy,1983,0.23,Europe
+Italy,1984,0.24,Europe
+Italy,1985,0.25,Europe
+Italy,1986,0.25,Europe
+Italy,1987,0.29,Europe
+Italy,1988,0.31,Europe
+Italy,1989,0.32,Europe
+Italy,1990,0.31,Europe
+Italy,1991,0.35,Europe
+Italy,1992,0.29,Europe
+Italy,1993,0.28,Europe
+Italy,1994,0.29,Europe
+Italy,1995,0.28,Europe
+Italy,1996,0.27,Europe
+Italy,1997,0.26,Europe
+Italy,1998,0.25,Europe
+Italy,1999,0.2,Europe
+Italy,2000,0.19,Europe
+Italy,2001,0.18,Europe
+Italy,2002,0.17,Europe
+Italy,2003,0.13,Europe
+Italy,2004,0.12,Europe
+Italy,2005,0.11,Europe
+Italy,2006,0.09,Europe
+Italy,2007,0.08,Europe
+Italy,2008,0.07,Europe
+Italy,2009,0.06,Europe
+Italy,2010,0.06,Europe
+Italy,2011,0.06,Europe
+Italy,2012,0.06,Europe
+Italy,2013,0.05,Europe
+Italy,2014,0.05,Europe
+Italy,2015,0.05,Europe
+Italy,2016,0.04,Europe
+Italy,2017,0.04,Europe
+Italy,2018,0.05,Europe
+Netherlands,1980,1.99,Europe
+Netherlands,1981,1.92,Europe
+Netherlands,1982,1.87,Europe
+Netherlands,1983,1.84,Europe
+Netherlands,1984,1.8,Europe
+Netherlands,1985,1.76,Europe
+Netherlands,1986,1.73,Europe
+Netherlands,1987,1.69,Europe
+Netherlands,1988,1.66,Europe
+Netherlands,1989,1.65,Europe
+Netherlands,1990,1.87,Europe
+Netherlands,1991,1.84,Europe
+Netherlands,1992,1.82,Europe
+Netherlands,1993,1.78,Europe
+Netherlands,1994,1.77,Europe
+Netherlands,1995,1.73,Europe
+Netherlands,1996,1.71,Europe
+Netherlands,1997,1.72,Europe
+Netherlands,1998,1.67,Europe
+Netherlands,1999,1.62,Europe
+Netherlands,2000,1.57,Europe
+Netherlands,2001,1.54,Europe
+Netherlands,2002,1.49,Europe
+Netherlands,2003,1.43,Europe
+Netherlands,2004,1.39,Europe
+Netherlands,2005,1.33,Europe
+Netherlands,2006,1.27,Europe
+Netherlands,2007,1.23,Europe
+Netherlands,2008,1.19,Europe
+Netherlands,2009,1.23,Europe
+Netherlands,2010,1.15,Europe
+Netherlands,2011,1.09,Europe
+Netherlands,2012,0.84,Europe
+Netherlands,2013,0.79,Europe
+Netherlands,2014,0.71,Europe
+Netherlands,2015,0.73,Europe
+Netherlands,2016,0.65,Europe
+Netherlands,2017,0.59,Europe
+Netherlands,2018,0.59,Europe
+Norway,1980,0.39,Europe
+Norway,1981,0.37,Europe
+Norway,1982,0.34,Europe
+Norway,1983,0.4,Europe
+Norway,1984,0.38,Europe
+Norway,1985,0.54,Europe
+Norway,1986,0.45,Europe
+Norway,1987,1.24,Europe
+Norway,1988,1.72,Europe
+Norway,1989,1.72,Europe
+Norway,1990,1.67,Europe
+Norway,1991,1.26,Europe
+Norway,1992,1.37,Europe
+Norway,1993,1.34,Europe
+Norway,1994,1.34,Europe
+Norway,1995,1.34,Europe
+Norway,1996,1.47,Europe
+Norway,1997,1.16,Europe
+Norway,1998,1.16,Europe
+Norway,1999,1.24,Europe
+Norway,2000,1.25,Europe
+Norway,2001,2.17,Europe
+Norway,2002,2.1,Europe
+Norway,2003,2.44,Europe
+Norway,2004,2.37,Europe
+Norway,2005,2.34,Europe
+Norway,2006,2.28,Europe
+Norway,2007,2.3,Europe
+Norway,2008,2.2,Europe
+Norway,2009,2.03,Europe
+Norway,2010,2.03,Europe
+Norway,2011,2.05,Europe
+Norway,2012,2.07,Europe
+Norway,2013,2.03,Europe
+Norway,2014,1.91,Europe
+Norway,2015,1.84,Europe
+Norway,2016,1.75,Europe
+Norway,2017,1.72,Europe
+Norway,2018,1.61,Europe
+Other Europe,1980,0.31,Europe
+Other Europe,1981,0.32,Europe
+Other Europe,1982,0.33,Europe
+Other Europe,1983,0.35,Europe
+Other Europe,1984,0.35,Europe
+Other Europe,1985,0.34,Europe
+Other Europe,1986,0.34,Europe
+Other Europe,1987,0.33,Europe
+Other Europe,1988,0.33,Europe
+Other Europe,1989,0.33,Europe
+Other Europe,1990,0.33,Europe
+Other Europe,1991,0.32,Europe
+Other Europe,1992,0.32,Europe
+Other Europe,1993,0.29,Europe
+Other Europe,1994,0.25,Europe
+Other Europe,1995,0.26,Europe
+Other Europe,1996,0.21,Europe
+Other Europe,1997,0.19,Europe
+Other Europe,1998,0.17,Europe
+Other Europe,1999,0.2,Europe
+Other Europe,2000,0.18,Europe
+Other Europe,2001,0.18,Europe
+Other Europe,2002,0.17,Europe
+Other Europe,2003,0.16,Europe
+Other Europe,2004,0.17,Europe
+Other Europe,2005,0.17,Europe
+Other Europe,2006,0.17,Europe
+Other Europe,2007,0.18,Europe
+Other Europe,2008,0.17,Europe
+Other Europe,2009,0.16,Europe
+Other Europe,2010,0.16,Europe
+Other Europe,2011,0.17,Europe
+Other Europe,2012,0.17,Europe
+Other Europe,2013,0.16,Europe
+Other Europe,2014,0.16,Europe
+Other Europe,2015,0.15,Europe
+Other Europe,2016,0.15,Europe
+Other Europe,2017,0.14,Europe
+Other Europe,2018,0.14,Europe
+Poland,1980,0.08,Europe
+Poland,1981,0.07,Europe
+Poland,1982,0.07,Europe
+Poland,1983,0.07,Europe
+Poland,1984,0.07,Europe
+Poland,1985,0.07,Europe
+Poland,1986,0.12,Europe
+Poland,1987,0.12,Europe
+Poland,1988,0.13,Europe
+Poland,1989,0.12,Europe
+Poland,1990,0.12,Europe
+Poland,1991,0.11,Europe
+Poland,1992,0.12,Europe
+Poland,1993,0.11,Europe
+Poland,1994,0.11,Europe
+Poland,1995,0.11,Europe
+Poland,1996,0.11,Europe
+Poland,1997,0.11,Europe
+Poland,1998,0.1,Europe
+Poland,1999,0.11,Europe
+Poland,2000,0.09,Europe
+Poland,2001,0.08,Europe
+Poland,2002,0.09,Europe
+Poland,2003,0.08,Europe
+Poland,2004,0.08,Europe
+Poland,2005,0.08,Europe
+Poland,2006,0.08,Europe
+Poland,2007,0.08,Europe
+Poland,2008,0.08,Europe
+Poland,2009,0.08,Europe
+Poland,2010,0.08,Europe
+Poland,2011,0.08,Europe
+Poland,2012,0.08,Europe
+Poland,2013,0.07,Europe
+Poland,2014,0.07,Europe
+Poland,2015,0.07,Europe
+Poland,2016,0.07,Europe
+Poland,2017,0.06,Europe
+Poland,2018,0.06,Europe
+Romania,1980,0.28,Europe
+Romania,1981,0.26,Europe
+Romania,1982,0.24,Europe
+Romania,1983,0.21,Europe
+Romania,1984,0.2,Europe
+Romania,1985,0.25,Europe
+Romania,1986,0.22,Europe
+Romania,1987,0.18,Europe
+Romania,1988,0.15,Europe
+Romania,1989,0.12,Europe
+Romania,1990,0.1,Europe
+Romania,1991,0.45,Europe
+Romania,1992,0.43,Europe
+Romania,1993,0.41,Europe
+Romania,1994,0.4,Europe
+Romania,1995,0.38,Europe
+Romania,1996,0.36,Europe
+Romania,1997,0.35,Europe
+Romania,1998,0.34,Europe
+Romania,1999,0.32,Europe
+Romania,2000,0.31,Europe
+Romania,2001,0.3,Europe
+Romania,2002,0.29,Europe
+Romania,2003,0.28,Europe
+Romania,2004,0.27,Europe
+Romania,2005,0.59,Europe
+Romania,2006,0.59,Europe
+Romania,2007,0.59,Europe
+Romania,2008,0.57,Europe
+Romania,2009,0.56,Europe
+Romania,2010,0.55,Europe
+Romania,2011,0.1,Europe
+Romania,2012,0.1,Europe
+Romania,2013,0.1,Europe
+Romania,2014,0.1,Europe
+Romania,2015,0.1,Europe
+Romania,2016,0.1,Europe
+Romania,2017,0.1,Europe
+Romania,2018,0.1,Europe
+Ukraine,1980,,Europe
+Ukraine,1981,,Europe
+Ukraine,1982,,Europe
+Ukraine,1983,,Europe
+Ukraine,1984,,Europe
+Ukraine,1985,,Europe
+Ukraine,1986,,Europe
+Ukraine,1987,,Europe
+Ukraine,1988,,Europe
+Ukraine,1989,,Europe
+Ukraine,1990,,Europe
+Ukraine,1991,,Europe
+Ukraine,1992,,Europe
+Ukraine,1993,,Europe
+Ukraine,1994,,Europe
+Ukraine,1995,,Europe
+Ukraine,1996,,Europe
+Ukraine,1997,0.74,Europe
+Ukraine,1998,0.8,Europe
+Ukraine,1999,0.79,Europe
+Ukraine,2000,0.79,Europe
+Ukraine,2001,0.79,Europe
+Ukraine,2002,0.79,Europe
+Ukraine,2003,0.78,Europe
+Ukraine,2004,0.79,Europe
+Ukraine,2005,0.78,Europe
+Ukraine,2006,0.78,Europe
+Ukraine,2007,0.78,Europe
+Ukraine,2008,0.76,Europe
+Ukraine,2009,0.75,Europe
+Ukraine,2010,0.73,Europe
+Ukraine,2011,0.73,Europe
+Ukraine,2012,1.17,Europe
+Ukraine,2013,1.14,Europe
+Ukraine,2014,1.14,Europe
+Ukraine,2015,1.07,Europe
+Ukraine,2016,1.05,Europe
+Ukraine,2017,1.03,Europe
+Ukraine,2018,1.09,Europe
+United Kingdom,1980,0.74,Europe
+United Kingdom,1981,0.66,Europe
+United Kingdom,1982,0.63,Europe
+United Kingdom,1983,0.71,Europe
+United Kingdom,1984,0.72,Europe
+United Kingdom,1985,0.64,Europe
+United Kingdom,1986,0.63,Europe
+United Kingdom,1987,0.64,Europe
+United Kingdom,1988,0.59,Europe
+United Kingdom,1989,0.56,Europe
+United Kingdom,1990,0.54,Europe
+United Kingdom,1991,0.54,Europe
+United Kingdom,1992,0.61,Europe
+United Kingdom,1993,0.63,Europe
+United Kingdom,1994,0.66,Europe
+United Kingdom,1995,0.7,Europe
+United Kingdom,1996,0.76,Europe
+United Kingdom,1997,0.76,Europe
+United Kingdom,1998,0.75,Europe
+United Kingdom,1999,0.76,Europe
+United Kingdom,2000,0.73,Europe
+United Kingdom,2001,0.65,Europe
+United Kingdom,2002,0.63,Europe
+United Kingdom,2003,0.59,Europe
+United Kingdom,2004,0.53,Europe
+United Kingdom,2005,0.48,Europe
+United Kingdom,2006,0.41,Europe
+United Kingdom,2007,0.34,Europe
+United Kingdom,2008,0.29,Europe
+United Kingdom,2009,0.25,Europe
+United Kingdom,2010,0.25,Europe
+United Kingdom,2011,0.24,Europe
+United Kingdom,2012,0.24,Europe
+United Kingdom,2013,0.24,Europe
+United Kingdom,2014,0.2,Europe
+United Kingdom,2015,0.21,Europe
+United Kingdom,2016,0.18,Europe
+United Kingdom,2017,0.19,Europe
+United Kingdom,2018,0.19,Europe
+Bahrain,1980,0.57,Middle East
+Bahrain,1981,0.55,Middle East
+Bahrain,1982,0.54,Middle East
+Bahrain,1983,0.53,Middle East
+Bahrain,1984,0.52,Middle East
+Bahrain,1985,0.51,Middle East
+Bahrain,1986,0.5,Middle East
+Bahrain,1987,0.48,Middle East
+Bahrain,1988,0.46,Middle East
+Bahrain,1989,0.45,Middle East
+Bahrain,1990,0.43,Middle East
+Bahrain,1991,0.42,Middle East
+Bahrain,1992,0.41,Middle East
+Bahrain,1993,0.39,Middle East
+Bahrain,1994,0.37,Middle East
+Bahrain,1995,0.36,Middle East
+Bahrain,1996,0.35,Middle East
+Bahrain,1997,0.35,Middle East
+Bahrain,1998,0.35,Middle East
+Bahrain,1999,0.29,Middle East
+Bahrain,2000,0.27,Middle East
+Bahrain,2001,0.27,Middle East
+Bahrain,2002,0.27,Middle East
+Bahrain,2003,0.22,Middle East
+Bahrain,2004,0.22,Middle East
+Bahrain,2005,0.22,Middle East
+Bahrain,2006,0.22,Middle East
+Bahrain,2007,0.21,Middle East
+Bahrain,2008,0.22,Middle East
+Bahrain,2009,0.22,Middle East
+Bahrain,2010,0.21,Middle East
+Bahrain,2011,0.21,Middle East
+Bahrain,2012,0.19,Middle East
+Bahrain,2013,0.18,Middle East
+Bahrain,2014,0.17,Middle East
+Bahrain,2015,0.16,Middle East
+Bahrain,2016,0.17,Middle East
+Bahrain,2017,0.18,Middle East
+Bahrain,2018,0.18,Middle East
+Iran,1980,13.32,Middle East
+Iran,1981,13.3,Middle East
+Iran,1982,13.29,Middle East
+Iran,1983,13.27,Middle East
+Iran,1984,13.24,Middle East
+Iran,1985,13.21,Middle East
+Iran,1986,13.18,Middle East
+Iran,1987,13.15,Middle East
+Iran,1988,13.41,Middle East
+Iran,1989,16.06,Middle East
+Iran,1990,16.06,Middle East
+Iran,1991,18.7,Middle East
+Iran,1992,19.55,Middle East
+Iran,1993,19.55,Middle East
+Iran,1994,19.61,Middle East
+Iran,1995,18.28,Middle East
+Iran,1996,21.72,Middle East
+Iran,1997,21.72,Middle East
+Iran,1998,22.76,Middle East
+Iran,1999,23.61,Middle East
+Iran,2000,24.56,Middle East
+Iran,2001,24.65,Middle East
+Iran,2002,25.21,Middle East
+Iran,2003,26.04,Middle East
+Iran,2004,25.97,Middle East
+Iran,2005,26.05,Middle East
+Iran,2006,25.36,Middle East
+Iran,2007,26.57,Middle East
+Iran,2008,27.97,Middle East
+Iran,2009,27.97,Middle East
+Iran,2010,31.25,Middle East
+Iran,2011,31.75,Middle East
+Iran,2012,31.91,Middle East
+Iran,2013,32.13,Middle East
+Iran,2014,32.13,Middle East
+Iran,2015,31.64,Middle East
+Iran,2016,31.85,Middle East
+Iran,2017,31.93,Middle East
+Iran,2018,31.93,Middle East
+Iraq,1980,0.74,Middle East
+Iraq,1981,0.73,Middle East
+Iraq,1982,0.77,Middle East
+Iraq,1983,0.78,Middle East
+Iraq,1984,0.78,Middle East
+Iraq,1985,0.78,Middle East
+Iraq,1986,0.78,Middle East
+Iraq,1987,0.95,Middle East
+Iraq,1988,2.56,Middle East
+Iraq,1989,2.96,Middle East
+Iraq,1990,2.95,Middle East
+Iraq,1991,2.94,Middle East
+Iraq,1992,2.94,Middle East
+Iraq,1993,2.94,Middle East
+Iraq,1994,2.96,Middle East
+Iraq,1995,3.19,Middle East
+Iraq,1996,3.19,Middle East
+Iraq,1997,3.03,Middle East
+Iraq,1998,3.03,Middle East
+Iraq,1999,3.12,Middle East
+Iraq,2000,2.95,Middle East
+Iraq,2001,2.95,Middle East
+Iraq,2002,3.03,Middle East
+Iraq,2003,3.01,Middle East
+Iraq,2004,3.01,Middle East
+Iraq,2005,3.01,Middle East
+Iraq,2006,3.01,Middle East
+Iraq,2007,3.01,Middle East
+Iraq,2008,3.01,Middle East
+Iraq,2009,3.01,Middle East
+Iraq,2010,3.01,Middle East
+Iraq,2011,3.41,Middle East
+Iraq,2012,3,Middle East
+Iraq,2013,3,Middle East
+Iraq,2014,3,Middle East
+Iraq,2015,3,Middle East
+Iraq,2016,3.63,Middle East
+Iraq,2017,3.56,Middle East
+Iraq,2018,3.56,Middle East
+Israel,1980,0,Middle East
+Israel,1981,0,Middle East
+Israel,1982,0,Middle East
+Israel,1983,0,Middle East
+Israel,1984,0,Middle East
+Israel,1985,0,Middle East
+Israel,1986,0,Middle East
+Israel,1987,0,Middle East
+Israel,1988,0,Middle East
+Israel,1989,0,Middle East
+Israel,1990,0,Middle East
+Israel,1991,0,Middle East
+Israel,1992,0,Middle East
+Israel,1993,0,Middle East
+Israel,1994,0,Middle East
+Israel,1995,0,Middle East
+Israel,1996,0,Middle East
+Israel,1997,0,Middle East
+Israel,1998,0,Middle East
+Israel,1999,0,Middle East
+Israel,2000,0.04,Middle East
+Israel,2001,0.04,Middle East
+Israel,2002,0.04,Middle East
+Israel,2003,0.05,Middle East
+Israel,2004,0.05,Middle East
+Israel,2005,0.04,Middle East
+Israel,2006,0.04,Middle East
+Israel,2007,0.04,Middle East
+Israel,2008,0.04,Middle East
+Israel,2009,0.09,Middle East
+Israel,2010,0.19,Middle East
+Israel,2011,0.19,Middle East
+Israel,2012,0.19,Middle East
+Israel,2013,0.19,Middle East
+Israel,2014,0.18,Middle East
+Israel,2015,0.17,Middle East
+Israel,2016,0.17,Middle East
+Israel,2017,0.46,Middle East
+Israel,2018,0.41,Middle East
+Kuwait,1980,1,Middle East
+Kuwait,1981,0.99,Middle East
+Kuwait,1982,0.99,Middle East
+Kuwait,1983,0.98,Middle East
+Kuwait,1984,0.99,Middle East
+Kuwait,1985,0.98,Middle East
+Kuwait,1986,1.11,Middle East
+Kuwait,1987,1.14,Middle East
+Kuwait,1988,1.31,Middle East
+Kuwait,1989,1.33,Middle East
+Kuwait,1990,1.44,Middle East
+Kuwait,1991,1.44,Middle East
+Kuwait,1992,1.42,Middle East
+Kuwait,1993,1.42,Middle East
+Kuwait,1994,1.42,Middle East
+Kuwait,1995,1.42,Middle East
+Kuwait,1996,1.41,Middle East
+Kuwait,1997,1.42,Middle East
+Kuwait,1998,1.41,Middle East
+Kuwait,1999,1.41,Middle East
+Kuwait,2000,1.48,Middle East
+Kuwait,2001,1.48,Middle East
+Kuwait,2002,1.48,Middle East
+Kuwait,2003,1.49,Middle East
+Kuwait,2004,1.49,Middle East
+Kuwait,2005,1.49,Middle East
+Kuwait,2006,1.69,Middle East
+Kuwait,2007,1.69,Middle East
+Kuwait,2008,1.69,Middle East
+Kuwait,2009,1.69,Middle East
+Kuwait,2010,1.69,Middle East
+Kuwait,2011,1.69,Middle East
+Kuwait,2012,1.69,Middle East
+Kuwait,2013,1.69,Middle East
+Kuwait,2014,1.69,Middle East
+Kuwait,2015,1.69,Middle East
+Kuwait,2016,1.69,Middle East
+Kuwait,2017,1.69,Middle East
+Kuwait,2018,1.69,Middle East
+Oman,1980,0.08,Middle East
+Oman,1981,0.07,Middle East
+Oman,1982,0.08,Middle East
+Oman,1983,0.16,Middle East
+Oman,1984,0.2,Middle East
+Oman,1985,0.21,Middle East
+Oman,1986,0.22,Middle East
+Oman,1987,0.26,Middle East
+Oman,1988,0.27,Middle East
+Oman,1989,0.26,Middle East
+Oman,1990,0.26,Middle East
+Oman,1991,0.09,Middle East
+Oman,1992,0.14,Middle East
+Oman,1993,0.19,Middle East
+Oman,1994,0.24,Middle East
+Oman,1995,0.43,Middle East
+Oman,1996,0.58,Middle East
+Oman,1997,0.51,Middle East
+Oman,1998,0.54,Middle East
+Oman,1999,0.78,Middle East
+Oman,2000,0.81,Middle East
+Oman,2001,0.89,Middle East
+Oman,2002,0.89,Middle East
+Oman,2003,0.93,Middle East
+Oman,2004,0.94,Middle East
+Oman,2005,0.94,Middle East
+Oman,2006,0.92,Middle East
+Oman,2007,0.92,Middle East
+Oman,2008,0.9,Middle East
+Oman,2009,0.5,Middle East
+Oman,2010,0.49,Middle East
+Oman,2011,0.49,Middle East
+Oman,2012,0.48,Middle East
+Oman,2013,0.66,Middle East
+Oman,2014,0.65,Middle East
+Oman,2015,0.66,Middle East
+Oman,2016,0.66,Middle East
+Oman,2017,0.66,Middle East
+Oman,2018,0.66,Middle East
+Other Middle East,1980,0,Middle East
+Other Middle East,1981,0,Middle East
+Other Middle East,1982,0,Middle East
+Other Middle East,1983,0,Middle East
+Other Middle East,1984,0,Middle East
+Other Middle East,1985,0,Middle East
+Other Middle East,1986,0,Middle East
+Other Middle East,1987,0.02,Middle East
+Other Middle East,1988,0.02,Middle East
+Other Middle East,1989,0.01,Middle East
+Other Middle East,1990,0.01,Middle East
+Other Middle East,1991,0,Middle East
+Other Middle East,1992,0,Middle East
+Other Middle East,1993,0,Middle East
+Other Middle East,1994,0,Middle East
+Other Middle East,1995,0,Middle East
+Other Middle East,1996,0,Middle East
+Other Middle East,1997,0,Middle East
+Other Middle East,1998,0,Middle East
+Other Middle East,1999,0.01,Middle East
+Other Middle East,2000,0.01,Middle East
+Other Middle East,2001,0.01,Middle East
+Other Middle East,2002,0.01,Middle East
+Other Middle East,2003,0,Middle East
+Other Middle East,2004,0,Middle East
+Other Middle East,2005,0,Middle East
+Other Middle East,2006,0,Middle East
+Other Middle East,2007,0,Middle East
+Other Middle East,2008,0,Middle East
+Other Middle East,2009,0,Middle East
+Other Middle East,2010,0,Middle East
+Other Middle East,2011,0,Middle East
+Other Middle East,2012,0,Middle East
+Other Middle East,2013,0,Middle East
+Other Middle East,2014,0,Middle East
+Other Middle East,2015,0,Middle East
+Other Middle East,2016,0,Middle East
+Other Middle East,2017,0,Middle East
+Other Middle East,2018,0,Middle East
+Qatar,1980,2.9,Middle East
+Qatar,1981,2.93,Middle East
+Qatar,1982,3.26,Middle East
+Qatar,1983,3.52,Middle East
+Qatar,1984,4.43,Middle East
+Qatar,1985,4.6,Middle East
+Qatar,1986,4.6,Middle East
+Qatar,1987,4.6,Middle East
+Qatar,1988,4.78,Middle East
+Qatar,1989,4.78,Middle East
+Qatar,1990,4.78,Middle East
+Qatar,1991,6.65,Middle East
+Qatar,1992,6.95,Middle East
+Qatar,1993,7.32,Middle East
+Qatar,1994,7.32,Middle East
+Qatar,1995,8.8,Middle East
+Qatar,1996,8.8,Middle East
+Qatar,1997,8.8,Middle East
+Qatar,1998,11.28,Middle East
+Qatar,1999,11.55,Middle East
+Qatar,2000,14.95,Middle East
+Qatar,2001,26.69,Middle East
+Qatar,2002,26.69,Middle East
+Qatar,2003,26.23,Middle East
+Qatar,2004,26.25,Middle East
+Qatar,2005,26.53,Middle East
+Qatar,2006,26.44,Middle East
+Qatar,2007,26.36,Middle East
+Qatar,2008,26.25,Middle East
+Qatar,2009,26.21,Middle East
+Qatar,2010,25.92,Middle East
+Qatar,2011,25.92,Middle East
+Qatar,2012,25.76,Middle East
+Qatar,2013,25.54,Middle East
+Qatar,2014,25.39,Middle East
+Qatar,2015,25.15,Middle East
+Qatar,2016,24.92,Middle East
+Qatar,2017,24.7,Middle East
+Qatar,2018,24.7,Middle East
+Saudi Arabia,1980,3.02,Middle East
+Saudi Arabia,1981,3.18,Middle East
+Saudi Arabia,1982,3.26,Middle East
+Saudi Arabia,1983,3.37,Middle East
+Saudi Arabia,1984,3.43,Middle East
+Saudi Arabia,1985,3.5,Middle East
+Saudi Arabia,1986,3.82,Middle East
+Saudi Arabia,1987,3.98,Middle East
+Saudi Arabia,1988,4.77,Middle East
+Saudi Arabia,1989,4.96,Middle East
+Saudi Arabia,1990,4.96,Middle East
+Saudi Arabia,1991,4.96,Middle East
+Saudi Arabia,1992,4.99,Middle East
+Saudi Arabia,1993,4.99,Middle East
+Saudi Arabia,1994,5,Middle East
+Saudi Arabia,1995,5.27,Middle East
+Saudi Arabia,1996,5.41,Middle East
+Saudi Arabia,1997,5.59,Middle East
+Saudi Arabia,1998,5.76,Middle East
+Saudi Arabia,1999,5.84,Middle East
+Saudi Arabia,2000,5.99,Middle East
+Saudi Arabia,2001,6.13,Middle East
+Saudi Arabia,2002,6.31,Middle East
+Saudi Arabia,2003,6.42,Middle East
+Saudi Arabia,2004,6.42,Middle East
+Saudi Arabia,2005,6.48,Middle East
+Saudi Arabia,2006,6.72,Middle East
+Saudi Arabia,2007,6.94,Middle East
+Saudi Arabia,2008,7.07,Middle East
+Saudi Arabia,2009,7.4,Middle East
+Saudi Arabia,2010,7.51,Middle East
+Saudi Arabia,2011,7.6,Middle East
+Saudi Arabia,2012,7.66,Middle East
+Saudi Arabia,2013,7.76,Middle East
+Saudi Arabia,2014,7.91,Middle East
+Saudi Arabia,2015,8.01,Middle East
+Saudi Arabia,2016,8.04,Middle East
+Saudi Arabia,2017,5.65,Middle East
+Saudi Arabia,2018,5.89,Middle East
+Syria,1980,0.08,Middle East
+Syria,1981,0.08,Middle East
+Syria,1982,0.1,Middle East
+Syria,1983,0.1,Middle East
+Syria,1984,0.1,Middle East
+Syria,1985,0.12,Middle East
+Syria,1986,0.13,Middle East
+Syria,1987,0.12,Middle East
+Syria,1988,0.11,Middle East
+Syria,1989,0.15,Middle East
+Syria,1990,0.17,Middle East
+Syria,1991,0.19,Middle East
+Syria,1992,0.19,Middle East
+Syria,1993,0.21,Middle East
+Syria,1994,0.22,Middle East
+Syria,1995,0.22,Middle East
+Syria,1996,0.22,Middle East
+Syria,1997,0.22,Middle East
+Syria,1998,0.22,Middle East
+Syria,1999,0.23,Middle East
+Syria,2000,0.23,Middle East
+Syria,2001,0.23,Middle East
+Syria,2002,0.24,Middle East
+Syria,2003,0.27,Middle East
+Syria,2004,0.27,Middle East
+Syria,2005,0.27,Middle East
+Syria,2006,0.27,Middle East
+Syria,2007,0.27,Middle East
+Syria,2008,0.25,Middle East
+Syria,2009,0.27,Middle East
+Syria,2010,0.27,Middle East
+Syria,2011,0.27,Middle East
+Syria,2012,0.27,Middle East
+Syria,2013,0.27,Middle East
+Syria,2014,0.27,Middle East
+Syria,2015,0.27,Middle East
+Syria,2016,0.27,Middle East
+Syria,2017,0.27,Middle East
+Syria,2018,0.27,Middle East
+United Arab Emirates,1980,2.31,Middle East
+United Arab Emirates,1981,2.47,Middle East
+United Arab Emirates,1982,2.9,Middle East
+United Arab Emirates,1983,2.97,Middle East
+United Arab Emirates,1984,3.03,Middle East
+United Arab Emirates,1985,3.07,Middle East
+United Arab Emirates,1986,5.28,Middle East
+United Arab Emirates,1987,5.54,Middle East
+United Arab Emirates,1988,5.52,Middle East
+United Arab Emirates,1989,5.51,Middle East
+United Arab Emirates,1990,5.48,Middle East
+United Arab Emirates,1991,5.65,Middle East
+United Arab Emirates,1992,5.65,Middle East
+United Arab Emirates,1993,5.65,Middle East
+United Arab Emirates,1994,6.61,Middle East
+United Arab Emirates,1995,5.71,Middle East
+United Arab Emirates,1996,5.64,Middle East
+United Arab Emirates,1997,5.91,Middle East
+United Arab Emirates,1998,5.85,Middle East
+United Arab Emirates,1999,5.85,Middle East
+United Arab Emirates,2000,5.84,Middle East
+United Arab Emirates,2001,5.91,Middle East
+United Arab Emirates,2002,5.9,Middle East
+United Arab Emirates,2003,5.9,Middle East
+United Arab Emirates,2004,5.93,Middle East
+United Arab Emirates,2005,5.96,Middle East
+United Arab Emirates,2006,6.28,Middle East
+United Arab Emirates,2007,6.28,Middle East
+United Arab Emirates,2008,5.94,Middle East
+United Arab Emirates,2009,5.94,Middle East
+United Arab Emirates,2010,5.94,Middle East
+United Arab Emirates,2011,5.94,Middle East
+United Arab Emirates,2012,5.94,Middle East
+United Arab Emirates,2013,5.94,Middle East
+United Arab Emirates,2014,5.94,Middle East
+United Arab Emirates,2015,5.94,Middle East
+United Arab Emirates,2016,5.94,Middle East
+United Arab Emirates,2017,5.94,Middle East
+United Arab Emirates,2018,5.94,Middle East
+Yemen,1980,0,Middle East
+Yemen,1981,0,Middle East
+Yemen,1982,0,Middle East
+Yemen,1983,0,Middle East
+Yemen,1984,0,Middle East
+Yemen,1985,0,Middle East
+Yemen,1986,0.02,Middle East
+Yemen,1987,0.11,Middle East
+Yemen,1988,0.16,Middle East
+Yemen,1989,0.2,Middle East
+Yemen,1990,0.25,Middle East
+Yemen,1991,0.32,Middle East
+Yemen,1992,0.32,Middle East
+Yemen,1993,0.32,Middle East
+Yemen,1994,0.32,Middle East
+Yemen,1995,0.32,Middle East
+Yemen,1996,0.32,Middle East
+Yemen,1997,0.32,Middle East
+Yemen,1998,0.32,Middle East
+Yemen,1999,0.32,Middle East
+Yemen,2000,0.32,Middle East
+Yemen,2001,0.32,Middle East
+Yemen,2002,0.32,Middle East
+Yemen,2003,0.32,Middle East
+Yemen,2004,0.32,Middle East
+Yemen,2005,0.32,Middle East
+Yemen,2006,0.32,Middle East
+Yemen,2007,0.32,Middle East
+Yemen,2008,0.32,Middle East
+Yemen,2009,0.32,Middle East
+Yemen,2010,0.32,Middle East
+Yemen,2011,0.3,Middle East
+Yemen,2012,0.29,Middle East
+Yemen,2013,0.28,Middle East
+Yemen,2014,0.27,Middle East
+Yemen,2015,0.27,Middle East
+Yemen,2016,0.27,Middle East
+Yemen,2017,0.27,Middle East
+Yemen,2018,0.27,Middle East
+Canada,1980,2.37,North America
+Canada,1981,2.44,North America
+Canada,1982,2.47,North America
+Canada,1983,2.49,North America
+Canada,1984,2.68,North America
+Canada,1985,2.65,North America
+Canada,1986,2.62,North America
+Canada,1987,2.57,North America
+Canada,1988,2.54,North America
+Canada,1989,2.6,North America
+Canada,1990,2.6,North America
+Canada,1991,2.58,North America
+Canada,1992,2.55,North America
+Canada,1993,2.13,North America
+Canada,1994,1.81,North America
+Canada,1995,1.84,North America
+Canada,1996,1.85,North America
+Canada,1997,1.72,North America
+Canada,1998,1.66,North America
+Canada,1999,1.64,North America
+Canada,2000,1.6,North America
+Canada,2001,1.61,North America
+Canada,2002,1.58,North America
+Canada,2003,1.53,North America
+Canada,2004,1.52,North America
+Canada,2005,1.56,North America
+Canada,2006,1.56,North America
+Canada,2007,1.56,North America
+Canada,2008,1.67,North America
+Canada,2009,1.65,North America
+Canada,2010,1.88,North America
+Canada,2011,1.83,North America
+Canada,2012,1.9,North America
+Canada,2013,1.93,North America
+Canada,2014,1.89,North America
+Canada,2015,2.07,North America
+Canada,2016,2,North America
+Canada,2017,1.98,North America
+Canada,2018,1.85,North America
+Mexico,1980,1.81,North America
+Mexico,1981,2.11,North America
+Mexico,1982,2.11,North America
+Mexico,1983,2.16,North America
+Mexico,1984,2.15,North America
+Mexico,1985,2.15,North America
+Mexico,1986,2.12,North America
+Mexico,1987,2.1,North America
+Mexico,1988,2.06,North America
+Mexico,1989,2.04,North America
+Mexico,1990,2,North America
+Mexico,1991,1.99,North America
+Mexico,1992,1.96,North America
+Mexico,1993,1.95,North America
+Mexico,1994,1.92,North America
+Mexico,1995,1.9,North America
+Mexico,1996,1.79,North America
+Mexico,1997,1.78,North America
+Mexico,1998,0.84,North America
+Mexico,1999,0.85,North America
+Mexico,2000,0.83,North America
+Mexico,2001,0.79,North America
+Mexico,2002,0.42,North America
+Mexico,2003,0.42,North America
+Mexico,2004,0.41,North America
+Mexico,2005,0.4,North America
+Mexico,2006,0.38,North America
+Mexico,2007,0.37,North America
+Mexico,2008,0.36,North America
+Mexico,2009,0.34,North America
+Mexico,2010,0.35,North America
+Mexico,2011,0.36,North America
+Mexico,2012,0.36,North America
+Mexico,2013,0.34,North America
+Mexico,2014,0.32,North America
+Mexico,2015,0.24,North America
+Mexico,2016,0.2,North America
+Mexico,2017,0.18,North America
+Mexico,2018,0.18,North America
+US,1980,5.4,North America
+US,1981,5.47,North America
+US,1982,5.46,North America
+US,1983,5.43,North America
+US,1984,5.35,North America
+US,1985,5.24,North America
+US,1986,5.19,North America
+US,1987,5.08,North America
+US,1988,4.56,North America
+US,1989,4.53,North America
+US,1990,4.59,North America
+US,1991,4.53,North America
+US,1992,4.47,North America
+US,1993,4.4,North America
+US,1994,4.44,North America
+US,1995,4.48,North America
+US,1996,4.51,North America
+US,1997,4.53,North America
+US,1998,4.45,North America
+US,1999,4.54,North America
+US,2000,4.81,North America
+US,2001,4.97,North America
+US,2002,5.07,North America
+US,2003,5.13,North America
+US,2004,5.22,North America
+US,2005,5.54,North America
+US,2006,5.72,North America
+US,2007,6.45,North America
+US,2008,6.63,North America
+US,2009,7.39,North America
+US,2010,8.26,North America
+US,2011,9.06,North America
+US,2012,8.35,North America
+US,2013,9.17,North America
+US,2014,10,North America
+US,2015,8.34,North America
+US,2016,8.74,North America
+US,2017,11.89,North America
+US,2018,11.89,North America
+Argentina,1980,0.62,S. & Cent. America
+Argentina,1981,0.63,S. & Cent. America
+Argentina,1982,0.67,S. & Cent. America
+Argentina,1983,0.66,S. & Cent. America
+Argentina,1984,0.65,S. & Cent. America
+Argentina,1985,0.66,S. & Cent. America
+Argentina,1986,0.65,S. & Cent. America
+Argentina,1987,0.67,S. & Cent. America
+Argentina,1988,0.75,S. & Cent. America
+Argentina,1989,0.65,S. & Cent. America
+Argentina,1990,0.64,S. & Cent. America
+Argentina,1991,0.63,S. & Cent. America
+Argentina,1992,0.53,S. & Cent. America
+Argentina,1993,0.5,S. & Cent. America
+Argentina,1994,0.52,S. & Cent. America
+Argentina,1995,0.6,S. & Cent. America
+Argentina,1996,0.62,S. & Cent. America
+Argentina,1997,0.67,S. & Cent. America
+Argentina,1998,0.67,S. & Cent. America
+Argentina,1999,0.71,S. & Cent. America
+Argentina,2000,0.76,S. & Cent. America
+Argentina,2001,0.74,S. & Cent. America
+Argentina,2002,0.65,S. & Cent. America
+Argentina,2003,0.6,S. & Cent. America
+Argentina,2004,0.53,S. & Cent. America
+Argentina,2005,0.43,S. & Cent. America
+Argentina,2006,0.43,S. & Cent. America
+Argentina,2007,0.43,S. & Cent. America
+Argentina,2008,0.39,S. & Cent. America
+Argentina,2009,0.37,S. & Cent. America
+Argentina,2010,0.35,S. & Cent. America
+Argentina,2011,0.32,S. & Cent. America
+Argentina,2012,0.31,S. & Cent. America
+Argentina,2013,0.32,S. & Cent. America
+Argentina,2014,0.32,S. & Cent. America
+Argentina,2015,0.34,S. & Cent. America
+Argentina,2016,0.33,S. & Cent. America
+Argentina,2017,0.35,S. & Cent. America
+Argentina,2018,0.35,S. & Cent. America
+Bolivia,1980,0.12,S. & Cent. America
+Bolivia,1981,0.16,S. & Cent. America
+Bolivia,1982,0.13,S. & Cent. America
+Bolivia,1983,0.13,S. & Cent. America
+Bolivia,1984,0.13,S. & Cent. America
+Bolivia,1985,0.13,S. & Cent. America
+Bolivia,1986,0.14,S. & Cent. America
+Bolivia,1987,0.11,S. & Cent. America
+Bolivia,1988,0.11,S. & Cent. America
+Bolivia,1989,0.11,S. & Cent. America
+Bolivia,1990,0.11,S. & Cent. America
+Bolivia,1991,0.11,S. & Cent. America
+Bolivia,1992,0.11,S. & Cent. America
+Bolivia,1993,0.1,S. & Cent. America
+Bolivia,1994,0.11,S. & Cent. America
+Bolivia,1995,0.11,S. & Cent. America
+Bolivia,1996,0.1,S. & Cent. America
+Bolivia,1997,0.11,S. & Cent. America
+Bolivia,1998,0.14,S. & Cent. America
+Bolivia,1999,0.14,S. & Cent. America
+Bolivia,2000,0.19,S. & Cent. America
+Bolivia,2001,0.22,S. & Cent. America
+Bolivia,2002,0.23,S. & Cent. America
+Bolivia,2003,0.22,S. & Cent. America
+Bolivia,2004,0.21,S. & Cent. America
+Bolivia,2005,0.21,S. & Cent. America
+Bolivia,2006,0.2,S. & Cent. America
+Bolivia,2007,0.2,S. & Cent. America
+Bolivia,2008,0.27,S. & Cent. America
+Bolivia,2009,0.27,S. & Cent. America
+Bolivia,2010,0.27,S. & Cent. America
+Bolivia,2011,0.27,S. & Cent. America
+Bolivia,2012,0.31,S. & Cent. America
+Bolivia,2013,0.29,S. & Cent. America
+Bolivia,2014,0.27,S. & Cent. America
+Bolivia,2015,0.27,S. & Cent. America
+Bolivia,2016,0.29,S. & Cent. America
+Bolivia,2017,0.29,S. & Cent. America
+Bolivia,2018,0.29,S. & Cent. America
+Brazil,1980,0.05,S. & Cent. America
+Brazil,1981,0.06,S. & Cent. America
+Brazil,1982,0.07,S. & Cent. America
+Brazil,1983,0.08,S. & Cent. America
+Brazil,1984,0.09,S. & Cent. America
+Brazil,1985,0.1,S. & Cent. America
+Brazil,1986,0.1,S. & Cent. America
+Brazil,1987,0.11,S. & Cent. America
+Brazil,1988,0.11,S. & Cent. America
+Brazil,1989,0.12,S. & Cent. America
+Brazil,1990,0.12,S. & Cent. America
+Brazil,1991,0.13,S. & Cent. America
+Brazil,1992,0.14,S. & Cent. America
+Brazil,1993,0.14,S. & Cent. America
+Brazil,1994,0.15,S. & Cent. America
+Brazil,1995,0.16,S. & Cent. America
+Brazil,1996,0.16,S. & Cent. America
+Brazil,1997,0.24,S. & Cent. America
+Brazil,1998,0.23,S. & Cent. America
+Brazil,1999,0.24,S. & Cent. America
+Brazil,2000,0.23,S. & Cent. America
+Brazil,2001,0.23,S. & Cent. America
+Brazil,2002,0.25,S. & Cent. America
+Brazil,2003,0.25,S. & Cent. America
+Brazil,2004,0.34,S. & Cent. America
+Brazil,2005,0.32,S. & Cent. America
+Brazil,2006,0.36,S. & Cent. America
+Brazil,2007,0.38,S. & Cent. America
+Brazil,2008,0.38,S. & Cent. America
+Brazil,2009,0.38,S. & Cent. America
+Brazil,2010,0.44,S. & Cent. America
+Brazil,2011,0.47,S. & Cent. America
+Brazil,2012,0.47,S. & Cent. America
+Brazil,2013,0.47,S. & Cent. America
+Brazil,2014,0.49,S. & Cent. America
+Brazil,2015,0.44,S. & Cent. America
+Brazil,2016,0.39,S. & Cent. America
+Brazil,2017,0.38,S. & Cent. America
+Brazil,2018,0.38,S. & Cent. America
+Colombia,1980,0.12,S. & Cent. America
+Colombia,1981,0.12,S. & Cent. America
+Colombia,1982,0.12,S. & Cent. America
+Colombia,1983,0.11,S. & Cent. America
+Colombia,1984,0.1,S. & Cent. America
+Colombia,1985,0.1,S. & Cent. America
+Colombia,1986,0.11,S. & Cent. America
+Colombia,1987,0.09,S. & Cent. America
+Colombia,1988,0.12,S. & Cent. America
+Colombia,1989,0.1,S. & Cent. America
+Colombia,1990,0.1,S. & Cent. America
+Colombia,1991,0.1,S. & Cent. America
+Colombia,1992,0.18,S. & Cent. America
+Colombia,1993,0.2,S. & Cent. America
+Colombia,1994,0.21,S. & Cent. America
+Colombia,1995,0.21,S. & Cent. America
+Colombia,1996,0.21,S. & Cent. America
+Colombia,1997,0.19,S. & Cent. America
+Colombia,1998,0.19,S. & Cent. America
+Colombia,1999,0.18,S. & Cent. America
+Colombia,2000,0.12,S. & Cent. America
+Colombia,2001,0.12,S. & Cent. America
+Colombia,2002,0.12,S. & Cent. America
+Colombia,2003,0.11,S. & Cent. America
+Colombia,2004,0.11,S. & Cent. America
+Colombia,2005,0.11,S. & Cent. America
+Colombia,2006,0.12,S. & Cent. America
+Colombia,2007,0.12,S. & Cent. America
+Colombia,2008,0.12,S. & Cent. America
+Colombia,2009,0.13,S. & Cent. America
+Colombia,2010,0.15,S. & Cent. America
+Colombia,2011,0.15,S. & Cent. America
+Colombia,2012,0.16,S. & Cent. America
+Colombia,2013,0.15,S. & Cent. America
+Colombia,2014,0.13,S. & Cent. America
+Colombia,2015,0.12,S. & Cent. America
+Colombia,2016,0.11,S. & Cent. America
+Colombia,2017,0.11,S. & Cent. America
+Colombia,2018,0.11,S. & Cent. America
+Other S. & Cent. America,1980,0.16,S. & Cent. America
+Other S. & Cent. America,1981,0.15,S. & Cent. America
+Other S. & Cent. America,1982,0.15,S. & Cent. America
+Other S. & Cent. America,1983,0.16,S. & Cent. America
+Other S. & Cent. America,1984,0.15,S. & Cent. America
+Other S. & Cent. America,1985,0.15,S. & Cent. America
+Other S. & Cent. America,1986,0.15,S. & Cent. America
+Other S. & Cent. America,1987,0.15,S. & Cent. America
+Other S. & Cent. America,1988,0.14,S. & Cent. America
+Other S. & Cent. America,1989,0.16,S. & Cent. America
+Other S. & Cent. America,1990,0.16,S. & Cent. America
+Other S. & Cent. America,1991,0.16,S. & Cent. America
+Other S. & Cent. America,1992,0.16,S. & Cent. America
+Other S. & Cent. America,1993,0.15,S. & Cent. America
+Other S. & Cent. America,1994,0.15,S. & Cent. America
+Other S. & Cent. America,1995,0.15,S. & Cent. America
+Other S. & Cent. America,1996,0.14,S. & Cent. America
+Other S. & Cent. America,1997,0.14,S. & Cent. America
+Other S. & Cent. America,1998,0.14,S. & Cent. America
+Other S. & Cent. America,1999,0.14,S. & Cent. America
+Other S. & Cent. America,2000,0.12,S. & Cent. America
+Other S. & Cent. America,2001,0.12,S. & Cent. America
+Other S. & Cent. America,2002,0.12,S. & Cent. America
+Other S. & Cent. America,2003,0.07,S. & Cent. America
+Other S. & Cent. America,2004,0.06,S. & Cent. America
+Other S. & Cent. America,2005,0.06,S. & Cent. America
+Other S. & Cent. America,2006,0.06,S. & Cent. America
+Other S. & Cent. America,2007,0.07,S. & Cent. America
+Other S. & Cent. America,2008,0.07,S. & Cent. America
+Other S. & Cent. America,2009,0.06,S. & Cent. America
+Other S. & Cent. America,2010,0.06,S. & Cent. America
+Other S. & Cent. America,2011,0.06,S. & Cent. America
+Other S. & Cent. America,2012,0.06,S. & Cent. America
+Other S. & Cent. America,2013,0.06,S. & Cent. America
+Other S. & Cent. America,2014,0.06,S. & Cent. America
+Other S. & Cent. America,2015,0.06,S. & Cent. America
+Other S. & Cent. America,2016,0.06,S. & Cent. America
+Other S. & Cent. America,2017,0.06,S. & Cent. America
+Other S. & Cent. America,2018,0.06,S. & Cent. America
+Peru,1980,0.03,S. & Cent. America
+Peru,1981,0.03,S. & Cent. America
+Peru,1982,0.03,S. & Cent. America
+Peru,1983,0.03,S. & Cent. America
+Peru,1984,0.02,S. & Cent. America
+Peru,1985,0.03,S. & Cent. America
+Peru,1986,0.05,S. & Cent. America
+Peru,1987,0.33,S. & Cent. America
+Peru,1988,0.33,S. & Cent. America
+Peru,1989,0.33,S. & Cent. America
+Peru,1990,0.33,S. & Cent. America
+Peru,1991,0.33,S. & Cent. America
+Peru,1992,0.31,S. & Cent. America
+Peru,1993,0.32,S. & Cent. America
+Peru,1994,0.33,S. & Cent. America
+Peru,1995,0.19,S. & Cent. America
+Peru,1996,0.19,S. & Cent. America
+Peru,1997,0.19,S. & Cent. America
+Peru,1998,0.24,S. & Cent. America
+Peru,1999,0.24,S. & Cent. America
+Peru,2000,0.24,S. & Cent. America
+Peru,2001,0.24,S. & Cent. America
+Peru,2002,0.24,S. & Cent. America
+Peru,2003,0.24,S. & Cent. America
+Peru,2004,0.31,S. & Cent. America
+Peru,2005,0.32,S. & Cent. America
+Peru,2006,0.32,S. & Cent. America
+Peru,2007,0.32,S. & Cent. America
+Peru,2008,0.33,S. & Cent. America
+Peru,2009,0.33,S. & Cent. America
+Peru,2010,0.34,S. & Cent. America
+Peru,2011,0.35,S. & Cent. America
+Peru,2012,0.42,S. & Cent. America
+Peru,2013,0.41,S. & Cent. America
+Peru,2014,0.4,S. & Cent. America
+Peru,2015,0.38,S. & Cent. America
+Peru,2016,0.44,S. & Cent. America
+Peru,2017,0.35,S. & Cent. America
+Peru,2018,0.35,S. & Cent. America
+Trinidad & Tobago,1980,0.29,S. & Cent. America
+Trinidad & Tobago,1981,0.33,S. & Cent. America
+Trinidad & Tobago,1982,0.32,S. & Cent. America
+Trinidad & Tobago,1983,0.31,S. & Cent. America
+Trinidad & Tobago,1984,0.3,S. & Cent. America
+Trinidad & Tobago,1985,0.31,S. & Cent. America
+Trinidad & Tobago,1986,0.3,S. & Cent. America
+Trinidad & Tobago,1987,0.29,S. & Cent. America
+Trinidad & Tobago,1988,0.29,S. & Cent. America
+Trinidad & Tobago,1989,0.28,S. & Cent. America
+Trinidad & Tobago,1990,0.25,S. & Cent. America
+Trinidad & Tobago,1991,0.23,S. & Cent. America
+Trinidad & Tobago,1992,0.23,S. & Cent. America
+Trinidad & Tobago,1993,0.22,S. & Cent. America
+Trinidad & Tobago,1994,0.28,S. & Cent. America
+Trinidad & Tobago,1995,0.34,S. & Cent. America
+Trinidad & Tobago,1996,0.44,S. & Cent. America
+Trinidad & Tobago,1997,0.5,S. & Cent. America
+Trinidad & Tobago,1998,0.54,S. & Cent. America
+Trinidad & Tobago,1999,0.59,S. & Cent. America
+Trinidad & Tobago,2000,0.54,S. & Cent. America
+Trinidad & Tobago,2001,0.56,S. & Cent. America
+Trinidad & Tobago,2002,0.57,S. & Cent. America
+Trinidad & Tobago,2003,0.52,S. & Cent. America
+Trinidad & Tobago,2004,0.52,S. & Cent. America
+Trinidad & Tobago,2005,0.52,S. & Cent. America
+Trinidad & Tobago,2006,0.47,S. & Cent. America
+Trinidad & Tobago,2007,0.47,S. & Cent. America
+Trinidad & Tobago,2008,0.42,S. & Cent. America
+Trinidad & Tobago,2009,0.4,S. & Cent. America
+Trinidad & Tobago,2010,0.37,S. & Cent. America
+Trinidad & Tobago,2011,0.37,S. & Cent. America
+Trinidad & Tobago,2012,0.36,S. & Cent. America
+Trinidad & Tobago,2013,0.34,S. & Cent. America
+Trinidad & Tobago,2014,0.32,S. & Cent. America
+Trinidad & Tobago,2015,0.32,S. & Cent. America
+Trinidad & Tobago,2016,0.29,S. & Cent. America
+Trinidad & Tobago,2017,0.31,S. & Cent. America
+Trinidad & Tobago,2018,0.31,S. & Cent. America
+Venezuela,1980,1.4,S. & Cent. America
+Venezuela,1981,1.52,S. & Cent. America
+Venezuela,1982,1.63,S. & Cent. America
+Venezuela,1983,1.73,S. & Cent. America
+Venezuela,1984,1.85,S. & Cent. America
+Venezuela,1985,1.93,S. & Cent. America
+Venezuela,1986,2.91,S. & Cent. America
+Venezuela,1987,3.15,S. & Cent. America
+Venezuela,1988,3.17,S. & Cent. America
+Venezuela,1989,3.32,S. & Cent. America
+Venezuela,1990,3.81,S. & Cent. America
+Venezuela,1991,3.98,S. & Cent. America
+Venezuela,1992,4.1,S. & Cent. America
+Venezuela,1993,4.1,S. & Cent. America
+Venezuela,1994,4.4,S. & Cent. America
+Venezuela,1995,4.51,S. & Cent. America
+Venezuela,1996,4.5,S. & Cent. America
+Venezuela,1997,4.57,S. & Cent. America
+Venezuela,1998,4.6,S. & Cent. America
+Venezuela,1999,4.61,S. & Cent. America
+Venezuela,2000,4.61,S. & Cent. America
+Venezuela,2001,4.64,S. & Cent. America
+Venezuela,2002,4.64,S. & Cent. America
+Venezuela,2003,4.68,S. & Cent. America
+Venezuela,2004,4.76,S. & Cent. America
+Venezuela,2005,4.79,S. & Cent. America
+Venezuela,2006,5.23,S. & Cent. America
+Venezuela,2007,5.37,S. & Cent. America
+Venezuela,2008,5.53,S. & Cent. America
+Venezuela,2009,5.62,S. & Cent. America
+Venezuela,2010,6.13,S. & Cent. America
+Venezuela,2011,6.14,S. & Cent. America
+Venezuela,2012,6.17,S. & Cent. America
+Venezuela,2013,6.19,S. & Cent. America
+Venezuela,2014,6.24,S. & Cent. America
+Venezuela,2015,6.33,S. & Cent. America
+Venezuela,2016,6.37,S. & Cent. America
+Venezuela,2017,6.34,S. & Cent. America
+Venezuela,2018,6.34,S. & Cent. America
