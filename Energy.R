@@ -7,6 +7,7 @@ library(ggthemes)
 # Reading the dt
 primary_energy_cons <- fread("data/primary_energy_consumption_mtoe.csv")
 ng_cons <- fread("data/ng_cons_Bcm.csv")
+oil_cons <- fread("data/oil_consumption_kbbl.csv")
 
 # Loading and selecting the population figures from the consolidated dataset 
 data <- fread("../energy_stat/data/BP/bp-stats-review-2019-consolidated-dataset-narrow-format.csv")
@@ -23,16 +24,13 @@ setDT(primary_energy_cons)[, primary_energy_consumption_pc := round(primary_ener
 # Preparing for the customized labels
 pec_label_plot <- primary_energy_cons[region %like% "Africa" & year == 2018][order(-primary_energy_consumption)]
 
-primary_energy_cons[region %like% "Africa"][, average_Africa := mean(primary_energy_consumption), by = year] %>% 
+primary_energy_cons[region %like% "Africa"] %>% 
   ggplot() +
   aes(year, primary_energy_consumption_pc, col = country) +
   geom_line(size = 1) +
-  # geom_line(aes(year, average_Africa), col = "black", size = 0.9, linetype ="dashed") +
   scale_color_manual(values = mycolors) +
   geom_text_repel(pec_label_plot, mapping = aes(x = 2021, y = primary_energy_consumption_pc, 
                                             label = country), size = 4) +
-  # annotate(geom = "text", x = 2007, y = 50, label = "Average",
-  #          size = 5, vjust = 2) +
   geom_vline(xintercept = 2000, linetype = "dashed", color = "#8c8c8c", size = 1) +
   geom_vline(xintercept = 2008, linetype = "dashed", color = "orange", size = 1) +
   labs(
@@ -48,7 +46,39 @@ primary_energy_cons[region %like% "Africa"][, average_Africa := mean(primary_ene
 
 ggsave("primary_energy_cons.png", path = "figs/", width = 12, height = 8) 
 
+##############################
+# OIL
 
+# Plotting the oil consumption per capita
+oil_cons <- merge.data.frame(oil_cons, data, by = c("country", "year"))
+setDT(oil_cons)[, oil_consumption_pc := round(oil_consumption_barrels/pop, 2)]
+# Preparing for the customized labels
+pec_label_plot <- oil_cons[region %like% "Africa" & year == 2018][order(-oil_consumption_barrels)]
+
+oil_cons[region %like% "Africa"] %>% 
+  ggplot() +
+  aes(year, oil_consumption_pc, col = country) +
+  geom_line(size = 1) +
+  scale_color_manual(values = mycolors) +
+  geom_text_repel(pec_label_plot, mapping = aes(x = 2021, y = oil_consumption_pc, 
+                                                label = country), size = 4) +
+  geom_vline(xintercept = 1999, linetype = "dashed", color = "#8c8c8c", size = 1) +
+  geom_vline(xintercept = 2015, linetype = "dashed", color = "orange", size = 1) +
+  labs(
+    title = "Oil consumption per capita (bbl/day per 1000 people)",
+    subtitle = "Time period : 1965 - 2018",
+    x = "",
+    y = "Oil consumption - bbl/day per 1000 people",
+    caption = "Source : BP Statistical Review 2019"
+  ) +
+  scale_x_continuous(limits = c(1965, 2022), breaks = seq(1965, 2022, 5)) +
+  theme_economist() +
+  theme(legend.position = "none")
+
+ggsave("oil_cons.png", path = "figs/", width = 12, height = 8) 
+
+#####################
+# NATURAL GAS
 
 
 ng_cons <- merge.data.frame(ng_cons, data, by = c("country", "year"))
