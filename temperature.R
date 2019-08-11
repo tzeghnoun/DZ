@@ -5,6 +5,7 @@ library(lubridate)
 library(ggeconodist)
 library(patchwork)
 library(hrbrthemes)
+library(ggrepel)
 
 data <- vroom("data/tas_1901_2016_DZA.csv")
 data <- as.data.table(data)
@@ -68,3 +69,27 @@ left_align(g, c("subtitle", "title", "caption")) %>%
   grid.draw()
 
 ggsave("dz_annual_average_temperature.png", width = 12, height = 10, dpi = 300)
+
+data_plot2 <-  data[, as.list(quantile(temperature, c(.1,.5,.9), na.rm=TRUE)), by = year(date)]
+names(data_plot2) <- c("year", "p10_quantile", "median", "p90_quantile")
+data_plot2 <- melt.data.table(data_plot2, id.vars = "year", measure.vars = 2:4, 
+                              variable.name = "Quantile", value.name = "temperature", value.factor = FALSE)
+data_plot2 <- data_plot2[, temperature := round(temperature, 1)]
+label_plot <- data_plot2[year == 2016]
+
+data_plot2 %>% 
+  ggplot() +
+  aes(year, temperature, color = Quantile) +
+  geom_line() +
+  geom_label_repel(data= label_plot, mapping = aes(x = 2016, y = temperature, 
+                                                   label = paste0(Quantile, ": ", temperature)),
+                   nudge_x = 2018) +
+  scale_x_continuous(limits = c(1901, 2020), breaks = seq(1901, 2020, 5)) +
+  scale_y_continuous(expand = c(0,0), position = "left", limits = range(0,35), breaks = seq(0, 35, 5)) +
+  labs(
+    title = "Annual average temperature for Algérie" ,
+    subtitle = "Time period : 1901 - 2016",
+    caption = "Source : worldbank.org | @D.Malko"
+  ) +
+  theme_econodist() +
+  theme(legend.position = "none")
