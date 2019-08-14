@@ -16,11 +16,11 @@ data <- data[Var %like% "pop", .(Country, Region, SubRegion, Year, Value)]
 names(data) <- c("country", "region", "subregion", "year", "pop")
 
 # Expand the color palette
-nb.cols <- 18
+nb.cols <- 80
 mycolors <- colorRampPalette(brewer.pal(9, "Set1"))(nb.cols)
 
 # Plotting the Primary Energy consumption per capita
-primary_energy_cons <- merge.data.frame(primary_energy_cons, data, by = c("country", "year"))
+primary_energy_cons <- merge.data.frame(primary_energy_cons, data, by = c("country", "region", "year"))
 setDT(primary_energy_cons)[, primary_energy_consumption_pc := round(primary_energy_consumption/pop, 2)]
 # Preparing for the customized labels
 pec_label_plot <- primary_energy_cons[region %like% "Africa" & year == 2018][order(-primary_energy_consumption)]
@@ -51,7 +51,7 @@ ggsave("primary_energy_cons.png", path = "figs/", width = 12, height = 8)
 # OIL
 
 # Plotting the oil consumption per capita
-oil_cons <- merge.data.frame(oil_cons, data, by = c("country", "year"))
+oil_cons <- merge.data.frame(oil_cons, data, by = c("country", "region", "year"))
 setDT(oil_cons)[, oil_consumption_pc := round(oil_consumption_barrels/pop, 2)]
 # Preparing for the customized labels
 pec_label_plot <- oil_cons[region %like% "Africa" & year == 2018][order(-oil_consumption_barrels)]
@@ -82,7 +82,7 @@ ggsave("oil_cons.png", path = "figs/", width = 12, height = 8)
 # NATURAL GAS
 
 
-ng_cons <- merge.data.frame(ng_cons, data, by = c("country", "year"))
+ng_cons <- merge.data.frame(ng_cons, data, by = c("country", "region", "year"))
 setDT(ng_cons)[, c("pop", "ng_cons_per_capita") := 
                      .(round(pop, 2), round(1000*gas_consumption_bcm/(pop), 2))]
 
@@ -110,18 +110,18 @@ ggsave("natural_gas_cons.png", path = "figs/", width = 12, height = 8)
 ###################################
 # Renewables
 
-# Plotting the Primary Energy consumption per capita
+# Plotting the Renewables energy consumption per capita
 renewables_cons <- merge.data.frame(renewables_cons, data, by = c("country", "year"))
 setDT(renewables_cons)[, renewables_mtoe_pc := round(renewables_mtoe/pop, 2)]
 # Preparing for the customized labels
-rec_label_plot <- renewables_cons[region %like% "Africa" & year == 2018][order(-renewables_mtoe)]
+rec_label_plot <- renewables_cons[region %like% "Asia" & year == 2018][order(-renewables_mtoe)]
 
-renewables_cons %>% 
+renewables_cons[region %like% "Asia"] %>% 
   ggplot() +
   aes(year, renewables_mtoe_pc, col = country) +
   geom_line(size = 1) +
   scale_color_manual(values = mycolors) +
-  geom_text_repel(rec_label_plot, mapping = aes(x = 2021, y = renewables_mtoe_pc, 
+  geom_text_repel(rec_label_plot, mapping = aes(x = 2021, y = renewables_mtoe_pc,
                                                 label = country), size = 4) +
   geom_vline(xintercept = 2000, linetype = "dashed", color = "#8c8c8c", size = 1) +
   geom_vline(xintercept = 2008, linetype = "dashed", color = "orange", size = 1) +
