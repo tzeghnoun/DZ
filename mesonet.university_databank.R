@@ -33,18 +33,18 @@ code_oaci <- table[[3]] %>%
 setDT(code_oaci)
 code_oaci <- code_oaci[, .("commune" = commune_de_laerodrome, "station" = code_oaci)]
 
+# Adding the commune names to the datatable
 data <- merge(data, code_oaci, all.x = TRUE)
 
-data[commune %in% c('Adrar', 'Ouargla', 'Tiaret', 
-                    'Batna')] %>% 
+data[commune %in% c('Chlef', 'Tamanrasset')] %>% 
   ggplot() +
   aes(date, temp_c, color = day_night) +
   geom_jitter(alpha = .1) +
   geom_smooth(se = TRUE) +
   scale_colour_brewer(palette = "Set1", name = "Time of observation") +
-  scale_x_datetime(date_breaks = "1 month", date_labels = "%B") +
+  scale_x_datetime(date_breaks = "1 month", date_labels = "%b") +
   labs(
-    title = "Observed temperature over the current year",
+    title = "Observed temperature from January to August 2019",
     subtitle = "Red dots are observations made during daytime, blue during the night",
     x = '',
     y = '',
@@ -76,6 +76,8 @@ data[commune %in% c('Adrar', 'Ouargla', 'Tiaret',
         axis.title.x = element_text(), 
         axis.title.y = element_text(angle = 90)) +
   facet_wrap(~commune, ncol = 2)
+
+ggsave("figs/chlef_Tamenrasset_temperature.png", width = 10, height = 6, dpi = 300)
 
 data[commune %in% c("Dar El Beïda", "Djanet", "Illizi", "Chlef"), max(temp_c), by = .(date(date), day_night, commune)] %>% 
   ggplot() +
