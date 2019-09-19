@@ -1,16 +1,18 @@
-library(data.table)
-library(rio)
-library(tidyverse)
-library(lubridate)
-library(RColorBrewer)
-library(rvest)
-library(janitor)
-library(ggforce)
-library(ggthemes)
+if (!require("pacman")) {
+  install.packages("pacman")
+}
+
+pacman::p_load(data.table, rio, tidyverse, lubridate, RColorBrewer, rvest,
+               janitor, ggforce, ggthemes, ggtext, extrafont, ggupset, tibbletime,
+               ggtext, ggrepel, glue, patchwork, cowplot, gtable, grid, magick)
+
+## loading fonts
+loadfonts(device = "win", quiet = TRUE)
+
 
 nb.cols <- 50
 mycolors <- colorRampPalette(brewer.pal(8, "Set1"))(nb.cols)
-# DZ Temperature from https://mesonet.agron.iastate.edu/request/download.phtml?network=DZ__ASOS
+# DZ Temperature in 2019 from https://mesonet.agron.iastate.edu/request/download.phtml?network=DZ__ASOS
 data <- fread("data/asos_dz.txt")
 str(data)
 data <- data[, c('date', 'temp_c', "valid", "tmpc") := 
@@ -103,4 +105,74 @@ data[commune %in% c("Dar El Beïda", "Djanet", "Illizi", "Chlef"), max(temp_c), 
   ) +
   facet_wrap(~day_night)
 
+################################################################"
+
+# Load the dataset of temperature observed since january 2000
+dz_temp_00_19 <- fread('data/asos-since_2000.txt')
+# Check the structure of the dataset
+str(dz_temp_00_19)
+# Tranform the column valid to date.time formate using the lubridate package & the variable tmpc to integer
+dz_temp_00_19[, c('date', 'tmpc', 'valid') := .(ymd_hm(valid), as.integer(tmpc), NULL)]
+# Set an order to the variable
+setcolorder(dz_temp_00_19, c('date', 'station', 'tmpc'))
+
+# Scraping the OACI code from wikipedia to add the name of commune to our dataset
+url <- 'https://fr.wikipedia.org/wiki/Liste_des_a%C3%A9rodromes_en_Alg%C3%A9rie'
+table <- url %>% 
+  read_html() %>% 
+  html_nodes("table") %>% 
+  html_table(fill = TRUE)
+code_oaci <- table[[3]] %>% 
+  janitor::clean_names()
+setDT(code_oaci)
+code_oaci <- code_oaci[, .("commune" = commune_de_laerodrome, "station" = code_oaci)]
+rm(table)
+# Adding the commune names to the datatable
+dz_temp_00_19 <- merge(dz_temp_00_19, code_oaci, all.x = TRUE)
+
+# Perform a str & summary of the dataset
+summary(dz_temp_00_19)
+
+# The min record of -35 looks weird. Let's check where & when it have been recorded
+index_min <- which.min(dz_temp_00_19$tmpc)
+dz_temp_00_19$date[index_min] # It was recorded on "2017-06-24 10:50:00 UTC"
+dz_temp_00_19$station[index_min] # recorded at "HME" station corresponding to Hassi Messaoud according to the https://mesonet.agron.iastate.edu
+# Hassi Messaoud is also recorded as "DAUH" station with 155275 observations. 'HME' has 24707 observations
+# Let's compare the daily average of the recording temperature of both stations
+dz_temp_00_19[station %in% c('DAUH', 'HME'), .('avg' = mean(tmpc, na.rm = TRUE)), by = .(dat = as.Date(date), station)] %>% 
+  ggplot() +
+  aes(dat, avg, col = station) +
+  geom_line()
+
+# Station 'DAUH' looks more complete & consistent. I will remove 'HME' station
+dz_temp_00_19 <- dz_temp_00_19[!station %like% 'HME']
+
+# Generate a dataset from 2010 to 2019 with quantile (p25, p50 & p75) values by day
+dz_temp_10_19 <- dz_temp_00_19[year(date) > 2009, .('min' = min(tmpc), 'average' = mean(tmpc, na.rm = TRUE), 
+                                                    'max' = max(tmpc)), by = .(dat = as.Date(date), station, commune)]
+
+
+dz_temp_10_19 <- melt.data.table(dz_temp_10_19, id.vars = c('dat', 'station', 'commune'), 
+                                 measure.vars = 4:6, variable.name = 'dz_tmpc', value.name = 'tmpc')
+
+windowsFonts(robotoc = windowsFont("Roboto Condensed"))
+
+dz_temp_10_19[!is.na(commune) & !commune %in% c('El Bayadh', 'In Guezzam', 'Ghriss')] %>%
+  ggplot() +
+  aes(dat, tmpc, col = dz_tmpc) +
+  geom_line() +
+  labs(
+    title = "<b style='color: #a50044'>Min, Average & Max </b><b style='color: black'>daily temperature recorded </b><br> <b style ='color:#a50044'>since 2010 </b>",
+    x = '', 
+    y = '',
+    caption = "© Iowa State University of Science and Technology"
+  ) +
+  scale_x_date(date_breaks = '1 year', date_labels = "%Y") +
+  theme_economist(base_size = 12) +
+  theme(plot.title = element_markdown(lineheight = 1.1),
+        plot.subtitle = element_markdown(lineheight = 1.1),
+        legend.position = "none") +
+  facet_wrap(~commune, ncol = 3)
+
+ggsave("figs/min_avg_max_tempc.png", width = 12, height = 20, dpi = 300)
 
