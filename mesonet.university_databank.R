@@ -4,7 +4,7 @@ if (!require("pacman")) {
 
 pacman::p_load(data.table, rio, tidyverse, lubridate, RColorBrewer, rvest,
                janitor, ggforce, ggthemes, ggtext, extrafont, ggupset, tibbletime,
-               ggtext, ggrepel, glue, patchwork, cowplot, gtable, grid, magick)
+               ggtext, ggrepel, glue, patchwork, cowplot, gtable, grid, magick, scales)
 
 ## loading fonts
 loadfonts(device = "win", quiet = TRUE)
@@ -106,6 +106,38 @@ data[commune %in% c("Dar El Beïda", "Djanet", "Illizi", "Chlef"), max(temp_c), 
   facet_wrap(~day_night)
 
 ################################################################"
+# Trying Frollmean & frollapply
+library(ggdark)
+data <- fread("data/asos_2019.txt")
+str(data)
+data <- data[, c('date', 'temp_c', "valid", "tmpc") := 
+               .(lubridate::ymd_hm(data$valid), as.numeric(tmpc), NULL, NULL)]
+
+setcolorder(data, c('date', 'station', 'temp_c'))
+str(data)
+
+data_plot <- data[station == 'DAAG' & !is.na(temp_c), .(avg_temp = mean(temp_c)), keyby = date] 
+
+data_plot %>% ggplot() +
+  aes(date, avg_temp) +
+  geom_point(alpha = .08, color = "green") +
+  labs(
+    title = 'Algiers weather',
+    subtitle = "Dots : recorded temperature; Red-line : 6-hr mean & Blue-line : 6-hr median",
+    x = '',
+    y = 'Temperature (C°)'
+  ) +
+  geom_line(data = data_plot, mapping = aes(date, frollapply(avg_temp, 360, median)), col = "#4E84C4", size = 1L) +
+  geom_line(data = data_plot, mapping = aes(date, frollmean(avg_temp, 360)), col = '#D16103', size = 1L) +
+  scale_x_datetime(date_breaks = '1 month', labels = date_format("%m-%Y") ) +
+  dark_mode()
+
+ggsave('figs/Algiers_temperature_2019.png', width = 12, height = 6, dpi = 300)
+
+#######################################○""
+
+
+
 
 # Load the dataset of temperature observed since january 2000
 dz_temp_00_19 <- fread('data/asos-since_2000.txt')
@@ -176,3 +208,42 @@ dz_temp_10_19[!is.na(commune) & !commune %in% c('El Bayadh', 'In Guezzam', 'Ghri
 
 ggsave("figs/min_avg_max_tempc.png", width = 12, height = 20, dpi = 300)
 
+
+# Load data of temperature observed since january 2000 for DAAG only
+# Load the dataset 
+dz_temp_00_19 <- fread('grep -w DAAG data/asos-since_2000.txt')
+setnames(dz_temp_00_19, c('V1', 'V2', 'V3'), c('station', 'date', 'value'))
+dz_temp_00_19 <- dz_temp_00_19[, c('date', 'value') := .(ymd_hm(date), as.integer(value))]
+
+
+dz_2000 <- dz_temp_00_19[year(date) == '2000'
+                         ][, am_pm := am(date)
+                         ][, lapply(.SD, mean, na.rm = TRUE), .SDcols = 'value', by = .(as_date(date), am_pm)]
+dz_temp_10_19 <- dz_temp_00_19[year(date) > 2010
+                               ][, am_pm := am(date)
+                               ][, lapply(.SD, mean, na.rm = TRUE), .SDcols = 'value', by = .(as_date(date), am_pm)
+                                 ][, p_value = value - dz_2000$value, by = .(as_date, am_pm)]
+
+dz_temp_00_19[value < 50 & year(date) > 2010, ] %>% ggplot() +
+  aes(date, value_p00) +
+  geom_point() +
+  theme(panel.border = element_blank(),  
+        panel.background = element_blank(),
+        plot.background = element_blank(),
+        panel.grid.major.y= element_line(size=0.1,linetype="dotted", color="#6D7C83"),
+        panel.grid.major.x= element_blank(),
+        panel.grid.minor = element_blank(),
+        plot.title = element_text(size = 18, face = "bold"),
+        axis.line.x = element_blank(),
+        axis.line.y = element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.ticks.x = element_blank(),
+        axis.text = element_text(size = 10, face = "bold"), 
+        axis.ticks = element_blank(), 
+        legend.background = element_blank(), 
+        legend.key = element_blank(), 
+        strip.background = element_blank(),
+        strip.text = element_text(size = 13, face = "bold"),
+        legend.position = 'none'
+  )
+dz_temp_00_19[date %like% '01-01 00:00:00'][]
