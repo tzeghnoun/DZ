@@ -4,7 +4,7 @@ if (!require("pacman")) {
 
 pacman::p_load(data.table, rio, tidyverse, lubridate, RColorBrewer, rvest,
                janitor, ggforce, ggthemes, ggtext, extrafont, ggupset, tibbletime,
-               ggtext, ggrepel, glue, patchwork, cowplot, gtable, grid, magick)
+               ggtext, ggrepel, glue, patchwork, cowplot, gtable, grid, magick, scales)
 
 ## loading fonts
 loadfonts(device = "win", quiet = TRUE)
@@ -106,6 +106,38 @@ data[commune %in% c("Dar El Beïda", "Djanet", "Illizi", "Chlef"), max(temp_c), 
   facet_wrap(~day_night)
 
 ################################################################"
+# Trying Frollmean & frollapply
+library(ggdark)
+data <- fread("data/asos_2019.txt")
+str(data)
+data <- data[, c('date', 'temp_c', "valid", "tmpc") := 
+               .(lubridate::ymd_hm(data$valid), as.numeric(tmpc), NULL, NULL)]
+
+setcolorder(data, c('date', 'station', 'temp_c'))
+str(data)
+
+data_plot <- data[station == 'DAAG' & !is.na(temp_c), .(avg_temp = mean(temp_c)), keyby = date] 
+
+data_plot %>% ggplot() +
+  aes(date, avg_temp) +
+  geom_point(alpha = .08, color = "green") +
+  labs(
+    title = 'Algiers weather',
+    subtitle = "Dots : recorded temperature; Red-line : 6-hr mean & Blue-line : 6-hr median",
+    x = '',
+    y = 'Temperature (C°)'
+  ) +
+  geom_line(data = data_plot, mapping = aes(date, frollapply(avg_temp, 360, median)), col = "#4E84C4", size = 1L) +
+  geom_line(data = data_plot, mapping = aes(date, frollmean(avg_temp, 360)), col = '#D16103', size = 1L) +
+  scale_x_datetime(date_breaks = '1 month', labels = date_format("%m-%Y") ) +
+  dark_mode()
+
+ggsave('figs/Algiers_temperature_2019.png', width = 12, height = 6, dpi = 300)
+
+#######################################○""
+
+
+
 
 # Load the dataset of temperature observed since january 2000
 dz_temp_00_19 <- fread('data/asos-since_2000.txt')
