@@ -109,16 +109,16 @@ data[commune %in% c("Dar El Beïda", "Djanet", "Illizi", "Chlef"), max(temp_c), 
 # Trying Frollmean & frollapply
 library(ggdark)
 data <- fread("data/asos_2019.txt")
-str(data)
+ 
 data <- data[, c('date', 'temp_c', "valid", "tmpc") := 
                .(lubridate::ymd_hm(data$valid), as.numeric(tmpc), NULL, NULL)]
 
 setcolorder(data, c('date', 'station', 'temp_c'))
-str(data)
 
 data_plot <- data[station == 'DAAG' & !is.na(temp_c), .(avg_temp = mean(temp_c)), keyby = date] 
 
-data_plot %>% ggplot() +
+data_plot[, {
+  ggplot() +
   aes(date, avg_temp) +
   geom_point(alpha = .08, color = "green") +
   labs(
@@ -127,10 +127,11 @@ data_plot %>% ggplot() +
     x = '',
     y = 'Temperature (C°)'
   ) +
-  geom_line(data = data_plot, mapping = aes(date, frollapply(avg_temp, 360, median)), col = "#4E84C4", size = 1L) +
-  geom_line(data = data_plot, mapping = aes(date, frollmean(avg_temp, 360)), col = '#D16103', size = 1L) +
+  geom_line(mapping = aes(date, frollapply(avg_temp, 360, median)), col = "#4E84C4", size = 1L) +
+  geom_line(mapping = aes(date, frollmean(avg_temp, 360)), col = '#D16103', size = 1L) +
   scale_x_datetime(date_breaks = '1 month', labels = date_format("%m-%Y") ) +
-  dark_mode()
+  dark_mode() 
+  }]
 
 ggsave('figs/Algiers_temperature_2019.png', width = 12, height = 6, dpi = 300)
 
@@ -247,3 +248,28 @@ dz_temp_00_19[value < 50 & year(date) > 2010, ] %>% ggplot() +
         legend.position = 'none'
   )
 dz_temp_00_19[date %like% '01-01 00:00:00'][]
+
+# Update of dataset of weather since 2000 & the plot
+data <- fread('grep DAAG ../various_data/asos_dz_weather_since_2000.txt')
+data <- data[, .('date' = ymd_hm(V2), 'temp_c' = as.integer(V3))
+             ]
+data_plot <- data[, .(mois = month(date), jour = day(date)), by = temp_c] %>% unique()
+data_plot <- data_plot[, .(date = paste(mois, jour, sep = '/')), by = temp_c
+                       ][, date := as.Date(date, '%m/%d')
+                         ][, c('avg', 'mediane') := .(mean(temp_c, na.rm = TRUE),
+                                                      median(temp_c, na.rm = TRUE)), by = date]
+
+data_plot[temp_c < 50] %>% ggplot() +
+  aes(x = date, y = temp_c) +
+  geom_point(color = 'green', alpha = .5) +
+  geom_line(mapping = aes(date, mediane), col = "#4E84C4", size = 1L) +
+  geom_line(mapping = aes(date, avg), col = '#D16103', size = 1L) +
+  scale_x_date(limits=c(as.Date("2019-01-01"), as.Date("2019-12-30")), date_breaks = '1 month', labels = date_format("%B")) +
+  labs(
+    title = 'Algiers weather since 2000',
+    subtitle = 'Green dots: observed temperature; Red_line : mean & Blue_line : median',
+    x = '',
+    y = ''
+  ) +
+  dark_mode()
+
