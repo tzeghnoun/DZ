@@ -250,7 +250,7 @@ dz_temp_00_19[value < 50 & year(date) > 2010, ] %>% ggplot() +
 dz_temp_00_19[date %like% '01-01 00:00:00'][]
 
 # Update of dataset of weather since 2000 & the plot
-data <- fread('grep DAAG ../various_data/asos_dz_weather_since_2000.txt')
+data <- fread('grep DAAG data/asos_dz_weather_since_2000.txt')
 data <- data[, .('date' = ymd_hm(V2), 'temp_c' = as.integer(V3))
              ]
 data_plot <- data[, .(mois = month(date), jour = day(date)), by = temp_c] %>% unique()
