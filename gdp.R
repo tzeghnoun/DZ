@@ -11,8 +11,8 @@ GdpPerCap <- melt.data.table(GdpPerCap, id.vars = 1:4, measure.vars = 5:ncol(Gdp
                              variable.name = 'year', value.name = 'gdp_per_cap')
 GdpPerCap <- GdpPerCap[, date := year(as.Date(year, '%Y'))]
 names(GdpPerCap) <- janitor::make_clean_names(names(GdpPerCap))
-
-data_plot <- GdpPerCap[country_code %in% c('DZA', 'RUS', 'EGY', 'TUN', 'MAR')] 
+U
+data_plot <- GdpPerCap[country_code %in% c('DZA', 'RUS', 'CHN', 'KOR')] 
 
 data_plot[date > 1989] %>% ggplot() +
   aes(date, gdp_per_cap, color = country_name) +

@@ -4,7 +4,7 @@ if (!require("pacman")) {
 
 pacman::p_load(data.table, rio, tidyverse, lubridate, RColorBrewer, rvest,
                janitor, ggforce, ggthemes, ggtext, extrafont, ggupset, tibbletime,
-               ggtext, ggrepel, glue, patchwork, cowplot, gtable, grid, magick, scales)
+               ggtext, ggrepel, glue, ggdark, patchwork, cowplot, gtable, grid, magick, scales)
 
 ## loading fonts
 loadfonts(device = "win", quiet = TRUE)
@@ -107,7 +107,7 @@ data[commune %in% c("Dar El Beïda", "Djanet", "Illizi", "Chlef"), max(temp_c), 
 
 ################################################################"
 # Trying Frollmean & frollapply
-library(ggdark)
+
 data <- fread("data/asos_2019.txt")
  
 data <- data[, c('date', 'temp_c', "valid", "tmpc") := 
@@ -261,7 +261,7 @@ data_plot <- data_plot[, .(date = paste(mois, jour, sep = '/')), by = temp_c
 
 data_plot[temp_c < 50] %>% ggplot() +
   aes(x = date, y = temp_c) +
-  geom_point(color = 'green', alpha = .5) +
+  geom_jitter(color = 'green', alpha = .2) +
   geom_line(mapping = aes(date, mediane), col = "#4E84C4", size = 1L) +
   geom_line(mapping = aes(date, avg), col = '#D16103', size = 1L) +
   scale_x_date(limits=c(as.Date("2019-01-01"), as.Date("2019-12-30")), date_breaks = '1 month', labels = date_format("%B")) +
